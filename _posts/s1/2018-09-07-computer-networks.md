@@ -1,0 +1,53 @@
+---
+layout: syllabus
+#
+# Content
+#
+subheadline: "R. Aparicio, MCF"
+title: "Computer networks"
+teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
+categories:
+  - S1
+tags:
+  - OPT
+  - EN
+ects: 3
+schedule: "24h"
+# website: "#"
+email: "ramon.aparicio-pardo@unice.fr"
+#
+# Styling
+#
+image:
+  thumb: "header-syllabus-unsplash-thumb.jpg"
+  homepage: "header-syllabus-unsplash.jpg"
+#  caption: "https://unsplash.com/"
+  url: "https://unsplash.com/"
+header:
+  image_fullwidth: "header-syllabus-unsplash.jpg"
+#    caption: This is a caption for the header image with link
+  caption_url: https://unsplash.com/  
+---
+
+First, networking basics are introduced, paying a special attention to how network services are organize in layers and how these services are implemented by standardized protocols. 
+Then, the different layers in the protocol stack are explored following a top--‐down approach. Finally, at each layer main protocols, algorithms and mechanisms are detailed. 
+
+## Lectures ##
+
+
+ - Session 1. INTRODUCTION / APPLICATIONS LAYER.
+     - Packet switching, performance (delay, throughput, ...), protocol stack (layers) --‐ Services Application layer. 
+ - Session 2. APPLICATIONS LAYER.
+     - Protocols DNS, HTTP, FTP, email.
+ - Session 3. TRANSPORT LAYER PRESENTATION.
+     - UDP and TCP protocols, Sockets.
+ - Session 4. TRANSPORT LAYER ALGORITHMS & MECHANISMS (TCP).
+     - Congestion control, TCP throughput, TCP fairness.
+ - Session 5. NETWORK LAYER PRESENTATION.
+     - Services (addressing, routing, fragmentation), IP Protocol.
+ - Session 6. NETWORK LAYER ALGORITHMS & MECHANISMS.
+     - NAT, routing algorithms (inter AS, intra AS).
+ - Session 7. LINK LAYER PRESENTATION.
+     - Services, Ethernet Protocol, MAC addresses, hub vs switch vs router.
+ - Session 8. LINK LAYER ALGORITHMS & MECHANISMS
+     - MAC (Aloha, CSMA--‐CD), IEEE 802.11.

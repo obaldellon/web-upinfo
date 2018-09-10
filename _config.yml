@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Master Informatique"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Aspects techniques et fondamentaux des systèmes informatiques"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -20,16 +20,17 @@ description: "The description is used on homepage and in the footer to quickly d
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Arnaud
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+#url: 'https://phlow.github.io/feeling-responsive'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: ""
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +39,6 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -67,6 +67,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - Makefile    
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -79,6 +80,7 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
+  blanklines: true
   profile: false
   ignore:
     envs: [development]

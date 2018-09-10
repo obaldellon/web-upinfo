@@ -1,21 +1,42 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Accueil
   url: "/"
   side: left
+  
+- title: "Programme"
+  url: "/programme/master/"
+  side: left
+  dropdown:
+  - title: "Semestre 1"
+    url: "/programme/semestre1/"
+  - title: "Semestre 2"
+    url: "/programme/semestre2"
+  - title: "Semestre 3"
+    url: "#"
+  - title: "Semestre 4"
+    url: "#"
+  - title: "Liste des cours"
+    url: "#"
 
-- title: "Dropdown Menu"
+- title: "Campus"
+  url: "/campus/"
+  side: left
+    
+- title: "Étudiants"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "Projets"
     url: "#"
-  - title: "Dropdown Menu 2"
+  - title: "Stage"
     url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
-
+  - title: "Concours"
+    url: "#"    
+  - title: "Fablab"
+    url: "#"    
+    
 - title: Blog
   url: "/blog/"
   side: left
@@ -23,9 +44,17 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Candidater"
+  url: "#"    
+  side: left
+
 #
-#   Navigation to the right › side: right
+#   Navigation to the right -> side: right
 #
+- title: "EdT"
+  url: "/edt/"
+  side: right
+
 - title: "Info"
   url: "/info/"
   side: right
