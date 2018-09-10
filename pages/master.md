@@ -4,7 +4,7 @@ show_meta: false
 title: "Master Informatique"
 subheadline: "Programme"
 header:
-   image_fullwidth: "you-can-delete-me-header.png"
+   image_fullwidth: "header-programme.png"
 permalink: "/programme/master/"
 ---
 
