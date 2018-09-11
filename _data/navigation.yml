@@ -12,7 +12,7 @@
   - title: "Semestre 1"
     url: "/programme/semestre1/"
   - title: "Semestre 2"
-    url: "/programme/semestre2"
+    url: "/programme/semestre2/"
   - title: "Semestre 3"
     url: "#"
   - title: "Semestre 4"
@@ -33,20 +33,20 @@
   - title: "Stage"
     url: "#"
   - title: "Concours"
-    url: "#"    
+    url: "/etus/concours/"    
   - title: "Fablab"
     url: "#"    
     
-#- title: Blog
-#  url: "/blog/"
-#  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
-
-- title: Liste des cours
+- title: Blog
+  url: "/blog/"
   side: left
-  url: "/blog/archive/"
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+# - title: Liste des cours
+#   side: left
+#   url: "/blog/archive/"
 
 - title: "Candidater"
   url: "#"    
