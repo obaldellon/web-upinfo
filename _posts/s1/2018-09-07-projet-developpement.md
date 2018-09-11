@@ -41,7 +41,7 @@ Le projet est couplé avec les TDs de Génie Logiciel. Ceux-ci seront les premi�
 
 
 ### Modalités de contrôle des connaissances ###
- - Controles : 2 contrôles minimum. 
+ - Contrôles : 2 contrôles minimum. 
  - Pas de contrôle terminal.
  - 2nde session = écrit de 1h30 
 

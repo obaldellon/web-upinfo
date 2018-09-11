@@ -13,7 +13,7 @@ permalink: "/programme/semestre1/"
 
 
 ## Cours obligatoires ##
-Pour les étudiants apprentis, le projet d’apprentissage du premier semestre fait office de TER. Les étudiants présentent leurs travaux en anglais accompagnée d’un rapport.
+Pour les étudiants apprentis, le projet d’apprentissage du premier semestre fait office de TER. Les étudiants présentent leurs travaux en anglais accompagnés d’un rapport.
 
 {%include accordion-posts category="S1" tag="REQ" %}
 
