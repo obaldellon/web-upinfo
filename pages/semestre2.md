@@ -10,11 +10,9 @@ permalink: "/programme/semestre2/"
 
 ## Cours obligatoires ##
 Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. Les étudiants présentent leurs travaux en français accompagnés d’un rapport.
-
 {%include accordion-posts category="S2" tag="REQ" %}
 
-
-## TODO Cours optionnels ##
+## Cours optionnels ##
 
 7 cours au minimum doivent être choisis.
 
@@ -33,7 +31,7 @@ Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. L
 - Internet of the Future (EN) – 3 ECTS – 12h cours – 12h TD – A. Aparicio, MCF
 - Graphs (EN) – 3 ECTS – 12h cours – 12h TD – N. Nisse, CR INRIA
 - Software Engineering (EN) – 3 ECTS – 12h cours – 12h TD – A définir
-- Advance OSs (EN) – 3 ECTS – 12h cours – 12h TD – S. Touati, Pr ->
+- Advance OSs (EN) – 3 ECTS – 12h cours – 12h TD – S. Touati, Pr -->
 
 {%include accordion-posts category="S2" tag="OPT" %}
 

@@ -18,7 +18,7 @@
   - title: "Semestre 4"
     url: "#"
   - title: "Liste des cours"
-    url: "#"
+    url: "/blog/archive/"
 
 - title: "Campus"
   url: "/campus/"
@@ -37,12 +37,16 @@
   - title: "Fablab"
     url: "#"    
     
-- title: Blog
-  url: "/blog/"
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: Liste des cours
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  url: "/blog/archive/"
 
 - title: "Candidater"
   url: "#"    
