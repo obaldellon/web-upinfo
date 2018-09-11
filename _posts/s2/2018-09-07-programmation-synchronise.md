@@ -3,18 +3,17 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J.-C. Régin, PR"
-title: "Advanced programming"
-teaser: "Ce cours s’intéresse aux notions avancées en programmation et à leur mise en œuvre. L’écriture de code efficace sera considérée. Des notions comme la liaison dynamique, les gestions de la mémoire, l’appel de fonction bas niveaux seront étudiées."
+subheadline: "F. Mallet, PR"
+title: "Programmation Synchronisée"
+teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 categories:
-  - S1
+  - S2
 tags:
   - OPT
-  - EN
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "jcregin@gmail.com"
+email: "frederic.mallet@unice.fr"
 #
 # Styling
 #
@@ -29,6 +28,12 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
+### Description ###
+
+### Calendrier ###
+
+### Cours ###
 
 ### Modalités de contrôle des connaissances ###
 
+### Ressources ###

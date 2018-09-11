@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: "F. Huet, MCF"
 title: "Parallelism"
-teaser: "Ce cours enseigne les principes de base du parallelisme et des systèmes distribués."
+teaser: "Ce cours enseigne les principes de base du parallélisme et des systèmes distribués."
 categories:
   - S1
 tags:

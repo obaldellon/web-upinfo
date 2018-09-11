@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: ""
 title: "Langue étrangère"
-teaser: "La langue choisie sera le francais pour les étudiants anglophones et l’anglais pour les étudiants francophones."
+teaser: "La langue choisie sera le français pour les étudiants anglophones et l’anglais pour les étudiants francophones."
 categories:
   - S1
 tags:

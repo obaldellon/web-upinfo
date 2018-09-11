@@ -9,7 +9,7 @@ permalink: "/programme/semestre2/"
 ---
 
 ## Cours obligatoires ##
-Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. Les étudiants présentent leurs travaux en français accompagnée d’un rapport.
+Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. Les étudiants présentent leurs travaux en français accompagnés d’un rapport.
 
 {%include accordion-posts category="S2" tag="REQ" %}
 
@@ -41,7 +41,7 @@ Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. L
 
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
-Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluées.
+Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
 
 - Digital Strategy
 - Digital IP and Law

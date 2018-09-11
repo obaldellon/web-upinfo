@@ -4,13 +4,12 @@ layout: syllabus
 # Content
 #
 subheadline: "J.-C. Régin, PR"
-title: "Advanced programming"
-teaser: "Ce cours s’intéresse aux notions avancées en programmation et à leur mise en œuvre. L’écriture de code efficace sera considérée. Des notions comme la liaison dynamique, les gestions de la mémoire, l’appel de fonction bas niveaux seront étudiées."
+title: "Modélisation Programmation par Contraintes"
+teaser: "Ce cours introduit les principes de la modélisation en programmation par contraintes. Divers problèmes seront considérés et diverses modélisations envisagées. On s’intéressera aux contraintes globales, aux symétries et aux méthodes de recherches de solutions."
 categories:
-  - S1
+  - S2
 tags:
   - OPT
-  - EN
 ects: 3
 schedule: "24h"
 # website: "#"
@@ -29,6 +28,13 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
+### Description ###
+
+### Calendrier ###
+
+### Cours ###
 
 ### Modalités de contrôle des connaissances ###
+
+### Ressources ###
 

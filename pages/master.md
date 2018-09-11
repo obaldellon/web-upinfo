@@ -21,7 +21,7 @@ Chaque étudiant doit suivre environ 192h d’enseignement présentiel chaque se
 
 ## Validation  ##
 
-Une UE (Unité d’enseignement) est validé si l’étudiant obtient comme note moyenne pondérée aux contrôles une note supérieure ou égale à 10/20. 
+Une UE (Unité d’enseignement) est validée si l’étudiant obtient comme note moyenne pondérée aux contrôles une note supérieure ou égale à 10/20. 
 Un semestre est validé si 30 ECTS (crédits européens) sont validés. 
 Il y a compensation entre les UE (unité d’enseignement) lors d’un semestre et compensation entre les semestres.
 Une seconde session est automatiquement accordée aux étudiants salariés ou si l’étudiant obtient plus de 8/20 à la moyenne des UE du semestre. Sauf mention contraire, seule la note du contrôle de seconde session compte pour la seconde session.

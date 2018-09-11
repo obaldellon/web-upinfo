@@ -29,9 +29,9 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-Ce cours parcours plusieurs modèles, langages et outils dédiés à la conception de systèmes critiques, à la fois pour décrire le système, vérifier sa correction et générer du code certifié. Scade est un exemple de succès industriel, inspirés de plusieurs langages académiques, dans les domaines de l'aéronautique et du ferroviaire pour la conception basée sur les modèles et la génération de code certifié.
+Ce cours parcourt plusieurs modèles, langages et outils dédiés à la conception de systèmes critiques, à la fois pour décrire le système, vérifier sa correction et générer du code certifié. Scade est un exemple de succès industriel, inspirés de plusieurs langages académiques, dans les domaines de l'aéronautique et du ferroviaire pour la conception basée sur les modèles et la génération de code certifié.
 
-Contenu:
+Contenu :
 - Outils et méthodes pour la conception de systèmes critiques ;
 - Langages basés sur les états ; 
 - Langages flots de données ; 

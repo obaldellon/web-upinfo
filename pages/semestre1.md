@@ -28,7 +28,7 @@ Pour les étudiants apprentis, le projet d’apprentissage du premier semestre f
 
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
-Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluées.
+Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
 
 - Digital Strategy
 - Digital IP and Law
