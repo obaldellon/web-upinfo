@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Master Informatique"
 subheadline: "Programme"
@@ -16,7 +16,7 @@ Le master Informatique se déroule sur 2 semestres.
 Lors de chaque semestre les étudiants doivent suivre des cours obligatoires et des cours optionnels.
 Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas).
 
-Chaque étudiant doit suivre environ 192h d’enseignement présentiel chaque semestre. Les cous sont organisés par demi-journée de 3h.
+Chaque étudiant doit suivre environ 192h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
 
 
 ## Validation  ##

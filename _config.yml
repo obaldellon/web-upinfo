@@ -15,9 +15,8 @@ title: "Master Informatique"
 slogan: "Aspects techniques et fondamentaux des systèmes informatiques"
 
 
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
-
+description: "Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former les informaticiens de demain."
+# Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former des informaticiens aptes à s'adapter à l'évolution rapide des technologies de l'information.
 # Main author of the website
 # See > authors.yml
 author: Arnaud
@@ -71,7 +70,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+language: fr
 
 
 # Used › default.html front-matter and compress.html

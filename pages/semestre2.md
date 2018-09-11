@@ -18,7 +18,7 @@ Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. L
 
 7 cours au minimum doivent être choisis.
 
-- BD vers Big Data avancé – 3 ECTS – 12h cours – 12h TD – S. Miranda, Pr
+<!-- BD vers Big Data avancé – 3 ECTS – 12h cours – 12h TD – S. Miranda, Pr
 - Logique avancé – 3 ECTS – 12h cours – 12h TD – E. Lozes, Pr
 - Web (EN) – 3 ECTS – 12h cours – 12h TD – A. Tettamanzi, Pr
 - Programmation Synchronisé – 3 ECTS – 12h cours – 12h TD – F. Mallet, Pr
@@ -33,7 +33,7 @@ Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. L
 - Internet of the Future (EN) – 3 ECTS – 12h cours – 12h TD – A. Aparicio, MCF
 - Graphs (EN) – 3 ECTS – 12h cours – 12h TD – N. Nisse, CR INRIA
 - Software Engineering (EN) – 3 ECTS – 12h cours – 12h TD – A définir
-- Advance OSs (EN) – 3 ECTS – 12h cours – 12h TD – S. Touati, Pr
+- Advance OSs (EN) – 3 ECTS – 12h cours – 12h TD – S. Touati, Pr ->
 
 {%include accordion-posts category="S2" tag="OPT" %}
 
