@@ -32,32 +32,33 @@ header:
 
   This is a lecture-lab course in which topics are presented by the instructor, practice problems are explained, and assigned problems are completed by students both during lab periods and outside of class. 
 
-## Instructors ##
+### Instructors ###
 
   Arnaud Malapert (course facilitator), Gilles Menez, Valentin Montmirail, Marie Pelleau.
 
-  
-## Schedule ##
+### Lectures ###
 
-  The course takes place over 8 classes from September to October at the Lucioles building.
+1. Getting Started Input/Output
+2. Numbers
+3. Array
+4. List
+5. Tree
+6. Dynamic Programming
+7. String Processing
+8. Graph
 
-## Lectures ##
 
-| O. | Getting Started     |   |   |   |   |
-| 1. | Input/Output        |   |   |   |   |
-| 2. | Numbers             |   |   |   |   |
-| 3. | Array               |   |   |   |   |
-| 4. | List                |   |   |   |   |
-| 5. | Tree                |   |   |   |   |
-| 6. | Dynamic Programming |   |   |   |   |
-| 7. | String Processing   |   |   |   |   |
-| 8. | Graph               |   |   |   |   |
-
-## Grading ##
+### Grading ###
 
   - **ConcoursProg@UNS** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
   - **Homework** (20%): there will be problem sets over the course of the semester, one per week. 
   - **Final Exam** (40%): there will be one final exam (1 hour) where you will be asked to solve one of two problems.
 
-## Resources ##
+### Resources ###
 
+- [spoj.com](http://www.spoj.com/)
+- [uva.onlinejudge.org](https://uva.onlinejudge.org/)
+- [codechef.com](http://codechef.com/)
+
+
+- [SE Problem setter’s handbook](https://developer.sphere-engine.com/other/handbook)

@@ -5,7 +5,8 @@ layout: syllabus
 #
 subheadline: "A. Malapert, MCF"
 title: "Graphes et programmation dynamique"
-teaser: ""
+teaser: " La théorie des graphes est une théorie informatique et mathématique. 
+La théorie des graphes a de nombreuses applications dans tous les domaines liés à la notion de réseau (réseau social, réseau informatique, télécommunications, etc.) et dans bien d'autres domaines (par exemple génétique) tant le concept de graphe, à peu près équivalent à celui de relation binaire (à ne pas confondre donc avec graphe d'une fonction), est général."
 categories:
   - S1
 tags:
@@ -28,13 +29,33 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-  
-### Calendrier ###
+Nous allons étudier des notions, problèmes, et algorithmes fondamentaux de la théorie des graphes.
+La programmation dynamique, une méthode algorithmique pour résoudre des problèmes d'optimisation, sera introduite grâce aux graphes, avant d'être appliquée à d'autres problèmes classiques.
 
-  Ce cours s'étendra sur 8 séances d'octobre à décembre dans le bâtiment des lucioles.
+### Contenu ###
 
+Les diapositives du cours de théorie des graphes sont disponibles : [1up]({{ assets_url }}graphes.pdf) ;  [4up]({{ assets_url }}graphes-4up.pdf) ; [8up]({{ assets_url }}graphes-8up.pdf).
 
 ### Ressources ###
 
+
+#### BU ####
+
+-   [Graphes et algorithmes](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000121977%20), Michel Gondran et Michel Minoux.
+-   [Précis de recherche opérationnelle](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000108437%20), Robert Faure, Bernard Lemaire et Christophe Picouleau.
+-   [Algorithmes de graphes](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000042329%20), Philippe Lacomme, Christian Prins et Marc Sevaux.
+
+#### Électroniques ####
+
+-   [Cours en ligne](http://www.apprendre-en-ligne.net/graphes/), Didier Muller.
+-   [Cours en ligne](http://idmme06.inpg.fr/~rapinec/Graphe/Graphe/default.html), Christophe Rapine.
+-   [Cahier d&rsquo;exercices](http://mathematiques.ac-bordeaux.fr/pedalyc/seqdocped/graphes/cahier/cahier.htm), Eric Sopena.
+-   <http://graphes.fr/>
+
 ### Modalités de contrôle des connaissances ###
 
+Le contrôle des connaissances comprendra 2 épreuves écrites :
+
+- Contrôle Continu (1h)
+- Contrôle Terminal (2h)
+- Épreuve Orale en seconde session

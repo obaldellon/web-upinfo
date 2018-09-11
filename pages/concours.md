@@ -23,8 +23,8 @@ Le concours vous fera progresser sur les aspects suivants :
 
 1. La compétition dure 4 heures.
 2. 7 problèmes ou plus sont posés.
-3. Chaque solution à un problème soumise au juge est appelée un /run/.
-4. Chaque /run/ est accepté ou refusé par le juge.
+3. Chaque solution à un problème soumise au juge est appelée un *run*.
+4. Chaque *run* est accepté ou refusé par le juge.
 
 ### Score ###
 
@@ -40,11 +40,3 @@ Le délai pour résoudre un problème est le temps passé entre le début de la 
    - Vous travaillez sur les machines du 2ème et 3ème étages du Petit Valrose.
    - Vous avez accès à internet
 
-### Resources ###
-
-- [spoj.com](http://www.spoj.com/)
-- [uva.onlinejudge.org](https://uva.onlinejudge.org/)
-- [codechef.com](http://codechef.com/)
-
-
-- [SE Problem setter’s handbook](https://developer.sphere-engine.com/other/handbook)
