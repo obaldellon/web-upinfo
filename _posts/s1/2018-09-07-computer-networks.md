@@ -33,7 +33,7 @@ First, networking basics are introduced, paying a special attention to how netwo
 Then, the different layers in the protocol stack are explored following a top--‐down approach. Finally, at each layer main protocols, algorithms and mechanisms are detailed. 
 
 ## Lectures ##
-- Part 1: Ramon Aparicio
+# Part 1: Ramon Aparicio
  - Session 1. INTRODUCTION / APPLICATIONS LAYER.
      - Packet switching, performance (delay, throughput, ...), protocol stack (layers) --‐ Services Application layer. 
  - Session 2. APPLICATIONS LAYER.
