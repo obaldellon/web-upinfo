@@ -4,7 +4,9 @@ show_meta: false
 title: "Master Informatique"
 subheadline: "Premier semestre"
 header:
-   image_fullwidth: "you-can-delete-me-header.png"
+    image_fullwidth: "header-sophia.jpg"
+    caption: "Technopolse Sophia Antipolis"
+
 permalink: "/programme/semestre1/"
 ---
 
@@ -13,10 +15,12 @@ permalink: "/programme/semestre1/"
 
 
 ## Cours obligatoires ##
-Pour les étudiants apprentis, le projet d’apprentissage du premier semestre fait office de TER. Les étudiants présentent leurs travaux en anglais accompagnés d’un rapport.
 
 {%include accordion-posts category="S1" tag="REQ" %}
 
+Pour les étudiants apprentis, le projet d’apprentissage du premier semestre fait office de TER.
+Les autres étudiants peuvent réaliser un projet géré par l'EUR à la place du TER.  
+Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rapport.
 
 ## Cours optionnels ##
 
