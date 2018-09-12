@@ -13,7 +13,7 @@ tags:
   - EN
 ects: 3
 schedule: "24h"
-# website: "#"
+website: "http://www.i3s.unice.fr/~raparicio/m1_compnetw/"
 email: "ramon.aparicio-pardo@unice.fr"
 #
 # Styling
