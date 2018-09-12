@@ -5,7 +5,7 @@ title: "Concours de Programmation"
 subheadline: "UCAnCODE"
 teaser: "Vous voulez réviser vos examens, gagner de l'expérience en programmation, ou vous êtes simplement curieux, nous organisons et participons à des concours et hackathons. Ces événements sont ouvert à tous (de la L1 au M2)! Pour vous motiver encore plus, nous essayons toujours de négocier des bonus avec vos professeurs."
 header:
-   image_fullwidth: "Bandeau_Web_Ucancode.svg"
+   image_fullwidth: "Bandeau_Web_Ucancode.png"
 permalink: "/etus/concours/"
 ---
 
