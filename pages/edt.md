@@ -1,9 +1,10 @@
 ---
-layout: page-fullwidth
+layout: edt-fullwidth
 title: "Emploi du temps"
 subheadline: ""
-teaser: ""
-permalink: /edt/
+teaser: "Vous trouverez sur cette page le calendrier universitaire du Master Informatique."
+tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxOtnNY8cdK0htDMVUylLvIBwHDYy6D90DB5mkZe0IvKLC6svVZHGHkrsd16_dP1Cu6O8WQisWJz7h/pubhtml?gid=1523095882&amp;single=true&amp;widget=true&amp;headers=false"
+permalink: "/edt/"
 #
 # Styling
 #
@@ -12,4 +13,16 @@ header:
 #  caption: "Le bâtiment des lucioles à Sophia-Antipolis."
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=350&amp;wkst=2&amp;hl=fr&amp;bgcolor=%23FFFFFF&amp;src=gojhjrssif09rqi5e5omjll5ug%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="250" frameborder="0" scrolling="no"></iframe>
+Le premier semestre est organisé comme indiqué ci-dessous.
+
+| Du lundi 17/09/18 au vendredi 14/12/18  | cours                             |
+| Du lundi 17/12/18 au vendredi 21/12/18  | révisions et rattrapages de cours |
+| Du samedi 22/12/18 au dimanche 06/01/19 | vacances                          |
+| Du lundi 07/01/19 au vendredi 11/01/19  | contrôles                         |
+
+Les cours sont organisés par demi-journée de 3h.
+
+| Matin      | de XhXX à XhXX |
+| Après-midi | de XhXX à XhXX |
+
+
