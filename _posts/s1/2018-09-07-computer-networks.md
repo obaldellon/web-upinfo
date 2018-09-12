@@ -42,7 +42,7 @@ Then, the different layers in the protocol stack are explored following a top--â
      - UDP and TCP protocols, Sockets.
  - Session 4. TRANSPORT LAYER ALGORITHMS & MECHANISMS (TCP).
      - Congestion control, TCP throughput, TCP fairness.
-- Part 2: Chadi Barakat    
+### Part 2: Chadi Barakat    
  - Session 5. NETWORK LAYER PRESENTATION.
      - Services (addressing, routing, fragmentation), IP Protocol.
  - Session 6. NETWORK LAYER ALGORITHMS & MECHANISMS.
