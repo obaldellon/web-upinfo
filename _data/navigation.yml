@@ -49,7 +49,7 @@
 #   url: "/blog/archive/"
 
 - title: "Candidater"
-  url: "#"    
+  url: "http://univ-cotedazur.fr/education/training?SMFOR18"    
   side: left
 
 #
@@ -59,9 +59,9 @@
   url: "/edt/"
   side: right
 
-- title: "Info"
-  url: "/info/"
-  side: right
+# - title: "Info"
+#   url: "/info/"
+#   side: right
 
 - title: "Search"
   url: "/search/"
