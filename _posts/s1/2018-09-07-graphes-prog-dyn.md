@@ -37,6 +37,16 @@ La programmation dynamique, une méthode algorithmique pour résoudre des probl�
 
 Les diapositives du cours de théorie des graphes sont disponibles : [1up]({{ assets_url }}graphes.pdf) ;  [4up]({{ assets_url }}graphes-4up.pdf) ; [8up]({{ assets_url }}graphes-8up.pdf).
 
+Le plan des cours est le suivant :
+- Généralités et définitions sur les graphes.
+- Graphes eulériens et hamiltoniens.
+- Connexité, arbres, et cheminement.
+- Recherche de connexité et applications
+- Problèmes de plus courts chemins
+- Contrôle continu
+- Généralités et définitions sur la programmation dynamique.
+- Applications algorithmiques de la programmation dynamique. 
+
 ### Ressources ###
 
 

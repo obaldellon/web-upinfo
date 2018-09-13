@@ -56,6 +56,8 @@ header:
 
 ### Resources ###
 
+- [ConcoursProg@UNS](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html)
+
 - [spoj.com](http://www.spoj.com/)
 - [uva.onlinejudge.org](https://uva.onlinejudge.org/)
 - [codechef.com](http://codechef.com/)
