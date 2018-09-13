@@ -2,7 +2,6 @@
 layout: default
 format: syllabus
 ---
-{% assign assets_url="/assets/syllabus" | append:page.url %}
 {% if page.image.title %}
 <div class="row t30">
 	<div class="small-12 columns">
@@ -53,6 +52,9 @@ format: syllabus
 
 			</div><!--  /.page-meta -->
 			{{ content }}
+
+
+            {{ assets_url }}
 		</article>
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
