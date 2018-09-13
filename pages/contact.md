@@ -7,9 +7,7 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-- Coordona[Wufoo][1]
-- [Google Forms][2]
+- [Jean-Charles Régin](mailto:jcregin@gmail.com) : responsable du master.
+- [Philippe Collet](mailto:philippe.collet.fr) : Responsable de l'apprentissage.
+- [Arnaud Malapert](mailto:arnaud.malapert@unice.fr) : Responsable des TER/Stages.
 
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
