@@ -35,7 +35,7 @@
   - title: "Concours"
     url: "/etus/concours/"    
   - title: "Fablab"
-    url: "#"    
+    url: "/etus/fablab/"    
     
 - title: Blog
   url: "/blog/"
