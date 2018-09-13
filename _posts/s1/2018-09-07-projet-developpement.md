@@ -12,7 +12,7 @@ tags:
   - REQ
 ects: 3
 schedule: "24h"
-# website: "#"
+website: "https://wiki.unice.fr/pages/viewpage.action?pageId=289482168"
 email: "philippe.renevier@unice.fr"
 #
 # Styling
