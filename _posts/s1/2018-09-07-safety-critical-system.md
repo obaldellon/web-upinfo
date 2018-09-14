@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: "F. Mallet, PR"
 title: "Safety critical systems"
-teaser: "La conception de systèmes critiques nécessite l'utilisation de modèles formels et de techniques d'analyse exhaustives pour s'assurer qu'un programme informatique fait ce qu'il est supposé faire (par rapport aux exigences) et le fait correctement (sans bug)."
+teaser: "Safety critical systems requires the use of formal models and rely on exhaustie analysis techniques to ensure that the software actually does what it is supposed to do (with regards to the requirements) et does it correctly (without bugs). This lecture gives an overview of some techniques and languages used in that context."
 categories:
   - S1
 tags:
