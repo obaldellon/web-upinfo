@@ -23,7 +23,7 @@ author: Arnaud
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://i3s.unice.fr/master-info/'
+url: 'http://i3s.unice.fr/master-info'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content

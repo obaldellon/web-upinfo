@@ -39,8 +39,8 @@ Lors de chaque semestre les étudiants doivent suivre des cours obligatoires et 
 Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas).
 Chaque étudiant doit suivre environ 192h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
 
-- [Semestre 1](/programme/semestre1/).
-- [Semestre 2](/programme/semestre2/).
+<!-- - [Semestre 1](/programme/semestre1/). -->
+<!-- - [Semestre 2](/programme/semestre2/). -->
 
 ### Validation ###
 
