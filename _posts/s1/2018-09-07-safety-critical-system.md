@@ -29,17 +29,17 @@ header:
   caption_url: https://unsplash.com/  
 ---
 This course introduces several models, languages and tools dedicated to the design of safety-critical systems.
-This includes solutionssolutions for describing the system under design, the expected properties, perform verification and generate certified  code. Scade is one example of industrial success story that builds on works from various academic languages and that is successful in both the avionics and train domains.
+This includes solutions for describing the system under design, the expected properties, perform verification and generate certified  code. Scade is one example of industrial success story that builds on works from various academic languages and that is successful in both the avionics and train domains.
 
 Content :
-- Outils et méthodes pour la conception de systèmes critiques ;
-- Langages basés sur les états ; 
-- Langages flots de données ; 
-- Extensions temporelles logiques et temps-réel ;
-- Langages pour la spécification de propriétés fonctionnelles et temporelles.
+- state-based languages ;
+- dataflow languages ;
+- languages to express functional properties ;
+- logical time and realtime extensions ;
+- exhaustive verification tools.
 
 ### Grading ###
 
-Contrôle continu intégral avec
-- 1 note d'un examen écrit 2h (50%) et 
-- 1 note de travaux pratiques (50%).
+Contrôle continu intégral :
+- 1 written examn 2h (50%)
+- 1 lab work (50%).
