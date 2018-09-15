@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: "F. Mallet, PR"
 title: "Safety critical systems"
-teaser: "Safety critical systems requires the use of formal models and rely on exhaustie analysis techniques to ensure that the software actually does what it is supposed to do (with regards to the requirements) et does it correctly (without bugs). This lecture gives an overview of some techniques and languages used in that context."
+teaser: "Safety critical systems require the use of formal models and rely on exhaustive analysis techniques to ensure that the software actually do what it is supposed to do (with regards to the requirements) et do it correctly (without bugs). This lecture gives an overview of some techniques and languages used in that context."
 categories:
   - S1
 tags:
@@ -28,10 +28,10 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
+This course introduces several models, languages and tools dedicated to the design of safety-critical systems.
+This includes solutionssolutions for describing the system under design, the expected properties, perform verification and generate certified  code. Scade is one example of industrial success story that builds on works from various academic languages and that is successful in both the avionics and train domains.
 
-Ce cours parcourt plusieurs modèles, langages et outils dédiés à la conception de systèmes critiques, à la fois pour décrire le système, vérifier sa correction et générer du code certifié. Scade est un exemple de succès industriel, inspirés de plusieurs langages académiques, dans les domaines de l'aéronautique et du ferroviaire pour la conception basée sur les modèles et la génération de code certifié.
-
-Contenu :
+Content :
 - Outils et méthodes pour la conception de systèmes critiques ;
 - Langages basés sur les états ; 
 - Langages flots de données ; 
