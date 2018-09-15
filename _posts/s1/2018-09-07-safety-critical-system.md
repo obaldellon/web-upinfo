@@ -41,5 +41,5 @@ Content :
 ### Grading ###
 
 Contrôle continu intégral :
-- 1 written examn 2h (50%)
+- 1 written exam 2h (50%)
 - 1 lab work (50%).
