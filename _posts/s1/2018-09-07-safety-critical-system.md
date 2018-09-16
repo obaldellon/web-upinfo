@@ -5,7 +5,8 @@ layout: syllabus
 #
 subheadline: "F. Mallet, PR"
 title: "Safety critical systems"
-teaser: "Safety critical systems require the use of formal models and rely on exhaustive analysis techniques to ensure that the software actually do what it is supposed to do (with regards to the requirements) et do it correctly (without bugs). This lecture gives an overview of some techniques and languages used in that context."
+teaser: "Safety critical systems require the use of formal models and rely on exhaustive analysis techniques to ensure that a pieace of software actually does what it is supposed to do (with regards to the requirements) et does it correctly (without bugs). This lecture gives an overview of some techniques and languages used in that context."
+
 categories:
   - S1
 tags:
