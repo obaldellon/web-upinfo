@@ -57,7 +57,7 @@ Le site web du cours est un site privé sur [Jalon](http://jalon.unice.fr/).
 - Les processeurs VLIW
   - Différence entre les processeurs VLIW et superscalaire
   - Extraction du parallélisme d’instructions par le compilateur
-- Mécanismes matériels pour la mémoire virtuelle
+- Autres types de processeurs: DSP, multicore, etc.
 - Exposé thématique selon l’actualité.
 
 ## Modalités de contrôle des connaissances ##
