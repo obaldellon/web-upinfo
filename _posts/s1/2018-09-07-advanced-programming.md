@@ -5,7 +5,8 @@ layout: syllabus
 #
 subheadline: "J.-C. Régin, PR"
 title: "Advanced programming"
-teaser: "Ce cours s’intéresse aux notions avancées en programmation et à leur mise en œuvre. L’écriture de code efficace sera considérée. Des notions comme la liaison dynamique, les gestions de la mémoire, l’appel de fonction bas niveaux seront étudiées."
+teaser: "This course focuses on advanced concepts in programming and their implementation. Effective code writing will be considered. Concepts like dynamic linking, memory management, low level function call will be studied."
+# Ce cours s’intéresse aux notions avancées en programmation et à leur mise en œuvre. L’écriture de code efficace sera considérée. Des notions comme la liaison dynamique, les gestions de la mémoire, l’appel de fonction bas niveaux seront étudiées."
 categories:
   - S1
 tags:

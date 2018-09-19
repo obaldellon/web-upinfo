@@ -5,7 +5,8 @@ layout: syllabus
 #
 subheadline: "J.-C. Régin, PR"
 title: "AI game programming"
-teaser: "Ce cours présente différentes techniques pour programmer des jeux à un ou deux joueurs. Pour les jeux à deux joueurs seuls les jeux à information complète seront considérés."
+teaser: "This course presents different techniques to program games for one or two players. For two-player games, only full information games will be considered."
+# Ce cours présente différentes techniques pour programmer des jeux à un ou deux joueurs. Pour les jeux à deux joueurs seuls les jeux à information complète seront considérés."
 categories:
   - S1
 tags:
@@ -32,5 +33,7 @@ header:
 
 ### Modalités de contrôle des connaissances ###
 
-Les étudiants devront réaliser, par groupe de deux, un programme qui simulera un joueur humain. 
-Une compétition entre les programmes sera organisée et elle déterminera les notes.
+The students will have to develop, in groups of two, a program that will simulate a human player.
+A competition between the programs will be organized and it will determine the notes.
+
+
