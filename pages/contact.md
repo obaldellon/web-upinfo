@@ -8,6 +8,7 @@ permalink: "/contact/"
 ---
 
 
+
 - [Jean-Charles Régin](mailto:jcregin@gmail.com) : responsable du master.
 - [Philippe Collet](mailto:philippe.collet.fr) : responsable de l'apprentissage.
 - [Arnaud Malapert](mailto:arnaud.malapert@unice.fr) : responsable des TER/Stages.
