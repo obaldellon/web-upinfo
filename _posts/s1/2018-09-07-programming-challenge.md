@@ -51,10 +51,12 @@ header:
 ### Grading ###
 
   - **ConcoursProg@UNS** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
-  - **Homework** (20%): there will be problem sets over the course of the semester, one per week. 
+  - **Homework** (20%): there will be problem sets over the course of the semester. 
   - **Final Exam** (40%): there will be one final exam (1 hour) where you will be asked to solve one of two problems.
 
 ### Resources ###
+
+- [CSE 392 - Programming Challenges (2012)](https://www3.cs.stonybrook.edu/~skiena/392/)
 
 - [ConcoursProg@UNS](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html)
 

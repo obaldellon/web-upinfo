@@ -20,9 +20,6 @@ Le premier semestre est organisé comme indiqué ci-dessous.
 | Du samedi 22/12/18 au dimanche 06/01/19 | vacances                          |
 | Du lundi 07/01/19 au vendredi 11/01/19  | contrôles                         |
 
-Les cours sont organisés par demi-journée de 3h.
-
-| Matin      | de XhXX à XhXX |
-| Après-midi | de XhXX à XhXX |
-
+Les cours sont organisés par demi-journée de 3h. 
+La pause déjeuner dure au minimum de 12h30 à 13h30.
 

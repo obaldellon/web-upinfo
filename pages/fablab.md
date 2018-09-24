@@ -18,6 +18,6 @@ Le projet de FabLab@UCA est inspiré de ce concept, il permet grâce à un lieu 
 
 Il permet la réalisation de projets, notamment des projets interdisciplinaires entre les différentes formations de l’Université et plus largement d’UCA.
 
-[![FabLab]({{ site.url}}/images/video_fablab.jpg)]({{ site.url}}/images/video_fablab.webm)
+[![FabLab]({{ "/images/video_fablab.jpg" | absolute_url }})]({{ "/images/video_fablab.webm" | absolute_url }})
 
 
