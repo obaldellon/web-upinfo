@@ -47,6 +47,10 @@ header:
 7. String Processing
 8. Graph
 
+### Schedule ###
+
+<iframe src="https://calendar.google.com/calendar/embed?src=be9r3mfa0pnmkf0cfvb8ode4p8%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ### Grading ###
 
