@@ -7,6 +7,7 @@ teaser: "Vous avez toujours rêvé de construire des prototypes et d'utiliser un
 header:
    image_fullwidth: "Bandeau_Web_Fab_Lab_small.png"
 permalink: "/etus/fablab/"
+website: "http://unice.fr/faculte-des-sciences/formation/fablab"
 ---
 
 Le concept de **fab lab** (contraction de l'anglais _**fab**rication **lab**oratory_, « laboratoire de fabrication ») est né au MIT (Massachusetts Institute of Technology) dans les années 1990. Il s’agit d’un lieu ouvert au public où il est mis à sa disposition toutes sortes d'outils, notamment des machines-outils, pour la conception et la réalisation d'objets.

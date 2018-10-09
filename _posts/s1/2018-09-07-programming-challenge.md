@@ -13,7 +13,7 @@ tags:
   - EN
 ects: 3
 schedule: "24h"
-website: "https://github.com/mpelleau/Programming-Challenges"
+website: "https://github.com/arnaud-m/Programming-Challenges"
 email: "arnaud.malapert@unice.fr"
 #
 # Styling
