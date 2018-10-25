@@ -1,8 +1,17 @@
-
-
-
+JEKYLL=bundle exec jekyll
+JOPTS=--incremental
+DEVCONF=--config _config.yml,_config_dev.yml
 serve:
-	bundle exec jekyll serve --config _config.yml,_config_dev.yml
+	${JEKYLL} serve ${JOPTS} ${DEVCONF}
+
+draft:
+	${JEKYLL} serve ${JOPTS} ${DEVCONF} --draft
 
 deploy:
-	bundle exec jekyll build -d ./_build
+	${JEKYLL} build -d ./_build
+
+clean:
+	rm -fr _site/
+
+realclean: clean
+	rm -fr _build/
