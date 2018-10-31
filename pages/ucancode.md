@@ -82,7 +82,5 @@ Le comité scientifique est composé de trois membres.
 
 Le comité scientifique reçoit régulièrement l’aide d’étudiants et d’enseignants-chercheurs.
 
-
 ### Derniers posts
-
 {: .t60 } {% include list-posts category='UCAnCODE' %}

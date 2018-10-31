@@ -23,4 +23,6 @@ Il permet la réalisation de projets, notamment des projets interdisciplinaires 
 
 [![FabLab]({{ "/images/video-fablab.jpg" | absolute_url }})]({{ "/images/video-fablab.webm" | absolute_url }})
 
+## Derniers posts
+{: .t60 } {% include list-posts tag='Fablab' %}
 
