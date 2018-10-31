@@ -33,9 +33,11 @@ Nous allons étudier des notions, problèmes, et algorithmes fondamentaux de la 
 La programmation dynamique, une méthode algorithmique pour résoudre des problèmes d'optimisation, sera introduite grâce aux graphes, avant d'être appliquée à d'autres problèmes classiques.
 
 ### Contenu ###
-{% assign assets_url="/assets" | relative_url | append:page.url %}
 
-Les diapositives du cours de théorie des graphes sont disponibles : [1up]({{ assets_url }}graphes.pdf) ;  [4up]({{ assets_url }}graphes-4up.pdf) ; [8up]({{ assets_url }}graphes-8up.pdf).
+Les diapositives du cours de théorie des graphes sont disponibles :
+[1 diapositive par page]({% include link-asset asset="graphes.pdf" %}) ;
+[4 diapositives par page]({% include link-asset asset="graphes-4up.pdf" %}) ;
+[8 diapositives par page]({% include link-asset asset="graphes.pdf" %}).
 
 Le plan des cours est le suivant :
 - Généralités et définitions sur les graphes.
@@ -69,4 +71,4 @@ Le contrôle des connaissances comprendra 2 épreuves écrites :
 
 - Contrôle Continu (1h)
 - Contrôle Terminal (2h)
-- Épreuve Orale en seconde session
+- Épreuve orale en seconde session

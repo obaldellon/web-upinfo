@@ -25,7 +25,6 @@ header:
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
-{% assign assets_url="/assets" | relative_url | append:page.url %}
 
 ### Petite présentation ###
 
@@ -34,7 +33,8 @@ Et  pour cause ! Au programme :  dessin et impression 3D, découpage laser, Robo
 
 Ce projet nous a amené à fabriquer un robot de toutes pieces et refléchir à des algorithmes efficaces d'exploration avec pour contraintes la puissance de calcul de l'Arduino assez restrainte et le coût global, ce qui force à tout concevoir nous même au lieu d'acheter une solution pré-machée comme les robots aspirateurs industriels.
 
-[ ![Scrappy]({{ assets_url }}video-scrappy.jpg)]({{ assets_url }}video-scrappy.mp4)
+[![Scrappy]({% include link-asset asset="video-scrappy.jpg" %})]({% include link-asset asset="video-scrappy.mp4" %})
+
 
 
 ### Différentes technologies mises en oeuvre ###
@@ -44,7 +44,7 @@ Lors de ce projet nous avons pu utiliser des technologies que nous n'avions jama
 
 ### L'équipe ###
 
-![The team]({{ assets_url }}scrappy-team.jpg)
+![The team]({% include link-asset asset="scrappy-team.jpg" %})
 
 #### Chloé ####
 
