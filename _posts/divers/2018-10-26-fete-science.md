@@ -77,3 +77,12 @@ Et on remet ça pour l’année prochaine ! Les étudiants de master sont les bi
 
 ![Ateliers]({{ assets_url }}fds-travail.jpg)
 
+
+### Deux petits tweets ###
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">On vous attend pour la <a href="https://twitter.com/FeteScience06?ref_src=twsrc%5Etfw">@FeteScience06</a> au stand du <a href="https://twitter.com/Laboratoire_I3S?ref_src=twsrc%5Etfw">@Laboratoire_I3S</a> ! <a href="https://twitter.com/hashtag/FDS2018?src=hash&amp;ref_src=twsrc%5Etfw">#FDS2018</a> <a href="https://t.co/oDY9s9OaHm">pic.twitter.com/oDY9s9OaHm</a></p>&mdash; Marie Pelleau (@mepelleau) <a href="https://twitter.com/mepelleau/status/1051029580193157120?ref_src=twsrc%5Etfw">13 octobre 2018</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Aujourd&#39;hui encore, on vous attend au stand <a href="https://twitter.com/Laboratoire_I3S?ref_src=twsrc%5Etfw">@Laboratoire_I3S</a> pour la <a href="https://twitter.com/FeteScience06?ref_src=twsrc%5Etfw">@FeteScience06</a> !<a href="https://twitter.com/hashtag/FDS2018?src=hash&amp;ref_src=twsrc%5Etfw">#FDS2018</a> <a href="https://t.co/a65lG5a5kx">pic.twitter.com/a65lG5a5kx</a></p>&mdash; Marie Pelleau (@mepelleau) <a href="https://twitter.com/mepelleau/status/1051386115310186496?ref_src=twsrc%5Etfw">14 octobre 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
