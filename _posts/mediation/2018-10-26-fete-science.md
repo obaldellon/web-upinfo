@@ -34,7 +34,7 @@ Pour l'édition 2018 à Nice, le stand de l'[i3s](http://i3s.unice.fr/) était a
 #### Robot Scrappy ####
 
 Scrappy est un robot explorateur capable de détecter et éviter des obstacles.
-Il a été construit par des étudiants de master dans le cadre de leur TER. Vous trouverez plus d'explication sur la [page du robot](http://i3s.unice.fr/master-info/ter/TER-Scrappy/).
+Il a été construit par des étudiants de master dans le cadre de leur TER. Vous trouverez plus d'explication sur la [page du robot]({{ site.baseurl }}{% post_url ter/2018-09-20-TER-Scrappy %}).
 
 #### Lights Out ####
 
