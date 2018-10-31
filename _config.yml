@@ -17,7 +17,7 @@ description: "Le Master Informatique c'est un enseignement scientifique et techn
 # Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former des informaticiens aptes à s'adapter à l'évolution rapide des technologies de l'information.
 # Main author of the website
 # See > authors.yml
-author: Arnaud
+author: arnaud
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -109,7 +109,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Arnaud     # Default author for pages
+      author: arnaud     # Default author for pages
   -
     scope:
       path: ''
@@ -118,7 +118,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Arnaud     # Default author for posts
+      author: arnaud     # Default author for posts
 
 
 

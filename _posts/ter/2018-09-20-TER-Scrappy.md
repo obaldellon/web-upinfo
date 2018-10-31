@@ -1,5 +1,5 @@
 ---
-layout: syllabus
+layout: page
 #
 # Content
 #

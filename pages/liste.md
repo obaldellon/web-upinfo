@@ -9,18 +9,14 @@ permalink: "/programme/liste/"
 ---
 
 ## Semestre 1 ##
-
 {%include accordion-posts category="S1" %}
 
 ## Semestre 2 ##
-
 {%include accordion-posts category="S2" %}
 
 ## Semestre 3 ##
-
 {%include accordion-posts category="S3" %}
 
 ## Semestre 4 ##
-
 {%include accordion-posts category="S4" %}
 
