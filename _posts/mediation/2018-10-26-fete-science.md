@@ -10,8 +10,6 @@ categories:
   - Mediation
 tags:
   - Fablab
-# website: "#"
-# email: "#"
 #
 # Styling
 #

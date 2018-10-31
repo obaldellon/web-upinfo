@@ -39,7 +39,9 @@ Le département d'informatique organise un concours semestriel depuis 2016 au Pe
 En général, le concours a lieu le vendredi après-midi précédant la période d'examens.
 Les participants, en binôme, ont 4 heures pour résoudre 7 problèmes ou plus.
 Chaque solution à un problème soumise au juge automatique qui accepte ou refuse la solution.  
-*Résoudre le maximum de problèmes le plus rapidement possible.* 
+*Résoudre le maximum de problèmes le plus rapidement possible.*
+
+Consulter la [page](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html) du dernier concours.
 
 ### Google Hash Code ###
 
