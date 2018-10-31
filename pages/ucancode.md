@@ -31,10 +31,7 @@ Ils associent
 
 
 Le département d'informatique organise un concours semestriel depuis 2016 et organise un hub pour le [Google Hash Code](https://hashcode.withgoogle.com/) depuis 2018.
-Le département propose des activités pour préparer les concours que ce soit à travers des activités en autonomie ou dans le cadre du cours [Programming Challenge]({% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1.
-
-
-
+Le département propose des activités pour préparer les concours que ce soit à travers des activités en autonomie ou dans le cadre du cours [Programming Challenge]({{ site.baseurl }}{% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1.
 
 ### Concours UCAnCODE ###
 
@@ -55,7 +52,7 @@ Ils soumettent leur solution à un juge (automatique), qui accepte ou refuse la 
 
 Pour une première confrontation avec un juge automatique, vous pouvez, en autonomie, résoudre le problème [ECHO](https://github.com/arnaud-m/echo).
 
-Le cours [Programming Challenge]({% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 contient de nombreux autres exercices accompagnés de supports de cours.
+Le cours [Programming Challenge]({{ site.baseurl }}{% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 contient de nombreux autres exercices accompagnés de supports de cours.
 Le site web du cours pointe vers de nombreuses autres ressources en ligne pour préparer les concours quel que soit votre niveau d'études.
 
 

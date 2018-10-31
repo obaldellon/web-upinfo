@@ -9,8 +9,9 @@ header:
 permalink: "/etus/fablab/"
 website: "http://unice.fr/faculte-des-sciences/formation/fablab"
 ---
+{% assign assets_url="/assets" | relative_url | append:page.url %}
 
-[http://unice.fr/faculte-des-sciences/formation/fablab](FabLab@UCA)
+[FabLab@UCA](http://unice.fr/faculte-des-sciences/formation/fablab)
 
 Le concept de **fab lab** (contraction de l'anglais _**fab**rication **lab**oratory_, « laboratoire de fabrication ») est né au MIT (Massachusetts Institute of Technology) dans les années 1990. Il s’agit d’un lieu ouvert au public où il est mis à sa disposition toutes sortes d'outils, notamment des machines-outils, pour la conception et la réalisation d'objets.
 
@@ -21,7 +22,8 @@ Le projet de FabLab@UCA est inspiré de ce concept, il permet grâce à un lieu 
 
 Il permet la réalisation de projets, notamment des projets interdisciplinaires entre les différentes formations de l’Université et plus largement d’UCA.
 
-[![FabLab]({{ "/images/video-fablab.jpg" | absolute_url }})]({{ "/images/video-fablab.webm" | absolute_url }})
+[![FabLab]({{ assets_url }}video-fablab.jpg)]({{ assets_url }}video-fablab.webm)
+
 
 ## Derniers posts
 {: .t60 } {% include list-posts tag='Fablab' %}

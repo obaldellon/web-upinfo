@@ -25,8 +25,7 @@ header:
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
-
-{% assign assets_url="/assets/syllabus" | absolute_url | append:page.url %}
+{% assign assets_url="/assets" | relative_url | append:page.url %}
 
 ### Petite présentation ###
 

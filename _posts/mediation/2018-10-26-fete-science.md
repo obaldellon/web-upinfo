@@ -23,8 +23,7 @@ header:
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
-
-{% assign assets_url="/assets/syllabus" | absolute_url | append:page.url %}
+{% assign assets_url="/assets" | relative_url | append:page.url %}
 
 Pour l'édition 2018 à Nice, le stand de l'[i3s](http://i3s.unice.fr/) était animé par des enseignants-chercheurs, des doctorants et des étudiants de master.
 

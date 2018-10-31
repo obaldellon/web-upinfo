@@ -33,7 +33,7 @@ Nous allons étudier des notions, problèmes, et algorithmes fondamentaux de la 
 La programmation dynamique, une méthode algorithmique pour résoudre des problèmes d'optimisation, sera introduite grâce aux graphes, avant d'être appliquée à d'autres problèmes classiques.
 
 ### Contenu ###
-{% assign assets_url="/assets/syllabus" | absolute_url | append:page.url %}
+{% assign assets_url="/assets" | relative_url | append:page.url %}
 
 Les diapositives du cours de théorie des graphes sont disponibles : [1up]({{ assets_url }}graphes.pdf) ;  [4up]({{ assets_url }}graphes-4up.pdf) ; [8up]({{ assets_url }}graphes-8up.pdf).
 

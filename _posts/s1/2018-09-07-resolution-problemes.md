@@ -41,7 +41,7 @@ Ce cours présente la programmation par contraintes, afin de formaliser et réso
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=v9jpv3uf5ncvm951f7ocq6nnak%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
 ### Contenu ###
-{% assign assets_url="/assets/syllabus" | absolute_url | append:page.url %}
+{% assign assets_url="/assets" | relative_url | append:page.url %}
 
 Les diapositives du cours sont disponibles : [Modélisation 1]({{ assets_url }}CM1.pdf), [Modélisation 2]({{ assets_url }}CM2.pdf)
 
