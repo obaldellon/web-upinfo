@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: "Le stand du Laboratoire i3s"
 title: "La fête de la science"
-teaser: "La fête de la science (https://www.fetedelascience.fr/) est un événement à l'échelle nationale qui a pour but de faire découvrir les sciences à un large public (écoliers, collégiens, lycéens et adultes)."
+teaser: "La <a href='https://www.fetedelascience.fr/'>fête de la science</a> est un événement à l'échelle nationale qui a pour but de faire découvrir les sciences à un large public (écoliers, collégiens, lycéens et adultes)."
 categories:
   - Mediation
 tags:
