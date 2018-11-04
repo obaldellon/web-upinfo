@@ -23,7 +23,7 @@
 - title: "Campus"
   url: "/campus/"
   side: left
-    
+  
 - title: "Étudiants"
   url: "#"
   side: left
@@ -35,7 +35,7 @@
   - title: "UCAnCode"
     url: "/etus/ucancode/"    
   - title: "Fablab"
-    url: "/etus/fablab/"    
+    url: "/etus/fablab/"
     
 - title: Blog
   url: "/blog/"
@@ -43,10 +43,6 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-# - title: Liste des cours
-#   side: left
-#   url: "/blog/archive/"
 
 - title: "Candidater"
   url: "http://univ-cotedazur.fr/education/training?SMFOR18"    
@@ -70,3 +66,4 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
