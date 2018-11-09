@@ -38,11 +38,11 @@ La poursuite d'étude correspond généralement à une thèse de doctorat (~15%)
 
 Quelle que soit votre origine, nombre d'entre vous choisissent de rester sur la côte d'azur, mais les opportunités professionnelles plus lointaines ne manquent pas non plus.
 
-![Localisation de l'emploi et mobilité des diplômés]({{ site.url }}/master-info/images/insertion-localisation.png "Localisation de l'emploi et mobilité des diplômés.")
+![Localisation de l'emploi et mobilité des diplômés]({% include link-asset asset="insertion-localisation.png" %} "Localisation de l'emploi et mobilité des diplômés.")
 
 
 ### Niveau de rémunération ###
 Le niveau de rémunération est un salaire mensuel net avec primes alors que les écoles d'ingenieurs donnent généralement le salaire brut annuel.
 À titre de comparaison, les habitants de Provence-Alpes-Côte d'Azur gagnent en moyenne 2466 € nets par mois, soit 29597 € nets par an et les moins de 26 ans gagnent en moyenne 1700 € nets par mois ([source](http://www.journaldunet.com/business/salaire/provence-alpes-cote-d-azur/region-93)).
 
-![Niveau de rémunération]({{ site.url }}/master-info/images/insertion-salaires.png "Niveau de rémunération")
+![Niveau de rémunération]({% include link-asset asset="insertion-salaires.png" %} "Niveau de rémunération")
