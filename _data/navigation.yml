@@ -36,6 +36,8 @@
     url: "/etus/ucancode/"    
   - title: "Fablab"
     url: "/etus/fablab/"
+  - title: "Insertion"
+    url: "/etus/insertion/"    
     
 - title: Blog
   url: "/blog/"

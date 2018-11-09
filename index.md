@@ -20,7 +20,7 @@ widget2:
   text: 'La Faculté des Sciences est située sur deux grands campus : Valrose (Nice) et SophiaTech (Sophia Antipolis). Les enseignements sont dispensés principalement sur le campus SophiaTech.'
 widget3:
   title: "Insertion professionnelle"
-  url: '/insertion/'
+  url: '/etus/insertion/'
   image: '/insertion-pro-thumb.png'
   text: "Le taux d'insertion professionnelle de nos étudiants atteint 95% après 18 mois et 98% après 30 mois. Plus de 90% des diplômés en emploi ont un emploi stable. Quasiment un quart des étudiants partent travailler hors de la région PACA."
 #

@@ -7,7 +7,7 @@ teaser: "Le taux d'insertion professionnelle de nos étudiants atteint 95% aprè
 header: 
     image_fullwidth: "insertion-min-disc.png"
     caption: "Progression des conditions d'emploi 2014 (Source MNESR)."
-permalink: "/insertion/"
+permalink: "/etus/insertion/"
 ---
 
 

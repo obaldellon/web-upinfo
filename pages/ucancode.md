@@ -41,7 +41,8 @@ Les participants, en binôme, ont 4 heures pour résoudre 7 problèmes ou plus.
 Chaque solution à un problème soumise au juge automatique qui accepte ou refuse la solution.  
 *Résoudre le maximum de problèmes le plus rapidement possible.*
 
-Consulter la [page](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html) du dernier concours.
+ - Consulter la [page](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html) du dernier concours.
+ - S'inscrire au prochain concours en remplissant le [formulaire](https://forms.office.com/Pages/ResponsePage.aspx?id=fUQgvFKJzUqD5F1otezkb_ik15fPGnROgx-GcCjKbjBUM0xXMzM4QUFBRFpJMzIzQjZDQVE4TlRZVS4u).
 
 ### Google Hash Code ###
 
