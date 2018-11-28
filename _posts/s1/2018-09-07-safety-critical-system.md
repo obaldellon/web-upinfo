@@ -32,7 +32,7 @@ header:
 This course introduces several models, languages and tools dedicated to the design of safety-critical systems.
 This includes solutions for describing the system under design, the expected properties, perform verification and generate certified  code. Scade is one example of industrial success story that builds on works from various academic languages and that is successful in both the avionics and train domains.
 
-Content :
+### Content ###
 - state-based languages ;
 - dataflow languages ;
 - languages to express functional properties ;

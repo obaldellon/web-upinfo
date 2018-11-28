@@ -54,7 +54,7 @@ header:
 
 ### Grading ###
 
-  - **ConcoursProg@UNS** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
+  - **ConcoursUCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
   - **Homework** (20%): there will be problem sets over the course of the semester. 
   - **Final Exam** (40%): there will be one final exam (1 hour) where you will be asked to solve one of two problems.
 

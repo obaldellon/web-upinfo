@@ -8,7 +8,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Etienne Lozes, PR"
+subheadline: "E. Lozes, PR"
 title: "Logique avancée"
 teaser: "Ce cours invite à découvrir les liens étroits existants entre
 certains formalismes logiques, la théorie des jeux, et la théorie des automates."
