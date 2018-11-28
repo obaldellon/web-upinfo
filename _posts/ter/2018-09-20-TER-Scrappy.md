@@ -10,6 +10,7 @@ categories:
   - TER
 tags:
   - Fablab
+  - NEWS
 # website: "#"
 # email: "#"
 #

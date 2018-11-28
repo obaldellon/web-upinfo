@@ -10,6 +10,7 @@ categories:
   - Mediation
 tags:
   - Fablab
+  - NEWS
 #
 # Styling
 #
