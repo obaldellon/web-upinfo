@@ -42,7 +42,7 @@ Chaque étudiant doit suivre environ 192h d’enseignement présentiel chaque se
 
 
 - [Semestre 1]({{ "/programme/semestre1"  | absolute_url }}).
-- [Semestre 2]({{ "/programme/semestre1"  | absolute_url }}).
+- [Semestre 2]({{ "/programme/semestre2"  | absolute_url }}).
 
 ### Validation ###
 
