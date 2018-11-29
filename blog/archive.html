@@ -14,7 +14,7 @@ permalink: "blog/archive/"
 
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% for post in site.tags.["NEWS"] limit:1000 %}
+			{% for post in site.posts limit:1000 %}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}</a>
 				<div id="panel{{ counter }}" class="content">
