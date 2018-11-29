@@ -5,7 +5,7 @@ title: "Master Informatique"
 subheadline: "Premier semestre"
 header:
     image_fullwidth: "header-sophia.jpg"
-    caption: "Technopolse Sophia Antipolis"
+    caption: "Technopole Sophia Antipolis"
 
 permalink: "/programme/semestre1/"
 ---

@@ -32,7 +32,7 @@
 
     {% for post in site.posts limit:1000 offset:0 %}
        	<dd class="accordion-navigation">
-		<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+		<a href="#panel{{ counter }}"><span class="iconfont"></span> <strong>{{ post.title }}</strong> › {% if post.subheadline %}{{ post.subheadline }}{% endif %}</a>
 		<div id="panel{{ counter }}" class="content">
 		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
@@ -45,7 +45,7 @@
   
     {% for post in site.categories.[category] limit:1000 offset:0 %}
         <dd class="accordion-navigation">
-		<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+		<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}</a>
 		<div id="panel{{ counter }}" class="content">
 		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
@@ -58,7 +58,7 @@
 
     {% for post in site.tags.[tag] limit:1000 %}
         <dd class="accordion-navigation">
-		<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+		<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}</a>
 		<div id="panel{{ counter }}" class="content">
 		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
@@ -74,7 +74,7 @@
         {% if post.tags contains tag %}
 
           <dd class="accordion-navigation">
-		  <a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+		  <a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}</a>
 		  <div id="panel{{ counter }}" class="content">
 		  {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
 		  <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>

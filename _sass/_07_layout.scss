@@ -94,7 +94,10 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        height: 100px;
+        width: auto;
+        margin-top: 40px;
+        margin-left: 65vw;
     }
     #masthead {
         height: 200px;
