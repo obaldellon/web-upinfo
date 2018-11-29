@@ -17,7 +17,7 @@ tags:
 # Styling
 #
 image:
-  thumb: "scrappy-thumb.jpg"
+  thumb: "scrappy.jpg"
   homepage: "scrappy.jpg"
 #  caption: "https://unsplash.com/"
 # url: "https://unsplash.com/"

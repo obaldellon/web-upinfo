@@ -15,10 +15,10 @@ tags:
 # Styling
 #
 image:
-  thumb: "fds-thumb.jpg"
+  thumb: "fds.jpg"
   homepage: "fds.jpg"
 header:
-  image_fullwidth: "header-fds3.jpg"
+  image_fullwidth: "header-fds.jpg"
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
