@@ -7,7 +7,7 @@
 {% endcomment %}
 
 
-{% for post in paginator.posts %}
+{% for post in site.tags.["NEWS"] %}
   <div class="row">
     <div class="small-12 columns b60">
       <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
