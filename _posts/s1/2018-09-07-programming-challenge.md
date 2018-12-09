@@ -47,26 +47,16 @@ header:
 7. String Processing
 8. Graph
 
+### Grading ###
+
+  - **ConcoursUCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
+  - **Homework** (20%): there will be problem sets over the course of the semester.
+    - solve the problem [REBOND](https://51364960.widgets.sphere-engine.com/lp?hash=MoVdQtKITi) before December 14th.
+    - solve the problem [PARADOX](https://51364960.widgets.sphere-engine.com/lp?hash=snqNEbCYaf) before December 21th.
+    - solve the problem [ARITHEXPR](https://51364960.widgets.sphere-engine.com/lp?hash=4TN6XviTKK) before January 11th.
+  - **Final Exam** (40%): there will be one final exam (2 hours) where you will be asked to solve one of two problems.
+    - You will be asked to solve in writing one of two problems :  The first one is graded out of 15 and the second one out of 20.
 ### Schedule ###
 
 <iframe src="https://calendar.google.com/calendar/embed?src=be9r3mfa0pnmkf0cfvb8ode4p8%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
-### Grading ###
-
-  - **ConcoursUCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
-  - **Homework** (20%): there will be problem sets over the course of the semester. 
-  - **Final Exam** (40%): there will be one final exam (1 hour) where you will be asked to solve one of two problems.
-
-### Resources ###
-
-- [CSE 392 - Programming Challenges (2012)](https://www3.cs.stonybrook.edu/~skiena/392/)
-
-- [ConcoursProg@UNS](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html)
-
-- [spoj.com](http://www.spoj.com/)
-- [uva.onlinejudge.org](https://uva.onlinejudge.org/)
-- [codechef.com](http://codechef.com/)
-
-
-- [SE Problem setter’s handbook](https://developer.sphere-engine.com/other/handbook)
