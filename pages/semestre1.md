@@ -24,7 +24,7 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 
 ## Cours optionnels ##
 
-6 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
+5 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
 
 *Vous être prié de répondre au [sondage de rentrée du Master Informatique](https://forms.office.com/Pages/ResponsePage.aspx?id=fUQgvFKJzUqD5F1otezkb_ik15fPGnROgx-GcCjKbjBUNDVEMTJCNU1CRlhDQ1FSUlhYTDdWVEJIVy4u) qui concerne, entre autres, le choix des cours.*
 
