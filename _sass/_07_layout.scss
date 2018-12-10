@@ -94,10 +94,11 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        height: 100px;
+        height: 150px;
         width: auto;
-        margin-top: 40px;
-        margin-left: 65vw;
+        margin-top: 20px;
+        float: right;
+        margin-right: 2%;
     }
     #masthead {
         height: 200px;
@@ -124,8 +125,12 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
+        height: 200px !important;
+        width: auto !important;
+        max-width: 200% !important;
         margin-top: 40px;
-        margin-left: 65vw;
+        float: right;
+        margin-right: 2%;
     }
     #masthead {
         height: 280px;
@@ -148,8 +153,12 @@ body.video cite { color: #fff; }
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 50px;
-        margin-left: 65vw;
+        height: 250px !important;
+        width: auto !important;
+        max-width: 200% !important;
+        margin-top: 25px;
+        float: right;
+        margin-right: 2%;
     }
     #masthead {
         height: 310px;
@@ -172,8 +181,12 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 100px;
-        margin-left: 55vw;
+        height: 250px !important;
+        width: auto !important;
+        max-width: 200% !important;
+        margin-top: 75px;
+        float: right;
+        margin-right: 2%;
     }
     #masthead {
         height: 380px;

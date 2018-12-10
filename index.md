@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-valrose-printemps-petite.jpg
+  image_fullwidth: 'header-valrose-printemps-petite.jpg'
   caption: "Le campus Valrose au printemps."
 widget1:
   title: "Master Informatique"
