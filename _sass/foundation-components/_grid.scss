@@ -248,7 +248,7 @@ $last-child-float: $opposite-direction !default;
       @include grid-row;
       margin-right:0;
       margin-left:0;
-      float: right;
+      max-width:100%;
 
       &.collapse {
          > .column-header,
@@ -266,10 +266,10 @@ $last-child-float: $opposite-direction !default;
     .columns { @include grid-column($columns:$total-columns); }
 
     .column-header,
-    .columns { @include grid-column($columns:$total-columns); 
+    .columns-header { @include grid-column($columns:$total-columns); 
       padding-left:0;
+      padding-right:0;
       margin-left:0;
-      padding-right:10px;
       margin-right:0;
     }
 
