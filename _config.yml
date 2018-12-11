@@ -72,7 +72,8 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-    - Makefile    
+    - Makefile   
+    - vendor    
 
 
 # The language setting is used in /includes/header.html for html-settings
