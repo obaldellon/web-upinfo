@@ -37,7 +37,7 @@ Ce cours présente la programmation par contraintes, afin de formaliser et réso
 
 ### Contenu ###
 
-Les diapositives du cours sont disponibles : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}). 
+Les diapositives du cours sont disponibles : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}), [Correction du contrôle]({% include link-asset asset="correction.pdf" %}). 
 
 Ce cours est divisé en 3 grandes parties :
   1. Variables, domaines, contraintes arithmétiques
