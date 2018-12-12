@@ -29,7 +29,7 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-Ce cours présente la programmation par contraintes, afin de formaliser et résoudre des problèmes fortement combinatoires. À chaque séance sera
+Ce cours présente la programmation par contraintes, afin de formaliser et résoudre des problèmes fortement combinatoires.
 
 ### Calendrier ###
 
