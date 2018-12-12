@@ -57,10 +57,10 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéoprojecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
-- La soutenance est suivi d'une séance de questions d'une dizaine de minutes.
+- La soutenance est suivie d'une séance de questions d'une dizaine de minutes.
 
-**Le jury est comprend des personnes extérieures aux projets.**
-Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soient compréhensible par tout le jury.
+**Le jury comprend des personnes extérieures aux projets.**
+Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
 Le planning détaillé des soutenances est le suivant.
 
@@ -83,10 +83,10 @@ Le planning détaillé des soutenances est le suivant.
 Le rapport doit expliquer :
 
 - Dans quelle version du jeu sont développées les IA (par rapport à PD/GL).
-- Quelle est l'IA garantie ? Comment (quels algo) l'avez vous réalisée ?
-- quelles sont les performances de votre IA garantie : vs random, vs "robot" de PD/GL, contre elle-même ? Expliquez votre méthode d'évaluation et vos résultats.
+- Quelle est l'IA garantie ? Comment (quels algos) l'avez vous réalisée ?
+- Quelles sont les performances de votre IA garantie : vs random, vs "robot" de PD/GL, contre elle-même ? Expliquez votre méthode d'évaluation et vos résultats.
 - Quelle est l'IA ambitieuse (en faisant la différence entre ce que vous avez atteint et ce que vous n'avez pas pu ou pas su faire) ? Est-ce qu'il y a eu une évolution du jeu ? Est-ce que cela touche l'IA garantie ?
-- quelles sont les performances de votre l'IA ambitieuse : vs random, vs "robot" de PD/GL, vs IA garantie, contre elle-même ? Expliquez votre méthode et vos résultats.
+- Quelles sont les performances de votre IA ambitieuse : vs random, vs "robot" de PD/GL, vs IA garantie, contre elle-même ? Expliquez votre méthode et vos résultats.
 - Tirer un bilan sur vos approches et vos développements d'IA : les résultats sont-ils conformes à ce que vous attendiez ? À ce qui existe par ailleurs ?
 
 
