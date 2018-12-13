@@ -11,7 +11,7 @@ permalink: "/etus/insertion/"
 ---
 
 
-l'Observatoire de la vie étudiante et de l'insertion professionnelle (OVE-IP) de l'Université Nice Sophia Antipolis (UNS) réalise des enquêtes sur les conditions de vie des étudiants et sur leur devenir. Une enquête à 30  est conduite dans un cadre national (toutes les universités réalisent l'enquête au même moment) et interroge les diplômés sur leur situation professionnelle au 1er décembre de l'année en cours, soit 30 mois après l'obtention de leur Master.
+L'Observatoire de la vie étudiante et de l'insertion professionnelle (OVE-IP) de l'Université Nice Sophia Antipolis (UNS) réalise des enquêtes sur les conditions de vie des étudiants et sur leur devenir. Une enquête à 30  est conduite dans un cadre national (toutes les universités réalisent l'enquête au même moment) et interroge les diplômés sur leur situation professionnelle au 1er décembre de l'année en cours, soit 30 mois après l'obtention de leur Master.
 
 Nous résumons ci-dessous les résultats de ces enquêtes pour les 325 diplômés du Master Informatique entre 2012 et 2015.
 227 étudiants ont répondu aux enquêtes. 
