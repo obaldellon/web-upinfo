@@ -8,7 +8,7 @@ permalink: "/campus/"
 # Styling
 #
 header:
-  image_fullwidth: "header-lucioles.jpg"
+  image_fullwidth: "header-lucioles1.jpg"
   caption: "Le bâtiment des lucioles à Sophia-Antipolis."
 ---
 
