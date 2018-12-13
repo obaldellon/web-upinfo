@@ -69,11 +69,14 @@ Le planning détaillé des soutenances est le suivant.
 - 09h00 : [lgermerie/takenoko](https://github.com/lgermerie/takenoko)
 - 09h30 : [JiaFu2018/M1-Projet-PowerRangers](https://github.com/JiaFu2018/M1-Projet-PowerRangers)
 - 10h15 : [Mahe-Thomas/takenoko](https://github.com/Mahe-Thomas/takenoko)
-- 10h45 : [faycalbounab/Takenoko-MFAS](https://github.com/faycalbounab/Takenoko-MFAS)
-- 11h15 : [AymericValdenaire/ProjetM1](https://github.com/AymericValdenaire/ProjetM1)
-- 13h30 : [Lucasg6/Takenoko](https://github.com/Lucasg6/Takenoko)
-- 14h00 : [FilipeCosta06/ProjetTakenoko](https://github.com/FilipeCosta06/ProjetTakenoko)
-- 14h30 : [chihabeddine-aourinmouche/AnomicXenon](https://github.com/chihabeddine-aourinmouche/AnomicXenon)
+
+**_Planning Modifié_**
+
+- 13h00 : [faycalbounab/Takenoko-MFAS](https://github.com/faycalbounab/Takenoko-MFAS)
+- 13h30 : [AymericValdenaire/ProjetM1](https://github.com/AymericValdenaire/ProjetM1)
+- 14h00 : [Lucasg6/Takenoko](https://github.com/Lucasg6/Takenoko)
+- 14h30 : [FilipeCosta06/ProjetTakenoko](https://github.com/FilipeCosta06/ProjetTakenoko)
+- 15h00 : [chihabeddine-aourinmouche/AnomicXenon](https://github.com/chihabeddine-aourinmouche/AnomicXenon)
 
 
 
