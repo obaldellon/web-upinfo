@@ -23,7 +23,7 @@ Les compétences développées sont les suivantes :
  - Présenter à l’écrit ou à l’oral les différents éléments d’une solution informatique, de la modélisation à la mise en œuvre. Comprendre et rédiger des rapports techniques ou scientifiques en français ou en anglais. Produire des documents de synthèse pour chaque tâche d’un projet informatique.
  - Participer à des équipes d'étude et de développement de solutions informatiques. Prendre la responsabilité d’un groupe de travail pour réaliser plusieurs tâches.
  - Assurer une veille technologique. Analyser et comparer de manière critique plusieurs solutions pour un même problème.
- - Affiner une orientation professionnelle et concrétiser son projet professionnel à travers des stages en entreprise ou en laboratoire
+ - Affiner une orientation professionnelle et concrétiser son projet professionnel à travers des stages en entreprise ou en laboratoire.
 
 ### Programme et contenu ###
 
