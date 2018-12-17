@@ -24,7 +24,7 @@
 {% assign category = include.category %}
 {% assign tag = include.tag %}
 
-<div class="small-12 columns t30">
+<div class="small-12 columns">
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}    
 
