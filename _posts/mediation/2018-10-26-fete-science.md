@@ -16,7 +16,7 @@ tags:
 #
 image:
   thumb: "fds.jpg"
-  homepage: "fds.jpg"
+  homepage: "header-fds.jpg"
 header:
   image_fullwidth: "header-fds.jpg"
 #    caption: This is a caption for the header image with link

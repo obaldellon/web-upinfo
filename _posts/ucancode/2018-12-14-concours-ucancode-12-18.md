@@ -17,7 +17,7 @@ tags:
 image:
   header: "Bandeau_Web_Ucancode.png"
   thumb: "UCAnCODE.png"
-  homepage: "UCAnCODE.png"
+  homepage: "Bandeau_Web_Ucancode.png"
   caption: ""
   url: ""
 header:
@@ -37,7 +37,7 @@ En attendant, nous avons relancé les juges et jugé toutes les soumissions en a
 Le tableau final des résultats est disponible [ici]({% include link-asset asset="report.Standings_Web_Pages.iScoreBoard.php.12.16.464.html" %}).
 
 Pour compenser l'interruption du concours, nous vous proposons une session étendue de deux jours pendant laquelle vous pouvez résoudre les quatre problèmes les plus difficiles.
-Toutes les informations sont sur la page semestrielle du concours.
+Toutes les informations sont sur la [page semestrielle du concours](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html).
 
 Comme d'habitude, vous trouverez ci-dessous diverses statistiques sur les soumissions pendant le concours.
 
@@ -50,31 +50,31 @@ Les solutions incorrectes donnent lieu à une pénalité dans le classement, vou
 
 ## Langages ##
 
-   | Language | Teams | YES |  NO | RUNS |
-   |----------+-------+-----+-----+------|
-   | Python 3 |    48 | 155 | 434 |  589 |
-   | Java     |    49 | 155 | 372 |  527 |
-   | R        |    34 |  47 | 122 |  169 |
-   | GNU C++  |     6 |  14 |  42 |   56 |
-   | Python   |     4 |   6 |  39 |   45 |
-   | GNU C    |     5 |   7 |  23 |   30 |
+   | Language | Teams | RUNS | YES |  NO |
+   |----------+-------+------+-----+-----|
+   | Python 3 |    48 |  589 | 155 | 434 |
+   | Java     |    49 |  527 | 155 | 372 |
+   | R        |    34 |  169 |  47 | 122 |
+   | GNU C++  |     6 |   56 |  14 |  42 |
+   | Python   |     4 |    45 |  6 |  39 |
+   | GNU C    |     5 |   30 |   7 |  23 |
 
 
 ## Problèmes ##
 
-| YES |   NO | Total |     % | Problem Description                          |
-|-----+------+-------+-------+----------------------------------------------|
-| 115 |  129 |   244 | 47.13 | ECHO - Commande echo                         |
-|  85 |  252 |   337 | 25.22 | 1DTO2D - De la 1D à la 2D                    |
-|  79 |  220 |   299 | 26.42 | DIGROOT - Racine numérique                   |
-|  75 |  158 |   233 | 32.18 | POW24 - Puissance 2 ou 4                     |
-|   1 |  117 |   118 |  0.84 | EXFLOT - Exercice Flottant                   |
-|  24 |   75 |    99 | 24.24 | TONNEAUX - Comment bien empiler ses tonneaux |
-|   0 |   53 |    53 |  0.00 | SABLE - Tas de sable                         |
-|   5 |   28 |    33 | 15.15 | STAR - L'Étoile Noire                        |
-|-----+------+-------+-------+----------------------------------------------|
-| 384 | 1032 |  1416 | 27.11 | TOTALS                                       |
-|-----+------+-------+-------+----------------------------------------------|
+| Problem Description                          | Total |   NO |  YES |    % |
+|----------------------------------------------+-------+------+-----+-------|
+| ECHO - Commande echo                         |   244 |  129 | 115 | 47.13 |
+| 1DTO2D - De la 1D à la 2D                    |   337 |  252 |  85 | 25.22 |
+| DIGROOT - Racine numérique                   |   299 |  220 |  79 | 26.42 |
+| POW24 - Puissance 2 ou 4                     |   233 |  158 |  75 | 32.18 |
+| EXFLOT - Exercice Flottant                   |   118 |  117 |   1 |  0.84 |
+| TONNEAUX - Comment bien empiler ses tonneaux |    99 |   75 |  24 | 24.24 |
+| SABLE - Tas de sable                         |    53 |   53 |   0 |  0.00 |
+| STAR - L'Étoile Noire                        |    33 |   28 |   5 | 15.15 |
+|----------------------------------------------+-----+------+-------+-------|
+| TOTALS                                       |  1416 | 1032 | 384 | 27.11 |
+|----------------------------------------------+-----+------+-------+-------|
 
 ## Prem's : solution la plus rapide ##
 

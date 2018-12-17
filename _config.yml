@@ -41,10 +41,11 @@ urlimg: 'http://i3s.unice.fr/master-info/images/'
 logo: "logo.png"
 
 # Gems
-gems:
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - ruby_executable_hooks
 
 
 #       ____              _             __  _
