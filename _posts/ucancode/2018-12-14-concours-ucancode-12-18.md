@@ -30,9 +30,7 @@ Un grand merci à tous les membres du département d'informatique impliqués dan
 Nous avions frôlé la catastrophe en avril avec 150 participants et nous n'avons pas réussi à l'éviter avec 200 participants.
 Le serveur s'est effondré une première fois au bout de 2h30 quand vous avez commencé à soumettre des solutions aux problèmes de difficulté intermédiaire.
 Après une réanimation, le serveur s'est effondré une seconde et dernière fois au bout de 3h30 de concours.  
-Il y a deux raisons principales à cet effondrement : une infrastructure et une assistance technique sous-dimensionnée (1 soumission toutes les 8 secondes en moyenne); un taux de soumissions acceptées très bas (~25%).  
-Nous tâcherons de remedier à ces deux problèmes d'ici la prochaine édition. 
-
+Il y a deux raisons principales à cet effondrement : une infrastructure et une assistance technique sous-dimensionnée (1 soumission toutes les 8 secondes en moyenne); un taux de soumissions acceptées très bas (~25%). eNous tâcherons de remedier à ces deux problèmes d'ici la prochaine édition.  
 En attendant, nous avons relancé les juges et jugé toutes les soumissions en attente pendant le week-end. 
 Le tableau final des résultats est disponible [ici]({% include link-asset asset="report.Standings_Web_Pages.iScoreBoard.php.12.16.464.html" %}).
 
@@ -40,6 +38,8 @@ Pour compenser l'interruption du concours, nous vous proposons une session éten
 Toutes les informations sont sur la [page semestrielle du concours](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html).
 
 Comme d'habitude, vous trouverez ci-dessous diverses statistiques sur les soumissions pendant le concours.
+
+Par ailleurs, vous pouvez aussi consulter aussi l'[article UCA News](http://univ-cotedazur.fr/contenus-riches/actualites/fr/un-record-de-participation-pour-le-concours-de-programmation-ucancode/@@highlight_view).
 
 ## Runs ##
 
