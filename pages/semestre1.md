@@ -31,7 +31,7 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 {%include accordion-posts category="S1" tag="OPT" %}
 
 ## Mineures ##
-
+  
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
 Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
