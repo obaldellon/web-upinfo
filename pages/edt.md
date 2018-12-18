@@ -17,8 +17,6 @@ header:
 Le [calendrier annuel 2018/2019]({% include link-asset asset="CAL-M1I-2018-2019.pdf" %}) indique les dates de cours, d'examens, de soutenances, d'alternance, en entreprise pour les apprentis, pour toute l'année universitaire.  
 Vous n'aurez pas cours tous les jours pendant les périodes de cours, car votre emploi du temps dépendra des cours choisis.
 
-
-
 ### Premier Semestre ###
 
 Pour résumer, le premier semestre est organisé comme indiqué dans le tableau ci-dessous.
@@ -31,3 +29,28 @@ Pour résumer, le premier semestre est organisé comme indiqué dans le tableau 
 Les cours sont organisés par demi-journée de 3h. 
 La pause déjeuner dure au minimum de 12h30 à 13h30.
 
+#### Examens ####
+
+Vous trouverez ci-dessous le planning des examens du premier semestre.
+
+**Les horaires sont définitifs, mais les salles sont encore suceptibles de changer.**
+
+| Date     | Heure       | Matière      | Documents autorisés | Salle    |
+|----------+-------------+--------------+---------------------+----------|
+| 07/01/19 | 10h-12h     | Réso PB      | Tous documents      | TD06     |
+|          | 8h30-12h    | CriticalSyst | Aucun               | 282      |
+|          | 14h-16h     | Adv Prog     | Tous documents      | 282      |
+| 08/01/19 | 8h30-10h30  | Prog Dyn     | Cours et notes      | TD06     |
+|          | 11h-12h30   | BD           | Aucun               | TD06     |
+|          | 14-16h      | Logic        | Aucun               | TD06     |
+| 09/01/19 | 10-12h      | Calc         | Tous documents      | TD06     |
+|          | 14-16h      | Parallelism  | Aucun               | Amphi A1 |
+| 10/01/19 | 8h-10h      | Comp Net     | Aucun               | 282      |
+|          | 10-12h      | GL           | Cours et notes      | Amphi A1 |
+|          | 13h30-16h30 | Archi HPerf  | Aucun               | TD06     |
+| 11/01/19 | 10-12h      | TATIA        | Aucun               | TD06     |
+|          | 14h-16h     | Challenge    | Aucun               | TD06     |
+| 17/01/19 | 14h30-18h30 | Neural Net   | Aucun               | TD06     |
+
+
+Pour 'Neural Net', l'examen est une soutenance de projet. Veuillez voir directement avec votre enseignant pour les détails.

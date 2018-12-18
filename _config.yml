@@ -41,7 +41,7 @@ urlimg: 'http://i3s.unice.fr/master-info/images/'
 logo: "logo.png"
 
 # Gems
-plugins:
+plugins_dir:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
