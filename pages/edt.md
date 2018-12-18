@@ -13,7 +13,6 @@ header:
 #  caption: "Le bâtiment des lucioles à Sophia-Antipolis."
 ---
 
-
 Le [calendrier annuel 2018/2019]({% include link-asset asset="CAL-M1I-2018-2019.pdf" %}) indique les dates de cours, d'examens, de soutenances, d'alternance, en entreprise pour les apprentis, pour toute l'année universitaire.  
 Vous n'aurez pas cours tous les jours pendant les périodes de cours, car votre emploi du temps dépendra des cours choisis.
 
