@@ -49,10 +49,7 @@ Vous trouverez ci-dessous le planning des examens du premier semestre.
 |          | 13h30-16h30 | Archi HPerf  | Aucun               | TD06     |
 | 11/01/19 | 10-12h      | TATIA        | Aucun               | TD06     |
 |          | 14h-16h     | Challenge    | Aucun               | TD06     |
-| 14/01/19 | 9h30-18h30  | AI Game      | Aucun               | TD06     |
-| 17/01/19 | 14h30-18h30 | Neural Net   | Aucun               | TD06     |
+| 14/01/19 | 9h30-18h30  | AI Game      | Compétition         | TD06     |
+| 17/01/19 | 14h30-18h30 | Neural Net   | Exposé              | TD06     |
 
-
-Pour AI Game, l'examen est une compétition d'awalé. 
-Pour 'Neural Net', l'examen est une soutenance de projet. 
-Veuillez voir directement avec vos enseignants pour les détails.
+Veuillez voir directement avec vos enseignants si vous avez une question.
