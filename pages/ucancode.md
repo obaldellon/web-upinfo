@@ -63,6 +63,7 @@ Le site web du cours pointe vers de nombreuses autres ressources en ligne pour p
 
 | Concours  | Date          | #étus |
 |-----------+---------------+-------|
+| UCAnCODE  | Décembre 2018 |   199 |
 | UCAnCODE  | Avril 2018    |   148 |
 | HashCode  | Mars 2018     |    58 |
 | UCAnCODE  | Décembre 2017 |   120 |
