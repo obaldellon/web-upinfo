@@ -9,7 +9,8 @@ header:
 permalink: "/etus/ucancode/"
 ---
 
-Rejoignez-nous sur facebook : [UCAnCODE](https://www.facebook.com/ConcoursUCAnCode/)
+Rejoignez-nous sur **facebook** : [UCAnCODE](https://www.facebook.com/ConcoursUCAnCode/).  
+Rejoignez-nous sur **moodle** : [cours UCAnCODE](https://lms.unice.fr/course/view.php?id=8151).
 
 Nous présentons les diverses activités proposées par le département d'informatique autour des concours de programmation.
 De nombreux concours de programmation existent à travers le monde pour mettre en pratique les connaissances en algorithmique et programmation des étudiants et se confronter à d'autres. 
