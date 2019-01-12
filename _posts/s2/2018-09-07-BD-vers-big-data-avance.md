@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: "S. Miranda, PR"
 title: "BD vers Big Data avancé"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+teaser: "Ce cours de gestion des données du Big Data comprend 2 parties : une analyse des standards SQL3 et ODMG de l approche hybride du modèle objet relationnel et une classification des systèmes NoSQL (CLE VALEUR et GRAPHE)."
 categories:
   - S2
 tags:
@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "serge.miranda@unice.fr"
+email: "miranda.serge@gmail.com"
 #
 # Styling
 #
@@ -28,13 +28,13 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-### Description ###
-   
-### Calendrier ###
+Ce cours de gestion des données du Big Data comprend 2 parties : une analyse des standards SQL3 et ODMG de l approche hybride du modèle objet relationnel et une classification des systèmes NoSQL (CLE VALEUR et GRAPHE).
+Un cadre formel sur la théorie des catégories est esquissé pour unifier les systèmes polystores ou les approches multimodeles
 
-### Cours ###
 
 ### Modalités de contrôle des connaissances ###
-
+ - Examen final. 
+ - Points bonus pendant les cours.
 ### Ressources ###
 
+Un MOOC ("From Data bases to Big Data") sur FUN lancé début Février (en Anglais) servira de support complémentaire au cours

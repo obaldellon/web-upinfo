@@ -51,9 +51,9 @@ Tous les événements ne sont pas toujours affichés. Cliquez sur 'Rechercher de
 
 ### Appel à sujets ###
 
-<!---
+{% comment %} 
 L'appel à sujets commun aux masters INFO et MIAGE est [ici]({{ site.baseurl }}{% post_url /s2/2019-01-09-TER-appel-a-sujets %}).
--->
+{% endcomment %} 
 
 L'appel à sujets sera publié très prochainement.
 
@@ -97,28 +97,20 @@ Veuillez lire ce document pour [préparer et écrire le rapport]({% include link
 6.  Perspectives et réflexions personnelles
 
 
-Lors de la rédaction du rapport, vous pouvez supposer que le relecteur a
-globalement le même niveau que vous en informatique. Mais c\'est une
-erreur de supposer qu\'il connaît le sujet de votre TER. Il faut donc
-présenter le contexte général, les technologies utilisées. C\'est
-l\'état de l\'art.
+Lors de la rédaction du rapport, vous pouvez supposer que le relecteur a globalement le même niveau que vous en informatique. 
+Mais c\'est une erreur de supposer qu\'il connaît le sujet de votre TER. 
+Il faut donc présenter le contexte général, les technologies utilisées. 
+C\'est l\'état de l\'art.
 
-Dans la partie travail effectué, vous devez présentés les choix
-technologiques que vous avez été amenés à effectuer, décrire
-d\'éventuels logiciels que vous avez écrits, présenter des algorithmes...
-Encore une fois, tout choix doit être justifié. Si la décision vient de
-l\'encadrant, ce n\'est pas une décision, mais une contrainte, et doit
-être présenté comme tel. La justification doit être rationnelle.
+Dans la partie travail effectué, vous devez présentés les choix technologiques que vous avez été amenés à effectuer, décrire d\'éventuels logiciels que vous avez écrits, présenter des algorithmes...
+Encore une fois, tout choix doit être justifié. Si la décision vient de l\'encadrant, ce n\'est pas une décision, mais une contrainte, et doit être présenté comme tel.
+La justification doit être rationnelle. 
 
-Dans la section \"Gestion de Projet\", vous devrez présenter tout ce qui
-a permis, au sens large, de faire fonctionner votre équipe. Le travail
-effectué par chacun des membres du groupe devra être détaillé. Si vous
-avez été amené à utiliser des logiciels de gestion de source (CVS,
-SVN...) ou des outils de test, vous pouvez les présenter ici (ou en 3 si
-vous préférez).
+Dans la section \"Gestion de Projet\", vous devrez présenter tout ce qui a permis, au sens large, de faire fonctionner votre équipe. 
+Le travail effectué par chacun des membres du groupe devra être détaillé. 
+Si vous avez été amené à utiliser des logiciels de gestion de source (CVS, SVN, GIT,...) ou des outils de test, vous pouvez les présenter ici (ou en 3 si vous préférez).
 
-La conclusion résume les tâches effectuées, les taches restant à faire,
-les problèmes rencontrés...
+La conclusion résume les tâches effectuées, les taches restant à faire, les problèmes rencontrés...
 
 ### Soutenance orale ###
 
