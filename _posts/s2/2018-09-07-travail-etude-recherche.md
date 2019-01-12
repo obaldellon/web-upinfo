@@ -51,7 +51,11 @@ Tous les événements ne sont pas toujours affichés. Cliquez sur 'Rechercher de
 
 ### Appel à sujets ###
 
+<!---
 L'appel à sujets commun aux masters INFO et MIAGE est [ici]({{ site.baseurl }}{% post_url /s2/2019-01-09-TER-appel-a-sujets %}).
+-->
+
+L'appel à sujets sera publié très prochainement.
 
 ### Évaluation du TER ###
 
