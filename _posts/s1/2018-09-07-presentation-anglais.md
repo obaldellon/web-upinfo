@@ -72,18 +72,18 @@ Le planning détaillé est le suivant :
     - 10h30 : Malalel Steve -- ***The 5 most present roles in video games***
     - 10h45 : Marilier Cyril -- ***The 4 most common characteristics of the people with Asperger syndrome***
     - 11h : Marion Pierre -- ***The 7 most interesting places in New Caledonia***
-    - 11h15 : Marmone--marini Michel --
+    - 11h15 : Marmone--marini Michel -- ***5 coded messages that have never been yet decrypted***
     - 11h30 : Midouni Billel -- ***My top five of the most powerful armies in the world***
     - 11h45 : Mosbah Nadeur -- ***My top 5 best personality***
     - 12h : Percelay Matthias -- ***My top 7 best street foods in Vietnam***
     - 14h : Qui Theo -- ***The 5 best post-apocalyptic novels***
     - 14h15 : Rostaing Enzo -- ***The 5 greatest running backs of all time***
-    - 14h30 : Saintiny Marc --
-    - 14h45 : Saleem Aqib --
+    <!-- 14h30 : Saintiny Marc -->
+    <!-- 14h45 : Saleem Aqib -->
     - 15h : Soumare dit sabathier Sherine -- ***Norse Mythology - 5 Strangest myths***
-    - 15h30 : Tramier Chris --
+    <!-- 15h30 : Tramier Chris -->
     - 15h45 : Trujillo Alexandre -- ***The 3 best MMORPG***
-    - 16h : Valdenaire Aymeric -- ***5 great move shot***
+    - 16h : Valdenaire Aymeric -- ***5 great move shots***
     - 16h15 : Vasseur Adrien -- ***The 6 best 60's rock bands***
-    - 16h30 : Wolkiewiez Simon --
+    <!-- 16h30 : Wolkiewiez Simon -->
 
