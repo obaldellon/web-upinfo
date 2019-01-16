@@ -37,7 +37,6 @@ header:
 
 **Vous devrez préparer des transparents que vous enverrez en pdf au plus tard le Lundi 14 janvier à 20h00.**
 
-<!-- The 3 best fiction about Virtual Reality -->
 
 Le planning détaillé est le suivant :
  - Mardi 15 Janvier :
@@ -53,19 +52,19 @@ Le planning détaillé est le suivant :
     - 11h30 : Dissaux Thomas -- ***The 3 most interesting Japanese Animation***
     - 11h45 : Djema Sofiane -- ***Maddest scientists***
     - 12h : Doglio Arthur -- ***The 5 best italian westerns***
-    - 14h : El amrani Ouadie --
-    - 14h15 : Fontany--legall Brandon -- ***Top 5 Disappeared Jobs***
+    <!-- 14h : El amrani Ouadie -->
+    - 14h15 : Fontany--legall Brandon -- ***Top 5 Disappeared Jobs when technology evolves***
     - 14h30 : Fu Jia -- ***The 5 best animation studios in the world***
-    - 14h45 : Garnier Romain --
+    - 14h45 : Garnier Romain -- ***The 3 best fiction about Virtual Reality***
     - 15h : Germerie guizouarn Loic -- ***The 4 most famous sailing races***
     - 15h30 : Guiglionia Lucas -- ***The 5 greatest adventurers***
     - 15h45 : Heron Violette -- ***Top 5 educational podcast to listen to***
     - 16h : Jung Victor -- ***The 5 greatest movies***
-    - 16h15 : Kiani Hamed --
-    - 16h30 : Lahcene Sofiane --
+    <!-- 16h15 : Kiani Hamed --
+    - 16h30 : Lahcene Sofiane -->
 
   - Mercredi 16 Janvier :
-    - 9h00 : Lopes Anthony --
+    - 9h00 : Lopes Anthony -- ***5 highlights of Portugal***
     - 9h15 : Lotfi Yacine -- ***Top five lagoons in the world***
     - 9h30 : Maccarinelli Chloe -- ***5 reasons to visit New-Caledonia***
     - 9h45 : Mahe Thomas -- ***5 facts about additive manufacturing***
