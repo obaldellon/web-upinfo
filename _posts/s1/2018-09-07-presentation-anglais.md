@@ -60,8 +60,8 @@ Le planning détaillé est le suivant :
     - 15h30 : Guiglionia Lucas -- ***The 5 greatest adventurers***
     - 15h45 : Heron Violette -- ***Top 5 educational podcast to listen to***
     - 16h : Jung Victor -- ***The 5 greatest movies***
-    <!-- 16h15 : Kiani Hamed --
-    - 16h30 : Lahcene Sofiane -->
+    <!-- 16h15 : Kiani Hamed -->
+    <!-- 16h30 : Lahcene Sofiane -->
 
   - Mercredi 16 Janvier :
     - 9h00 : Lopes Anthony -- ***5 highlights of Portugal***
