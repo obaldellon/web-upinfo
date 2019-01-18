@@ -5,7 +5,7 @@ layout: syllabus
 #
 subheadline: "P. Collet, PR"
 title: "Gestion de projet"
-teaser: "intégration continue et le déploiement"
+teaser: "Les notions clés abordées dans ce cours sont l’intégration continue et le déploiement automatique."
 categories:
   - S2
 tags:
@@ -14,6 +14,7 @@ ects: 3
 schedule: "24h"
 website: "https://wiki.unice.fr/display/~collet/Projet+%28S2%29+-+2018-2019"
 email: "philippe.collet@unice.fr"
+==== BASE ====
 #
 # Styling
 #
@@ -27,7 +28,6 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
-
 L’objectif est de poursuivre l’apprentissage du Génie Logiciel commencé au semestre 1 dans les cours Projet de Développement et Génie Logiciel. 
 Les notions clés abordées dans ce cours sont :
 - l'architecture logicielle pour l'interopérabilité (Web Services, architecture REST, principes stateful/stateless)
