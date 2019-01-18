@@ -35,7 +35,7 @@ Vous trouverez ci-dessous le planning des examens du premier semestre.
 **Les horaires sont définitifs, mais les salles sont encore suceptibles de changer.**
 
 | Date     | Heure       | Matière      | Documents autorisés | Salle    |
-|----------+-------------+--------------+---------------------+----------|
+|----------|-------------|--------------|---------------------|----------|
 | 07/01/19 | 10h-12h     | Réso PB      | Tous documents      | TD06     |
 |          | 8h30-12h    | CriticalSyst | Aucun               | 282      |
 |          | 14h-16h     | Adv Prog     | Tous documents      | 282      |
@@ -50,6 +50,6 @@ Vous trouverez ci-dessous le planning des examens du premier semestre.
 | 11/01/19 | 10-12h      | TATIA        | Aucun               | TD06     |
 |          | 14h-16h     | Challenge    | Aucun               | TD06     |
 | 14/01/19 | 9h30-18h30  | AI Game      | Compétition         | TD06     |
-| 17/01/19 | 14h30-18h30 | Neural Net   | Exposé              | TD06     |
+| 25/01/19 | 08h30-12h30 | Neural Net   | Exposé              | TD06     |
 
 Veuillez voir directement avec vos enseignants si vous avez une question.
