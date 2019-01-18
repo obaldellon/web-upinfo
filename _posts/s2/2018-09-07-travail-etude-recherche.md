@@ -37,11 +37,12 @@ Les objectifs pédagogiques du TER sont les suivants :
   - apprendre à travailler seul ou en groupe et de façon autonome.
 
 Les projets commencent mi-février et se termineront par une soutenance mi-juin. 
-Pendant cette période, les étudiants non alternants travailleront sur leur projet l'équivalent de 2 jours par semaine pendant que les étudiants alternants seront en entreprise (jeudi et vendredi).
-
+Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l'équivalent de 2 jours par semaine (pendant que les étudiants alternants seront en entreprise les
+jeudis et vendredis). 
+Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez travailler en groupe. 
 ### Calendrier ###
 
-  - Fin janvier : fin du bonus étudiant (voir appel à sujets).
+  - Fin janvier : fin du bonus étudiant.
   - Mi-février : début des projets.
   - Mi-juin : soutenance finale.
 
@@ -51,12 +52,20 @@ Tous les événements ne sont pas toujours affichés. Cliquez sur 'Rechercher de
 
 ### Appel à sujets ###
 
-{% comment %} 
-L'appel à sujets commun aux masters INFO et MIAGE est [ici]({{ site.baseurl }}{% post_url /s2/2019-01-09-TER-appel-a-sujets %}).
-{% endcomment %} 
 
-L'appel à sujets sera publié très prochainement.
+L'appel à sujets commun aux masters INFO et MIAGE est [ici]({{ site.baseurl }}{% post_url /s2/2019-01-17-TER-appel-a-sujets %}).
+Il a été envoyé à vos professeurs et la liste de sujets sera publiée au fur et à mesure. 
 
+En parallèle, je vous encourage à trouver rapidement un sujet en donnant un bonus (1pt) aux étudiants qui le trouveront avant le 1er février inclus.
+Pour cela, je vous conseille de former un groupe, puis de contacter des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.  
+
+### Affectation des sujets ###
+
+Tout d'abord, vous devez contacter l'encadrant et obtenir son accord pour vous encadrer.
+Ensuite, vous m'envoyer un courriel contenant le titre du sujet et les membres de votre groupe.
+Tous les membres du groupe ainsi que l'encadrant doivent être destinataire de ce courriel.
+
+Les etudiants sans sujet auront un point en moins par semaine de retard à partir de la date du début de malus (voir calendrier). 
 ### Évaluation du TER ###
 
 L’évaluation du TER se fait à travers :
