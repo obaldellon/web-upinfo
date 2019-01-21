@@ -65,9 +65,9 @@ Si vous en faites partie, il vous suffit de nous envoyer un mail - au plus tard 
 
 ### Calendrier ###
 
-  - Vendredi 25 janvier 2019 : Date limite pour proposer un sujet
-  - Mi-février 2019 : Début des projets
-  - fin mai 2019 : soutenance finale MIAGE.
-  - Mi-juin 2019 : soutenance finale INFO.
+  - Vendredi 25 janvier 2019 : Date limite pour proposer un sujet.
+  - Mi-février 2019 : Début des projets.
+  - Fin mai 2019 : Soutenance finale MIAGE.
+  - Mi-juin 2019 : Soutenance finale INFO.
 
 Nous vous remercions par avance pour vos propositions de sujet.
