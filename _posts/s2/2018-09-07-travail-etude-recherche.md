@@ -32,7 +32,7 @@ header:
 ### Présentation ###
 
 Les objectifs pédagogiques du TER sont les suivants :
-  - mettre en oeuvre ensemble les savoirs et savoir-faire travaillés dans les disciplines informatiques,
+  - mettre en œuvre ensemble les savoirs et savoir-faire travaillés dans les disciplines informatiques,
   - s'initier à la gestion du développement d'un projet informatique,
   - s'initier à la recherche scientifique,
   - apprendre à travailler seul ou en groupe et de façon autonome.
@@ -77,7 +77,7 @@ Tout d'abord, vous devez contacter l'encadrant et obtenir son accord pour vous e
 Ensuite, vous m'envoyer un courriel contenant le titre du sujet et les membres de votre groupe.
 Tous les membres du groupe ainsi que l'encadrant doivent être destinataire de ce courriel.
 
-Les etudiants sans sujet auront un point en moins par semaine de retard à partir de la date du début de malus (voir calendrier). 
+Les étudiants sans sujet auront un point en moins par semaine de retard à partir de la date du début de malus (voir [calendrier](#calendrier)).
 
 ### Évaluation du TER ###
 
@@ -89,7 +89,7 @@ L’évaluation du TER se fait à travers :
 
 Un faible poids sera accordé à l’avis de l’encadrant pour lisser les différences d’appréciation.
 
-Le TER sert à évaluer la capacité des étudiants à travailler en groupe sur un thème imposé en durée limitée. Vous devez convaincre le jury que vous êtes des informaticiens en devenir, c’est à dire avant tout des scientifiques. Cela signifie en pratique que toute décision que vous êtes amenés à prendre doit être justifiée par des critères objectifs (coût, performance…).  
+Le TER sert à évaluer la capacité des étudiants à travailler en groupe sur un thème imposé en durée limitée. Vous devez convaincre le jury que vous êtes des informaticiens en devenir, c’est-à-dire avant tout des scientifiques. Cela signifie en pratique que toute décision que vous êtes amenés à prendre doit être justifiée par des critères objectifs (coût, performance…)
 La gestion de projet est une part importante du TER. Il est possible de nommer un chef de projet, mais ce n’est pas obligatoire. Dans tous les cas, cette charge supplémentaire s’ajoute au travail normal.
 
 Le jury de TER est intéressé par le processus de développement et d’analyse que vous avez eu à mettre en place. Un logiciel qui fonctionne ne garantit pas toujours une bonne note : choix technologiques douteux, aucune planification, aucun test… 
@@ -100,7 +100,7 @@ Le rapport sera relu par un ou deux rapporteurs. Le rapport doit impérativement
 Le rapport doit expliquer le sujet et mettre en valeur le travail effectué.  
 **Le rapport devra être déposé au format PDF dans une boîte de dépôt sur Moodle.**
 
-Deux formats sont possibles et votre encadrant est libre de vous imposer un :
+Deux formats sont possibles et votre encadrant est libre de vous en imposer un :
 
 -   Une *note de synthèse* ne doit pas excéder 10 pages sans annexe.
 -   Un *rapport* ne doit pas excéder 30 pages hors annexes.
@@ -130,7 +130,7 @@ La justification doit être rationnelle.
 
 Dans la section \"Gestion de Projet\", vous devrez présenter tout ce qui a permis, au sens large, de faire fonctionner votre équipe. 
 Le travail effectué par chacun des membres du groupe devra être détaillé. 
-Si vous avez été amené à utiliser des logiciels de gestion de source (CVS, SVN, GIT,...) ou des outils de test, vous pouvez les présenter ici (ou en 3 si vous préférez).
+Si vous avez été amené à utiliser des logiciels de gestion de source (CVS, SVN, GIT, ...) ou des outils de test, vous pouvez les présenter ici (ou en 3 si vous préférez).
 
 La conclusion résume les tâches effectuées, les taches restant à faire, les problèmes rencontrés...
 

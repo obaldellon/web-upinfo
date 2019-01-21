@@ -26,7 +26,7 @@ header:
 Dans les nouvelles maquettes des Masters 1 MIAGE et Informatique figurent, au deuxième semestre, pour les étudiants qui ne sont pas en alternance, un projet de développement. 
 Les objectifs pédagogiques de ce projet sont les suivants :
 
-- mettre en oeuvre ensemble les savoirs et savoir-faire travaillés dans les disciplines informatiques
+- mettre en œuvre ensemble les savoirs et savoir-faire travaillés dans les disciplines informatiques
 - s'initier à la gestion du développement d'un projet informatique
 - s'initier à la recherche scientifique,
 - apprendre à travailler de façon autonome
