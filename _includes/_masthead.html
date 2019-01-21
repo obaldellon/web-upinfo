@@ -1,6 +1,16 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
-{% if site.logo %}
+{% if page.logo %}
+{% if page.logo != ""%}
+<div class="row-header">
+	<div class="small-12 columns-header">
+		<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+		</a>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+{% elsif site.logo %}
 <div id="masthead-no-image-header">
 	<div class="row-header">
 		<div class="small-12 columns-header">
@@ -51,7 +61,17 @@
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
-{% if site.logo %}
+	{% if page.logo %}
+		{% if page.logo != ""%}
+		<div class="row-header">
+			<div class="small-12 columns-header">
+				<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+					<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				</a>
+			</div><!-- /.small-12.columns -->
+		</div><!-- /.row -->
+		{% endif %}
+{% elsif site.logo %}
 	<div class="row-header">
 		<div class="small-12 columns-header">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">

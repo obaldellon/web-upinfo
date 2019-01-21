@@ -2,6 +2,7 @@
 layout: page
 show_meta: false
 title: "FabLab"
+logo: ""
 subheadline: ""
 teaser: "Vous avez toujours rêvé de construire des prototypes et d'utiliser une imprimante 3D, grâce au FabLab c'est désormais possible."
 header:

@@ -2,6 +2,7 @@
 permalink: /search/
 layout: page
 title: "Search"
+logo: ""
 sitemap: false
 ---
 

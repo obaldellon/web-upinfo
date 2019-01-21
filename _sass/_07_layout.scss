@@ -92,8 +92,8 @@ body.video cite { color: #fff; }
 /* Masthead › small-only
 ------------------------------------------------------------------- */
 @mixin flush {
-    float: right;
-    margin-right: 2%;
+    float: left;
+    margin-right: 0;
 }
 
 @media #{$small-only} {

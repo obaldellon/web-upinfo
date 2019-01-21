@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Liste des cours"
+logo: "logo_blanc.png"
 header:
    image_fullwidth: "header-syllabus-unsplash.jpg"
 permalink: "/programme/liste/"

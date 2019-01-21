@@ -3,6 +3,7 @@ layout: page
 title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
+logo: ""
 teaser: ""
 permalink: "/contact/"
 ---

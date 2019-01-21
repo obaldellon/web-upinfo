@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Campus"
 subheadline: "Faculté des sciences"
+logo: "logo_blanc.png"
 permalink: "/campus/"
 #
 # Styling
