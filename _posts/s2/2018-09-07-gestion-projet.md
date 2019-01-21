@@ -14,7 +14,6 @@ ects: 3
 schedule: "24h"
 website: "https://wiki.unice.fr/display/~collet/Projet+%28S2%29+-+2018-2019"
 email: "philippe.collet@unice.fr"
-==== BASE ====
 #
 # Styling
 #
