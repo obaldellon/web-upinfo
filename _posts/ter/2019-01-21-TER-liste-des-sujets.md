@@ -46,6 +46,13 @@ Dans ce TER on s'intéresse à la création d'un scanner 3D. Pour cela, on mo
  - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
+Ce TER s’inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/). L’objectif ici est d’implémenter une version de l’algorithme [A*](https://fr.wikipedia.org/wiki/Algorithme_A*) sur Arduino. La difficulté vient du manque de mémoire disponible sur un Arduino.
+
+### Flotilles de robots
+- Nombre d'étudiants souhaités : entre 2 et 4.
+- Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+- Prérequis : savoir coder en C ou C++.
+
 Ce TER s'inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/) avec des senseurs à ultrasons a été réalisée. L'objectif ici est de réaliser une flottille de robots explorateurs afin d'effectuer une carte de l'espace exploré.
 Ce TER a plusieurs objectifs, à savoir :
 - L'étude des techniques existantes pour l'exploration d'un espace.
