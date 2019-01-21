@@ -40,6 +40,10 @@ Les projets commencent mi-février et se termineront par une soutenance mi-juin.
 Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l'équivalent de 2 jours par semaine (pendant que les étudiants alternants seront en entreprise les
 jeudis et vendredis). 
 Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez travailler en groupe. 
+
+**International students can follow the TER and will defend their project in English. However, communications are in French.**
+
+
 ### Calendrier ###
 
   - Fin janvier : fin du bonus étudiant.
@@ -53,11 +57,18 @@ Tous les événements ne sont pas toujours affichés. Cliquez sur 'Rechercher de
 ### Appel à sujets ###
 
 
-L'appel à sujets commun aux masters INFO et MIAGE est [ici]({{ site.baseurl }}{% post_url /s2/2019-01-17-TER-appel-a-sujets %}).
-Il a été envoyé à vos professeurs et la liste de sujets sera publiée au fur et à mesure. 
+L'appel à sujets est [ici]({{ site.baseurl }}{% post_url /ter/2019-01-17-TER-appel-a-sujets %}).  
 
-En parallèle, je vous encourage à trouver rapidement un sujet en donnant un bonus (1pt) aux étudiants qui le trouveront avant le 1er février inclus.
-Pour cela, je vous conseille de former un groupe, puis de contacter des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.  
+Je vous encourage à trouver un sujet avant le 1er février en donnant un bonus (1pt).
+Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
+
+### Liste des sujets ###
+
+La liste des sujets est disponible [ici]({{ site.baseurl }}{% post_url /ter/2019-01-21-TER-liste-des-sujets %}).  
+Elle sera mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
+
+Vous pouvez aussi consulter les sujets des années précédentes et essayer de contacter les encadrants qui les avaient déposés. 
+Au pire, ils refuseront ou ne vous répondront pas.
 
 ### Affectation des sujets ###
 
@@ -66,6 +77,7 @@ Ensuite, vous m'envoyer un courriel contenant le titre du sujet et les membres d
 Tous les membres du groupe ainsi que l'encadrant doivent être destinataire de ce courriel.
 
 Les etudiants sans sujet auront un point en moins par semaine de retard à partir de la date du début de malus (voir calendrier). 
+
 ### Évaluation du TER ###
 
 L’évaluation du TER se fait à travers :
@@ -81,7 +93,7 @@ La gestion de projet est une part importante du TER. Il est possible de nommer u
 
 Le jury de TER est intéressé par le processus de développement et d’analyse que vous avez eu à mettre en place. Un logiciel qui fonctionne ne garantit pas toujours une bonne note : choix technologiques douteux, aucune planification, aucun test… 
 
-### Rapport écrit ###
+#### Rapport écrit ####
 
 Le rapport sera relu par un ou deux rapporteurs. Le rapport doit impérativement être rédigé avec une présentation claire et une orthographe soignée. 
 Le rapport doit expliquer le sujet et mettre en valeur le travail effectué.  
@@ -94,7 +106,7 @@ Deux formats sont possibles et votre encadrant est libre de vous imposer un :
 
 Veuillez lire ce document pour [préparer et écrire le rapport]({% include link-asset asset="TM_Guide_Redaction_EPFL.pdf" %}).
 
-#### Exemple de plan ####
+##### Exemple de plan #####
 
 1.  Introduction
     -   Présentation du groupe
@@ -121,7 +133,7 @@ Si vous avez été amené à utiliser des logiciels de gestion de source (CVS, S
 
 La conclusion résume les tâches effectuées, les taches restant à faire, les problèmes rencontrés...
 
-### Soutenance orale ###
+#### Soutenance orale ####
 
 La soutenance orale en français dure 15 minutes, suivie d\'une séance de questions (5 minutes). 
 Le temps de parole doit être réparti équitablement entre les membres du groupe. 
