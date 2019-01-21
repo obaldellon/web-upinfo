@@ -5,6 +5,7 @@ layout: page-fullwidth
 #
 subheadline: "M1 INFO et MIAGE"
 title: "Appel à sujets TER"
+logo: "logo_blanc.png"
 teaser: "Le TER (Travail d’Étude et de Recherche) est un stage sous la direction d’un encadrant universitaire ou industriel qui s’effectue par groupe de 2 à 4 étudiants (ingénierie) ou seul (recherche). Il sanctionne la fin du Master 1 et s’étend sur environ 3-4 mois (2 jours par semaine)."
 categories:
   - TER
@@ -13,15 +14,11 @@ tags:
 #
 # Styling
 #
-# image:
-#  thumb: "scrappy.jpg"
-#  homepage: "scrappy.jpg"
-#  caption: "https://unsplash.com/"
-# url: "https://unsplash.com/"
+image:
+  thumb: "appel-unsplash.jpg"
+  homepage: "header-appel-unsplash.jpg"
 header:
-#  image_fullwidth: "header-scrappy.jpg"
-#    caption: This is a caption for the header image with link
-#  caption_url: https://unsplash.com/
+  image_fullwidth: "header-appel-unsplash.jpg"
 ---
 
 

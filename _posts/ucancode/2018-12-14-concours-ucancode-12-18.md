@@ -5,6 +5,7 @@ layout: page
 #
 subheadline: "UCAnCODE"
 title: "Concours du 14 décembre 2018"
+logo: ""
 teaser: "110 équipes composées de 199 participants ont soumis 1416 programmes pour résoudre les 8 problèmes proposés."
 categories:
   - UCAnCODE

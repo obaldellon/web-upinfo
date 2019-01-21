@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "J.-C. Régin, Pr - M. Pelleau, MCF"
 title: "Présentation en anglais"
+logo: "logo_blanc.png"
 teaser: "Les étudiants présenteront en anglais un sujet de leur choix."
 categories:
   - S1

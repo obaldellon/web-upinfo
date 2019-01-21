@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "P. Collet, PR"
 title: "Gestion de projet"
+logo: "logo_blanc.png"
 teaser: "Les notions clés abordées dans ce cours sont l’intégration continue et le déploiement automatique."
 categories:
   - S2

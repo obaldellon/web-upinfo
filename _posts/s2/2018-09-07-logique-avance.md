@@ -10,6 +10,7 @@ layout: syllabus
 #
 subheadline: "E. Lozes, PR"
 title: "Logique avancée"
+logo: "logo_blanc.png"
 teaser: "Ce cours invite à découvrir les liens étroits existants entre
 certains formalismes logiques, la théorie des jeux, et la théorie des automates."
 

@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "R. Aparicio, MCF"
 title: "Computer networks"
+logo: "logo_blanc.png"
 teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
 categories:
   - S1

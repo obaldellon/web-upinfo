@@ -5,6 +5,7 @@ layout: page-fullwidth
 #
 subheadline: "M1 INFO et MIAGE"
 title: "Liste des sujets de TER 2019"
+logo: "logo_blanc.png"
 teaser: "Le TER (Travail d’Étude et de Recherche) est un stage sous la direction d’un encadrant universitaire ou industriel qui s’effectue par groupe de 2 à 4 étudiants (ingénierie) ou seul (recherche). Il sanctionne la fin du Master 1 et s’étend sur environ 3-4 mois (2 jours par semaine)."
 categories:
   - TER
@@ -13,15 +14,11 @@ tags:
 #
 # Styling
 #
-# image:
-#  thumb: "scrappy.jpg"
-#  homepage: "scrappy.jpg"
-#  caption: "https://unsplash.com/"
-# url: "https://unsplash.com/"
+image:
+  thumb: "liste-unsplash.jpg"
+  homepage: "header-liste-unsplash.jpg"
 header:
-#  image_fullwidth: "header-scrappy.jpg"
-#    caption: This is a caption for the header image with link
-#  caption_url: https://unsplash.com/
+  image_fullwidth: "header-liste-unsplash.jpg"
 ---
 
 1. TOC
@@ -188,7 +185,7 @@ L'objectif de ce TER est de développer des contraintes globales et des stratég
 
 ### Intégration de méthodes d'optimisation dans PlanetOptim ###
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) et [Assia Kamal Idrissi](assia.elafouani@milanamos.com).
+ - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) et [Assia Kamal Idrissi](mailto:assia.elafouani@milanamos.com).
  - Prérequis : bien programmer en java ; connaître les bases de données.
 
 Ce travail porte sur l'intégration de méthodes d'optimisation développées par les encadrants dans le logiciel PlanetOptim développé par l'entreprise Milanamos à Sophia Antipolis.
@@ -198,7 +195,7 @@ Cette communication passera par une queue de message RabbitMQ.
 
 ### Exploration exhaustive du Redi Cube ###
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [ Julien Bensmail](Julien.Bensmail@unice.fr)
+ - Encadrants : [ Julien Bensmail](mailto:Julien.Bensmail@unice.fr)
 
 Il existe de nombreuses variantes du Rubik's Cube, dont la complexité peut être évaluée via une exploration exhaustive de tous les mélanges possibles et de la manière de passer de l'un à l'autre. Un exemple parlant est celui du Rubik's Cube, pour lequel il est connu que le « Nombre de Dieu » est 20, ce qui signifie que tout mélange peut être résolu via une combinaison d'au plus 20 mouvements.
 
@@ -207,7 +204,7 @@ Le but de ce projet sera de mener une étude similaire sur une variante récente
 
 ### ∆-Debugger de solveur de satisfiabilité en logique propositionnelle
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [ Valentin Montmirail](valentin.montmirail@univ-cotedazur.fr) et [ Marie Pelleau](marie.pelleau@unice.fr)
+ - Encadrants : [ Valentin Montmirail](mailto:valentin.montmirail@univ-cotedazur.fr) et [ Marie Pelleau](mailto:marie.pelleau@unice.fr)
  
  L'écriture de solveur de satisfiabilité, qu'importe la logique, est une tâche extrêmement compliquée. 
 Le développement peut donc impliquer des bugs très difficile à découvrir.

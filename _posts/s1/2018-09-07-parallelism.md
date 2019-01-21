@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "F. Huet, MCF"
 title: "Parallelism"
+logo: "logo_blanc.png"
 teaser: "In this course we will study how to design and implement parallel algorithms for modern multicore machines."
 categories:
   - S1

@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "A. Malapert, MCF"
 title: "Méthodes avancées PPC/PL"
+logo: "logo_blanc.png"
 teaser: "Nous introduisons la programmation linéaire tout en continuant l'apprentissage de la modélisation PPC/PL avec un solveur professionnel très utilisé dans l'industrie."
 categories:
   - S2

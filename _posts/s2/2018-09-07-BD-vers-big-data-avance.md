@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "S. Miranda, PR"
 title: "BD vers Big Data avancé"
+logo: "logo_blanc.png"
 teaser: "Ce cours de gestion des données du Big Data comprend 2 parties : une analyse des standards SQL3 et ODMG de l approche hybride du modèle objet relationnel et une classification des systèmes NoSQL (CLE VALEUR et GRAPHE)."
 categories:
   - S2

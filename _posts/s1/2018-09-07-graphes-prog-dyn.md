@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "A. Malapert, MCF"
 title: "Graphes et programmation dynamique"
+logo: "logo_blanc.png"
 teaser: " La théorie des graphes est une théorie informatique et mathématique. 
 La théorie des graphes a de nombreuses applications dans tous les domaines liés à la notion de réseau (réseau social, réseau informatique, télécommunications, etc.) et dans bien d'autres domaines (par exemple génétique) tant le concept de graphe, à peu près équivalent à celui de relation binaire (à ne pas confondre donc avec graphe d'une fonction), est général."
 categories:

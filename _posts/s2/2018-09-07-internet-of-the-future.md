@@ -5,7 +5,8 @@ layout: syllabus
 #
 subheadline: "R. Aparicio, MCF"
 title: "Internet of the Future"
-teaser: "Classical networking paradigms and architectures are becoming outdated very quickly because of the evolution of users’ habits and technological development. Thus, this course aims to bridge the gap between the basics presented in a classical « Introduction to Networking » course and the real technologies and protocols deployed in Internet nowadays. "
+logo: "logo_blanc.png"
+teaser: "Classical networking paradigms and architecture are becoming outdated very quickly because of the evolution of user&apos; habits and technological development. Thus, this course aims to bridge the gap between the basics presented in a classical &quot;Introduction to Network&quot; course and protocols deployed in Internet nowadays."
 categories:
   - S2
 tags:

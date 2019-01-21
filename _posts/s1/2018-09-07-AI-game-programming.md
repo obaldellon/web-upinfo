@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "J.-C. Régin, PR"
 title: "AI game programming"
+logo: "logo_blanc.png"
 teaser: "This course presents different techniques to program games for one or two players. For two-player games, only full information games will be considered."
 # Ce cours présente différentes techniques pour programmer des jeux à un ou deux joueurs. Pour les jeux à deux joueurs seuls les jeux à information complète seront considérés."
 categories:

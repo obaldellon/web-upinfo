@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "S. Miranda, PR"
 title: "BD vers Big Data"
+logo: "logo_blanc.png"
 teaser: "Le cours a pour objectif de clarifier les concepts et standards qui sous-tendent les types de données (structurées, semi-structurées, non structurées) avec un approfondissement des standards SQL3 et OQL (autour du 3ième Manifeste de Chris DATA) avec des TD Pratiques autour d’Oracle."
 categories:
   - S1

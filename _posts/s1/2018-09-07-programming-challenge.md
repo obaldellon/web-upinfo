@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "A. Malapert, MCF"
 title: "Programming challenge"
+logo: "logo_blanc.png"
 teaser: " This course will introduce an interesting variety of subjects in programming, algorithms, and discrete mathematics though puzzles and problems which have appeared in the International ACM Programming Contest and similar venues."
 categories:
   - S1
