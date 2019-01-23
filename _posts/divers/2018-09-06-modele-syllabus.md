@@ -17,6 +17,8 @@ title: "Écrire un syllabus ou un post"
 logo: "logo_blanc.png"
 # si vous souhaitez le logo par défaut sans le fond blanc :
 # logo: "logo_alpha.png"
+# si vous souhaitez le logo par défaut, ne rien mettre ou :
+# logo: "logo.png"
 teaser: "Vous apprendrez comment écrire facilement un syllabus ou un post, puis à le publier par courriel ou directement par github."
 # Une seule catégorie
 # Pour un syllabus, le semestre du cours : S1, S2, S3, S4.
