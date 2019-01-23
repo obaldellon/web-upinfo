@@ -29,7 +29,7 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-### Intervenant ###
+### Intervenant ###
 Nathalie SAUVAGE
 Expert-Comptable et commissaire aux comptes associé
 Maitre de conférences associé
