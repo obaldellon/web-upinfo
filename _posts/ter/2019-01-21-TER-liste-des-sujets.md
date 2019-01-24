@@ -70,7 +70,7 @@ Ce TER a plusieurs objectifs, à savoir :
   - Développer une librairie de commande du bras de robot Joy-It ROBOT02, ou améliorer une librairie existante.
   - Mettre en œuvre quelques mouvements dans un jeu réel, en fixant les emplacements ou en utilisant une librairie de reconnaissance pour les éléments d'un jeu.
 
-### Localisation des éléments d'un jeu de plateau
+### Localisation des éléments d'un jeu de plateau
  - Nombre d'étudiants souhaités : entre 2 et 4.
  - Encadrants : [Philippe Renevier](mailto:philippe.renevier@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
  
@@ -289,4 +289,23 @@ Le projet est intéressant car il met en oeuvre des technologies émergeantes co
 Le plugin sera intégré dans un logiciel "host" AmpedStudio.com et dans l'outil "dynamic pedalboard" développé par Michel Buffa et son équipe (voir la [vidéo](https://www.youtube.com/watch?v=pe8zg8O-BFs)).
 
 
+### Web Sémantique et IHM : conception automatisée de jeux de plateau distribués sur Table interactive – smartphones et tablettes ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Alain Giboin](mailto:Alain.GIBOIN@univ-cotedazur.fr), [Anne-Marie Pinna Dery](mailto:Anne-Marie.PINNA@univ-cotedazur.fr), [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr) et [Olivier Corby](mailto:olivier.corby@inria.fr)
 
+Des étudiants du parcours IHM ont développé [plusieurs jeux de plateau multi-devices](http://atelierihm.unice.fr/vitrine/category/jeux/) permettant de jouer autour d’une table interactive, chaque joueur ayant une tablette ou un smartphone en sa possession pour réaliser certaines tâches (étapes du jeu). La conception de ces jeux fixe la répartition des tâches à réaliser dans le jeu entre la table et/ou les tablettes. Cette répartition se fait à travers un ensemble de règles.
+
+L’objectif de ce TER est de générer les conceptions possibles respectant un ensemble variable de règles de répartition à partir d’un arbre de tâches annoté par la nature publique ou secrète des données manipulées dans les tâches. Les différentes conceptions doivent être visualisables sous forme de graphes, d'arbres, etc. Les étudiants testeront leur solution à partir des arbres de taches de jeux déjà développés.
+
+Les étudiants utiliseront l’outil [Corese](http://corese.inria.fr). Le langage RDF permet de décrire les tâches annotées. Sparql est un langage de requêtes qui permet d’interroger du RDF. Le moteur de règles permet de faire les déductions. La visualisation se fait par transformation de règles vers la librairie [D3.js](https://d3js.org/), la visualisation arborescente et la visualisation graphe sont déjà intégrées à Corese.
+
+
+### développement de techniques d'interactions dans 7wonders et études expérimentales ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Alain Giboin](mailto:Alain.GIBOIN@univ-cotedazur.fr), [Anne-Marie Pinna Dery](mailto:Anne-Marie.PINNA@univ-cotedazur.fr) et [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr)
+
+Le travail s'inscrit dans des travaux de recherche étudiant la conception et la réalisation de systèmes interactifs répartis sur plusieurs dispositifs. Ici ces systèmes sont des jeux de plateaux comme [7wonders]() et les dispositifs sont une table (tactile et tangible) et des tablettes (une par joueur). La conception, s'intéressant plus particulièrement à la répartition des actions du jeu entre la table et/ou les tablettes ainsi que les transitions entre ces actions, se base sur la théorie de la territorialité pour les tables interactives [Scott 2010]. 
+
+À partir d'une version de 7wonders développée en javascript (clients et serveur), le travail consiste à étudier les transitions des actions faites sur la table ou une tablette vers l'autre dispositif. Le groupe doit donc analyser le jeu pour proposer les situations où les transitions sont le plus cruciales. Il faut aussi développer les mécanismes d'initialisation des situations et des modalités de transitions et de répartition choisies, ainsi que plusieurs techniques d'interactions (et de répartitions) pour les actions concernées. La réalisation et l'interprétation d'expérimentations (avec des utilisateurs) sont l'objectif principal de ce sujet.
+
+[Scott 2010] Stacey Scott and Seelagh Carpendale. 2010. Theory of Tabletop Territoriality. In C. Müller-Tomfelde (Ed.) Tabletops - Horizontal Interactive Displays, pages 375-406. Springer, Heidelberg (2010) 
