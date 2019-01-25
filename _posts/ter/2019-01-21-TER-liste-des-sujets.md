@@ -312,7 +312,7 @@ Le travail s'inscrit dans des travaux de recherche étudiant la conception et la
 
 
 ### Deep Learning for Solving Network Problems ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaités : 1.
  - Encadrants :[Ramon Aparicio-Pardo et Lucile Sassatelli](mailto:raparicio@i3s.unice.fr,sassatelli@i3s.unice.fr)
 
 
