@@ -19,6 +19,8 @@ logo: "logo_blanc.png"
 # logo: "logo_alpha.png"
 # si vous souhaitez le logo par défaut, ne rien mettre ou :
 # logo: "logo.png"
+# Pour la version du logo pour la licence ajouter '-l' au nom :
+# logo: "logo_blanc-l.png"
 teaser: "Vous apprendrez comment écrire facilement un syllabus ou un post, puis à le publier par courriel ou directement par github."
 # Une seule catégorie
 # Pour un syllabus, le semestre du cours : S1, S2, S3, S4.
