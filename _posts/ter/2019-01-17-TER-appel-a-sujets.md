@@ -5,6 +5,7 @@ layout: page-fullwidth
 #
 subheadline: "M1 INFO et MIAGE"
 title: "Appel à sujets TER"
+logo: "logo_blanc.png"
 teaser: "Le TER (Travail d’Étude et de Recherche) est un stage sous la direction d’un encadrant universitaire ou industriel qui s’effectue par groupe de 2 à 4 étudiants (ingénierie) ou seul (recherche). Il sanctionne la fin du Master 1 et s’étend sur environ 3-4 mois (2 jours par semaine)."
 categories:
   - TER
@@ -13,15 +14,11 @@ tags:
 #
 # Styling
 #
-# image:
-#  thumb: "scrappy.jpg"
-#  homepage: "scrappy.jpg"
-#  caption: "https://unsplash.com/"
-# url: "https://unsplash.com/"
+image:
+  thumb: "appel-unsplash.jpg"
+  homepage: "header-appel-unsplash.jpg"
 header:
-#  image_fullwidth: "header-scrappy.jpg"
-#    caption: This is a caption for the header image with link
-#  caption_url: https://unsplash.com/
+  image_fullwidth: "header-appel-unsplash.jpg"
 ---
 
 
@@ -29,7 +26,7 @@ header:
 Dans les nouvelles maquettes des Masters 1 MIAGE et Informatique figurent, au deuxième semestre, pour les étudiants qui ne sont pas en alternance, un projet de développement. 
 Les objectifs pédagogiques de ce projet sont les suivants :
 
-- mettre en oeuvre ensemble les savoirs et savoir-faire travaillés dans les disciplines informatiques
+- mettre en œuvre ensemble les savoirs et savoir-faire travaillés dans les disciplines informatiques
 - s'initier à la gestion du développement d'un projet informatique
 - s'initier à la recherche scientifique,
 - apprendre à travailler de façon autonome
@@ -68,9 +65,9 @@ Si vous en faites partie, il vous suffit de nous envoyer un mail - au plus tard 
 
 ### Calendrier ###
 
-  - Vendredi 25 janvier 2019 : Date limite pour proposer un sujet
-  - Mi-février 2019 : Début des projets
-  - fin mai 2019 : soutenance finale MIAGE.
-  - Mi-juin 2019 : soutenance finale INFO.
+  - Vendredi 25 janvier 2019 : Date limite pour proposer un sujet.
+  - Mi-février 2019 : Début des projets.
+  - Fin mai 2019 : Soutenance finale MIAGE.
+  - Mi-juin 2019 : Soutenance finale INFO.
 
 Nous vous remercions par avance pour vos propositions de sujet.

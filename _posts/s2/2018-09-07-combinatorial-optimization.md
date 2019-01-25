@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "J.-C. Régin, PR"
 title: "Combinatorial Optimization"
+logo: "logo_blanc.png"
 teaser: "Ce cours présente différentes méthodes, comme les algorithmes gloutons, pour résoudre les problèmes d’optimisation combinatoire. La modélisation de ces problèmes est aussi considérée."
 categories:
   - S2

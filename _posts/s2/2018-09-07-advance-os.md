@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "S. Touati, PR"
 title: "Advance OS"
+logo: "logo_blanc.png"
 teaser: "We will learn some internal concepts on operating systems and their kernels."
 categories:
   - S2

@@ -18,7 +18,7 @@ tags:
 #
 image:
   thumb: "scrappy.jpg"
-  homepage: "scrappy.jpg"
+  homepage: "header-scrappy.jpg"
 #  caption: "https://unsplash.com/"
 # url: "https://unsplash.com/"
 header:

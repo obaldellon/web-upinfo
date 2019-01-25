@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "P. Collet, PR"
 title: "Génie logiciel"
+logo: "logo_blanc.png"
 teaser: "L’objectif est de prolonger l’apprentissage du développement en partant du paradigme de la programmation orientée objet acquis en Licence vers des méthodes et techniques du Génie Logiciel. L’évolution se fera par l’étude de design patterns et de notions de métriques, puis par la programmation orientée composant."
 categories:
   - S1

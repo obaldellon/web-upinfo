@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "A. Malapert, MCF"
 title: "Travail d'étude et de recherche (TER)"
+logo: "logo_blanc.png"
 teaser: "Ce projet complète le projet de développement. L'objectif est de comprendre, formaliser, analyser, et répondre aux besoins du logiciel en termes de structures de données, d'algorithmes, d'aide à la décision, ou même d'intelligence artificielle."
 categories:
   - S1

@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "C. Di Giusto, MCF"
 title: "Communication and Concurrency"
+logo: "logo_blanc.png"
 teaser: "L’objectif du cours est d'introduire des formalismes mathématiques pour modéliser et raisonner sur les propriétés de systèmes parallèles."
 categories:
   - S2

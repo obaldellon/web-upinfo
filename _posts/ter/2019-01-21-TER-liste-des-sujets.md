@@ -5,6 +5,7 @@ layout: page-fullwidth
 #
 subheadline: "M1 INFO et MIAGE"
 title: "Liste des sujets de TER 2019"
+logo: "logo_blanc.png"
 teaser: "Le TER (Travail d’Étude et de Recherche) est un stage sous la direction d’un encadrant universitaire ou industriel qui s’effectue par groupe de 2 à 4 étudiants (ingénierie) ou seul (recherche). Il sanctionne la fin du Master 1 et s’étend sur environ 3-4 mois (2 jours par semaine)."
 categories:
   - TER
@@ -13,15 +14,11 @@ tags:
 #
 # Styling
 #
-# image:
-#  thumb: "scrappy.jpg"
-#  homepage: "scrappy.jpg"
-#  caption: "https://unsplash.com/"
-# url: "https://unsplash.com/"
+image:
+  thumb: "liste-unsplash.jpg"
+  homepage: "header-liste-unsplash.jpg"
 header:
-#  image_fullwidth: "header-scrappy.jpg"
-#    caption: This is a caption for the header image with link
-#  caption_url: https://unsplash.com/
+  image_fullwidth: "header-liste-unsplash.jpg"
 ---
 
 1. TOC
@@ -49,6 +46,13 @@ Dans ce TER on s'intéresse à la création d'un scanner 3D. Pour cela, on mo
  - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
+Ce TER s’inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/). L’objectif ici est d’implémenter une version de l’algorithme [A*](https://fr.wikipedia.org/wiki/Algorithme_A*) sur Arduino. La difficulté vient du manque de mémoire disponible sur un Arduino.
+
+### Flotilles de robots
+- Nombre d'étudiants souhaités : entre 2 et 4.
+- Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+- Prérequis : savoir coder en C ou C++.
+
 Ce TER s'inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/) avec des senseurs à ultrasons a été réalisée. L'objectif ici est de réaliser une flottille de robots explorateurs afin d'effectuer une carte de l'espace exploré.
 Ce TER a plusieurs objectifs, à savoir :
 - L'étude des techniques existantes pour l'exploration d'un espace.
@@ -66,7 +70,7 @@ Ce TER a plusieurs objectifs, à savoir :
   - Développer une librairie de commande du bras de robot Joy-It ROBOT02, ou améliorer une librairie existante.
   - Mettre en œuvre quelques mouvements dans un jeu réel, en fixant les emplacements ou en utilisant une librairie de reconnaissance pour les éléments d'un jeu.
 
-### Localisation des éléments d'un jeu de plateau
+### Localisation des éléments d'un jeu de plateau
  - Nombre d'étudiants souhaités : entre 2 et 4.
  - Encadrants : [Philippe Renevier](mailto:philippe.renevier@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
  
@@ -187,7 +191,7 @@ L'objectif de ce TER est de développer des contraintes globales et des stratég
 
 
 ### Intégration de méthodes d'optimisation dans PlanetOptim ###
- - Nombre d'étudiants souhaités : 1.
+ - Nombre d'étudiants souhaités : 2 et 4.
  - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) et [Assia Kamal Idrissi](mailto:assia.elafouani@milanamos.com).
  - Prérequis : bien programmer en java ; connaître les bases de données.
 
@@ -222,3 +226,86 @@ Nous pouvons donc simplifier le test t, en supprimant certaines parties par exem
   - [Zel01] Andreas Zeller. Automated debugging : Are we close. IEEE Computer, 34(11) :26–31, 2001.
   - [Zel05] Andreas Zeller. Why Programs Fail : A Guide to Systematic Debugging. Morgan Kauf- mann Publishers Inc., San Francisco, CA, USA, 2005.
 
+### Diagnostic et théranostic par des méthodes de machine learning appliquées à des données métabolomiques ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Michel Barlaud](mailto:barlaud@i3s.unice.fr)
+ - Prérequis : bonne maîtrise des techniques d'apprentissage supervisées (SVM, LASSO, etc) ; programmation Matlab ; des connaissances en optimisation convexe sont un plus.
+ 
+Avec sa plateforme de spectrométrie de masse et sa forte interface avec des cliniciens, le laboratoire TIRO étudie des méthodes innovantes de métabolomique notamment pour le dépistage, diagnostic et théragnostic dans le domaine de différents cancers (sein, rein, thyroïde et gliome). La métabolomique est une approche nouvelle et émergente qui consiste à analyser les petites molécules (métabolites) contenus dans un échantillon de tissu ou de fluide biologique.
+Chaque analyse fournit de grosses quantités de données qu'il faut traiter pour dériver des signatures pertinentes permettant une prise en charge personnalisée des patients ou une meilleure compréhension des mécanismes biologiques sous-jacents.
+
+Dans ce stage, nous proposons d'analyser les données de métabolomique issues de patients grâce à des techniques les plus récentes en Machine Learning (classification supervisée avec sélection de biomarqueurs avec des approches d'optimisation convexe), développées au laboratoire I3S et à Nice. Ils seront intégrés dans les méthodes de traitement de données de métabolomique mis en place par le laboratoire TIRO pour des finalités en médecine et toxicologie. Le stage se déroulera au laboratoire TIRO (Faculté de Médecine) en interface avec le laboratoire I3S.
+
+### Couplage optimisé dans les modèles pour l'écologie ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Cinzia Di Giusto](mailto:cdigiusto@i3s.unice.fr).
+ - Prérequis : bien programmer en java ; un intérêt en programmation par contraintes.
+
+Un écosystème est un système intégrant des agents biotiques et abiotiques qui interagissent entre eux.
+Nous modélisons les écosystèmes comme un ensemble d'agents et un ensemble de règles de réécriture qui expriment les conditions d'apparition et disparition des agents.
+
+La similarité entre deux écosystèmes peut être définie au niveau de la syntaxe comme un problème d'optimisation .
+Elle est basée sur des contraintes qui mettent en relation les agents et les règles des deux systèmes. La fonction objectif majore le nombre d'éléments appariés et pénalise ceux qui ne correspondent pas parfaitement. Des coefficients sont utilisés pour pondérer les préférences et diriger la recherche des correspondances.
+
+Au cours du stage l'étudiant devra:
+- Modéliser la fonction de gain dans l'outil d'optimisation de son choix;
+- Implémenter un traducteur automatique pour générer les fonctions de gain à partir de la spécification des écosystèmes;
+- Tester son implémentation sur les modèles à nos disposition, pour étudier les limites de la méthode proposée.
+
+
+### Exploitation de la faille de débordement de buffer ou de pile ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Sid Touati](mailto:sid.touati@unice.fr).
+ - Prérequis : programmation C, programmation assembleur x86, compilateur gcc. 
+ - Référence : Aleph One, "Smashing The Stack For Fun And Profit". 
+
+Lorsqu'un programme contient un bug de type "débordement de pile ou de buffer" (stack overflow), il est théoriquement possible de lui faire exécuter un code malicieux. 
+Cela se fait en fournissant un jeu de données corrompues à l'entrée de ce programme. 
+Ces données corrompues contiennent un code malicieux, qui sera stocké sur la pile d'exécution du programme (pile de fonction).
+
+Ensuite, en déroutant le flot d'exécution du programme à la fin d'une fonction (grâce à l'instruction RET), il est possible de faire brancher brancher le programme vers un code malicieux stocké sur la pile.
+Les codes attaqués peuvent être de différentes natures. Bien sûr, le cas le plus dangereux est l'exploitation de failles dans des primitives ou commandes système. 
+Mais aussi, ce qui est plus commun, est d'exploiter des failles dans des applications moins critiques, mais largement diffusées (navigateurs web, serveurs web, ou toute autre application).
+Ces failles de type "stack overflow" sont connues depuis plusieurs décennies, et continuent d'exister dans plusieurs applications actuelles. Il existe des sites web qui recensent ces failles, que les pirates essayent d'exploiter rapidement avant qu'un patch ne vienne corriger le bug. 
+Parfois, des failles ne sont pas rendues publique pour éviter qu'elles ne soient exploitées, ou pour justement les exploiter en toute discrétion (et ne pas inciter à les colmater).
+
+Le but de ce TER est de comprendre le mécanisme bas niveau qui permet d'exploiter un bug informatique de type débordement de buffer ou pile. 
+Idéalement l'étudiant devrait l'expérimenter sur sa machine avec des codes exemples simples, et montrer qu'il arrive à "pirater" un code bugué.
+Ce TER est destiné à un étudiant intéressé par les aspects d'informatique bas niveau (système d'exploitation, compilation, programmation assembleur, programmation C). 
+
+
+### Adaptation d'un plugin audio instrument virtuel VSTi de C++ vers WebAudio ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Michel Buffa](mailto:micbuffa@gmail.com).
+
+L'objectif de ce TER est d'adaptater un plugin audio instrument virtuel VSTi écrit en C++ vers le format WebAudioModule (WebAssembly) pour l'intégrer dans logiciels hôte/séquencer en ligne basés Web.
+Le standard [WebAudioModules](http://webaudiomodules.org/), propose de cross compiler les plugins "standards" du monde natif (VST, etc.)  de C++ vers du WebAssembly + création de GUI photo-réaliste à l'aide de WebComponents, par exemple, ceux de [WebAudio Controls](https://github.com/g200kg/webaudio-controls).
+
+Le plugin original que nous proposons de transposer vers le Web est un "instrument virtuel" au format VSTi :  revitar2[1], qui est open source et qui semble être assez simple pour un projet étudiant. 
+La vidéo de la version originale [ici](https://www.youtube.com/watch?v=7VCv89lC1aA)
+Le source est disponible [ici](https://www.kvraudio.com/product/revitar-2-by-cuttermusic) voir aussi sur [github](https://github.com/SwooshyCueb/Revitar2).
+Le projet est intéressant car il met en oeuvre des technologies émergeantes comme WebAssembly et WebComponents. Vous aurez le support des auteurs du framework WebAudioModules, et de MichelBuffa, expert WebAudio et WebComponents.
+
+Le plugin sera intégré dans un logiciel "host" AmpedStudio.com et dans l'outil "dynamic pedalboard" développé par Michel Buffa et son équipe (voir la [vidéo](https://www.youtube.com/watch?v=pe8zg8O-BFs)).
+
+
+### Web Sémantique et IHM : conception automatisée de jeux de plateau distribués sur Table interactive – smartphones et tablettes ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Alain Giboin](mailto:Alain.GIBOIN@univ-cotedazur.fr), [Anne-Marie Pinna Dery](mailto:Anne-Marie.PINNA@univ-cotedazur.fr), [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr) et [Olivier Corby](mailto:olivier.corby@inria.fr)
+
+Des étudiants du parcours IHM ont développé [plusieurs jeux de plateau multi-devices](http://atelierihm.unice.fr/vitrine/category/jeux/) permettant de jouer autour d’une table interactive, chaque joueur ayant une tablette ou un smartphone en sa possession pour réaliser certaines tâches (étapes du jeu). La conception de ces jeux fixe la répartition des tâches à réaliser dans le jeu entre la table et/ou les tablettes. Cette répartition se fait à travers un ensemble de règles.
+
+L’objectif de ce TER est de générer les conceptions possibles respectant un ensemble variable de règles de répartition à partir d’un arbre de tâches annoté par la nature publique ou secrète des données manipulées dans les tâches. Les différentes conceptions doivent être visualisables sous forme de graphes, d'arbres, etc. Les étudiants testeront leur solution à partir des arbres de taches de jeux déjà développés.
+
+Les étudiants utiliseront l’outil [Corese](http://corese.inria.fr). Le langage RDF permet de décrire les tâches annotées. Sparql est un langage de requêtes qui permet d’interroger du RDF. Le moteur de règles permet de faire les déductions. La visualisation se fait par transformation de règles vers la librairie [D3.js](https://d3js.org/), la visualisation arborescente et la visualisation graphe sont déjà intégrées à Corese.
+
+
+### développement de techniques d'interactions dans 7wonders et études expérimentales ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Alain Giboin](mailto:Alain.GIBOIN@univ-cotedazur.fr), [Anne-Marie Pinna Dery](mailto:Anne-Marie.PINNA@univ-cotedazur.fr) et [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr)
+
+Le travail s'inscrit dans des travaux de recherche étudiant la conception et la réalisation de systèmes interactifs répartis sur plusieurs dispositifs. Ici ces systèmes sont des jeux de plateaux comme [7wonders](http://www.7wonders.net/) et les dispositifs sont une table (tactile et tangible) et des tablettes (une par joueur). La conception, s'intéressant plus particulièrement à la répartition des actions du jeu entre la table et/ou les tablettes ainsi que les transitions entre ces actions, se base sur la théorie de la territorialité pour les tables interactives [Scott 2010]. 
+
+À partir d'une version de 7wonders développée en javascript (clients et serveur), le travail consiste à étudier les transitions des actions faites sur la table ou une tablette vers l'autre dispositif. Le groupe doit donc analyser le jeu pour proposer les situations où les transitions sont le plus cruciales. Il faut aussi développer les mécanismes d'initialisation des situations et des modalités de transitions et de répartition choisies, ainsi que plusieurs techniques d'interactions (et de répartitions) pour les actions concernées. La réalisation et l'interprétation d'expérimentations (avec des utilisateurs) sont l'objectif principal de ce sujet.
+
+[Scott 2010] Stacey Scott and Seelagh Carpendale. 2010. Theory of Tabletop Territoriality. In C. Müller-Tomfelde (Ed.) Tabletops - Horizontal Interactive Displays, pages 375-406. Springer, Heidelberg (2010) 

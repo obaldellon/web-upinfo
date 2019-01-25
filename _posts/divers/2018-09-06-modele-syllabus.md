@@ -10,6 +10,15 @@ layout: syllabus
 #
 subheadline: "Prénom Nom, MCF/PR"
 title: "Écrire un syllabus ou un post"
+# Vous pouvez changer le logo qui apparait dans l'entête
+# si vous ne souhaitez pas de logo :
+# logo: ""
+# si vous souhaitez le logo blanc :
+logo: "logo_blanc.png"
+# si vous souhaitez le logo par défaut sans le fond blanc :
+# logo: "logo_alpha.png"
+# si vous souhaitez le logo par défaut, ne rien mettre ou :
+# logo: "logo.png"
 teaser: "Vous apprendrez comment écrire facilement un syllabus ou un post, puis à le publier par courriel ou directement par github."
 # Une seule catégorie
 # Pour un syllabus, le semestre du cours : S1, S2, S3, S4.
@@ -60,7 +69,7 @@ header:
 
 La gestion des ressources multimédia n'est jamais simple.
 Toutes les ressources sont placées dans un même répertoire. 
-La macro `link-asset` vous permet de de faire des liens facilement.
+La macro `link-asset` vous permet de faire des liens facilement.
 
 Pour notre modèle, les ressources sont dans le répertoire :
 ```{% include link-asset %}```

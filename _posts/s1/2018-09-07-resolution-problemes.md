@@ -5,7 +5,6 @@ layout: syllabus
 #
 subheadline: "M. Pelleau, MCF"
 title: "Résolution de problèmes"
-logo: "logo_blanc.png"
 teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être résolus, tels que l’allocation de portes d’embarquement aux avions, la recherche de chemins sous contraintes, etc. On utilisera la programmation par contraintes afin de résoudre ces problèmes."
 # Différents types de méthodes seront présentées, comme les algorithmes gloutons, la programmation par contraintes et la programmation linéaire"
 categories:
@@ -20,12 +19,12 @@ email: "marie.pelleau@unice.fr"
 # Styling
 #
 image:
-  thumb: "header-syllabus-unsplash-thumb.jpg"
-  homepage: "header-syllabus-unsplash.jpg"
+  thumb: "reines.png"
+  homepage: "header-reines.png"
 #  caption: "https://unsplash.com/"
   url: "https://unsplash.com/"
 header:
-  image_fullwidth: "header-syllabus-unsplash.jpg"
+  image_fullwidth: "header-reines.png"
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---

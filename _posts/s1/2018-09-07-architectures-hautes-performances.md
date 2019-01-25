@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "S. Touati, PR"
 title: "Architectures hautes performances"
+logo: "logo_blanc.png"
 teaser: "L’informatique est composée d’une partie logicielle et d’une
 partie matérielle. Cette matière est destinée aux étudiants souhaitant approfondir leurs connaissances et compréhension dans le fonctionnement des machines d’aujourd’hui et demain. Ces connaissances sont indispensables pour parfaire vos études en sciences et ingénierie informatiques, mais également pour que vous puissiez écrire des programmes efficaces et performants. Il ne s’agit pas d’un cours de conception de processeurs, mais un cours d’explications des mécanismes internes, vous permettant de comprendre comment le logiciel et le matériel interagissent ensemble."
 categories:
