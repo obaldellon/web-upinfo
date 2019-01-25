@@ -309,3 +309,45 @@ Le travail s'inscrit dans des travaux de recherche étudiant la conception et la
 À partir d'une version de 7wonders développée en javascript (clients et serveur), le travail consiste à étudier les transitions des actions faites sur la table ou une tablette vers l'autre dispositif. Le groupe doit donc analyser le jeu pour proposer les situations où les transitions sont le plus cruciales. Il faut aussi développer les mécanismes d'initialisation des situations et des modalités de transitions et de répartition choisies, ainsi que plusieurs techniques d'interactions (et de répartitions) pour les actions concernées. La réalisation et l'interprétation d'expérimentations (avec des utilisateurs) sont l'objectif principal de ce sujet.
 
 [Scott 2010] Stacey Scott and Seelagh Carpendale. 2010. Theory of Tabletop Territoriality. In C. Müller-Tomfelde (Ed.) Tabletops - Horizontal Interactive Displays, pages 375-406. Springer, Heidelberg (2010) 
+
+
+### Deep Learning for Solving Network Problems ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants :[Ramon Aparicio-Pardo et Lucile Sassatelli](mailto:raparicio@i3s.unice.fr,sassatelli@i3s.unice.fr)
+
+
+In the last years, Deep Reinforcement Learning [1] have obtained ground-breaking results at solving highly complex tasks, such as beating AlphaGo world champion or achieving state of the art results at video games (Atari, Doom). 
+
+In the current Internet and future networks such as 5G, NP problems arise when, for example, we try to smartly route the integral video flows and choose the processing locations where they will be transformed, in order to maximize users’ perceived video quality and/or minimize energy consumption [6]. Such problems are usually tackled with heuristic methods providing only approximated solutions.
+
+A few years ago, Dai et al. [2] has shown the interest of Deep RL to  learn heuristic algorithms to solve some classical NP-hard problems on graphs by combining RL with graph embedding (GE) [3], [4], a kind of representation learning applied to graphs. GE obtains a more compacted and lower dimensional graph representation where the RL scheme can  solve easier the optimization problem.
+
+In this TER, we want to assess  how much we can gain if we adopt this RL+GE architecture to solve classic but complex network problems, as the integer capacitated routing problem. A close problem has been recently addressed by Valadasrki et al [5] by using solely RL, pointing out how the huge size of the native data representations of the problem supposes a challenge to efficiently solve it with ML tools.  
+
+Goal: The goal of the TER is to evaluate how much we can “improve”  the deep RL schema used to solve the routing problem in [5] by adding a GE approach [3].
+- Phase 1: Getting familiar with the problem, envisioned solution and existing codes (GE and RL algorithms).
+- Phase 2: Integration of GE within the existing deep RL code used to solve a network routing problem.
+- Phase 3: Assessment of the gain with GE with respect to the original results.
+ 
+**Expected Skills**
+
+- Languages:
+    - Python language absolutely
+    - Deep Learning libraries (like TensorFlow, Keras, rllab, OpenAI Gym) appreciated 
+- Theory:
+    - Machine Learning, Data Science, particularly Neural Networks theory very recommendable
+    - Classical optimisation theory (Linear Programming, Dual Optimisation, Gradient Optimisation, Combinatorial Optimization) appreciated
+- Technology:
+    - Computer networking notions are welcome, but they are not absolutely necessary.
+
+**References**
+
+1. V. Mnih et al.. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf). Int. Conf. On Machine Learning (ICML), 2016. 
+2. H. Dai, E. B. Khalil, Y. Zhang, B. Dilkina and L. Song. Learning Combinatorial Optimization Algorithms over Graphs. Conf. On Neural Information Processing Systems (NIPS), Dec. 2017.
+3. W. L. Hamilton, R. Ying and J. Leskovec. Representation Learning on Graphs: Methods and Applications. arXiv:1709.05584, Apr. 2018.
+4. H. Cai, V. W. Zheng and K. Chen-Chuan Chang. A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. IEEE Transactions on Knowledge and Data Engineering 30 (2018): 1616-1637.
+5. A. Valadarsky, M. Schapira, D. Shahaf, & A. Tamar., Learning To Route with Deep RL, 1st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA.
+6. [TensorFlow Guide](​https://www.tensorflow.org/guide/)​, the TensorFlow's official documentation. 
+7. R. Aparicio-Pardo and L. Sassatelli. A Green Video Control Plane with Fixed-Mobile Convergence and Cloud-RAN. Internation Teletraffic Congress, Sep. 2018.
+
+
