@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "R. Aparicio, MCF"
 title: "Computer networks"
+logo: "logo_blanc.png"
 teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
 categories:
   - S1
@@ -13,7 +14,7 @@ tags:
   - EN
 ects: 3
 schedule: "24h"
-# website: "#"
+website: "http://www.i3s.unice.fr/~raparicio/m1_compnetw/"
 email: "ramon.aparicio-pardo@unice.fr"
 #
 # Styling

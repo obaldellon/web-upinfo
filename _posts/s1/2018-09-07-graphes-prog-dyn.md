@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "A. Malapert, MCF"
 title: "Graphes et programmation dynamique"
+logo: "logo_blanc.png"
 teaser: " La théorie des graphes est une théorie informatique et mathématique. 
 La théorie des graphes a de nombreuses applications dans tous les domaines liés à la notion de réseau (réseau social, réseau informatique, télécommunications, etc.) et dans bien d'autres domaines (par exemple génétique) tant le concept de graphe, à peu près équivalent à celui de relation binaire (à ne pas confondre donc avec graphe d'une fonction), est général."
 categories:
@@ -34,7 +35,20 @@ La programmation dynamique, une méthode algorithmique pour résoudre des probl�
 
 ### Contenu ###
 
-Les diapositives du cours de théorie des graphes sont disponibles : [1up]({{ assets_url }}graphes.pdf) ;  [4up]({{ assets_url }}graphes-4up.pdf) ; [8up]({{ assets_url }}graphes-8up.pdf).
+Les diapositives du cours de théorie des graphes sont disponibles :
+[1 diapositive par page]({% include link-asset asset="graphes.pdf" %}) ;
+[4 diapositives par page]({% include link-asset asset="graphes-4up.pdf" %}) ;
+[8 diapositives par page]({% include link-asset asset="graphes.pdf" %}).
+
+Le plan des cours est le suivant :
+- Généralités et définitions sur les graphes.
+- Graphes eulériens et hamiltoniens.
+- Connexité, arbres, et cheminement.
+- Recherche de connexité et applications
+- Problèmes de plus courts chemins
+- Contrôle continu
+- Généralités et définitions sur la programmation dynamique.
+- Applications algorithmiques de la programmation dynamique. 
 
 ### Ressources ###
 
@@ -58,4 +72,4 @@ Le contrôle des connaissances comprendra 2 épreuves écrites :
 
 - Contrôle Continu (1h)
 - Contrôle Terminal (2h)
-- Épreuve Orale en seconde session
+- Épreuve orale en seconde session

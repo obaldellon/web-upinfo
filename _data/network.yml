@@ -11,11 +11,11 @@
 #   title: "Built on Foundation"
 
 - name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+  url: "https://unsplash.com/"
   class: "rss-link"
   title: "Images by Unsplash"
 
 - name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  url: "http://www.jquery-backstretch.com/"
   class: "sitemap-link"
   title: "Using Backstretch by Scott Robbin"

@@ -18,12 +18,12 @@
   - title: "Semestre 4"
     url: "#"
   - title: "Liste des cours"
-    url: "/blog/archive/"
+    url: "/programme/liste/"
 
 - title: "Campus"
   url: "/campus/"
   side: left
-    
+  
 - title: "Étudiants"
   url: "#"
   side: left
@@ -32,10 +32,12 @@
     url: "#"
   - title: "Stage"
     url: "#"
-  - title: "Concours"
-    url: "/etus/concours/"    
+  - title: "UCAnCode"
+    url: "/etus/ucancode/"    
   - title: "Fablab"
-    url: "#"    
+    url: "/etus/fablab/"
+  - title: "Insertion"
+    url: "/etus/insertion/"    
     
 - title: Blog
   url: "/blog/"
@@ -44,12 +46,8 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-# - title: Liste des cours
-#   side: left
-#   url: "/blog/archive/"
-
 - title: "Candidater"
-  url: "#"    
+  url: "http://univ-cotedazur.fr/education/training?SMFOR18"    
   side: left
 
 #
@@ -59,9 +57,9 @@
   url: "/edt/"
   side: right
 
-- title: "Info"
-  url: "/info/"
-  side: right
+# - title: "Info"
+#   url: "/info/"
+#   side: right
 
 - title: "Search"
   url: "/search/"
@@ -70,3 +68,4 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+

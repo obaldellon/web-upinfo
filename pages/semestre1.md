@@ -4,7 +4,9 @@ show_meta: false
 title: "Master Informatique"
 subheadline: "Premier semestre"
 header:
-   image_fullwidth: "you-can-delete-me-header.png"
+    image_fullwidth: "header-sophia.jpg"
+    caption: "Technopole Sophia Antipolis"
+
 permalink: "/programme/semestre1/"
 ---
 
@@ -13,19 +15,21 @@ permalink: "/programme/semestre1/"
 
 
 ## Cours obligatoires ##
-Pour les étudiants apprentis, le projet d’apprentissage du premier semestre fait office de TER. Les étudiants présentent leurs travaux en anglais accompagnés d’un rapport.
 
 {%include accordion-posts category="S1" tag="REQ" %}
 
+Pour les étudiants apprentis, le projet d’apprentissage du premier semestre fait office de TER.
+Les autres étudiants peuvent réaliser un projet géré par l'EUR à la place du TER.  
+Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rapport.
 
 ## Cours optionnels ##
 
-5 cours au minimum doivent être choisis.
+5 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
 
 {%include accordion-posts category="S1" tag="OPT" %}
 
 ## Mineures ##
-
+  
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
 Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
@@ -36,7 +40,7 @@ Elles proviennent principalement d’autres domaines que l’informatique et son
 - Entrepreneurship
 - Innovation and design thinking
 - Sensors and Network devices
-- Introudction to Machine Learning
+- Introduction to Machine Learning
 - Web Privacy
 - Mobiquitous and Big Data Systems
 - Computational Linguistics

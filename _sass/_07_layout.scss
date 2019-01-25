@@ -1,3 +1,4 @@
+@charset "utf-8";
 /* TOC
 
 - Adjustments: Video Layout
@@ -47,6 +48,10 @@ body.video cite { color: #fff; }
 #navigation {
     -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2);
     box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+
+    [class^='icon-']:before, [class*=' icon-']:before {
+        margin-right: rem-calc(8);
+    }
 }
 
 
@@ -86,10 +91,16 @@ body.video cite { color: #fff; }
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
+@mixin flush {
+    float: left;
+    margin-right: 0;
+}
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        @include flush;
+        height: 150px !important;
+        margin-top: 25px;
     }
     #masthead {
         height: 200px;
@@ -116,7 +127,9 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
-        margin-top: 60px;
+        @include flush;
+        height: 200px !important;
+        margin-top: 40px;
     }
     #masthead {
         height: 280px;
@@ -139,7 +152,9 @@ body.video cite { color: #fff; }
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 80px;
+        @include flush;
+        height: 250px !important;
+        margin-top: 30px;
     }
     #masthead {
         height: 310px;
@@ -162,7 +177,9 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 110px;
+        @include flush;
+        height: 250px !important;
+        margin-top: 65px;
     }
     #masthead {
         height: 380px;

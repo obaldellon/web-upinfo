@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "J.-C. Régin, PR"
 title: "Modélisation Programmation par Contraintes"
+logo: "logo_blanc.png"
 teaser: "Ce cours introduit les principes de la modélisation en programmation par contraintes. Divers problèmes seront considérés et diverses modélisations envisagées. On s’intéressera aux contraintes globales, aux symétries et aux méthodes de recherches de solutions."
 categories:
   - S2

@@ -5,6 +5,7 @@ layout: syllabus
 #
 subheadline: "E. Formenti, PR"
 title: "Neural network and learning"
+logo: "logo_blanc.png"
 teaser: "teaser ..."
 categories:
   - S1

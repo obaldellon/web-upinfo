@@ -1,3 +1,4 @@
+@charset "utf-8";
 /* TOC – Color Variables
 
 - Basics
@@ -118,33 +119,40 @@ $subfooter-link-color: $grey-8;
 /* Code
 ------------------------------------------------------------------- */
 
-$code-background-color: scale-color($secondary-color, $lightness: 70%);
+$code-background-color: #1E3436;//scale-color($secondary-color, $lightness: 70%);
+$code-color: #ffffff;
 
 $highlight-background: #ffffff;
-$highlight-comment: #999988;
-$highlight-error: #a61717;
+$highlight-comment: #AED8E5;
 $highlight-comment-special: #999999;
 $highlight-deleted: #000000;
+$highlight-error: #a61717;
 $highlight-error-2: #aa0000;
-$highlight-literal-string: #d14;
-$highlight-literal-number: #009999;
-$highlight-name-attribut: #008080;
 $highlight-error-background: #e3d2d2;
 $highlight-generic-deleted: #ffdddd;
 $highlight-generic-deleted-specific: #ffaaaa;
+$highlight-generic-error: #aa0000;
+$highlight-generic-heading: #999999;
 $highlight-generic-inserted: #ddffdd;
 $highlight-generic-inserted-specific: #aaffaa;
 $highlight-generic-output: #888888;
 $highlight-generic-prompt: #555555;
-$highlight-subheading: #aaaaaa;
-$highlight-keyword-type: #445588;
+$highlight-generic-traceback: #aa0000;
+$highlight-keyword-type: #B0EBEE;
+$highlight-literal-number: #009999;
+$highlight-literal-string: #88CFF2;
+$highlight-literal-string-regex: #009926;
+$highlight-literal-string-symbol: #990073;
+$highlight-name-attribut: #008080;
 $highlight-name-builtin: #0086B3;
+$highlight-name-builtin-pseudo: #999999;
 $highlight-name-class: #445588;
+$highlight-name-constant: #008080;
 $highlight-name-entity: #800080;
 $highlight-name-exception: #990000;
 $highlight-name-function: #990000;
-$highlight-name-namespace: #555555;
+$highlight-name-namespace: #83FEE6;
 $highlight-name-tag: #000080;
+$highlight-name-variable: #008080;
+$highlight-subheading: #aaaaaa;
 $highlight-text-whitespace: #bbbbbb;
-$highlight-literal-string-regex: #009926;
-$highlight-literal-string-symbol: #990073;
