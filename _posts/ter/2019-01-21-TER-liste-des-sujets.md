@@ -191,8 +191,8 @@ L'objectif de ce TER est de développer des contraintes globales et des stratég
 
 
 ### Intégration de méthodes d'optimisation dans PlanetOptim ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) et [Assia Kamal Idrissi](assia.elafouani@milanamos.com).
+ - Nombre d'étudiants souhaités : 2 et 4.
+ - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) et [Assia Kamal Idrissi](mailto:assia.elafouani@milanamos.com).
  - Prérequis : bien programmer en java ; connaître les bases de données.
 
 Ce travail porte sur l'intégration de méthodes d'optimisation développées par les encadrants dans le logiciel PlanetOptim développé par l'entreprise Milanamos à Sophia Antipolis.
