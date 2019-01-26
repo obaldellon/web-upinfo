@@ -31,11 +31,9 @@ header:
 
 ### Description ###
 
-### Calendrier ###
-
-### Cours ###
+Ces principes seront illustrés sur des problèmes importants comme le *car sequencing* et le *sport scheduling*.
 
 ### Modalités de contrôle des connaissances ###
 
-### Ressources ###
-
+ - Contrôle continu (40%)
+ - Examen Final (60%)

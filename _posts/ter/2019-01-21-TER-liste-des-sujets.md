@@ -351,3 +351,16 @@ Goal: The goal of the TER is to evaluate how much we can “improve”  the deep
 7. R. Aparicio-Pardo and L. Sassatelli. A Green Video Control Plane with Fixed-Mobile Convergence and Cloud-RAN. Internation Teletraffic Congress, Sep. 2018.
 
 
+### Comparaison expérimentale de plateformes de data stream ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants :[Fabrice Huet](fabrice.huet@univ-cotedazur.fr), [Alessio Pagliari](alessio.pagliari@univ-cotedazur.fr).
+ - Prérequis :  connaissances en Java et en shell Unix indispensables.
+
+Depuis quelques années l’analyse des données représente un besoin énorme des entreprises qui essaient d’extraire le plus rapidement et le plus efficacement possible des informations à forte valeur ajoutée. Il y a en général deux approches. La première consiste à faire une analyse détaillée mais couteuse sur un gros volume de données, typiquement toutes les 24h. La deuxième consiste à analyser les données au vol lorsqu’elles arrivent dans le système. On parle dans ce cas de data-streams. 
+Il existe de nombreux systèmes pour traiter ces données. Les plus célèbres sont par exemple Apache Storm, Apache Heron ou Spark Streaming. Le but de ce travail est de comparer expérimentalement plusieurs plateformes. Pour cela, il faudra 
+  - designer plusieurs benchmarks représentant des applications typiques 
+  - les implémenter sur chacune des plateformes choisies
+  - effectuer des expérimentations à large échelle sur un cluster de dizaines de machines. 
+
+
+Technologies abordées : clusters, middleware de data stream (Storm, Heron, Spark Streaming…) ###
