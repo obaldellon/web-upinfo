@@ -55,14 +55,37 @@ Un semestre est validé si 30 ECTS (crédits européens) sont validés.
 Une seconde session est automatiquement accordée aux étudiants salariés ou si l’étudiant obtient plus de 8/20 à la moyenne des UE du semestre. Sauf mention contraire, seule la note du contrôle de seconde session compte pour la seconde session.
 Le jury peut éventuellement accorder une seconde session à un étudiant si son cas le justifie.
 
+Pour obtenir une licence en informatique, il faut valider **84 ECTS** de modules en informatique. Cela reiveint à 14 UE d'informatique, dont au minimum 3 pendant les semestres S1, S2 et S3.
 
-## Première année ##
+## Cours proposés ##
 
 Lors de chaque semestre les étudiants doivent suivre des cours obligatoires et des cours optionnels.
 Les cours sont dispensés en français.
 
+### Au semestre 1 ###
+{%include accordion-posts category="L1" tag="S1" %}
 
-## Deuxième année ##
+### Au semestre 2 ###
+{%include accordion-posts category="L1" tag="S2" %}
 
-## Troisième année ##
+### Au semestre 3 ###
+{%include accordion-posts category="L2" tag="S3" %}
+
+### Au semestre 4 ###
+{%include accordion-posts category="L2" tag="S4" %}
+
+### Au semestre 5 ###
+{%include accordion-posts category="L3" tag="S5" %}
+
+### Au semestre 6 ###
+{%include accordion-posts category="L3" tag="S6" %}
+
+## Parcours " idéal " ##
+ 
+|        Semestre 1       |        Semestre 2        |                Semestre 3                |          Semestre 4          |                 Semestre 5                 |    Semestre 6   |
+|:-----------------------:+:------------------------:+:----------------------------------------:+:----------------------------:+:------------------------------------------:+:---------------:|
+| Bases de l'Informatique |        Systèmes 1        | Structures de données et programmation C |        Algorithmique 1       |           Automates et langages            | Algorithmique 2 |
+|                         | Programmation impérative |             Bases de données             | Réseaux et télécommunication |        Programmation fonctionnelle         |   Compilation   |
+|                         |                          |     Outils formels de l'informatique     |          Systèmes 2          | Programmation et conception orientée objet |   Option Info   |
+|                         |                          |                                          |          Option Info         |                Option Info                 |   Option Info   |
 

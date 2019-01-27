@@ -8,7 +8,7 @@ title: "Génie logiciel et projet de développement"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
 categories:
-  - l3
+  - L3
 tags:
   - S6
   - OPT

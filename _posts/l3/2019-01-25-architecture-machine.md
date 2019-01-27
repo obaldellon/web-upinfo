@@ -8,7 +8,7 @@ title: "Architecture machine"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
 categories:
-  - l3
+  - L3
 tags:
   - S5
   - OPT

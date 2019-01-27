@@ -8,7 +8,7 @@ title: "Programmation impérative"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
 categories:
-  - l1
+  - L1
 tags:
   - S2
 ects: 6

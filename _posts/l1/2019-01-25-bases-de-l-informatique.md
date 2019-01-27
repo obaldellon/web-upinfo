@@ -8,7 +8,7 @@ title: "Bases de l'informatique"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
 categories:
-  - l1
+  - L1
 tags:
   - S1
 ects: 6

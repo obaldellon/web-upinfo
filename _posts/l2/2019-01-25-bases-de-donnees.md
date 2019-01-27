@@ -8,7 +8,7 @@ title: "Bases de données"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
 categories:
-  - l2
+  - L2
 tags:
   - S3
 ects: 6
