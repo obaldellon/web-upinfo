@@ -38,7 +38,7 @@ header:
  
 ### Grading ###
 
- - Mid-term Exam (40%)
- - Final Exam (60%)
+ - Mid-term Exam (30%)
+ - Final Exam (70%)
 
 
