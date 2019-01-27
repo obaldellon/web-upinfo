@@ -6,7 +6,7 @@ layout: syllabus
 subheadline: ""
 title: "Software Engineering"
 logo: "logo_blanc.png"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+teaser: "This course is about learning several techniques to help be more efficient in Software Engineering. The Programming Language is Java."
 categories:
   - S2
 tags:
@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: ""
+email: "Frederic.Mallet@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -32,11 +32,17 @@ header:
 
 ### Description ###
 
-### Calendrier ###
+ - Basic Versioning tools
+ - Plugins 
+ - The Eclipse Modeling Framework
+ - Code Generation Facilities 
 
-### Cours ###
+### Grading ###
 
-### Modalités de contrôle des connaissances ###
+ - Project (40%)
+ - Final Exam (60%)
 
-### Ressources ###
+### Resources ###
+
+ - http://www.eclipse.org
 
