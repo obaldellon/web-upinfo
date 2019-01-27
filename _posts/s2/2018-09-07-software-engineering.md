@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: ""
+subheadline: "F. Mallet, PR"
 title: "Software Engineering"
 logo: "logo_blanc.png"
 teaser: "This course is about learning several techniques to help be more efficient in Software Engineering. The Programming Language is Java."
