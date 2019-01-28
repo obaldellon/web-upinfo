@@ -364,3 +364,24 @@ Il existe de nombreux systèmes pour traiter ces données. Les plus célèbres s
 
 
 Technologies abordées : clusters, middleware de data stream (Storm, Heron, Spark Streaming…).
+
+
+### Promotion de la santé dans les clubs sportifs ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants :[Anne Vuillemin et Marco Winckler](mailto:anne.vuillemin@univ-cotedazur.fr,Marco.WINCKLER@univ-cotedazur.fr).
+
+La demande porte sur l’analyse et la mise à disposition de résultats issus de questionnaires remplis par des dirigeants, entraîneurs et pratiquants de clubs sportifs afin d’évaluer leur perception de la prise en compte de la santé dans les activités de leur club.
+A ce jour, nous ne disposons pas encore de données ce qui nécessite de réfléchir à la manière de générer des données synthétiques.
+
+Des questionnaires auxquels répondent trois types de personnes (pratiquants, entraîneurs, et dirigeants) d’un même club.
+Les questions sont regroupées dans 4 dimensions (sociale, organisationnelle, économique, environnementale) et portent sur 3 niveaux (micro-, meso-, macro-).
+Les objectifs sont les suivants : 
+1. Concevoir le calcul de score
+2. Analyser les données
+   - Permettre de croiser les résultats entre pratiquants et entraineurs.
+   - Permettre de croiser les résultats entre pratiquants, entraineurs et dirigeants.
+3. Présenter les résultats individuels et par club.
+4. Permettre à un club de se situer parmi les autres clubs répondant, en utilisant une infographie visuelle simple sur un score global, mais également par type de club. Classification à réaliser :
+   - par dimension (sociale, organisationnelle, économique, environnementale) et
+   - par niveau (micro-, méso-, macro-).
+5. Créer automatiquement une fiche imprimable par club et pour le score de toutes les personnes ayant encodé, qui permettrait à l’utilisateur de pouvoir évaluer son club par rapport aux autres.
