@@ -35,5 +35,5 @@ Ces principes seront illustrés sur des problèmes importants comme le *car sequ
 
 ### Modalités de contrôle des connaissances ###
 
- - Contrôle continu (40%)
- - Examen Final (60%)
+ - Contrôle continu (30%)
+ - Examen Final (70%)

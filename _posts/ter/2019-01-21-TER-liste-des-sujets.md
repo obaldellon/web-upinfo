@@ -36,21 +36,21 @@ Il s'agit d'une opportunité rare de travailler avec les développeurs d'une app
 
 ### Scanner 3D 
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+ - Encadrants : [Enrico Formenti et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Dans ce TER on s'intéresse à la création d'un scanner 3D. Pour cela, on modélisera une plateforme rotative sur laquelle sera déposé l'objet à scanner. Un Arduino contrôlera le moteur pour la rotation du plateau et un appareil photo ou une webcam afin de photographier sous plusieurs angles l'objet à scanner.
 
 ### Robot explorateur
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+ - Encadrants : [Enrico Forment et Marie Pelleaui](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Ce TER s’inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/). L’objectif ici est d’implémenter une version de l’algorithme [A*](https://fr.wikipedia.org/wiki/Algorithme_A*) sur Arduino. La difficulté vient du manque de mémoire disponible sur un Arduino.
 
 ### Flotilles de robots
 - Nombre d'étudiants souhaités : entre 2 et 4.
-- Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+- Encadrants : [Enrico Formenti et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
 - Prérequis : savoir coder en C ou C++.
 
 Ce TER s'inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/) avec des senseurs à ultrasons a été réalisée. L'objectif ici est de réaliser une flottille de robots explorateurs afin d'effectuer une carte de l'espace exploré.
@@ -61,7 +61,7 @@ Ce TER a plusieurs objectifs, à savoir :
 
 ### Bras Robot pour jeu de plateau
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Philippe Renevier](mailto:philippe.renevier@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+ - Encadrants : [Philippe Renevier et Marie Pelleau](mailto:philippe.renevier@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Ce TER s'inscrit dans un projet de jeu de plateau physique multi-joueurs en ligne ou contre une IA. Par exemple, vous jouez avec le vrai jeu de Takenoko contre votre IA. Il faut pouvoir déplacer les éléments du jeu pour l'IA, c'est pourquoi vous utiliserez un bras robotique.
@@ -72,7 +72,7 @@ Ce TER a plusieurs objectifs, à savoir :
 
 ### Localisation des éléments d'un jeu de plateau
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Philippe Renevier](mailto:philippe.renevier@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+ - Encadrants : [Philippe Renevier et Marie Pelleau](mailto:philippe.renevier@unice.fr,marie.pelleau@unice.fr).
  
  
 Ce TER s'inscrit dans un projet de jeu de plateau physique multi-joueurs en ligne ou contre une IA. Par exemple, vous jouez avec le vrai jeu de Takenoko contre votre IA. Il faut pouvoir localiser les éléments du jeu pour qu'ils puissent être manipuler par l'IA.
@@ -83,7 +83,7 @@ Ce TER a plusieurs objectifs, à savoir :
 
 ### Création d'une mini ferme de calcul basées sur des Raspberry Pi 2
  - Nombre d'étudiants souhaités : entre 2 et 4
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr)
+ - Encadrants : [Arnaud Malapert et Marie Pelleau](mailto:arnaud.malapert@unice.fr,marie.pelleau@unice.fr)
 
 En 2015, un étudiant du Master Informatique a créé une mini ferme de calcul de Raspberry Pi 2 contenant une vingtaine de Raspberry Pi 2 rangés dans un rack en bois et en aggloméré. L'une des difficultés était de faire courir les câbles d'alimentation dans le rack.
 Le but de ce projet est donc d'améliorer le rack grâce à l'impression 3D et à la découpe Laser. Le nouveau rack devrait être mieux conçu : plus compact ; mieux aéré ;  plus élégant.
@@ -91,7 +91,7 @@ Le but de ce projet est donc d'améliorer le rack grâce à l'impression 3D et �
 
 ### Utilisation de la programmation par contraintes pour la détermination des paramètres de modèles dynamiques
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Jean-Paul Comet](mailto:comet@unice.fr) et [Marie Pelleau](mailto:marie.pelleau@unice.fr).
+ - Encadrants : [Jean-Paul Comet et Marie Pelleau](mailto:comet@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en OCaml et connaître la logique de Hoare est un plus.
 
 Ce TER a pour but d'utiliser la programmation par contraintes dans le cadre de la recherche de paramètres lors de la modélisation d'un réseau génétique.
@@ -102,7 +102,7 @@ On utilisera le solveur continu-discret AbSolute pour trouver les solutions du p
 
 ### Generation automatique de texte ###
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com) et [Élena Cabrio](mailto:elena.cabrio@unice.fr).
+ - Encadrants : [Jean-Charles Régin et Élena Cabrio](mailto:jcregin@gmail.com,elena.cabrio@unice.fr).
  - Prérequis : bien programmer en java.
 
 
@@ -192,7 +192,7 @@ L'objectif de ce TER est de développer des contraintes globales et des stratég
 
 ### Intégration de méthodes d'optimisation dans PlanetOptim ###
  - Nombre d'étudiants souhaités : 2 et 4.
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) et [Assia Kamal Idrissi](mailto:assia.elafouani@milanamos.com).
+ - Encadrants : [Arnaud Malapert et Assia Kamal Idrissi](mailto:arnaud.malapert@univ-cotedazur.fr,assia.elafouani@milanamos.com).
  - Prérequis : bien programmer en java ; connaître les bases de données.
 
 Ce travail porte sur l'intégration de méthodes d'optimisation développées par les encadrants dans le logiciel PlanetOptim développé par l'entreprise Milanamos à Sophia Antipolis.
@@ -211,7 +211,7 @@ Le but de ce projet sera de mener une étude similaire sur une variante récente
 
 ### ∆-Debugger de solveur de satisfiabilité en logique propositionnelle
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [ Valentin Montmirail](mailto:valentin.montmirail@univ-cotedazur.fr) et [ Marie Pelleau](mailto:marie.pelleau@unice.fr)
+ - Encadrants : [ Valentin Montmirail et Marie Pelleau](mailto:valentin.montmirail@univ-cotedazur.fr,marie.pelleau@unice.fr)
  
  L'écriture de solveur de satisfiabilité, qu'importe la logique, est une tâche extrêmement compliquée. 
 Le développement peut donc impliquer des bugs très difficile à découvrir.
@@ -291,7 +291,7 @@ Le plugin sera intégré dans un logiciel "host" AmpedStudio.com et dans l'outil
 
 ### Web Sémantique et IHM : conception automatisée de jeux de plateau distribués sur Table interactive – smartphones et tablettes ###
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Alain Giboin](mailto:Alain.GIBOIN@univ-cotedazur.fr), [Anne-Marie Pinna Dery](mailto:Anne-Marie.PINNA@univ-cotedazur.fr), [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr) et [Olivier Corby](mailto:olivier.corby@inria.fr)
+ - Encadrants : [Alain Giboin, Anne-Marie Pinna Dery, Philippe Renevier Gonin et Olivier Corby](mailto:Alain.GIBOIN@univ-cotedazur.fr,Anne-Marie.PINNA@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr,olivier.corby@inria.fr)
 
 Des étudiants du parcours IHM ont développé [plusieurs jeux de plateau multi-devices](http://atelierihm.unice.fr/vitrine/category/jeux/) permettant de jouer autour d’une table interactive, chaque joueur ayant une tablette ou un smartphone en sa possession pour réaliser certaines tâches (étapes du jeu). La conception de ces jeux fixe la répartition des tâches à réaliser dans le jeu entre la table et/ou les tablettes. Cette répartition se fait à travers un ensemble de règles.
 
@@ -302,7 +302,7 @@ Les étudiants utiliseront l’outil [Corese](http://corese.inria.fr). Le langag
 
 ### développement de techniques d'interactions dans 7wonders et études expérimentales ###
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Alain Giboin](mailto:Alain.GIBOIN@univ-cotedazur.fr), [Anne-Marie Pinna Dery](mailto:Anne-Marie.PINNA@univ-cotedazur.fr) et [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr)
+ - Encadrants : [Alain Giboin, Anne-Marie Pinna Dery et Philippe Renevier Gonin](mailto:Alain.GIBOIN@univ-cotedazur.fr,Anne-Marie.PINNA@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr)
 
 Le travail s'inscrit dans des travaux de recherche étudiant la conception et la réalisation de systèmes interactifs répartis sur plusieurs dispositifs. Ici ces systèmes sont des jeux de plateaux comme [7wonders](http://www.7wonders.net/) et les dispositifs sont une table (tactile et tangible) et des tablettes (une par joueur). La conception, s'intéressant plus particulièrement à la répartition des actions du jeu entre la table et/ou les tablettes ainsi que les transitions entre ces actions, se base sur la théorie de la territorialité pour les tables interactives [Scott 2010]. 
 
@@ -353,7 +353,7 @@ Goal: The goal of the TER is to evaluate how much we can “improve”  the deep
 
 ### Comparaison expérimentale de plateformes de data stream ###
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants :[Fabrice Huet](fabrice.huet@univ-cotedazur.fr), [Alessio Pagliari](alessio.pagliari@univ-cotedazur.fr).
+ - Encadrants :[Fabrice Huet et Alessio Pagliari](mailto:fabrice.huet@univ-cotedazur.fr,alessio.pagliari@univ-cotedazur.fr).
  - Prérequis :  connaissances en Java et en shell Unix indispensables.
 
 Depuis quelques années l’analyse des données représente un besoin énorme des entreprises qui essaient d’extraire le plus rapidement et le plus efficacement possible des informations à forte valeur ajoutée. Il y a en général deux approches. La première consiste à faire une analyse détaillée mais couteuse sur un gros volume de données, typiquement toutes les 24h. La deuxième consiste à analyser les données au vol lorsqu’elles arrivent dans le système. On parle dans ce cas de data-streams. 
@@ -363,4 +363,25 @@ Il existe de nombreux systèmes pour traiter ces données. Les plus célèbres s
   - effectuer des expérimentations à large échelle sur un cluster de dizaines de machines. 
 
 
-Technologies abordées : clusters, middleware de data stream (Storm, Heron, Spark Streaming…) ###
+Technologies abordées : clusters, middleware de data stream (Storm, Heron, Spark Streaming…).
+
+
+### Promotion de la santé dans les clubs sportifs ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants :[Anne Vuillemin et Marco Winckler](mailto:anne.vuillemin@univ-cotedazur.fr,Marco.WINCKLER@univ-cotedazur.fr).
+
+La demande porte sur l’analyse et la mise à disposition de résultats issus de questionnaires remplis par des dirigeants, entraîneurs et pratiquants de clubs sportifs afin d’évaluer leur perception de la prise en compte de la santé dans les activités de leur club.
+A ce jour, nous ne disposons pas encore de données ce qui nécessite de réfléchir à la manière de générer des données synthétiques.
+
+Des questionnaires auxquels répondent trois types de personnes (pratiquants, entraîneurs, et dirigeants) d’un même club.
+Les questions sont regroupées dans 4 dimensions (sociale, organisationnelle, économique, environnementale) et portent sur 3 niveaux (micro-, meso-, macro-).
+Les objectifs sont les suivants : 
+1. Concevoir le calcul de score
+2. Analyser les données
+   - Permettre de croiser les résultats entre pratiquants et entraineurs.
+   - Permettre de croiser les résultats entre pratiquants, entraineurs et dirigeants.
+3. Présenter les résultats individuels et par club.
+4. Permettre à un club de se situer parmi les autres clubs répondant, en utilisant une infographie visuelle simple sur un score global, mais également par type de club. Classification à réaliser :
+   - par dimension (sociale, organisationnelle, économique, environnementale) et
+   - par niveau (micro-, méso-, macro-).
+5. Créer automatiquement une fiche imprimable par club et pour le score de toutes les personnes ayant encodé, qui permettrait à l’utilisateur de pouvoir évaluer son club par rapport aux autres.
