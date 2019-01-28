@@ -47,8 +47,8 @@ Les travaux pratiques sont réalisés avec la suite [IBM Ilog optimization studi
  - D'autres exercices sont publiés [ici](http://www.i3s.unice.fr/~malapert/org/teaching/proglin.html) au fil de l'eau. 
 
 ### Modalités de contrôle des connaissances ###
-    - 1 TP Noté (40%) 
-    - 1 Examen écrit (60%)
+ - 1 TP Noté (40%) 
+ - 1 Examen écrit (60%)
     
 Les deux épreuves auront lieu pendant la dernière séance du cours.
 
