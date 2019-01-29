@@ -385,3 +385,19 @@ Les objectifs sont les suivants :
    - par dimension (sociale, organisationnelle, économique, environnementale) et
    - par niveau (micro-, méso-, macro-).
 5. Créer automatiquement une fiche imprimable par club et pour le score de toutes les personnes ayant encodé, qui permettrait à l’utilisateur de pouvoir évaluer son club par rapport aux autres.
+
+
+### Conception de Robot MicroMouse: ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr).
+
+
+Connue par le nom de MicroMouse est une compétition oú plusieurs participants mettent en défi des robots portant le nom de MicroMouse.
+Il s'agit d'un robot mobile ayant une forme rappelant une souris. La mission du robot est de trouver, d'une manière autonome, le bon chemin au seint d'un labyrinthe afin de le résoudre; en cas d'une multitude de solutions, le robot doit trouver la meilleure solution qui équivaut au plus court chemin.
+La conception du robot doit se réaliser en 3 parties principales:
+ - Réalisation de la partie motrice du robot: Il s'agit de réaliser le corps du robot contenant panneau connectant un moteur à des roues.
+ - Réalisation de la partie "ordinateur" du robot: D'après mes recherches, ceci peut être réalisable en utilisant un microcontrolleur tel qu'un Arduino, ou un Raspberry PI. Ce controlleur s'occupera d'effectuer les calculs necessaires pour decider des mouvement du robots puis les transmet au moteur sours forme d'instruction (forward, backward, turn-right, turn-left, stop).
+
+Le labyrinthe: Il s'agit tout simplement d'une version physique, exacte, d'un labyrinthe (tableau de valeurs) sur lequel l'ordinateur applique ses algorithmes de recherche.
+
+Ce projet aura comme but d'introduire la conception de robots ainsi que d'approfondir mes connaissances sur les algorithmes de recherche, leur application.
