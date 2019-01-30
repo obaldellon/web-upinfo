@@ -4,6 +4,7 @@ show_meta: false
 title: "Master Informatique"
 subheadline: "Deuxième semestre"
 logo: "logo_blanc.png"
+logo_flush: "center"
 header:
    image_fullwidth: "you-can-delete-me-header.png"
 permalink: "/programme/semestre2/"
