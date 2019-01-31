@@ -401,3 +401,36 @@ La conception du robot doit se réaliser en 3 parties principales:
 Le labyrinthe: Il s'agit tout simplement d'une version physique, exacte, d'un labyrinthe (tableau de valeurs) sur lequel l'ordinateur applique ses algorithmes de recherche.
 
 Ce projet aura comme but d'introduire la conception de robots ainsi que d'approfondir mes connaissances sur les algorithmes de recherche, leur application.
+
+### Application web pour le rétro gaming ### 
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Michel Buffa](mailto:micbuffa@gmail.com).
+ 
+
+Un hobby à la mode est le "rétro gaming". Je me suis construit pendant les vacances de Noël une mini console de rétro gaming, à l'aide d'un raspberry Pi 3B+, d'un joli boitier type Super Nintendo Mini, de manettes USB et BlueTooth, et de RetroPie, une distribution Linux pour Pi spécialement faite pour le rétro gaming.
+Cette distribution permet d'ajouter facilement des jeux sur le Raspberry sous forme de "fichiers de roms", et un logiciel front-end, Emulation Station, permet de naviguer parmi les consoles de jeux et ordinateurs émulées, puis de choisir un jeu avant de le lancer. 
+Emulation Station utilise pour cela un fichier gamelist.xml présent dans chaque dossier contenant des roms. Par exemple, le dossier "snes" contient des roms (parfois plus d'une centaine) et le fichier gamelist.xml contiendra la description textuelle des jeux, l'année de sortie, et des liens relatifs vers des images de la boite, du titre du jeu, et une vidéo de "preview" du jeu. Quand on se promène d'un jeu à l'autre on a ainsi une très belle présentation.
+
+On arrive au sujet du projet : comment sont obtenues ces métadonnées sur les jeux ? 
+La réponse est "à l'aide d'un logiciel appelé 'scraper'", en ligne de commande, qui permet d'analyser le fichier gamelist.xml existant, les fichiers de roms présents, et qui va ensuite chercher dans diverses sources de données sur le Web les images, vidéos, descriptions manquantes.  
+Soucis : il existe de nombreuses sources de données, et parfois le logiciel se trompe en récupérant les images et vidéo, il prend un jeu dont le nom est presque pareil, ou bien le même jeu, mais pour un autre système etc.
+
+Alors comment font les gens ? 
+Ils utilisent des logiciels avec une belle GUI, qui utilisent les APIs de ces sources de données, et utilisent rarement les outils lignes de commande. 
+Ce sont des logiciels natifs pour windows. 
+Le plus connu est [skraper](http://skraper.net) pour WIndows. 
+Il n'en existe aucun pour Mac ou pour Linux.
+
+Sujet du projet : puisque la ligne de commande marche directement sur le Pi, pourquoi ne pas proposer une WebApp qui serait servie directement par le Pi, et qui lancerait la commande du scraper, et afficherait les résultats? 
+On allume le Pi, par ftp on dépose des roms dans les bons répertoire, puis on ouvre http://192.168.1.16/scraper (on suppose que l'ip est l'adresse du pi, et que le serveur HTTP développé dans le projet tourne et répond à l'URL /scraper). 
+Et hop, on a une interface web permettant de choisir les répertoire à rescanner, les sources de données et aussi de régler les différents paramètre du scraper (l'outil qu'on va utiliser est installé en standard, c'est skyscraper voir son [github](https://github.com/muldjord/skyscraper).
+Le projet consistera donc à développer en technologie Web un serveur front end au-dessus de skyscraper, pour faciliter les tâches de récupération de médias et génération du fichier gamelist.xml à distance. 
+Le fichier gamelist.xml est mis à jour par le scraper, vous n'aurez pas à créer de XML, juste à visualiser les résultats pour qu'on puisse vérifier que tout s'est bien passé. 
+On peut imaginer également que votre appli permette d'uploader des roms, ce sera optionnel.
+
+Technologies : soit RetroPie vient déjà avec un serveur HTTP, on essaiera de l'utiliser, soit on pourra installer un serveur léger type NodeJS ou autre. 
+Pas de base de données, mais pas mal de travail d'interfaçage avec des commandes unix, parser les résultats etc...
+
+Démonstration de l'existant dans le bureau de Mr Buffa. Un Pi avec une image prête à l'emploi pleine de jeux sera mise à votre disposition (cool !)
+
+Vidéo de ce à quoi ressemble le front end existant pour le choix des jeux : [vidéo youtube](https://www.youtube.com/watch?v=qVHTu9Gu8iI&t=57s)
