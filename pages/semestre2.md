@@ -3,10 +3,10 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Deuxième semestre"
-logo: "logo_blanc.png"
-logo_flush: "center"
+#logo: "logo_blanc.png"
+#logo_flush: "center"
 header:
-   image_fullwidth: "you-can-delete-me-header.png"
+   image_fullwidth: "header-lucioles3.jpg"
 permalink: "/programme/semestre2/"
 ---
 
