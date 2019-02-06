@@ -6,7 +6,7 @@ layout: syllabus
 subheadline: "S. Miranda, PR"
 title: "BD vers Big Data avancé"
 logo: "logo_blanc.png"
-teaser: "Ce cours de gestion des données du Big Data comprend 2 parties : une analyse des standards SQL3 et ODMG de l approche hybride du modèle objet relationnel et une classification des systèmes NoSQL (CLE VALEUR et GRAPHE)."
+teaser: "This concept-based course on BIG DATA MANAGEMENT is self-contained including seminars to summarize prerequesites."
 categories:
   - S2
 tags:
@@ -29,8 +29,8 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-Ce cours de gestion des données du Big Data comprend 2 parties : une analyse des standards SQL3 et ODMG de l approche hybride du modèle objet relationnel et une classification des systèmes NoSQL (CLE VALEUR et GRAPHE).
-Un cadre formel sur la théorie des catégories est esquissé pour unifier les systèmes polystores ou les approches multimodeles
+
+Un syllabus détaillé est disponible [ici]({% include link-asset asset="syllabus-BD-vers-big-data-avance.pdf" %}).
 
 
 ### Modalités de contrôle des connaissances ###

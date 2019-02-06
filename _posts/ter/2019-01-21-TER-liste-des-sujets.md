@@ -434,3 +434,42 @@ Pas de base de données, mais pas mal de travail d'interfaçage avec des command
 Démonstration de l'existant dans le bureau de Mr Buffa. Un Pi avec une image prête à l'emploi pleine de jeux sera mise à votre disposition (cool !)
 
 Vidéo de ce à quoi ressemble le front end existant pour le choix des jeux : [vidéo youtube](https://www.youtube.com/watch?v=qVHTu9Gu8iI&t=57s)
+
+### Réalisation d’un environnement pour les TP de sécurité ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Bruno Martin](mailto:bruno.martin@univ-cotedazur.fr).
+
+Installer une machine sous linux avec un gestionnaire de machines virtuelles (VMware ou VirtualBox).
+Ce gestionnaire de machines virtuelles hébergera un hyperviseur (de type XenServer).
+Le serveur Xen hébergera lui-même plusieurs VM et 2 réseaux virtualisés:
+- une passerelle qui sert de serveur dns, serveur dhcp, firewall
+- 3 VM:
+	- une qui servira de mini-serveur de services
+	- une qui servira de client
+	- une distribution d’audit de sécurité
+Le but est de faire fonctionner le tout avec a minima 2 rôles:
+- un rôle administrateur (qui a tous les droits)
+- un rôle étudiant (qui ne pourra modifier ni les réseaux, ni la passerelle mais qui aura les droits d’administrateur sur les 3 VM
+
+Ce que vous apprendrez: gérer un hyperviseur ; mettre en place un serveur dns, un serveur dhcp et des règles de firewall ; utiliser une distribution d’audit de sécurité
+
+Il s’agit de moderniser une installation existante.
+
+### Simulateur d'automates cellulaires non-uniformes ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Julien Provillard et Enrico Formenti](mailto:julien.provillard@unice.fr,enrico.formenti@unice.fr).
+ - Prérequis : une connaissance de base en théorie des langages est souhaitable.
+ 
+Les automates cellulaires sont des systèmes dynamiques discrets composés d'un ensemble de cellules disposés régulièrement sur une grille. Celles-ci se trouvent à tout moment dans un certain état. A chaque étape de temps, l'état des cellules est mis à jour en fonction d'une règle locale qui fait intervenir leur voisinage. Ce TER a plusieurs objectif :
+  - Réaliser un simulateur pour la dynamique des automates cellulaires (classiques et non-uniformes),
+  - Implémenter un certain nombre d'algorithmes de décision en lien avec eux.
+
+### Découpage de graphe pour accélérer la recherche de chemins ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Prérequis : il est indispensable de savoir bien programmer en Java.
+ 
+Ce projet a pour objectif la mise en œuvre de techniques de découpage de graphes pour accélérer la recherche de plus courts chemins.
+Les algorithme de Dijkstra, de Bellman-Ford, A* et connectionScan seront étudiés et implémentés. Puis le graphe sera découpé en région afin de les accélérer.
+
+
