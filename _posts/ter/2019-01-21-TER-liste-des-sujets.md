@@ -473,3 +473,14 @@ Ce projet a pour objectif la mise en œuvre de techniques de découpage de graph
 Les algorithme de Dijkstra, de Bellman-Ford, A* et connectionScan seront étudiés et implémentés. Puis le graphe sera découpé en région afin de les accélérer.
 
 
+###  Signatures d'image sur GPU ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Fabrice Huet](mailto:fabrice.huet@univ-cotedazur.fr).
+
+le point de depart du sujet de TER, c’est les deux algos présentés [ici](http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html) qui permettent d’extraire des signatures.
+
+
+Il faudrait les implémenter sur GPU et évaluer la performance par rapport à une version CPU (en Java, C…). Si les résultats sont intéressants, on passerait à la deuxième étape du projet qui consiste à trouver les images “similaires”, c’est à dire dont les signatures sont proches. De base la distance de Hamming fait le job mais il y a sans doute mieux. Encore une fois, l’idée sera de voir ce qu’on peut faire sur un GPU. 
+
+Enfin, si on a le temps, on passera à la dernière phase, la recherche de d’images similaires dans une énorme base. Avec n images si on s’y prend comme un manche on a O(n^2) comparaisons à faire, mais y’a des trucs vraiment sympa pour limiter l’espace de recherche. Une idée est de faire un pré-traitement des signatures pour regrouper celles qui sont proches et ainsi ne faire la comparaison qu’entre elles. Nom de code : [Locality Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing).
+
