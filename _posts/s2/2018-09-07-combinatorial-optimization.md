@@ -6,7 +6,7 @@ layout: syllabus
 subheadline: "J.-C. Régin, PR"
 title: "Combinatorial Optimization"
 logo: "logo_blanc.png"
-teaser: "Ce cours présente différentes méthodes, comme les algorithmes gloutons, pour résoudre les problèmes d’optimisation combinatoire. La modélisation de ces problèmes est aussi considérée."
+teaser: "This course presents greedy algorithms, decision diagrams, and markov models"
 categories:
   - S2
 tags:
@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: ""
+email: "jcregin@gmail.com"
 #
 # Styling
 #
@@ -32,11 +32,13 @@ header:
 
 ### Description ###
 
-### Calendrier ###
+ - Greedy algorithms
+ - Decision Diagrams
+ - Markov Models
+ 
+### Grading ###
 
-### Cours ###
+ - Mid-term Exam (30%)
+ - Final Exam (70%)
 
-### Modalités de contrôle des connaissances ###
-
-### Ressources ###
 

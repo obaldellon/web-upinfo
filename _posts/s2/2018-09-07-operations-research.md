@@ -3,10 +3,10 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
+subheadline: "J.-C. Régin, PR"
 title: "Operations Research"
 logo: "logo_blanc.png"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+teaser: "This course is about shortest path and maximum flow problems in graphs."
 categories:
   - S2
 tags:
@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "arnaud.malapert@unice.fr"
+email: "jcregin@gmail.com"
 #
 # Styling
 #
@@ -32,11 +32,12 @@ header:
 
 ### Description ###
 
-### Calendrier ###
+ - Shortest Path Problems
+ - Maximum Flow Problems
+ - Minimum Cost Maximum Flow Problems
 
-### Cours ###
+### Grading ###
 
-### Modalités de contrôle des connaissances ###
-
-### Ressources ###
+ - Project (40%)
+ - Final Exam (60%)
 

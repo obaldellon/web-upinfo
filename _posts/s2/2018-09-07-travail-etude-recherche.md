@@ -51,9 +51,7 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
   - Mi-février : début des projets.
   - Mi-juin : soutenance finale.
 
-Tous les événements ne sont pas toujours affichés. Cliquez sur 'Rechercher des événements après cette date'.
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=usr7a8q1t1sli8a1g4l6ms29lg%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=Europe%2FParis&amp;dates=20190101%2F20190630" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
+Pour les détails, consultez le calendrier général sur la page EDT.
 
 ### Appel à sujets ###
 
