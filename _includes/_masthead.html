@@ -24,9 +24,19 @@
 		<div id="masthead-no-image-header">
 			<div class="row-header">
 				<div class="small-12 columns-header">
-					<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-						<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-					</a>
+					{% if page.logo_flush == "right" %}
+						<a id="logo-r" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+							<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+						</a>
+					{% elsif page.logo_flush == "center" %}
+						<a id="logo-c" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+							<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+						</a>
+					{% else %}
+						<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+							<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+						</a>
+					{% endif %}
 				</div><!-- /.small-12.columns -->
 			</div><!-- /.row -->
 		</div><!-- /#masthead -->
@@ -86,9 +96,19 @@
 	{% elsif site.logo %}
 		<div class="row-header">
 			<div class="small-12 columns-header">
-				<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-					<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-				</a>
+				{% if page.logo_flush == "right" %}
+					<a id="logo-r" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+						<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+					</a>
+				{% elsif page.logo_flush == "center" %}
+					<a id="logo-c" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+						<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+					</a>
+				{% else %}
+					<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+						<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+					</a>
+				{% endif %}
 			</div><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	{% endif %}
