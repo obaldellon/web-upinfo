@@ -484,3 +484,13 @@ Il faudrait les implémenter sur GPU et évaluer la performance par rapport à u
 
 Enfin, si on a le temps, on passera à la dernière phase, la recherche de d’images similaires dans une énorme base. Avec n images si on s’y prend comme un manche on a O(n^2) comparaisons à faire, mais y’a des trucs vraiment sympa pour limiter l’espace de recherche. Une idée est de faire un pré-traitement des signatures pour regrouper celles qui sont proches et ainsi ne faire la comparaison qu’entre elles. Nom de code : [Locality Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing).
 
+
+### Development of a management tool for computer games ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Prérequis : il est indispensable de savoir programmer en Java. 
+
+The purpose of this project is to develop a tool that allows two game programs to automatically compete against each other. Each player's program will be provided as an.jar file.
+An API describing the needs of each game to transmit a move or to receive should be proposed and implemented. A series of tests checking the validity of the moves will also be defined.
+The variation of the Oware game as proposed in the AI game programming course will be used as tests.
+The possibility of communicating between the machines, without going through a computer centralizing the two.jar files, will eventually be studied in a second step
