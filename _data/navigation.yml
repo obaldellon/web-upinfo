@@ -9,6 +9,8 @@
   url: "/programme/master/"
   side: left
   dropdown:
+  #- title: "Master"
+  #  url: "/programme/master/"
   - title: "Semestre 1"
     url: "/programme/semestre1/"
   - title: "Semestre 2"
