@@ -28,10 +28,10 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Projets"
-    url: "#"
-  - title: "Stage"
-    url: "#"
+  #- title: "Projets"
+  #  url: "#"
+  #- title: "Stage"
+  #  url: "#"
   - title: "UCAnCode"
     url: "/etus/ucancode/"    
   - title: "Fablab"
