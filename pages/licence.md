@@ -10,9 +10,29 @@ permalink: "/licence/"
 ---
 
 ## Présentation
-La licence informatique revendique une approche pédagogique axée sur un objectif double : d’abord l’apprentissage de l’informatique en tant que discipline scientifique, ensuite la découverte de l’informatique comme un ensemble de technologies en constantes mutations. Ce double objectif est motivé par la diversité des métiers de l’informatique : ils vont de l’informatique embarquée, mobile, ubiquitaire à l’informatique de gestion et d’entreprise, en passant par les réseaux de télécommunications, la sécurité et les interfaces homme-machine. L’objectif de notre formation de licence est de répondre à ces attentes.
+La licence informatique vise à préparer au mieux les futurs informaticiens
+à la grande variété de technologies auxquelles ils seront confrontés et à
+leurs évolutions à venir. Pour ce faire, la licence informatique
+aborde l'informatique avant tout comme une discipline
+scientifique fondée sur plusieurs piliers théoriques (algorithmique, programmation, logique, calculabilité, langages formels, etc) et sur des standards
+incontournables dans les principaux domaines professionalisants (bases de données, systèmes, réseaux, architecture des processeurs, web, génie logiciel, etc).
 
-### Objectifs ###
+
+Cette formation généraliste est la porte d'entrée principale vers
+le master informatique de Nice-Sophia Antipolis et vers un emploi dans
+les nombreuses sociétés azuréenes. Elle se prolonge naturellement par
+une spécialisation dans des domaines comme
+- la science des données 
+- l'informatique de gestion et d’entreprise
+- l'informatique mobile, les objets connectés, et le développement web
+- les réseaux de télécommunications, l'administration des systèmes informatiques, le cloud computing
+- la sécurité des systèmes d'information et la cybersécurité
+- la recherche et développement
+- la recherche académique 
+
+L’objectif de la licence informatique est de préparer au mieux les étudiants à ces diverses attentes.
+
+### Compétences ###
 
 Les compétences développées sont les suivantes :
 - Analyser des problèmes, modéliser des systèmes et construire des solutions informatiques en s’appuyant sur les connaissances en mathématiques et informatique.
@@ -21,7 +41,7 @@ Les compétences développées sont les suivantes :
 - Comprendre une documentation technique ou scientifique en anglais.
 - Mettre en œuvre des projets de programmation ou de modélisation informatique, principalement en équipe, en développant l’autonomie.
 - Participer au développement d’applications informatiques mettant en œuvre de nouvelles technologies.
-- S’informer sur les différents métiers et carrières de l’informatique, de façon à se diriger vers les formations adéquates en effectuant un stage, académique ou industriel.
+- S’informer sur les différents métiers et carrières de l’informatique, de façon à se diriger vers les formations adéquates.
 
 ### Programme et contenu ###
 
@@ -38,7 +58,7 @@ En L1 et L2, les étudiants peuvent choisir plusieurs matières scientifiques, p
 - Systèmes intelligents
 - Technologies du web
 - Automates  et langages
-- Programmation fonctionelle (scheme, caml)
+- Programmation fonctionelle
 - Architecture des processeurs
 - Cryptographie et calcul symbolique
 - Programmation et conception orientée objet
@@ -55,7 +75,12 @@ Un semestre est validé si 30 ECTS (crédits européens) sont validés.
 Une seconde session est automatiquement accordée aux étudiants salariés ou si l’étudiant obtient plus de 8/20 à la moyenne des UE du semestre. Sauf mention contraire, seule la note du contrôle de seconde session compte pour la seconde session.
 Le jury peut éventuellement accorder une seconde session à un étudiant si son cas le justifie.
 
-Pour obtenir une licence en informatique, il faut valider **84 ECTS** de modules en informatique. Cela reiveint à 14 UE d'informatique, dont au minimum 3 pendant les semestres S1, S2 et S3.
+Au cours des semestres de tronc commun S1, S2, S3, au moins
+3 UE d'informatique (18 ECTS)
+doivent être validées afin de pouvoir se spécialiser
+en informatique aux semestres S4, S5, et S6.
+
+Pour valider la licence en informatique, il faut valider 180 ECTS sur l'ensemble de la licence, dont  au minimum **90 ECTS** de modules en informatique. Cela revient à 15 UE d'informatique.
 
 ## Cours proposés ##
 
@@ -80,7 +105,7 @@ Les cours sont dispensés en français.
 ### Au semestre 6 ###
 {%include accordion-posts category="L3" tag="S6" %}
 
-## Parcours " idéal " ##
+## Parcours “ idéal ” ##
  
 |        Semestre 1       |        Semestre 2        |                Semestre 3                |          Semestre 4          |                 Semestre 5                 |    Semestre 6   |
 |:-----------------------:+:------------------------:+:----------------------------------------:+:----------------------------:+:------------------------------------------:+:---------------:|
