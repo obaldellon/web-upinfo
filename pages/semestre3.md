@@ -6,7 +6,7 @@ subheadline: "Troisième semestre"
 #logo: "logo_blanc.png"
 #logo_flush: "center"
 header:
-   image_fullwidth: "header-lucioles3.jpg"
+   image_fullwidth: "header-lucioles4.jpg"
 permalink: "/programme/semestre3/"
 ---
 
