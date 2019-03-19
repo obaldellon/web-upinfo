@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Model Checking"
-subheadline: ""
+subheadline: "E. De Maria, MCF"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -13,8 +13,8 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
-email: ""
+#website: ""
+email: "edemaria@i3s.unice.fr"
 #
 # Styling
 #

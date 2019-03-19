@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Optimisation des performances des codes"
-subheadline: "J.-C. Régin, PR"
+subheadline: "Sid Touati, PR"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: ""
-email: ""
+email: "sid.touati@univ-cotedazur.fr"
 #
 # Styling
 #

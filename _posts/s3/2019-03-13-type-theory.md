@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Type Theory"
-subheadline: ""
+subheadline: "C. Di Giusto, MCF"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -13,8 +13,8 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
-email: ""
+website: "https://lms.univ-cotedazur.fr"
+email: "cinzia.di-giusto@unice.fr"
 #
 # Styling
 #

@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Preuve et programmation fiable"
-subheadline: ""
+subheadline: "Yves Bertot, INRIA"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: ""
-email: ""
+email: "yves.bertot@inria.fr"
 #
 # Styling
 #

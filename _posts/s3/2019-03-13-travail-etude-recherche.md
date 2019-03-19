@@ -3,18 +3,18 @@ layout: syllabus
 #
 # Content
 #
-title: "Systèmes dynamiques finis"
-subheadline: "A. Richard, CR"
+subheadline: "A. Malapert, MCF"
+title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
   - S3
 tags:
-  - OPT
-ects: 3
-schedule: "24h"
-#website: ""
-email: "richard@i3s.unice.fr"
+  - REQ
+ects: 6
+#schedule: "18h"
+# website: "#"
+email: "arnaud.malapert@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -28,3 +28,8 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
+
+
+Il n'y a ni prérequis, ni cours magistraux.
+
+
