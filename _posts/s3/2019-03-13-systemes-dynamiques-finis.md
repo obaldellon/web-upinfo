@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Systèmes dynamiques finis"
-subheadline: "A. Richard, CR"
+subheadline: "A. Richard, CR CNRS"
 logo: "logo_blanc.png"
 teaser: ""
 categories:

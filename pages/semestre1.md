@@ -33,6 +33,7 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
 Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
+Les syllabus des mineures sont disponibles sur cette [page](http://univ-cotedazur.fr/en/eur/ds4h/graduate-school/masters "page des masters DS4H") ou dans cette [brochure](http://univ-cotedazur.fr/en/eur/ds4h/contents/files/minors-brochure "Brochure des mineures DS4H").
 
 - Digital Strategy
 - Digital IP and Law
