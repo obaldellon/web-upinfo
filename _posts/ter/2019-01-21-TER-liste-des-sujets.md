@@ -43,7 +43,7 @@ Dans ce TER on s'intéresse à la création d'un scanner 3D. Pour cela, on mo
 
 ### Robot explorateur
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Enrico Forment et Marie Pelleaui](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
+ - Encadrants : [Enrico Forment et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Ce TER s’inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/). L’objectif ici est d’implémenter une version de l’algorithme [A*](https://fr.wikipedia.org/wiki/Algorithme_A*) sur Arduino. La difficulté vient du manque de mémoire disponible sur un Arduino.
@@ -387,7 +387,7 @@ Les objectifs sont les suivants :
 5. Créer automatiquement une fiche imprimable par club et pour le score de toutes les personnes ayant encodé, qui permettrait à l’utilisateur de pouvoir évaluer son club par rapport aux autres.
 
 
-### Conception de Robot MicroMouse: ###
+### Conception de Robot MicroMouse ###
  - Nombre d'étudiants souhaités : entre 2 et 4.
  - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr).
 
@@ -494,3 +494,17 @@ The purpose of this project is to develop a tool that allows two game programs t
 An API describing the needs of each game to transmit a move or to receive should be proposed and implemented. A series of tests checking the validity of the moves will also be defined.
 The variation of the Oware game as proposed in the AI game programming course will be used as tests.
 The possibility of communicating between the machines, without going through a computer centralizing the two.jar files, will eventually be studied in a second step
+
+
+### Prédiction du nombre d'appels du call center IZICAP ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Gabriel Mopolo-Moke](mailto:gabriel.mopolo@gmail.com).
+
+Izicap, créée en 2013, est une startup innovante basée à l'Arénas dont l'objectif est de créer un outil pour conseiller les commerçants de TPE ou PME dans leur stratégie marketing en dématérialisant les cartes de fidélité.
+Pour mieux aider leurs clients IZICAP a installé un Call Center. Le nombre d'appels dans ce call center varie en fonction du jour et des tranches horaires. 
+La société est intéressée à créer une algorithme de prédiction pour pouvoir mieux optimiser les ressources dans ce centre.
+
+Les activités confiés à l'étudiant seront les suivantes : 
+- Etat de l'art : Faire une étude comparée de quelques framework de machine learning (R, Python, ...)
+- Avec les données d'appels transformés et traités par les étudiants M2 MBDS, utiliser des algorithmes de machine learning du marché pour prédire les appels par tranche horaire d'une journée afin de mieux prévoir les effectifs au centre d'appel.
+- Technologies : Python, R, Androïd, SQL
