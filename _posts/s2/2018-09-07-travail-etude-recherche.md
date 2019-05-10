@@ -51,9 +51,7 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
   - Mi-février : début des projets.
   - Mi-juin : soutenance finale.
 
-Tous les événements ne sont pas toujours affichés. Cliquez sur 'Rechercher des événements après cette date'.
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=usr7a8q1t1sli8a1g4l6ms29lg%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=Europe%2FParis&amp;dates=20190101%2F20190630" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
+Pour les détails, consultez le calendrier général sur la page EDT.
 
 ### Appel à sujets ###
 
@@ -177,8 +175,8 @@ Si vous pensez que c\'est injuste, posez la question à votre encadrant ou au ju
 -   [Liste des sujets 2015-2016](http://www.i3s.unice.fr/~malapert/org/teaching/ter16.html)
 -   [Liste des sujets 2014-2015](http://www.i3s.unice.fr/~malapert/org/teaching/ter15.html)
 -   [Liste des sujets 2013-2014](http://www.i3s.unice.fr/~malapert/org/teaching/ter14.html)
--   [Liste des sujets 2012-2013](http://sites.google.com/site/master1ifiunice/ter/sujets-2012-2013)
--   [Liste des sujets 2011-2012](http://sites.google.com/site/master1ifiunice/ter/sujets-2011-2012)
+-   [Liste des sujets 2012-2013]({% include link-asset asset="liste-des-sujets-12-13.zip" %})
+-   [Liste des sujets 2011-2012]({% include link-asset asset="liste-des-sujets-11-12.pdf" %})
 -   [Liste des sujets 2010-2011](http://deptinfo.unice.fr/~huet/M1INFO/10-11/TER/)
 -   [Liste des sujets 2009-2010](http://deptinfo.unice.fr/~huet/M1INFO/08-09/TER/)
 -   [Liste des sujets 2008-2009](http://deptinfo.unice.fr/~huet/M1INFO/07-08/TER/)

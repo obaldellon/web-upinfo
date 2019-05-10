@@ -56,3 +56,5 @@ Le jury peut éventuellement accorder une seconde session à un étudiant si son
 
 ## Seconde année ##
 
+- [Semestre 3]({{ "/programme/semestre3"  | absolute_url }}).
+

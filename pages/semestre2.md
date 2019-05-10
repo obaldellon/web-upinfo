@@ -3,9 +3,10 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Deuxième semestre"
-logo: "logo_blanc.png"
+#logo: "logo_blanc.png"
+#logo_flush: "center"
 header:
-   image_fullwidth: "you-can-delete-me-header.png"
+   image_fullwidth: "header-lucioles3.jpg"
 permalink: "/programme/semestre2/"
 ---
 
@@ -24,6 +25,7 @@ Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. L
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
 Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
+Les syllabus des mineures sont disponibles sur cette [page](http://univ-cotedazur.fr/en/eur/ds4h/graduate-school/masters "page des masters DS4H") ou dans cette [brochure](http://univ-cotedazur.fr/en/eur/ds4h/contents/files/minors-brochure "Brochure des mineures DS4H").
 
 - Digital Strategy
 - Digital IP and Law

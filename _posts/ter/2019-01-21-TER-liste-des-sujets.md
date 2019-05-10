@@ -43,7 +43,7 @@ Dans ce TER on s'intéresse à la création d'un scanner 3D. Pour cela, on mo
 
 ### Robot explorateur
  - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Enrico Forment et Marie Pelleaui](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
+ - Encadrants : [Enrico Forment et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Ce TER s’inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/). L’objectif ici est d’implémenter une version de l’algorithme [A*](https://fr.wikipedia.org/wiki/Algorithme_A*) sur Arduino. La difficulté vient du manque de mémoire disponible sur un Arduino.
@@ -385,3 +385,126 @@ Les objectifs sont les suivants :
    - par dimension (sociale, organisationnelle, économique, environnementale) et
    - par niveau (micro-, méso-, macro-).
 5. Créer automatiquement une fiche imprimable par club et pour le score de toutes les personnes ayant encodé, qui permettrait à l’utilisateur de pouvoir évaluer son club par rapport aux autres.
+
+
+### Conception de Robot MicroMouse ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr).
+
+
+Connue par le nom de MicroMouse est une compétition oú plusieurs participants mettent en défi des robots portant le nom de MicroMouse.
+Il s'agit d'un robot mobile ayant une forme rappelant une souris. La mission du robot est de trouver, d'une manière autonome, le bon chemin au seint d'un labyrinthe afin de le résoudre; en cas d'une multitude de solutions, le robot doit trouver la meilleure solution qui équivaut au plus court chemin.
+La conception du robot doit se réaliser en 3 parties principales:
+ - Réalisation de la partie motrice du robot: Il s'agit de réaliser le corps du robot contenant panneau connectant un moteur à des roues.
+ - Réalisation de la partie "ordinateur" du robot: D'après mes recherches, ceci peut être réalisable en utilisant un microcontrolleur tel qu'un Arduino, ou un Raspberry PI. Ce controlleur s'occupera d'effectuer les calculs necessaires pour decider des mouvement du robots puis les transmet au moteur sours forme d'instruction (forward, backward, turn-right, turn-left, stop).
+
+Le labyrinthe: Il s'agit tout simplement d'une version physique, exacte, d'un labyrinthe (tableau de valeurs) sur lequel l'ordinateur applique ses algorithmes de recherche.
+
+Ce projet aura comme but d'introduire la conception de robots ainsi que d'approfondir mes connaissances sur les algorithmes de recherche, leur application.
+
+### Application web pour le rétro gaming ### 
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Michel Buffa](mailto:micbuffa@gmail.com).
+ 
+
+Un hobby à la mode est le "rétro gaming". Je me suis construit pendant les vacances de Noël une mini console de rétro gaming, à l'aide d'un raspberry Pi 3B+, d'un joli boitier type Super Nintendo Mini, de manettes USB et BlueTooth, et de RetroPie, une distribution Linux pour Pi spécialement faite pour le rétro gaming.
+Cette distribution permet d'ajouter facilement des jeux sur le Raspberry sous forme de "fichiers de roms", et un logiciel front-end, Emulation Station, permet de naviguer parmi les consoles de jeux et ordinateurs émulées, puis de choisir un jeu avant de le lancer. 
+Emulation Station utilise pour cela un fichier gamelist.xml présent dans chaque dossier contenant des roms. Par exemple, le dossier "snes" contient des roms (parfois plus d'une centaine) et le fichier gamelist.xml contiendra la description textuelle des jeux, l'année de sortie, et des liens relatifs vers des images de la boite, du titre du jeu, et une vidéo de "preview" du jeu. Quand on se promène d'un jeu à l'autre on a ainsi une très belle présentation.
+
+On arrive au sujet du projet : comment sont obtenues ces métadonnées sur les jeux ? 
+La réponse est "à l'aide d'un logiciel appelé 'scraper'", en ligne de commande, qui permet d'analyser le fichier gamelist.xml existant, les fichiers de roms présents, et qui va ensuite chercher dans diverses sources de données sur le Web les images, vidéos, descriptions manquantes.  
+Soucis : il existe de nombreuses sources de données, et parfois le logiciel se trompe en récupérant les images et vidéo, il prend un jeu dont le nom est presque pareil, ou bien le même jeu, mais pour un autre système etc.
+
+Alors comment font les gens ? 
+Ils utilisent des logiciels avec une belle GUI, qui utilisent les APIs de ces sources de données, et utilisent rarement les outils lignes de commande. 
+Ce sont des logiciels natifs pour windows. 
+Le plus connu est [skraper](http://skraper.net) pour WIndows. 
+Il n'en existe aucun pour Mac ou pour Linux.
+
+Sujet du projet : puisque la ligne de commande marche directement sur le Pi, pourquoi ne pas proposer une WebApp qui serait servie directement par le Pi, et qui lancerait la commande du scraper, et afficherait les résultats? 
+On allume le Pi, par ftp on dépose des roms dans les bons répertoire, puis on ouvre http://192.168.1.16/scraper (on suppose que l'ip est l'adresse du pi, et que le serveur HTTP développé dans le projet tourne et répond à l'URL /scraper). 
+Et hop, on a une interface web permettant de choisir les répertoire à rescanner, les sources de données et aussi de régler les différents paramètre du scraper (l'outil qu'on va utiliser est installé en standard, c'est skyscraper voir son [github](https://github.com/muldjord/skyscraper).
+Le projet consistera donc à développer en technologie Web un serveur front end au-dessus de skyscraper, pour faciliter les tâches de récupération de médias et génération du fichier gamelist.xml à distance. 
+Le fichier gamelist.xml est mis à jour par le scraper, vous n'aurez pas à créer de XML, juste à visualiser les résultats pour qu'on puisse vérifier que tout s'est bien passé. 
+On peut imaginer également que votre appli permette d'uploader des roms, ce sera optionnel.
+
+Technologies : soit RetroPie vient déjà avec un serveur HTTP, on essaiera de l'utiliser, soit on pourra installer un serveur léger type NodeJS ou autre. 
+Pas de base de données, mais pas mal de travail d'interfaçage avec des commandes unix, parser les résultats etc...
+
+Démonstration de l'existant dans le bureau de Mr Buffa. Un Pi avec une image prête à l'emploi pleine de jeux sera mise à votre disposition (cool !)
+
+Vidéo de ce à quoi ressemble le front end existant pour le choix des jeux : [vidéo youtube](https://www.youtube.com/watch?v=qVHTu9Gu8iI&t=57s)
+
+### Réalisation d’un environnement pour les TP de sécurité ###
+ - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Encadrants : [Bruno Martin](mailto:bruno.martin@univ-cotedazur.fr).
+
+Installer une machine sous linux avec un gestionnaire de machines virtuelles (VMware ou VirtualBox).
+Ce gestionnaire de machines virtuelles hébergera un hyperviseur (de type XenServer).
+Le serveur Xen hébergera lui-même plusieurs VM et 2 réseaux virtualisés:
+- une passerelle qui sert de serveur dns, serveur dhcp, firewall
+- 3 VM:
+	- une qui servira de mini-serveur de services
+	- une qui servira de client
+	- une distribution d’audit de sécurité
+Le but est de faire fonctionner le tout avec a minima 2 rôles:
+- un rôle administrateur (qui a tous les droits)
+- un rôle étudiant (qui ne pourra modifier ni les réseaux, ni la passerelle mais qui aura les droits d’administrateur sur les 3 VM
+
+Ce que vous apprendrez: gérer un hyperviseur ; mettre en place un serveur dns, un serveur dhcp et des règles de firewall ; utiliser une distribution d’audit de sécurité
+
+Il s’agit de moderniser une installation existante.
+
+### Simulateur d'automates cellulaires non-uniformes ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Julien Provillard et Enrico Formenti](mailto:julien.provillard@unice.fr,enrico.formenti@unice.fr).
+ - Prérequis : une connaissance de base en théorie des langages est souhaitable.
+ 
+Les automates cellulaires sont des systèmes dynamiques discrets composés d'un ensemble de cellules disposés régulièrement sur une grille. Celles-ci se trouvent à tout moment dans un certain état. A chaque étape de temps, l'état des cellules est mis à jour en fonction d'une règle locale qui fait intervenir leur voisinage. Ce TER a plusieurs objectif :
+  - Réaliser un simulateur pour la dynamique des automates cellulaires (classiques et non-uniformes),
+  - Implémenter un certain nombre d'algorithmes de décision en lien avec eux.
+
+### Découpage de graphe pour accélérer la recherche de chemins ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Prérequis : il est indispensable de savoir bien programmer en Java.
+ 
+Ce projet a pour objectif la mise en œuvre de techniques de découpage de graphes pour accélérer la recherche de plus courts chemins.
+Les algorithme de Dijkstra, de Bellman-Ford, A* et connectionScan seront étudiés et implémentés. Puis le graphe sera découpé en région afin de les accélérer.
+
+
+###  Signatures d'image sur GPU ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Fabrice Huet](mailto:fabrice.huet@univ-cotedazur.fr).
+
+le point de depart du sujet de TER, c’est les deux algos présentés [ici](http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html) qui permettent d’extraire des signatures.
+
+
+Il faudrait les implémenter sur GPU et évaluer la performance par rapport à une version CPU (en Java, C…). Si les résultats sont intéressants, on passerait à la deuxième étape du projet qui consiste à trouver les images “similaires”, c’est à dire dont les signatures sont proches. De base la distance de Hamming fait le job mais il y a sans doute mieux. Encore une fois, l’idée sera de voir ce qu’on peut faire sur un GPU. 
+
+Enfin, si on a le temps, on passera à la dernière phase, la recherche de d’images similaires dans une énorme base. Avec n images si on s’y prend comme un manche on a O(n^2) comparaisons à faire, mais y’a des trucs vraiment sympa pour limiter l’espace de recherche. Une idée est de faire un pré-traitement des signatures pour regrouper celles qui sont proches et ainsi ne faire la comparaison qu’entre elles. Nom de code : [Locality Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing).
+
+
+### Development of a management tool for computer games ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Prérequis : il est indispensable de savoir programmer en Java. 
+
+The purpose of this project is to develop a tool that allows two game programs to automatically compete against each other. Each player's program will be provided as an.jar file.
+An API describing the needs of each game to transmit a move or to receive should be proposed and implemented. A series of tests checking the validity of the moves will also be defined.
+The variation of the Oware game as proposed in the AI game programming course will be used as tests.
+The possibility of communicating between the machines, without going through a computer centralizing the two.jar files, will eventually be studied in a second step
+
+
+### Prédiction du nombre d'appels du call center IZICAP ###
+ - Nombre d'étudiants souhaités : 1.
+ - Encadrants : [Gabriel Mopolo-Moke](mailto:gabriel.mopolo@gmail.com).
+
+Izicap, créée en 2013, est une startup innovante basée à l'Arénas dont l'objectif est de créer un outil pour conseiller les commerçants de TPE ou PME dans leur stratégie marketing en dématérialisant les cartes de fidélité.
+Pour mieux aider leurs clients IZICAP a installé un Call Center. Le nombre d'appels dans ce call center varie en fonction du jour et des tranches horaires. 
+La société est intéressée à créer une algorithme de prédiction pour pouvoir mieux optimiser les ressources dans ce centre.
+
+Les activités confiés à l'étudiant seront les suivantes : 
+- Etat de l'art : Faire une étude comparée de quelques framework de machine learning (R, Python, ...)
+- Avec les données d'appels transformés et traités par les étudiants M2 MBDS, utiliser des algorithmes de machine learning du marché pour prédire les appels par tranche horaire d'une journée afin de mieux prévoir les effectifs au centre d'appel.
+- Technologies : Python, R, Androïd, SQL

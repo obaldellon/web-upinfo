@@ -59,12 +59,12 @@ p {
     /* Non standard for webkit */
     word-break: normal;
 }
-p a,
+//p a,
 article a {
     font-weight: bold;
     border-bottom: 1px dotted;
 }
-p a:hover,
+//p a:hover,
 article a:hover {
     border-bottom: 2px solid;
 }
