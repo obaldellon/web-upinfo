@@ -32,10 +32,15 @@ header:
 
 ### Description ###
 
- - Basic Versioning tools
- - Plugins 
- - The Eclipse Modeling Framework
- - Code Generation Facilities 
+ - The Eclipse Modeling Framework: Building tools for software Engineers
+    - Code Generation Facilities : Xtend
+ - Design Patterns by examples: 
+    - Behavior: Visitors (static or dynamic), 
+    - Creation: Factory, Singleton
+ - Generating Environments
+    - Generating Parsers and Lexical Analyzers
+    - Generating Graphical Editors
+ - Code Versioning 
 
 ### Grading ###
 
@@ -44,5 +49,5 @@ header:
 
 ### Resources ###
 
- - http://www.eclipse.org
-
+ - http://www.eclipse.org/modeling
+ - http://www.eclispe.org/xtend
