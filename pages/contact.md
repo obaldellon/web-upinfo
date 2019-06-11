@@ -10,8 +10,7 @@ permalink: "/contact/"
 
 #### Pour toute information administrative ####
 
-- [Brigitte Bloise](mailto:brigitte.bloise@univ-cotedazur.fr) :  secrétaire du département d'informatique.
-- [Virginie Valot](mailto:valot@i3s.unice.fr) :  scolarité et secrétaire de l'EUR DS4H.
+- [ds4h-sco@univ-cotedazur.fr](mailto:ds4h-sco@univ-cotedazur.fr) : scolarité de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
 
 #### Pour toute information pédagogique ####
 
