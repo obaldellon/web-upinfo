@@ -40,8 +40,11 @@ Certains événements exceptionnels peuvent se dérouler en dehors de ces pério
 
 ## Planning des soutenances (TER/DEMOLA/OASIS)
 
-Pour rappel, la page web des TER est [ici]({{ site.baseurl }}{% post_url /s2/2018-09-07-travail-etude-recherche %}).  
+Les soutenances auront lieu dans la salle du conseil ou dans l'amphi A1 du bâtiment des Lucioles.  
 Le planning n'indique pas le planning de soutenance des tutorats.
+
+Pour rappel, la page web des TER est [ici]({{ site.baseurl }}{% post_url /s2/2018-09-07-travail-etude-recherche %}).  
+
 
 
 | Date     | Horaire | #sujet | titre                                                      | encadrant            |
