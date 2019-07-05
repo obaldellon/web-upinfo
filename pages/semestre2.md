@@ -16,7 +16,7 @@ Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. L
 
 ## Cours optionnels ##
 
-7 cours au minimum doivent être choisis.
+6 cours au minimum doivent être choisis.
 
 {%include accordion-posts category="S2" tag="OPT" %}
 

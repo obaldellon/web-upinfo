@@ -24,7 +24,7 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 
 ## Cours optionnels ##
 
-5 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
+6 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
 
 {%include accordion-posts category="S1" tag="OPT" %}
 
