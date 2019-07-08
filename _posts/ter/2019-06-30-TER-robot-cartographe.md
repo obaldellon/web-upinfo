@@ -42,7 +42,7 @@ Dans le cadre de ce TER nous avons été amenés à utiliser des technologies di
 De plus, nous avons pu nous intéresser aux manières d'explorer un espace, de le cartographier, puis d'échanger des informations, ce qui nous a permis par la suite de mettre en pratique nos connaissances en informatique théorique.  
 Vous pouvez trouver ci-dessous une courte vidéo de démonstration du robot effectuant la cartographie d'une pièce.
 
-{% include youtubePlayer id=oTuasfq-90s %}
+{% include youtubePlayer id='oTuasfq-90s' %}
 
 
 ### Pistes d'améliorations ###
