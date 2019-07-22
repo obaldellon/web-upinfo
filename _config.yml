@@ -60,6 +60,47 @@ paginate_path: "blog/page:num"   # Pagination path › Important for blog page i
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
+
+# More › http://kramdown.gettalong.org/quickref.html
+# Options › http://kramdown.gettalong.org/options.html
+kramdown:
+  input:          GFM
+  auto_ids:       true
+  auto_id_stripping: true # TODO is this --safe?
+  #transliterated_header_ids: true # requires some more dependency
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  toc_panel:      true
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  hard_wrap:      false
+  # !github-pages! mandatory › https://help.github.com/articles/configuring-jekyll/#configuration-settings-you-cannot-change
+  # https://github.com/jekyll/jekyll/pull/4090
+  syntax_highlighter: rouge
+  # !github-pages! mandatory › https://help.github.com/articles/configuring-jekyll/#configuration-settings-you-cannot-change
+  math_engine: mathjax
+  show_warnings: true
+
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    #debug: false
+    #parent: ''
+    # Affects <pre class>, but not <div class> around <pre>
+    # disabled to prevent problems with CSS due to .highlight > .highlight structure
+    css_class: ''
+    default_lang: text
+    disable: false
+    span:
+      disable: false
+    block:
+      #wrap: true
+      #line_numbers: true
+      #start_line: 1
+      disable: false
+
+      
 permalink: /:categories/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
