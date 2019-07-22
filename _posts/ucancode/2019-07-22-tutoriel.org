@@ -1,59 +1,58 @@
 #+STARTUP: overview hidestars logdone
-#+OPTIONS: tags:t timestamp:t p:t todo:t TeX:t
-# #Do the right thing automatically (MathJax)
-#+OPTIONS: LaTeX:t          
+#+OPTIONS: tags:t timestamp:t p:t todo:t TeX:t LaTeX:t          
 #+OPTIONS: skip:t @:t ::t |:t ^:t f:t
-#+LANGUAGE: fr
-#+OPTIONS: toc:nil h:3
 #+PROPERTY: header-args :results output :exports code
+#+OPTIONS: toc:nil h:4
+#+LANGUAGE: fr
 #+BEGIN_export markdown
 ---
 layout: page-fullwidth
+show_meta: false
 #
 # Content
 #
 subheadline: "UCAnCODE"
 title: "Tutoriel UCAnCODE"
-teaser: "Pour cette 2ème participation au Google HashCode, le hub UFR Sciences a réuni 79 participants répartis en 29 équipes qui ont contribué à placer la France à la première place dans le classement par pays."
+teaser: "  Ce tutoriel vous fait découvrir les plateformes utilisées pour les activités de programmation UCAnCODE."
 categories:
   - UCAnCODE
 tags:
+  - CONCOURS
   - NEWS
 #
 # Styling
 #
 image:
-  header: "header-merci.jpg"
-  thumb: "hashcode-hash.jpg"
-  homepage: "header-merci.jpg"
+  header: "Bandeau_Web_Ucancode.png"
+  thumb: "UCAnCODE.png"
+  homepage: "Bandeau_Web_Ucancode.png"
   caption: ""
   url: ""
 header:
-  image_fullwidth: "header-merci.jpg"
+   image_fullwidth: "Bandeau_Web_Ucancode.png"
 ---
 #+END_export
 
+
 * Introduction
 
-  Ce tutoriel vous fait découvrir les plateformes utilisées pour les activités de programmation [[http://i3s.unice.fr/master-info/etus/ucancode/][UCAnCODE]].
-  Les objectifs principaux de ces activités sont les suivants :
-      1. Algorithmique : élaborer des algorithmes pour résoudre des problèmes.
-      2. Programmation : implémenter correctement ces algorithmes.
-      
   Une activité consiste à écrire un programme pour résoudre un problème.
-  1. Chaque solution, un programme, soumise au juge automatique est appelée un /run/.
-  2. Chaque /run/ est accepté ou refusé par le juge.
+  Chaque solution, un programme, soumise au juge automatique est appelée un /run/.
+  Chaque /run/ est accepté ou refusé par le juge.
 
-  Ce tutoriel contient un problème guidé (ECHO - déjà résolu), puis deux exercices pour lesquels vous devrez modifier la solution du problème ECHO.
-
- Le tutoriel est ouvert à tous. Aucune inscription n'est nécessaire.
-
-#+INCLUDE: "~/ucancode/pc2-problems/ECHO/ECHO.org" :minlevel 1
+  Les objectifs principaux de ces activités sont les suivants :
+  - Algorithmique :: élaborer des algorithmes pour résoudre des problèmes.
+  - Programmation :: implémenter correctement ces algorithmes.
+      
+  Ce tutoriel contient un problème guidé déjà résolu (ECHO), puis deux exercices pour lesquels vous devrez modifier la solution du premier problème. Le tutoriel est ouvert à tous. Aucune inscription n'est nécessaire.
 
 * Résoudre le problème ECHO
 
-** Récupérer une solution
+#+INCLUDE: "~/ucancode/pc2-problems/ECHO/ECHO.org" :minlevel 2
+
+** Récupérer une solution et un cas de test
    Des solutions dans plusieurs langages sont disponibles dans ce [[https://github.com/arnaud-m/echo][dépôt github]] ou directement ci-dessous.
+   Téléchargez un de ces programmes dans un répertoire de travail créé pour l'occasion.
    - [[https://raw.githubusercontent.com/arnaud-m/echo/master/ECHO.py][ECHO.py]] 
    - [[https://raw.githubusercontent.com/arnaud-m/echo/master/ECHO.R][ECHO.R]] 
    - [[https://raw.githubusercontent.com/arnaud-m/echo/master/ECHO.c][ECHO.c]]
@@ -61,85 +60,80 @@ header:
    - [[https://raw.githubusercontent.com/arnaud-m/echo/master/ECHO.cpp][ECHO.cpp]]
    - [[https://raw.githubusercontent.com/arnaud-m/echo/master/ECHO.rkt][ECHO.rkt]]
 
-   Téléchargez un de ces programmes dans un répertoire de travail créé pour l'occasion.
-
-** Récupérer un cas de test 
    Téléchargez le fichier d'entrée [[https://raw.githubusercontent.com/arnaud-m/echo/master/in/ECHO-03.in][ECHO-03.in]] contenant les cas de tests dans votre répertoire de travail.
    Ici, le fichier [[https://raw.githubusercontent.com/arnaud-m/echo/master/in/ECHO-03.in][ECHO-03.in]] ne contient qu'un seul cas de test, les nombres entiers compris entre 4 et 6. 
    
 ** Tester une solution
 
    Nous allons maintenant exécuter le programme dans un *terminal shell*.
-   Allez dans le répertoire où vous avez téléchargé les deux fichiers grâce à la commande ~cd~.
-    
+   Allez dans le répertoire où vous avez téléchargé les deux fichiers grâce à la commande ~cd~.\\
    Le contenu du fichier ~ECHO-03.in~ va être redirigé sur l'entrée standard pour être lu par notre programme.
    Notre programme va écrire sur la sortie standard.
-   
    Vous devez vérifier que la sortie est conforme aux spécifications du problème.  
    
-*** Set up shell session                                           :noexport:
- #+BEGIN_SRC sh :exports none :results none :session tuto
-   cd ~/ucancode/echo
-   ln -s in/ECHO-03.in .
-  #+END_SRC
+**** Set up shell session                                          :noexport:
+  #+BEGIN_SRC sh :exports none :results none :session tuto
+    cd ~/ucancode/echo
+    ln -s in/ECHO-03.in .
+   #+END_SRC
 
-*** Dans le langage Python 3
-    #+BEGIN_SRC sh :session tuto
-      python3 ECHO.py < ECHO-03.in
-    #+END_SRC
 
-    #+RESULTS:
-    : 4
-    : 5
-    : 6
-
-    La commande ~python3~ permet d'interpréter le script ~ECHO.py~.
-*** Dans le langage R
+**** Dans le langage Python 3
      #+BEGIN_SRC sh :session tuto
-       Rscript ECHO.R < ECHO-03.in
+       python3 ECHO.py < ECHO-03.in
      #+END_SRC
 
      #+RESULTS:
-     La commande ~Rscript~ permet d'interpréter le script ~ECHO.R~.
-*** Dans le langage C
-     #+BEGIN_SRC sh :session tuto
-       gcc ECHO.c
-       ./a.out < ECHO-03.in
-     #+END_SRC
-     La commande ~gcc~ permet de compiler notre programme ~ECHO.c~ vers un exécutable ~a.out~.
-*** Dans le langage Java
-     #+BEGIN_SRC sh :session tuto
-       javac ECHO.java
-       java ECHO < ECHO-03.in
-     #+END_SRC
+     : 4
+     : 5
+     : 6
 
-     La commande ~javac~ permet de compiler notre programme ~ECHO.java~ vers un fichier de bytecode ~ECHO.class~ qui est ensuite interpété par une machine virtuelle Java.
-*** Dans le langage C++
+     La commande ~python3~ permet d'interpréter le script ~ECHO.py~.
+**** Dans le langage R
+      #+BEGIN_SRC sh :session tuto
+        Rscript ECHO.R < ECHO-03.in
+      #+END_SRC
+
+      #+RESULTS:
+      La commande ~Rscript~ permet d'interpréter le script ~ECHO.R~.
+**** Dans le langage C
+      #+BEGIN_SRC sh :session tuto
+        gcc ECHO.c
+        ./a.out < ECHO-03.in
+      #+END_SRC
+      La commande ~gcc~ permet de compiler notre programme ~ECHO.c~ vers un exécutable ~a.out~.
+**** Dans le langage Java
+      #+BEGIN_SRC sh :session tuto
+        javac ECHO.java
+        java ECHO < ECHO-03.in
+      #+END_SRC
+
+      La commande ~javac~ permet de compiler notre programme ~ECHO.java~ vers un fichier de bytecode ~ECHO.class~ qui est ensuite interpété par une machine virtuelle Java.
+**** Dans le langage C++
+      #+BEGIN_SRC sh :session tuto
+        g++ ECHO.cpp
+        ./a.out < ECHO-03.in
+      #+END_SRC
+      La commande ~g++~ permet de compiler notre programme ~ECHO.cpp~ vers un exécutable ~a.out~.
+**** Dans le langage Racket
      #+BEGIN_SRC sh :session tuto
-       g++ ECHO.cpp
-       ./a.out < ECHO-03.in
+       racket ECHO.rkt < ECHO-03.in
      #+END_SRC
-     La commande ~g++~ permet de compiler notre programme ~ECHO.cpp~ vers un exécutable ~a.out~.
-*** Dans le langage Racket
-    #+BEGIN_SRC sh :session tuto
-      racket ECHO.rkt < ECHO-03.in
+     La commande ~racket~ permet d'interpréter le script ~ECHO.rkt~.
+
+**** Dans un terminal powershell sous WINDOWS
+
+     L'opérateur de redirection ~<~ n'existe pas encore dans powershell. 
+     Il faut donc utiliser une commande équivalente combinant la commande ~cat~ et un tube (/pipe/ en anglais).
+     Par exemple, pour tester un programme en python 3, il faudra taper la commande suivante : 
+    #+BEGIN_SRC bash :session tuto
+     cat ECHO-03.in | python3 ECHO.py
     #+END_SRC
-    La commande ~racket~ permet d'interpréter le script ~ECHO.rkt~.
-
-*** Dans un terminal powershell sous WINDOWS
-
-    L'opérateur de redirection ~<~ n'existe pas encore dans powershell. 
-    Il faut donc utiliser une commande équivalente combinant la commande ~cat~ et un tube (/pipe/ en anglais).
-    
-    Par exemple, pour tester un programme en python 3, il faudra taper la commande suivante : 
-   #+BEGIN_SRC bash :exports none :results none :session tuto
-    cat ECHO-03.in | python3 ECHO.py
-   #+END_SRC
    
-    #+RESULTS:
-    : 4
-    : 5
-    : 6
+     #+RESULTS:
+     : 4
+     : 5
+     : 6
 *** Tear down shell session                                        :noexport:
  #+BEGIN_SRC sh :exports none :results none :session tuto
    rm ECHO-03.in a.out
@@ -147,9 +141,8 @@ header:
 ** Écrire un nouveau cas de test 
    Créez un autre fichier de test dans votre répertoire de travail avec un scénario différent, par exemple une séquence vide (avec zéro nombre). 
    Testez à nouveau votre programme dans le terminal. 
-* Soumettre une solution au problème ECHO
-  Il faut maintenant soumettre votre programme pour obtenir le verdict du juge.
-
+** Soumettre une solution au problème ECHO
+   Il faut maintenant soumettre votre programme pour obtenir le verdict du juge.
 *** Moodle (en distanciel) 
 
     Vous êtes inscrit à l'université. 
@@ -181,12 +174,12 @@ Pour résoudre les deux problèmes suivants, vous allez devoir modifier le progr
 Efforcez-vous de bien tester vos programmes avec différentes entrées avant de les soumettre.  
 Cela vous fera gagner du temps et ménagera les juges.
 
-#+INCLUDE: "~/ucancode/pc2-problems/TEST/TEST.org" :minlevel 1
+#+INCLUDE: "~/ucancode/pc2-problems/TEST/TEST.org" :minlevel 2
 
-** Sphere Engine  
-   Allez sur la page du problème [[https://51364960.widgets.sphere-engine.com/lp?hash=WkufwLACgf][TEST]].
+*** Sphere Engine  
+    Allez sur la page du problème [[https://51364960.widgets.sphere-engine.com/lp?hash=WkufwLACgf][TEST]].
 
-#+INCLUDE: "~/ucancode/pc2-problems/STEST/STEST.org" :minlevel 1
+ #+INCLUDE: "~/ucancode/pc2-problems/STEST/STEST.org" :minlevel 2
 
-** Sphere Engine  
-   Allez sur la page du problème [[https://51364960.widgets.sphere-engine.com/lp?hash=zEaCpnaksl][STEST]].
+*** Sphere Engine  
+    Allez sur la page du problème [[https://51364960.widgets.sphere-engine.com/lp?hash=zEaCpnaksl][STEST]].

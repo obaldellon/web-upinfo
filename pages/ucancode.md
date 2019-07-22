@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Concours de Programmation"
 logo: ""
@@ -35,7 +35,7 @@ Ils associent
 
 
 Le département d'informatique organise un concours semestriel depuis 2016 et organise un hub pour le [Google Hash Code](https://hashcode.withgoogle.com/) depuis 2018.
-Le département propose des activités pour préparer les concours que ce soit à travers des activités en autonomie ou dans le cadre du cours [Programming Challenge]({{ site.baseurl }}{% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1.
+Le département propose des activités pour préparer les concours que ce soit à travers des activités en autonomie ou dans le cadre de cours.
 
 ### Concours UCAnCODE ###
 
@@ -45,8 +45,8 @@ Les participants, en binôme, ont 4 heures pour résoudre 7 problèmes ou plus.
 Chaque solution à un problème soumise au juge automatique qui accepte ou refuse la solution.  
 *Résoudre le maximum de problèmes le plus rapidement possible.*
 
- - Consulter la [page](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html) du dernier concours.
- - S'inscrire au prochain concours en remplissant le [formulaire](https://forms.office.com/Pages/ResponsePage.aspx?id=fUQgvFKJzUqD5F1otezkb_ik15fPGnROgx-GcCjKbjBUM0xXMzM4QUFBRFpJMzIzQjZDQVE4TlRZVS4u).
+ <!-- - Consulter la [page](http://www.i3s.unice.fr/~malapert/org/teaching/R/concours-PC2.html) du dernier concours. -->
+ <!-- - S'inscrire au prochain concours en remplissant le [formulaire](https://forms.office.com/Pages/ResponsePage.aspx?id=fUQgvFKJzUqD5F1otezkb_ik15fPGnROgx-GcCjKbjBUM0xXMzM4QUFBRFpJMzIzQjZDQVE4TlRZVS4u). -->
 
 ### Google Hash Code ###
 
@@ -55,13 +55,12 @@ Les participants, en équipe de 2 à 4, ont 4 heures pour résoudre un problème
 Ils soumettent leur solution à un juge (automatique), qui accepte ou refuse la soumission et leur attribue un score.  
 *Obtenir le score le plus élevé possible dans les délais impartis.* 
 
-### Préparation aux concours ###
-
-Pour une première confrontation avec un juge automatique, vous pouvez, en autonomie, résoudre le problème [ECHO](https://github.com/arnaud-m/echo/).
-
-Le cours [Programming Challenge]({{ site.baseurl }}{% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 contient de nombreux autres exercices accompagnés de supports de cours.
-Le site web du cours pointe vers de nombreuses autres ressources en ligne pour préparer les concours quel que soit votre niveau d'études.
-
+### Résoudre des problèmes en ligne ### 
+Ces activités sont aussi au programme et au contrôle continu de plusieurs cours. 
+ - Pour une première confrontation avec un juge automatique, vous pouvez, en autonomie, suivre le [tutoriel]({{ site.baseurl }}{% post_url ucancode/2019-07-22-tutoriel %}).
+ - Le cours [Programming Challenge]({{ site.baseurl }}{% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 contient d'autres exercices accompagnés de supports de cours.
+   Le cours pointe aussi vers d'autres ressources en ligne pour vous entraîner quel que soit votre niveau d’études.
+ 
 
 ### Affluence aux concours ###
 
