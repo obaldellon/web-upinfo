@@ -42,7 +42,7 @@ Les travaux pratiques sont réalisés avec la suite [IBM Ilog optimization studi
 ### Cours ###
 
  - Les diapositives du cours seront bientôt disponibles.
- - un petit [guide d'installation d'IBM Ilog optimization studio](http://www.i3s.unice.fr/~malapert/org/tips/cplex.html).
+ - un petit [guide d'installation d'IBM Ilog optimization studio]({{ site.baseurl }}{% post_url divers/2019-07-23-installation-cplex-studio %}).
  - Le [Cahier d'exercices](https://www.enseignement.polytechnique.fr/profs/informatique/Leo.Liberti/teaching/isic/isc610a-08/) du cours de Recherche Operationnelle du professeur Léo Liberti. Merci à lui pour le partage.
  - D'autres exercices sont publiés [ici](http://www.i3s.unice.fr/~malapert/org/teaching/proglin.html) au fil de l'eau. 
 
