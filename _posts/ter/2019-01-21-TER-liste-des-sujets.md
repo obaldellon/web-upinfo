@@ -202,7 +202,7 @@ Cette communication passera par une queue de message RabbitMQ.
 
 ### Exploration exhaustive du Redi Cube ###
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [ Julien Bensmail](mailto:Julien.Bensmail@unice.fr)
+ - Encadrants : [Julien Bensmail](mailto:Julien.Bensmail@unice.fr)
 
 Il existe de nombreuses variantes du Rubik's Cube, dont la complexité peut être évaluée via une exploration exhaustive de tous les mélanges possibles et de la manière de passer de l'un à l'autre. Un exemple parlant est celui du Rubik's Cube, pour lequel il est connu que le « Nombre de Dieu » est 20, ce qui signifie que tout mélange peut être résolu via une combinaison d'au plus 20 mouvements.
 
@@ -211,7 +211,7 @@ Le but de ce projet sera de mener une étude similaire sur une variante récente
 
 ### ∆-Debugger de solveur de satisfiabilité en logique propositionnelle
  - Nombre d'étudiants souhaités : 1.
- - Encadrants : [ Valentin Montmirail et Marie Pelleau](mailto:valentin.montmirail@univ-cotedazur.fr,marie.pelleau@unice.fr)
+ - Encadrants : [Valentin Montmirail et Marie Pelleau](mailto:valentin.montmirail@univ-cotedazur.fr,marie.pelleau@unice.fr)
  
  L'écriture de solveur de satisfiabilité, qu'importe la logique, est une tâche extrêmement compliquée. 
 Le développement peut donc impliquer des bugs très difficile à découvrir.
@@ -223,8 +223,8 @@ Nous lançons donc le solveur bogué sur le test t. Seulement, le solveur ne ren
 Nous pouvons donc simplifier le test t, en supprimant certaines parties par exemple, afin d'obtenir un test t' qui a moins de chance de déclencher le bug dans le solveur. Si ce coup-ci le solveur répond correctement, alors le plus petit problème qui déclenche le bug est t, sinon nous avons trouvé un nouveau problème t', plus petit, qui déclenche le bug. Nous pouvons donc considéré que t = t' et recommencer ainsi toute la procédure. Cette procédure boucle tant que nous pouvons supprimer des parties dans t et que le solveur répond toujours de manière incorrecte.
 
 - Références:
-  - [Zel01] Andreas Zeller. Automated debugging : Are we close. IEEE Computer, 34(11) :26–31, 2001.
-  - [Zel05] Andreas Zeller. Why Programs Fail : A Guide to Systematic Debugging. Morgan Kauf- mann Publishers Inc., San Francisco, CA, USA, 2005.
+  - \[Zel01\] Andreas Zeller. Automated debugging : Are we close. IEEE Computer, 34(11) :26–31, 2001.
+  - \[Zel05\] Andreas Zeller. Why Programs Fail : A Guide to Systematic Debugging. Morgan Kauf- mann Publishers Inc., San Francisco, CA, USA, 2005.
 
 ### Diagnostic et théranostic par des méthodes de machine learning appliquées à des données métabolomiques ###
  - Nombre d'étudiants souhaités : 1.
@@ -281,7 +281,7 @@ Ce TER est destiné à un étudiant intéressé par les aspects d'informatique b
 L'objectif de ce TER est d'adaptater un plugin audio instrument virtuel VSTi écrit en C++ vers le format WebAudioModule (WebAssembly) pour l'intégrer dans logiciels hôte/séquencer en ligne basés Web.
 Le standard [WebAudioModules](http://webaudiomodules.org/), propose de cross compiler les plugins "standards" du monde natif (VST, etc.)  de C++ vers du WebAssembly + création de GUI photo-réaliste à l'aide de WebComponents, par exemple, ceux de [WebAudio Controls](https://github.com/g200kg/webaudio-controls).
 
-Le plugin original que nous proposons de transposer vers le Web est un "instrument virtuel" au format VSTi :  revitar2[1], qui est open source et qui semble être assez simple pour un projet étudiant. 
+Le plugin original que nous proposons de transposer vers le Web est un "instrument virtuel" au format VSTi :  revitar2\[1\], qui est open source et qui semble être assez simple pour un projet étudiant. 
 La vidéo de la version originale [ici](https://www.youtube.com/watch?v=7VCv89lC1aA)
 Le source est disponible [ici](https://www.kvraudio.com/product/revitar-2-by-cuttermusic) voir aussi sur [github](https://github.com/SwooshyCueb/Revitar2).
 Le projet est intéressant car il met en oeuvre des technologies émergeantes comme WebAssembly et WebComponents. Vous aurez le support des auteurs du framework WebAudioModules, et de MichelBuffa, expert WebAudio et WebComponents.
@@ -300,15 +300,15 @@ L’objectif de ce TER est de générer les conceptions possibles respectant un 
 Les étudiants utiliseront l’outil [Corese](http://corese.inria.fr). Le langage RDF permet de décrire les tâches annotées. Sparql est un langage de requêtes qui permet d’interroger du RDF. Le moteur de règles permet de faire les déductions. La visualisation se fait par transformation de règles vers la librairie [D3.js](https://d3js.org/), la visualisation arborescente et la visualisation graphe sont déjà intégrées à Corese.
 
 
-### développement de techniques d'interactions dans 7wonders et études expérimentales ###
+### Développement de techniques d'interactions dans 7wonders et études expérimentales ###
  - Nombre d'étudiants souhaités : entre 2 et 4.
  - Encadrants : [Alain Giboin, Anne-Marie Pinna Dery et Philippe Renevier Gonin](mailto:Alain.GIBOIN@univ-cotedazur.fr,Anne-Marie.PINNA@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr)
 
-Le travail s'inscrit dans des travaux de recherche étudiant la conception et la réalisation de systèmes interactifs répartis sur plusieurs dispositifs. Ici ces systèmes sont des jeux de plateaux comme [7wonders](http://www.7wonders.net/) et les dispositifs sont une table (tactile et tangible) et des tablettes (une par joueur). La conception, s'intéressant plus particulièrement à la répartition des actions du jeu entre la table et/ou les tablettes ainsi que les transitions entre ces actions, se base sur la théorie de la territorialité pour les tables interactives [Scott 2010]. 
+Le travail s'inscrit dans des travaux de recherche étudiant la conception et la réalisation de systèmes interactifs répartis sur plusieurs dispositifs. Ici ces systèmes sont des jeux de plateaux comme [7wonders](http://www.7wonders.net/) et les dispositifs sont une table (tactile et tangible) et des tablettes (une par joueur). La conception, s'intéressant plus particulièrement à la répartition des actions du jeu entre la table et/ou les tablettes ainsi que les transitions entre ces actions, se base sur la théorie de la territorialité pour les tables interactives \[Scott 2010\]. 
 
 À partir d'une version de 7wonders développée en javascript (clients et serveur), le travail consiste à étudier les transitions des actions faites sur la table ou une tablette vers l'autre dispositif. Le groupe doit donc analyser le jeu pour proposer les situations où les transitions sont le plus cruciales. Il faut aussi développer les mécanismes d'initialisation des situations et des modalités de transitions et de répartition choisies, ainsi que plusieurs techniques d'interactions (et de répartitions) pour les actions concernées. La réalisation et l'interprétation d'expérimentations (avec des utilisateurs) sont l'objectif principal de ce sujet.
 
-[Scott 2010] Stacey Scott and Seelagh Carpendale. 2010. Theory of Tabletop Territoriality. In C. Müller-Tomfelde (Ed.) Tabletops - Horizontal Interactive Displays, pages 375-406. Springer, Heidelberg (2010) 
+\[Scott 2010\] Stacey Scott and Seelagh Carpendale. 2010. Theory of Tabletop Territoriality. In C. Müller-Tomfelde (Ed.) Tabletops - Horizontal Interactive Displays, pages 375-406. Springer, Heidelberg (2010) 
 
 
 ### Deep Learning for Solving Network Problems ###
@@ -316,15 +316,15 @@ Le travail s'inscrit dans des travaux de recherche étudiant la conception et la
  - Encadrants :[Ramon Aparicio-Pardo et Lucile Sassatelli](mailto:raparicio@i3s.unice.fr,sassatelli@i3s.unice.fr)
 
 
-In the last years, Deep Reinforcement Learning [1] have obtained ground-breaking results at solving highly complex tasks, such as beating AlphaGo world champion or achieving state of the art results at video games (Atari, Doom). 
+In the last years, Deep Reinforcement Learning \[1\] have obtained ground-breaking results at solving highly complex tasks, such as beating AlphaGo world champion or achieving state of the art results at video games (Atari, Doom). 
 
-In the current Internet and future networks such as 5G, NP problems arise when, for example, we try to smartly route the integral video flows and choose the processing locations where they will be transformed, in order to maximize users’ perceived video quality and/or minimize energy consumption [6]. Such problems are usually tackled with heuristic methods providing only approximated solutions.
+In the current Internet and future networks such as 5G, NP problems arise when, for example, we try to smartly route the integral video flows and choose the processing locations where they will be transformed, in order to maximize users’ perceived video quality and/or minimize energy consumption \[6\]. Such problems are usually tackled with heuristic methods providing only approximated solutions.
 
-A few years ago, Dai et al. [2] has shown the interest of Deep RL to  learn heuristic algorithms to solve some classical NP-hard problems on graphs by combining RL with graph embedding (GE) [3], [4], a kind of representation learning applied to graphs. GE obtains a more compacted and lower dimensional graph representation where the RL scheme can  solve easier the optimization problem.
+A few years ago, Dai et al. \[2\] has shown the interest of Deep RL to  learn heuristic algorithms to solve some classical NP-hard problems on graphs by combining RL with graph embedding (GE) \[3\], \[4\], a kind of representation learning applied to graphs. GE obtains a more compacted and lower dimensional graph representation where the RL scheme can  solve easier the optimization problem.
 
-In this TER, we want to assess  how much we can gain if we adopt this RL+GE architecture to solve classic but complex network problems, as the integer capacitated routing problem. A close problem has been recently addressed by Valadasrki et al [5] by using solely RL, pointing out how the huge size of the native data representations of the problem supposes a challenge to efficiently solve it with ML tools.  
+In this TER, we want to assess  how much we can gain if we adopt this RL+GE architecture to solve classic but complex network problems, as the integer capacitated routing problem. A close problem has been recently addressed by Valadasrki et al \[5\] by using solely RL, pointing out how the huge size of the native data representations of the problem supposes a challenge to efficiently solve it with ML tools.  
 
-Goal: The goal of the TER is to evaluate how much we can “improve”  the deep RL schema used to solve the routing problem in [5] by adding a GE approach [3].
+Goal: The goal of the TER is to evaluate how much we can “improve”  the deep RL schema used to solve the routing problem in \[5\] by adding a GE approach \[3\].
 - Phase 1: Getting familiar with the problem, envisioned solution and existing codes (GE and RL algorithms).
 - Phase 2: Integration of GE within the existing deep RL code used to solve a network routing problem.
 - Phase 3: Assessment of the gain with GE with respect to the original results.

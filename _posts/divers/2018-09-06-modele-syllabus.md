@@ -84,4 +84,165 @@ ou une image réduite insérée dans le texte
 ![PhD Comics]({% include link-asset asset="phdcomics-syllabus.jpg" %}){:height="128px" width="128x"}
 .
 
+### Exemple de code
+
+#### Python
+```python
+def dump_args(func):
+    "This decorator dumps out the arguments passed to a function before calling it"
+    argnames = func.func_code.co_varnames[:func.func_code.co_argcount]
+    fname = func.func_name
+    def echo_func(*args,**kwargs):
+        print fname, ":", ', '.join(
+            '%s=%r' % entry
+            for entry in zip(argnames,args) + kwargs.items())
+        return func(*args, **kwargs)
+    return echo_func
+
+@dump_args
+def f1(a,b,c):
+    print a + b + c
+
+f1(1, 2, 3)
+
+def precondition(precondition, use_conditions=DEFAULT_ON):
+    return conditions(precondition, None, use_conditions)
+
+def postcondition(postcondition, use_conditions=DEFAULT_ON):
+    return conditions(None, postcondition, use_conditions)
+
+class conditions(object):
+    __slots__ = ('__precondition', '__postcondition')
+
+    def __init__(self, pre, post, use_conditions=DEFAULT_ON):
+        if not use_conditions:
+            pre, post = None, None
+
+        self.__precondition  = pre
+        self.__postcondition = post
+```
+
+#### C++
+
+```c++
+#include "algostuff.hpp"
+using namespace std;
+
+bool bothEvenOrOdd (int elem1, int elem2) {
+    return elem1 % 2 == elem2 % 2;
+}
+
+int main() {
+    vector<int> coll1;
+    list<int> coll2;
+
+    float m = 40.0f;
+
+    INSERT_ELEMENTS(coll1,1,7);
+    INSERT_ELEMENTS(coll2,3,9);
+
+    PRINT_ELEMENTS(coll1,"coll1: \n");
+    PRINT_ELEMENTS(coll2,"coll2: \n");
+
+    // check whether both collections are equal
+    if (equal (coll1.begin(), coll1.end(),  // first range
+               coll2.begin())) {            // second range
+        cout << "coll1 == coll2" << endl;
+    } /* TODO Shouldn't there be an 'else' case? */
+
+    // check for corresponding even and odd elements
+    if (equal (coll1.begin(), coll1.end(),  // first range
+               coll2.begin(),               // second range
+               bothEvenOrOdd)) {            // comparison criterion
+        cout << "even and odd elements correspond" << endl;
+    }
+}
+```
+
+#### Java
+```java
+import java.io.*;
+import java.util.*;
+
+public class KeyboardIntegerReader {
+
+  public static void main (String[] args) throws java.io.IOException {
+    String s1;
+    String s2;
+    int num = 0;
+
+    // set up the buffered reader to read from the keyboard
+    BufferedReader br = new BufferedReader (new InputStreamReader (
+              System.in));
+
+    boolean cont = true;
+
+    while (cont) {
+      System.out.print ("Enter an integer:");
+      s1 = br.readLine();
+      StringTokenizer st = new StringTokenizer (s1);
+      s2 = "";
+
+      while (cont && st.hasMoreTokens()) {
+        try {
+          s2 = st.nextToken();
+          num = Integer.parseInt(s2);
+          cont = false;
+        }
+        catch (NumberFormatException n) {
+          System.out.println("The value in \"" + s2 + "\" is not an integer");
+        }
+      }
+    }
+
+    System.out.println ("You entered the integer: " + num);
+  }
+}
+```
+
+#### Javascript
+```javascript
+$(function(){
+ var t,
+   $links = $('link[title]'),
+   $select = $('select'),
+   theme = "Native-Mod",
+   ls = false,
+   selectTheme = function(theme){
+     $links.prop('disabled', true);
+     $links.filter('[title="' + theme + '"]').prop('disabled', false);
+   };
+ // https://gist.github.com/paulirish/5558557
+ if ("localStorage" in window) {
+   try {
+     window.localStorage.setItem('_tmptest', 'temp');
+     ls = true;
+     window.localStorage.removeItem('_tmptest');
+   } catch(e) {}
+ }
+ if (ls) {
+   theme = localStorage['github-dark-theme'] || theme;
+ }
+
+ t = '';
+ $links.each(function(){
+   t += '<option>' + this.title + '</option>';
+ });
+ $select
+   .append(t)
+   .on('change', function(){
+     selectTheme(this.value);
+     if (ls) {
+       localStorage['github-dark-theme'] = this.value;
+     }
+   })
+   .val(theme);
+
+ $(window).load(function(){
+   $select.val(theme);
+   selectTheme(theme);
+ });
+
+});
+```
 
