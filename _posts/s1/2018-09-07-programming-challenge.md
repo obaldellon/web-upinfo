@@ -80,13 +80,13 @@ Beware, in these widgets, your work is judged, but not marked for grading.
 
 ### Resources
 
--   [UCAnCODE]({{ site.baseurl }}{% link pages/ucancode.md %})
--   [CSE 392 - Programming Challenges (2012)](https://www3.cs.stonybrook.edu/~skiena/392/)
--   [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
+- [UCAnCODE]({{ site.baseurl }}{% link pages/ucancode.md %})
+- [CSE 392 - Programming Challenges (2012)](https://www3.cs.stonybrook.edu/~skiena/392/)
+- [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
 
 ##### Autres plateformes en ligne
 
--   [spoj.com](http://www.spoj.com/)
--   [uva.onlinejudge.org](https://uva.onlinejudge.org/)
--   [codechef.com](http://codechef.com/)
-
+- [spoj.com](http://www.spoj.com/)
+- [uva.onlinejudge.org](https://uva.onlinejudge.org/)
+- [codechef.com](http://codechef.com/)
+- [Research Optimization Challenges](https://www.hsu-hh.de/logistik/research/challenges)
