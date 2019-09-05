@@ -3,18 +3,18 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+subheadline: "Sid Touati, PR"
 title: "Compilation"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: " Introduction aux méthodes d'analyse syntaxique et d'analyse sémantique, dans le cadre de la construction de compilateurs et de traduction d'un formalisme en un autre."
 categories:
   - L3
 tags:
   - S6
 ects: 6
-schedule: "60h"
+schedule: "18h cours + 36h TD"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "sid.touati@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -29,12 +29,28 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
+### Prérequis
+
+- Automates et langage
+- Programmation C
+- Programmation Orientée Objet
+
 ###  Description ###
 
-###  Calendrier ###
-
-###  Cours ###
+− Décomposition du processus de compilation ;
+− Analyse lexicale ;
+− Grammaires algébriques et automates à pile ;
+− Analyse descendante: grammaires LL(k) et LL(1), descente récursive, génération automatique
+d'analyseurs descendants ;
+− Analyse ascendante: grammaires LR(k), SLR(1) et LALR(1), génération automatique
+d'analyseurs ascendants ;
+− Arbres abstraits et interprétation ;
+− Analyse sémantique: tables de symboles, vérification de types, grammaires attribuées,
+programmation de l'analyse sémantique ;
+− Traduction d'un formalisme en un autre.
 
 ###  Modalités de contrôle des connaissances ###
 
-###  Ressources ###
+- Projet (50%)
+- Contrôle terminal (50%)
+

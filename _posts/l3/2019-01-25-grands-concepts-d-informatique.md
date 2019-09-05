@@ -3,10 +3,10 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+subheadline: "Enrico Formenti, PR"
 title: "Grands concepts d'informatique fondamentale"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: "Ce cours complète le cours de Licence 2 sur l'informatique fondamentale et vise à préparer les étudiants au cours du Master"
 categories:
   - L3
 tags:
@@ -30,12 +30,6 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-###  Description ###
+### Contenu
 
-###  Calendrier ###
-
-###  Cours ###
-
-###  Modalités de contrôle des connaissances ###
-
-###  Ressources ###
+Ce cours est un nouveau cours, et son contenu est susceptible d'évoluer au moment de l'ouverture du cours.

@@ -3,10 +3,10 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+subheadline: "Sandrine Julia/Bruno Martin, MCF/PR"
 title: "Cryptographie et calcul symbolique"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne"
 categories:
   - L3
 tags:
@@ -32,10 +32,20 @@ header:
 
 ###  Description ###
 
-###  Calendrier ###
 
-###  Cours ###
 
-###  Modalités de contrôle des connaissances ###
+Le cours présente des méthodes chiffrement à clé secrète (DES, AES) et
+des méthodes de chiffrement à clé publique (protocole de Diffie-Hellman, RSA).
+On ne fera qu'évoquer les dernières avancées dans le domaine.
+La cryptographie ne se limite pas au chiffrement des messages, d'autres notions seront présentées comme la signature, l'identification, l'authentification, l'intégrité des données, les certificats.
+On recensera aussi les usages quotidiens de la cryptographie : connexion à un système informatique, commerce électronique, carte bleue, envoi de données sécurisé, one-time password ...
+Enfin, on analysera les évolutions qu'a entraîné la cryptographie moderne (lois, autorités de certification, e-commerce, etc).
+
+Les TP mettront en oeuvre les protocoles classiques de chiffrement ou de signature. Ils permettront aussi de fouiller les applications informatiques pour comprendre où s'y loge la cryptographie.
+
+Ce cours proposera par ailleurs introduction au calcul symbolique en utilisant la librairie de calcul symbolique SymPy de Python 3. 
 
 ###  Ressources ###
+
+ - http://deptinfo.unice.fr/~bmartin/CS.html
+ - http://deptinfo.unice.fr/%7ejulia/Crypto/

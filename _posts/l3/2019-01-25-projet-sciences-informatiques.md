@@ -3,10 +3,10 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+subheadline: "Philippe Collard, PR"
 title: "Projet sciences informatiques"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: "Objectif : S'initier à la démarche scientifique: modéliser, simuler et valider l'étude d'un phénomène à l'aide d'outils informatiques. Savoir présenter un problème, discuter les approches de résolution possibles, défendre des conclusions devant des pairs, et réciproquement savoir évaluer les résultats d'autres études sur des sujets connexes."
 categories:
   - L3
 tags:
@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "64h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "philippe.collard@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -32,10 +32,7 @@ header:
 
 ###  Description ###
 
-###  Calendrier ###
-
-###  Cours ###
-
-###  Modalités de contrôle des connaissances ###
-
-###  Ressources ###
+- Eléments de méthodologie scientifique ;
+- Prise en main d'outils informatiques (tracé de courbes, analyse de données, etc.) ; - Présentation de différents paradigmes de modélisation ;
+- Initiation aux techniques de simulation et validation ;
+- Initiation aux techniques de communication scientifique.

@@ -3,10 +3,11 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+subheadline: "Julien Provillard, MCF"
 title: "Paradigmes et interprétation"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des 
+interpréteurs de petits langages qui les mettent en oeuvre."
 categories:
   - L3
 tags:
@@ -15,7 +16,7 @@ tags:
 ects: 6
 schedule: "48h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "julien.provillard@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -32,10 +33,26 @@ header:
 
 ###  Description ###
 
-###  Calendrier ###
+Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure et on se propose de réaliser des interpréteurs pour en comprendre les fonctionnements.
 
-###  Cours ###
 
-###  Modalités de contrôle des connaissances ###
+Concrètement, les notions seront introduites une à une et seront traduites dans un langage propre au cours. Ce langage aura une syntaxe qui s'approche du LISP afin de faciliter l'écriture d'interpréteurs. Ceux-ci seront écrit en Scheme à l'aide du logiciel DrRacket. La maîtrise de Scheme n'est pas un prérequis au cours, la syntaxe et les structures utilisées étant rappelées quand nécessaire. Au besoin, vous pouvez vous référer au livre Premiers cours de programmation avec Scheme ou au cours d' introduction à la programmation fonctionnelle.
+
+###  Contenu ###
+
+1. Introduction.
+2. Expressions arithmétiques et fonctions. 
+3. Ordre supérieur.
+4.  Programmation à états : enregistrements et boîtes. 
+5. Programmation à états : variables. 
+6. Introduction au lambda-calcul.
+7. Récursivité et paresse. 
+8. Continuations et erreurs. 
+9. Objets et classes. 
+10. Types. 
+11. Sous-typage. 
+
 
 ###  Ressources ###
+
+Le cours se base sur le livre Programming languages : Application and Interpretation, également disponible au format pdf, et s'inspire des cours de Shriram Krishnamurthi et de Matthew Flatt.
