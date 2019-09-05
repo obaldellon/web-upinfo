@@ -59,12 +59,12 @@ p {
     /* Non standard for webkit */
     word-break: normal;
 }
-p a,
+//p a,
 article a {
     font-weight: bold;
     border-bottom: 1px dotted;
 }
-p a:hover,
+//p a:hover,
 article a:hover {
     border-bottom: 2px solid;
 }
@@ -169,23 +169,100 @@ td {
 
 
 /* Code
+From https://github.com/Phlow/feeling-responsive/issues/156
 ------------------------------------------------------------------- */
-
+$code-border: 3px ridge transparentize(darken($primary-color, 40%), 0.5);
 pre {
-    overflow: auto;
     margin-bottom: rem-calc(20);
-    padding: 5px;
-    background-color: $code-background-color;
+    padding: rem-calc(4) rem-calc(7) rem-calc(3) rem-calc(4);
     border-radius: $global-radius;
-}
-pre code {
-    padding: rem-calc(2) rem-calc(5) rem-calc(1) rem-calc(0);
-    border: 0;
+    line-height: 1.2;
+    max-height: 350px;
+    color: $code-color;
+    background-color: $code-background-color;
+    .alert-box & {
+        background-color: opacify($code-background-color, 0.3);
+    }
+    &:active {
+        //max-height: none; // TODO annoying and impossible to scroll
+    }
+    @media not print {
+        border: $code-border;
+    }
+    @media print {
+      max-height: none;
+      code {
+        white-space: pre-wrap;
+      }
+    }
+
+    code {
+        border: 0;
+        padding: 0;
+        line-height: 1.2;
+        font-size: rem-calc(14);
+        background: transparent;
+        box-shadow: none;
+        color: inherit;
+        text-shadow: none;
+    }
+
+    &::-webkit-scrollbar {
+        height: 12px;
+        width: 12px;
+        background: lighten($code-background-color, 10%);
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: darken($primary-color, 40%);
+        @media print {
+            background: rgba(black, 0.3);
+        }
+        background-clip: padding-box;
+        border-radius: 1ex;
+        border: 2px solid transparent;
+    }
+
+    &::-webkit-scrollbar-corner {
+        background: transparent;
+    }
 }
 
-code {
-    font-size: rem-calc(14);
-    line-height: 1.5;
+.highlight.debug code {
+  white-space: pre-wrap;
+}
+
+.highlight[title]::before, .highlighter-rouge[title]::before {
+    content: attr(title);
+    text-align: center;
+    display: block;
+    border: $code-border;
+    @media print {
+        border: 1px solid $aluminum !important; // from _type > @print > pre
+    }
+    background-color: transparentize(scale-color($header-font-color, $lightness: -90%), 0.5);
+    color: darken($header-font-color, 20%);
+    border-bottom: none;
+}
+
+code, var {
+    padding: rem-calc(1.5) rem-calc(2) rem-calc(0.5) rem-calc(2);
+    font-style: normal;
+    letter-spacing: rem-calc(-0.5);
+    // use em instead of rem to make sure inline code in headings is relative
+    font-size: 0.875em;
+    // disable shadow inside alert-box
+    text-shadow: none;
+}
+
+kbd {
+    text-shadow: 1px 1px 3px white;
+}
+
+code.highlighter-rouge {
+    background-color:transparent;
+    color:black;
+    border-style: none;    
 }
 
 

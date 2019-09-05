@@ -9,12 +9,14 @@
   url: "/programme/master/"
   side: left
   dropdown:
+  #- title: "Master"
+  #  url: "/programme/master/"
   - title: "Semestre 1"
     url: "/programme/semestre1/"
   - title: "Semestre 2"
     url: "/programme/semestre2/"
   - title: "Semestre 3"
-    url: "#"
+    url: "/programme/semestre3/"
   - title: "Semestre 4"
     url: "#"
   - title: "Liste des cours"
@@ -28,10 +30,10 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Projets"
-    url: "#"
-  - title: "Stage"
-    url: "#"
+  #- title: "Projets"
+  #  url: "#"
+  #- title: "Stage"
+  #  url: "#"
   - title: "UCAnCode"
     url: "/etus/ucancode/"    
   - title: "Fablab"

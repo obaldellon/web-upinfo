@@ -11,10 +11,10 @@ categories:
   - S1
 tags:
   - REQ
-ects: 3
+ects: 6
 schedule: "18h"
 # website: "#"
-email: "arnaud.malapert@unice.fr"
+email: "arnaud.malapert@univ-cotedazur.fr"
 #
 # Styling
 #

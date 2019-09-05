@@ -24,7 +24,7 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 
 ## Cours optionnels ##
 
-5 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
+6 cours au minimum doivent être choisis (en comptant une éventuelle mineure).
 
 {%include accordion-posts category="S1" tag="OPT" %}
 
@@ -33,22 +33,7 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 Un cours en anglais de 3 ECTS, appelé mineure, d’un domaine autre que l’informatique peut être choisi.
 Les modalités des mineures sont définies par les enseignants chargés du cours.
 Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
+Les syllabus des mineures sont disponibles sur cette [page](http://univ-cotedazur.fr/en/eur/ds4h/graduate-school/masters-programs/minor/minors "page des masters DS4H") ou dans cette [brochure](http://univ-cotedazur.fr/en/eur/ds4h/contents/files/minors-brochure "Brochure des mineures DS4H").
 
-- Digital Strategy
-- Digital IP and Law
-- Digital Business
-- Entrepreneurship
-- Innovation and design thinking
-- Sensors and Network devices
-- Introduction to Machine Learning
-- Web Privacy
-- Mobiquitous and Big Data Systems
-- Computational Linguistics
-- Technological challenges in the IoT domain
-- Urban resiliency
-- Creative industries
-- SmartEdTechs innovation and co-creativity
-- Accessibility of interfaces
-- Introduction to scientific research and experimentation
 
 
