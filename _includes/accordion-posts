@@ -18,6 +18,7 @@
 *   2. If no category is given for filtering do a general loop.
 *   3. If a category/tag was given, assign category/tag to the variable category/tag › assign category = include.categories 
 *   
+*   line comented to fix the problem with multiple accordions on the same page
 *		{% assign counter = 1 %}    
 {% endcomment %}
 
