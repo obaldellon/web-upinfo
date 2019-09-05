@@ -18,15 +18,14 @@
 *   2. If no category is given for filtering do a general loop.
 *   3. If a category/tag was given, assign category/tag to the variable category/tag › assign category = include.categories 
 *   
-{% endcomment %}
-
+*   {% assign counter = 1 %}   
+{% endcomment %} 
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
 
 <div class="small-12 columns">
 		<dl class="accordion" data-accordion>
-			{% assign counter = 1 %}    
 
   {% if category == NULL and tag == NULL %}
 

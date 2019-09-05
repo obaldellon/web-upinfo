@@ -8,9 +8,9 @@ title: "Programmation impérative en Python"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation impérative dans le langage Python"
 categories:
-- L1
+    - L1
 tags:
-- S2
+    - S2
 ects: 6
 schedule: "52h"
 website: "http://deptinfo.unice.fr/~elozes/AlgoPython"
@@ -24,7 +24,7 @@ homepage: "header-syllabus-unsplash.jpg"
 #  caption: "https://unsplash.com/"
 url: "https://unsplash.com/"
 header:
-image_fullwidth: "header-syllabus-unsplash.jpg"
+    image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
 caption_url: https://unsplash.com/
 ---

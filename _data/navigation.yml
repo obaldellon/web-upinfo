@@ -5,12 +5,12 @@
   url: "/"
   side: left
   
-- title: "Programme"
+- title: "Master"
   url: "/programme/master/"
   side: left
   dropdown:
-  #- title: "Master"
-  #  url: "/programme/master/"
+  - title: "Programme"
+    url: "/programme/master/"
   - title: "Semestre 1"
     url: "/programme/semestre1/"
   - title: "Semestre 2"
@@ -21,6 +21,21 @@
     url: "#"
   - title: "Liste des cours"
     url: "/programme/liste/"
+
+- title: "Licence"
+  url: "/programme/licence/"
+  side: left
+  dropdown:
+  - title: "Programme"
+    url: "/programme/licence/"
+  - title: "1ère année"
+    url: "/programme/l1/"
+  - title: "2ème année"
+    url: "/programme/l2/"
+  - title: "3ème année"
+    url: "/programme/l3/"
+  - title: "Liste des cours"
+    url: "/programme/listel/"
 
 - title: "Campus"
   url: "/campus/"

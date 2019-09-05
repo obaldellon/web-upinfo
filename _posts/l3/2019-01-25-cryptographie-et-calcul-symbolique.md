@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Sandrine Julia/Bruno Martin, MCF/PR"
+subheadline: "Sandrine Julia, MCF/Bruno Martin, PR"
 title: "Cryptographie et calcul symbolique"
 logo: "logo_blanc-l.png"
 teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne"

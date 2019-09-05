@@ -5,8 +5,8 @@ title: "Licence Informatique"
 subheadline: "Programme"
 logo: "logo-l.png"
 header:
-   image_fullwidth: "header-programme.png"
-permalink: "/licence/"
+   image_fullwidth: "header-programme-l.png"
+permalink: "/programme/licence/"
 ---
 
 ## Présentation
