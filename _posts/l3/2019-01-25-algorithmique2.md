@@ -50,7 +50,8 @@ header:
 
 ###  Modalités de contrôle des connaissances ###
 
-Controle continu (40%) + Controle terminal (60%)
+- Controle continu (40%)
+- Controle terminal (60%)
 
 ###  Ressources ###
 

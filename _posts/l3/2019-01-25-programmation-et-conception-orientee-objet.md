@@ -51,11 +51,11 @@ La majorité du cours est basée sur la version 6 de Java. Ponctuellement, des n
 
 ### Liens utiles
 
-Page de téléchargement du JRE et du JDK : http://www.oracle.com/technetwork/java/javase/downloads/index.html
-Java Standard Edition 8 API Specification : http://docs.oracle.com/javase/8/docs/api/
-Java Standard Edition 7 API Specification : http://docs.oracle.com/javase/7/docs/api/
-Java Standard Edition 6 API Specification : http://docs.oracle.com/javase/6/docs/api/
-Les tutoriaux de Java : http://docs.oracle.com/javase/tutorial/
-Le livre Thinking in Java 3ed (Bruce Eckel) : http://www.mindviewinc.com/Books/downloads.html
-Le site de l'EDI NetBeans
-Le site de l'EDI Eclipse
+- Page de téléchargement du JRE et du JDK : http://www.oracle.com/technetwork/java/javase/downloads/index.html
+- Java Standard Edition 8 API Specification : http://docs.oracle.com/javase/8/docs/api/
+- Java Standard Edition 7 API Specification : http://docs.oracle.com/javase/7/docs/api/
+- Java Standard Edition 6 API Specification : http://docs.oracle.com/javase/6/docs/api/
+- Les tutoriaux de Java : http://docs.oracle.com/javase/tutorial/
+- e livre Thinking in Java 3ed (Bruce Eckel) : http://www.mindviewinc.com/Books/downloads.html
+- Le site de l'EDI NetBeans
+- Le site de l'EDI Eclipse

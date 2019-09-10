@@ -35,11 +35,8 @@ header:
 Un ensemble de cours préliminaires présente les concepts nécessaires à la réalisation du projet:
 
 - Définition et problématique du génie logiciel, mise en perspective avec les autres UEs relatives au génie logiciel. - Cycle de vie du logiciel.
-
 - Processus de développement: Cascade, V, spirale, XP, RUP...
-
 - Gestion de versions et de configurations.
-
 - Outil de construction automatique.
 
 

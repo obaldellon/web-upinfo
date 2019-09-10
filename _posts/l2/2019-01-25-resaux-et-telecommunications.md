@@ -41,4 +41,5 @@ Ce cours présente les principes qui permettent d’interconnecter des systèmes
 7. Protocoles de niveau applicatif (dns, mail, web) ;
 8. Applications multimedia (voix sur IP) et domestiques ;
 9. Introduction aux réseaux pair à pair.
+
 Les travaux pratiques illustreront les différentes notions introduites dans le cours. On apprendra à configurer un petit réseau LAN et à utiliser certains des protocoles simples "à la main", à prendre connaissance des documents relatifs aux protocoles (RFC). La programmation par sockets sera réalisée dans un langage de scripts par souci de simplicité. On découvrira quelques logiciels d'analyse ou d'audit de réseau et on illustrera le fonctionnement d'outils de type pair à pair.

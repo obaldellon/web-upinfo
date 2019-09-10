@@ -41,7 +41,7 @@ La cryptographie ne se limite pas au chiffrement des messages, d'autres notions 
 On recensera aussi les usages quotidiens de la cryptographie : connexion à un système informatique, commerce électronique, carte bleue, envoi de données sécurisé, one-time password ...
 Enfin, on analysera les évolutions qu'a entraîné la cryptographie moderne (lois, autorités de certification, e-commerce, etc).
 
-Les TP mettront en oeuvre les protocoles classiques de chiffrement ou de signature. Ils permettront aussi de fouiller les applications informatiques pour comprendre où s'y loge la cryptographie.
+Les TP mettront en œuvre les protocoles classiques de chiffrement ou de signature. Ils permettront aussi de fouiller les applications informatiques pour comprendre où s'y loge la cryptographie.
 
 Ce cours proposera par ailleurs introduction au calcul symbolique en utilisant la librairie de calcul symbolique SymPy de Python 3. 
 

@@ -38,17 +38,22 @@ en mettant l'accent sur les stratégies de conception d'un algorithme efficace.
 S4
 
 ###  Cours ###
-1. Complexité des algorithmes: temps et espace 
-2. Complexité des problèmes: classes de complexité,NP-complétude
-3. Resumé des algorithmes de tri et des structures de données
-4. Revue  des stratégies fondamentales de l’algorithmique : 
-   a) diviser-pour-régner 
-   b) gloutonne, 
-   c) programmation dynamique
+<ol type="1">
+  <li>Complexité des algorithmes: temps et espace</li>
+  <li>Complexité des problèmes: classes de complexité,NP-complétude</li>
+  <li>Resumé des algorithmes de tri et des structures de données</li>
+  <li>Revue  des stratégies fondamentales de l’algorithmique : 
+  <ol type="a">
+    <li>diviser-pour-régner</li>
+    <li>gloutonne</li>
+    <li>programmation dynamique</li>
+  </ol></li>
+</ol>
  
 ###  Modalités de contrôle des connaissances ###
 
-2 CC à 30% et un CT à 40%
+- 2 CC à 30%
+- 1 CT à 40%
 
 ###  Ressources ###
 1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms /2008. 

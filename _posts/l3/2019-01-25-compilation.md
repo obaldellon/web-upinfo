@@ -37,17 +37,17 @@ header:
 
 ###  Description ###
 
-− Décomposition du processus de compilation ;
-− Analyse lexicale ;
-− Grammaires algébriques et automates à pile ;
-− Analyse descendante: grammaires LL(k) et LL(1), descente récursive, génération automatique
+- Décomposition du processus de compilation ;
+- Analyse lexicale ;
+- Grammaires algébriques et automates à pile ;
+- Analyse descendante: grammaires LL(k) et LL(1), descente récursive, génération automatique
 d'analyseurs descendants ;
-− Analyse ascendante: grammaires LR(k), SLR(1) et LALR(1), génération automatique
+- Analyse ascendante: grammaires LR(k), SLR(1) et LALR(1), génération automatique
 d'analyseurs ascendants ;
-− Arbres abstraits et interprétation ;
-− Analyse sémantique: tables de symboles, vérification de types, grammaires attribuées,
+- Arbres abstraits et interprétation ;
+- Analyse sémantique: tables de symboles, vérification de types, grammaires attribuées,
 programmation de l'analyse sémantique ;
-− Traduction d'un formalisme en un autre.
+- Traduction d'un formalisme en un autre.
 
 ###  Modalités de contrôle des connaissances ###
 
