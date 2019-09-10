@@ -6,15 +6,15 @@ layout: syllabus
 title: "Type Theory"
 subheadline: "C. Di Giusto, MCF"
 logo: "logo_blanc.png"
-teaser: ""
+teaser: "The aim of the course is to introduce a family of formal methods to reason about programs. We will focus on type systems that are useful for statically prove the absence of some bad program behaviours."
 categories:
   - S3
 tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: "https://lms.univ-cotedazur.fr"
-email: "cinzia.di-giusto@unice.fr"
+website:
+email: "cinzia.di-giusto@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -28,3 +28,6 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
+###  Cours ###
+
+We will introduce the main concepts on simple, recursive, and polymorphic types. We will also cover an introduction to the typed lambda calculus and subtyping.
