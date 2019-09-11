@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Elena CABRIO, MCF"
+subheadline: "Elena Cabrio, MCF"
 title: "Technologies du web"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours présente le fonctionnement du web, ainsi que la production de pages web statiques et la programmation de pages web dynamiques, tant du côté client que serveur. "
@@ -40,8 +40,6 @@ Le cours comprend:
 
 - 12 séances de cours (2h)
 - 11 séances de TP (2h)
-
-Le cours se déroule au second semestre.
 
 ###  Cours ###
 Les objectifs de ce cours sont de fournir les éléments techniques nécessaires à l'élaboration de pages Web, de sites internet dynamiques et interactifs. Au meme temps, l'enjeu majeur est de réussir à faire connaître et comprendre les nouveaux outils et modèles de conception et de développement d'applications et de systèmes d'information basés sur le web.

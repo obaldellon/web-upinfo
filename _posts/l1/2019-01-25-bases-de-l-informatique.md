@@ -31,9 +31,6 @@ header:
 
 ###  Description ###
 
-
-
-
 ###  Calendrier ###
 
 Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal), et comprend:

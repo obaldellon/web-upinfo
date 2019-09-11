@@ -34,9 +34,6 @@ header:
 Le but du cours est d'introduire l’étudiant à l’algorithmique, 
 en mettant l'accent sur les stratégies de conception d'un algorithme efficace.
 
-###  Calendrier ###        
-S4
-
 ###  Cours ###
 <ol type="1">
   <li>Complexité des algorithmes: temps et espace</li>
