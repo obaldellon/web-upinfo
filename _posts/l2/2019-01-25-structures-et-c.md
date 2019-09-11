@@ -68,7 +68,7 @@ Ce cours est divisé en 5 grandes parties :
   - 6 CMs (2h)
   - 6 TPs (3h)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=b2FtNzNxbXRmOWlsanQ3Y2d0aDc5MHA4bWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2333B679" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=b2FtNzNxbXRmOWlsanQ3Y2d0aDc5MHA4bWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2333B679&amp;showTitle=0&amp;showPrint=0&amp;showTabs=1&amp;mode=AGENDA&amp;showCalendars=0" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
 ###  Modalités de contrôle des connaissances ###
 
