@@ -54,79 +54,23 @@ Les compétences développées sont les suivantes :
 En L1 et L2, les étudiants peuvent choisir plusieurs matières scientifiques, pas uniquement de l'informatique. Ils sont invités à suivre des enseignements en mathématiques, physique, électronique, etc. C'est le **portail science**. A partir du semestre 4, les étudiants peuvent s'orienter vers le parcours informatique et doivent ensuite choisir en grande majorité des cours d'informatique en vue de valider une **licence d'informatique**. 
 
 
-## Conditions d'admission pour les nouveaux entrants
+## Conditions d'admission
 
-- L'admission en L1 se fait par parcoursup, elle est très peu sélective.
+### Passage d'année
+Pour valider une année il faut valider suffisemment de crédits ECTS pour dépasser une certaine barre; il y a en fait plusieurs barres qui dépendent du type d'unité d'enseignement et de l'année en question. Il existe aussi des règles de compensation. Toutes ces règles sont détaillées par année sur le site.
+
+### Nouveaux entrants
+**ATTENTION** Les dossiers de candidature sont à envoyer par les plate-formes adéquates (parcoursup, ecandidat, etudes en France, etc), mais **jamais par mail aux responsable d'année**. Les renseignements sur les démarches à effectuer sont fournis par le [service scolarité](http://unice.fr/faculte-des-sciences/scolarite/dossiers-de-candidature) de la faculté de science.
+
+- L'admission en L1 est quasiment automatique pour tous les bacheliers français
 - L'admission en L2 sans avoir suivi la L1 se fait par candidature. Les candidatures sont examinées par les responsables du **portail science**, dont un référent du département informatique.
 - L'admission en L3 informatique se fait par candidature. Les candidatures sont examinées par le responsable de la L3 informatique. 
 
-Les règles indiquées ci-dessous sont susceptibles d'évoluer légèrement lors de leur modélisation par les services administratifs.
-
-Une UE (Unité d’enseignement) est validée si l’étudiant obtient comme note moyenne pondérée aux contrôles une note supérieure ou égale à 10/20, ou s'il obtient une note supérieure à 7 qui peut être compensée.
-
-### Inscription en L2
-
-L'année de L2 est une année d'orientation. A mi année, à la fin du S3, l'étudiant peut opter pour le parcours Licence informatique s'il respecte certaines
-conditions. Il peut aussi suivre quelques UE d'informatique sans avoir opté
-pour la Licence Informatique, toujours sous certaines conditions.
-
-Les deux règles à retenir sont les suivantes
-
-1. Pour pouvoir s'inscrire à une UE du semestre 3 ou 4, il faut avoir validé
-au moins une UE d'informatique au cours des semestres 1 et 2
-
-2. Pour pouvoir opter pour le parcours Licence informatique, il faut avoir validé au moins une UE d'informatique et une UE de mathématique au cours des semestres 1 et 2
-
-### Validation du L2 parcours informatique
-
-La validation de l'année de L2 n'est pas la même suivant le parcours choisi.
-Nous indiquons ci-dessous les règles qui s'appliquent seulement aux étudiants
-ayant opté pour le parcours informatique à la fin du semestre 3.
-
-Pour valider l'année L2 du parcours informatique et avoir le droit de s'inscrire l'année suivante en L3, il faut
-
-1. avoir validé au minimum 120 ECTS au cours des semestres 1 à 4
-2. dont au minimum 42 ECTS en informatique
-3. et au minimum 12 ECTS en mathématique
-
-### Compensation en L2 pour les étudiants du parcours informatique
-
-Le choix du parcours informatique et le fait d'avoir suivi les 4 UE du semestre 4 ouvre droit à une règle de compensation de certaines UE.
-
-1. Pour que cette compensation s'applique, il faut que la moyenne des 4 UE d'informatique du semestre 4 soit supérieure à 10
-2. Si la condition 1 est satisfaite, toute UE d'informatique du semestre 4 dont la note est supérieure à 7 est validée et les crédits ECTS afférents sont acquis.
-
-Cette compensation ne s'applique pas aux UE des semestres 1 à 3.
-
-### Inscription en L3 informatique
-
-L'inscription en L3 informatique est de droit pour les étudiants ayant validé leur L2 à Nice.
-
-Pour les étudiants extérieurs, les candidatures sont à envoyer par les plate-formes de candidatures adéquates selon la nationalité et la situation administrative de l'étudiant.
+Les candidatures L2 et L3 sont sélectives. Les étudiants français admis en L3 ont généralement effectué une classe préparatoire, ont obtenu de un DUT avec une moyenne supérieure à 12, ou ont fait un excellent BTS, et dans tous les cas ont suivi de nombreux cours d'informatique, y compris d'informatique théorique.
 
 
-### Validation du L3 informatique et du diplome de Licence informatique
 
-Les règles de validation du L3 informatique font entrer dans le calcul
-toutes les UE validées depuis le L1 à l'université de Nice. 
-Pour valider le L3 informatique et obtenir le diplome de Licence, l'étudiant
-doit
-
-1. avoir validé au minimum 180 ECTS depuis son L1, 
-2. dont au moins 84 ECTS d'informatique 
-3. au cours du L3, il doit avoir validé au moins 30 ECTS
-
-
-Si un étudiant
-a rejoint l'université de Nice en L2 ou en L3, le jury d'année se
-basera sur le dossier de candidature L2 ou L3
-du candidat pour déterminer si les conditions 1 et 2 ci-dessus sont remplies.
-
-
-### Compensation en L3
-
-Un étudiant de L3 a droit à la compensation si la moyenne des 8 notes d'UE d'informatique de L3 est supérieure à 10.
-Lorsque c'est le cas, toute UE de L3 dont la note est comprise entre 7 et 10 est validée.
+## Informations générales sur la scolarité
 
 
 ### Non cumul des options
@@ -171,7 +115,7 @@ Typiquement, un étudiant qui redouble le L2 mais qui a beaucoup de "trous" dans
 aux responsables pédagogiques L2 et L3
 de suivre de manière dérogatoire des UEs de L3.
 
-Le fonctionnement précis de se dispositif est décrit [sur la page des modalités de controle des connaissances](http://unice.fr/faculte-des-sciences/scolarite/controle-des-connaissances).
+Le fonctionnement précis de ce dispositif est décrit [sur la page des modalités de controle des connaissances](http://unice.fr/faculte-des-sciences/scolarite/controle-des-connaissances).
 
 ## Cours proposés ##
 
