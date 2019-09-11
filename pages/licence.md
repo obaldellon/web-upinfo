@@ -17,11 +17,17 @@ aborde l'informatique avant tout comme une discipline
 scientifique fondée sur plusieurs piliers théoriques (algorithmique, programmation, logique, calculabilité, langages formels, etc) et sur des standards
 incontournables dans les principaux domaines professionalisants (bases de données, systèmes, réseaux, architecture des processeurs, web, génie logiciel, etc).
 
+### Débouchés
+Cette formation généraliste permet une poursuite d'étude naturelle vers
 
-Cette formation généraliste est la porte d'entrée principale vers
-le master informatique de Nice-Sophia Antipolis et vers un emploi dans
-les nombreuses sociétés azuréenes. Elle se prolonge naturellement par
-une spécialisation dans des domaines comme
+- le [master informatique](http://i3s.unice.fr/master-info)  de Nice-Sophia Antipolis 
+- la [MIAGE](https://www.miage-nice.fr), admission possible en MIAGE à la fin du L2 ou à la fin du L3
+- le [master international EIT Digital Data Science](https://masterschool.eitdigital.eu/programmes/data-science)
+
+La licence informatique ouvre aussi naturellement sur un emploi dans
+les nombreuses sociétés azuréenes. 
+
+D'autres débouchés sont bien évidemment possibles et fréquents, dans d'autres masters, écoles d'ingénieurs, université étrangères, etc, en vue d'une spécialisation dans des domaines comme:
 - la science des données 
 - l'informatique de gestion et d’entreprise
 - l'informatique mobile, les objets connectés, et le développement web
@@ -45,29 +51,14 @@ Les compétences développées sont les suivantes :
 
 ### Programme et contenu ###
 
-En L1 et L2, les étudiants peuvent choisir plusieurs matières scientifiques, pas uniquement de l'informatique. Ils sont invités à suivre des enseignements en mathématiques, physique, électronique, etc. La spécialisation se met en place progressivement. Les matières enseignées en informatique couvrent tous les piliers de la discipline:
-- Bases de l'informatique
-- Programmation impérative (python, C)
-- Utilisation d'Unix et programmation shell
-- Structures de données
-- Outils formels pour l'informatique
-- Algorithmique
-- Bases de données
-- Réseaux et télécommunication
-- Systèmes d'exploitation
-- Systèmes intelligents
-- Technologies du web
-- Automates  et langages
-- Programmation fonctionelle
-- Architecture des processeurs
-- Cryptographie et calcul symbolique
-- Programmation et conception orientée objet
-- Compilation
-- Paradigmes et interprétation
-- Génie logiciel et projet de développement
-- Projet scientifique en informatique
+En L1 et L2, les étudiants peuvent choisir plusieurs matières scientifiques, pas uniquement de l'informatique. Ils sont invités à suivre des enseignements en mathématiques, physique, électronique, etc. C'est le **portail science**. A partir du semestre 4, les étudiants peuvent s'orienter vers le parcours informatique et doivent ensuite choisir en grande majorité des cours d'informatique en vue de valider une **licence d'informatique**. 
 
-## Conditions d'inscription et de validation
+
+## Conditions d'admission pour les nouveaux entrants
+
+- L'admission en L1 se fait par parcoursup, elle est très peu sélective.
+- L'admission en L2 sans avoir suivi la L1 se fait par candidature. Les candidatures sont examinées par les responsables du **portail science**, dont un référent du département informatique.
+- L'admission en L3 informatique se fait par candidature. Les candidatures sont examinées par le responsable de la L3 informatique. 
 
 Les règles indiquées ci-dessous sont susceptibles d'évoluer légèrement lors de leur modélisation par les services administratifs.
 
