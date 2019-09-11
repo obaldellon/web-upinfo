@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "48h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "emmanuel.kounalis@univ-cotedazur.fr"
 #
 # Styling
 #
