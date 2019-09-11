@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Enrico Formenti, PR"
+subheadline: "Emmanuel Kounalis, PR"
 title: "Grands concepts d'informatique fondamentale"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours complète le cours de Licence 2 sur l'informatique fondamentale et vise à préparer les étudiants au cours du Master"
@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "48h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "emmanuel.kounalis@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -32,4 +32,4 @@ header:
 
 ### Contenu
 
-Ce cours est un nouveau cours, et son contenu est susceptible d'évoluer au moment de l'ouverture du cours.
+Ce cours aborde les grands concepts de l'informatique comme le théorème de Gödel, le théorème de Rice, ou encore l'indécidabilité du problème de l'arrêt.

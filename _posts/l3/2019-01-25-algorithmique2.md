@@ -10,7 +10,7 @@ teaser: "Ce cours présente quatre grandes classes de méthodes générales 
 categories:
   - L3
 tags:
-  - S5
+  - S6
 ects: 6
 schedule: "18h CM + 36h TD"
 website: "#"
