@@ -77,7 +77,7 @@ qui  ont suivi de nombreux cours d'informatique, y compris d'informatique théor
 
 ## Informations générales sur la scolarité
 
-## Parcours “ recommandé ” ##
+### Parcours recommandé ###
 Afin d'obtenir la licence informatique, il est recommandé de suivre tous les cours d'informatique, listés ci-dessous, ainsi que des cours de mathématique "fondamentaux". Nous donnons ci-dessous un exemple de parcours type permettant de valider la licence informatique.
 
 **NOTE** : le portail science offre d'autres cours qui traitent d'informatique, notamment *introduction à l'informatique par le web* ou *programmation en R*. Ces cours sont destinés à un public qui ne se spécialisera pas en informatique, et qui sont en partie redondants avec d'autres cours; ils ne sont donc pas comptabilisés, à l'heure actuelle, comme des UE d'informatique. Il est donc plutôt recommandé de **ne pas** prendre ces cours si l'on se destine à une Licence informatique. Si malgré tout un étudiant de Licence informatique a suivi et validé ces cours, les ECTS seront comptabilisés comme les autres UE non disciplinaires.
@@ -125,7 +125,7 @@ Typiquement, un étudiant qui redouble le L2 mais qui a beaucoup de "trous" dans
 aux responsables pédagogiques L2 et L3
 de suivre de manière dérogatoire des UEs de L3.
 
-Le fonctionnement précis de ce dispositif est décrit [sur la page des modalités de controle des connaissances](http://unice.fr/faculte-des-sciences/scolarite/controle-des-connaissances).
+Le fonctionnement précis de ce dispositif est décrit [sur la page des modalités de contrôle des connaissances](http://unice.fr/faculte-des-sciences/scolarite/controle-des-connaissances).
 
 ## Cours proposés ##
 
