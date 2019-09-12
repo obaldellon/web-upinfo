@@ -29,11 +29,9 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-### Prérequis
+### Pré-requis conseillés
 
-- Automates et langage
-- Programmation C
-- Programmation Orientée Objet
+Structures de données et programmation C, automates et langages.
 
 ###  Description ###
 
