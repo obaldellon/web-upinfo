@@ -125,7 +125,7 @@ Typiquement, un étudiant qui redouble le L2 mais qui a beaucoup de "trous" dans
 aux responsables pédagogiques L2 et L3
 de suivre de manière dérogatoire des UEs de L3.
 
-Le fonctionnement précis de ce dispositif est décrit [sur la page des modalités de controle des connaissances](http://unice.fr/faculte-des-sciences/scolarite/controle-des-connaissances).
+Le fonctionnement précis de ce dispositif est décrit [sur la page des modalités de contrôle des connaissances](http://unice.fr/faculte-des-sciences/scolarite/controle-des-connaissances).
 
 ## Cours proposés ##
 
