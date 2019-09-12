@@ -25,4 +25,3 @@ Certains événements exceptionnels peuvent se dérouler en dehors de ces pério
 
 ## Emploi du temps
 
-L'emploi du temps 2019/2020 sera disponible début septembre quand l'emploi du temps de Licence sera connu. 
