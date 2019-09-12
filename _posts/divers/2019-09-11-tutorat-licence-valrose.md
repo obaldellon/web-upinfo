@@ -49,7 +49,7 @@ Le rôle du tuteur est d’accompagner le travail personnel de l’étudiant.
 #### Dossier administratif ####
 
 Vous trouverez ci-après la liste des éléments du dossier administratif à fournir, ainsi que la fiche de renseignements en attache:
- - Fiche de renseignements (à télécharger ici)
+ - Fiche de renseignements (à télécharger [ici]({% include link-asset asset="fiche-de-renseignements-BP-TUTORAT.pdf" %}))
  - lettre de motivation
  - Pièce d'identité (CNI, passeport, titre de séjour en cours de validité)
  - Attestation des droits de sécurité sociale (Pas de copie de carte vitale, qui sera rejetée par le bureau du personnel)
