@@ -32,19 +32,14 @@ header:
 
 ### Pré-requis
 
-Prérequis : Aucun
+En chantier
 
-### Programme 
-- Codage,portes et fonctions logiques
-- Performances,codage et fonctions combinatoires élémentaires
-  + Fonctions combinatoires et fonctions séquentielles - Structured'unordinateur
-  + Architecture VON NEUMANN et HARVARD
-  + Architecture à banc de registres
-- Lafamillex86-32 et x86-64
-- Conception d'architectures en VHDL
-- Parallélisme d'instructions et pipeline
-- Périphériques et bus système
-- Hiérarchie mémoire et cache
+
+### Contenu
+
+La science informatique a été bâtie à l'origine sur deux grands piliers fondamentaux: le pilier logiciel et le pilier matériel. Ce cours traite du pilier matériel. Plus précisément nous étudierons  la conception et le fonctionnement logique d'un processeur. Nous comprendrons le fonctionnement de tous les composants logiques, à partir des portes logiques de base,  les circuits combinatoires, les circuits séquentiels, les machines à états, les circuits de contrôles, et les chemins de données au sein d'un processeur. Nous montrerons comment programmer en langage assembleur quelconque, et comment un tel programme serait codé en binaire. A la fin, nous étudierons l’interaction matérielle/logicielle. C'est le seul cours où un futur informaticien comprendra précisément comment est ce qu'un logiciel s'exécute directement sur un processeur.
+
+Le cours contiendra un enseignement magistral, des travaux dirigés (exercices) et des travaux pratiques en salle machine. Les étudiants devront concevoir divers circuits logiques en utilisant un logiciel spécialisé (diglog).
 
 ###  Modalités de contrôle des connaissances ###
 
