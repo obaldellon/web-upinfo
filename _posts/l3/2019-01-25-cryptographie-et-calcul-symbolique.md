@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Bruno Martin, PR"
+subheadline: "B. Martin, PR"
 title: "Cryptographie et calcul symbolique"
 logo: "logo_blanc-l.png"
 teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne alliée à celle du calcul formel"
