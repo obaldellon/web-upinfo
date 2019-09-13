@@ -4,18 +4,17 @@ layout: syllabus
 # Content
 #
 subheadline: "Emmanuel Kounalis, PR"
-title: "Grands concepts d'informatique fondamentale"
+title: "Grands concepts de l'Informatique"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours complète le cours de Licence 2 sur l'informatique fondamentale et vise à préparer les étudiants au cours du Master"
+teaser: "Courte description"
 categories:
   - L3
 tags:
   - S6
-  - OPT
 ects: 6
 schedule: "48h"
 website: "#"
-email: "emmanuel.kounalis@univ-cotedazur.fr"
+email: "firstname.lastname@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -30,6 +29,33 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-### Contenu
+###  Description ###
+L'objectif de ce cours est de faire découvrir de concepts qui dominent 
+l'informatique au-delà de l'ordinateur. Nous y découvrons d’une façon « simple » et 
+« uniforme » l'aventure intellectuelle de la « quête épique des fondements des 
+Mathématiques et de l' Informatique ». Cantor, Cödel, et  Turing nous enseignent
+le pourquoi des limites des sciences mathématique et informatique.
+	
+###  Calendrier ###        
+S6
 
-Ce cours aborde les grands concepts de l'informatique comme le théorème de Gödel, le théorème de Rice, ou encore l'indécidabilité du problème de l'arrêt.
+###  Cours ###
+1. Concepts Obligatoires: Déduction, Diagonalisation, Réduction: 
+2. Concepts Optionnels : Génération aléatoire, non-déterminisme, lnteraction
+3. Applications:
+    1. Le non démontrable (Gödel )
+	2. Le non calculable(Turing)
+	3. Le non dénombrable(Cantor)
+	4. « explications » de paradoxes  logiques (Roussel, Grelling,…)
+	5. Raisonnement formel , informel, probabiliste ...
+	 
+###  Modalités de contrôle des connaissances ###
+
+Deux CC à 30% et un CT à 40%
+
+###  Ressources ###
+1. Apóstolos K. Doxiàdis, Christos Papadimitriou, Logicomix /2008. 
+2. Jean-Paul Delahaye : Outils logiques pour l'intelligence / (1986)
+                        Logique, informatique et paradoxes- (1998)
+                        La Logique, un aiguillon pour la pensée (2012)
+3. Hintikka Y. On Godel (1999)
