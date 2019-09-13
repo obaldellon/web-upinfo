@@ -44,8 +44,7 @@ S6
 3. L'arbre couvrant minimal (Prim, Kruscal)
 4. le problème du flot maximal…
 5. La Programmation Linéaire 
-6. Etudes de Cas : Exploration du WEB, Ordonnancement des taches (PERT CPM), 
-	 Réseaux ferroviaires et distributions…
+6. Etudes de Cas : Exploration du WEB, Ordonnancement des taches (PERT CPM), Réseaux ferroviaires et distributions…
 
  
 ###  Modalités de contrôle des connaissances ###
@@ -55,6 +54,5 @@ Deux CC à 30% et un CT à 40%
 ###  Ressources ###
 1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms /2008. 
 2. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest et Clifford Stein,
-Intro-duction to Algorithms, 3rd edition, MIT Press, 2009
-3. Tim Roughgarden-Algorithms Illuminated_ Part 1_ The Basics-Soundlikeyourself 
-Publ. (2017)
+Introduction to Algorithms, 3rd edition, MIT Press, 2009
+3. Tim Roughgarden [Algorithms Illuminated Part 1 The Basics](https://www.amazon.com/dp/0999282905) [pdf en ligne](http://theory.stanford.edu/~tim/won1samplefinal.pdf)
