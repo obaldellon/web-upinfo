@@ -37,9 +37,9 @@ Ce cours est diviser en deux sous-modules :
 ####  Structures de données ####
 Ce cours a pour objectif l'étude des structures de données et des algorithmes fondamentaux permettant d'organiser, de chercher et de manipuler des données de manière efficace. Il y a en fait deux parties bien distinctes dans cet enseignement. Il s'agit d'une part d'apprendre à utiliser des structures et des algorithmes, mais aussi de comprendre leur fonctionnement interne afin de pouvoir choisir le mieux adapté à un problème donné.
 
-#####  Programme #####
-Le programme détaillé de cet enseignement est le suivant
-Les structures de données classiques seront étudiées
+<!-- #####  Programme ##### -->
+Le programme détaillé de cet enseignement est le suivant,
+les structures de données classiques seront étudiées :
 - Rappel sur les tableaux
 - Piles
 - Files
@@ -52,7 +52,7 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 
 Il s'agit d'une introduction à la programmation dans le langage C. C est un langage de programmation impératif devenu l'un des plus utilisés dans le monde.
 
-#####  Programme #####
+<!-- #####  Programme ##### -->
 Ce cours est divisé en 5 grandes parties :
 1. Introduction au C
 2. Tableaux, chaînes de caractères et caractères
@@ -71,6 +71,9 @@ Ce cours est divisé en 5 grandes parties :
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=b2FtNzNxbXRmOWlsanQ3Y2d0aDc5MHA4bWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2333B679&amp;showTitle=0&amp;showPrint=0&amp;showTabs=1&amp;mode=AGENDA&amp;showCalendars=0" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
 ###  Modalités de contrôle des connaissances ###
+
+- 2 CC (1 en structure de données, 1 en programmation C)
+- 1 CT
 
 ###  Ressources ###
 - T. Cormen, C. Leiserson, R. Rivest, Introduction à l'algorithmique, Dunod

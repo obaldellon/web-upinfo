@@ -56,6 +56,6 @@ Ce cours est divisé en 3 grandes parties :
   - Seconde session : écrit de 1h30
 
 ### Ressources ###
-  - 
-  - [minicp](https://minicp.bitbucket.io/)
+<!-- - 
+  - [minicp](https://minicp.bitbucket.io/)-->
 
