@@ -13,7 +13,7 @@ tags:
   - S5
 ects: 6
 schedule: "42h"
-website: "#"
+# website: "#"
 email: "etienne.lozes@univ-cotedazur.fr"
 #
 # Styling

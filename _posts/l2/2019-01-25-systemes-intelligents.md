@@ -14,7 +14,7 @@ tags:
   - OPT
 ects: 6
 schedule: "42h"
-website: "#"
+# website: "#"
 email: "philippe.collard@univ-cotedazur.fr"
 #
 # Styling

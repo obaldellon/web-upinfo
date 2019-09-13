@@ -13,7 +13,7 @@ tags:
   - S6
 ects: 6
 schedule: "18h cours + 36h TD"
-website: "#"
+# website: "#"
 email: "sid.touati@univ-cotedazur.fr"
 #
 # Styling

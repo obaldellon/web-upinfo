@@ -13,8 +13,8 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
-email: ""
+# website: ""
+email: "enrico.formenti@unice.fr"
 #
 # Styling
 #

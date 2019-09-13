@@ -13,7 +13,7 @@ tags:
   - S3
 ects: 6
 schedule: "54h"
-website: "#"
+# website: "#"
 email: "pierre.lezowski@univ-cotedazur.fr"
 #
 # Styling

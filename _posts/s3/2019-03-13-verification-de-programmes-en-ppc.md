@@ -13,8 +13,8 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
-email: ""
+# website: ""
+email: "marie.pelleau@univ-cotedazur.fr"
 #
 # Styling
 #

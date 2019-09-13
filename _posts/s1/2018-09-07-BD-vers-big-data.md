@@ -13,7 +13,7 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: "www.mbds-fr.org"
+website: "http://www.mbds-fr.org"
 email: "serge.miranda@unice.fr"
 #
 # Styling

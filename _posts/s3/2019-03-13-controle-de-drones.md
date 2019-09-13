@@ -4,7 +4,8 @@ layout: syllabus
 # Content
 #
 title: "Contrôle de drones"
-subheadline: "T. Hamel, PR"
+subheadline: ""
+#"T. Hamel, PR"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -13,7 +14,7 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
+# website: ""
 email: ""
 #
 # Styling

@@ -14,7 +14,7 @@ tags:
   - OPT
 ects: 6
 schedule: "44h"
-website: "#"
+# website: "#"
 email: "Philippe.RENEVIER@univ-cotedazur.fr"
 #
 # Styling

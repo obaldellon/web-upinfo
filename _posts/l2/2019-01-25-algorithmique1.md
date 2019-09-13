@@ -14,7 +14,7 @@ tags:
   - S4
 ects: 6
 schedule: "48h"
-website: "#"
+# website: "#"
 email: "emmanuel.kounalis@univ-cotedazur.fr"
 #
 # Styling

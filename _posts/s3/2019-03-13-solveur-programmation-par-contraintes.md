@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: ""
-email: ""
+email: "jcregin@gmail.com"
 #
 # Styling
 #

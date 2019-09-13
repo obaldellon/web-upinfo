@@ -14,7 +14,7 @@ tags:
   - OPT
 ects: 6
 schedule: "54h"
-website: "#"
+# website: "#"
 email: "bruno.martin@univ-cotedazur.fr"
 #
 # Styling

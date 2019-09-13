@@ -13,7 +13,7 @@ tags:
   - S3
 ects: 6
 schedule: "54h"
-website: "#"
+# website: "#"
 email: "marie.pelleau@univ-cotedazur.fr, jean-charles.regin@univ-cotedazur.fr"
 #
 # Styling

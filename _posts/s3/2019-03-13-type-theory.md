@@ -13,7 +13,7 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website:
+# website:
 email: "cinzia.di-giusto@univ-cotedazur.fr"
 #
 # Styling

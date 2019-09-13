@@ -15,7 +15,7 @@ tags:
   - S1
 ects: 6
 schedule: "54"
-website: "lms.unice.fr"
+website: "https://lms.univ-cotedazur.fr"
 email: "pierre.lezowski@univ-cotedazur.fr"
 #
 # Styling
@@ -78,7 +78,7 @@ et Bases de l'informatique (SPUF10), le choix est exclusif.
 
 ###  Ressources ###
 
-- le cours SPUF11 sur [Moodle](http://lms.unice.fr)
+- le cours SPUF11 sur [Moodle](https://lms.univ-cotedazur.fr)
 
 
 

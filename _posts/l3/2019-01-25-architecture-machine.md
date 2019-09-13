@@ -14,7 +14,7 @@ tags:
   - OPT
 ects: 6
 schedule: "18h cours + 18h TP"
-website: "#"
+# website: "#"
 email: "sid.touati@univ-cotedazur.fr"
 #
 # Styling

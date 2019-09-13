@@ -13,7 +13,7 @@ tags:
   - S4
 ects: 6
 schedule: "54h"
-website: "#"
+# website: "#"
 email: "Ramon.Aparicio-Pardo@univ-cotedazur.fr"
 #
 # Styling

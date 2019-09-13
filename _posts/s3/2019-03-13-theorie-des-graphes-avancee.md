@@ -13,8 +13,8 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
-email: ""
+# website: ""
+email: "nicolas.nisse@sophia.inria.fr"
 #
 # Styling
 #

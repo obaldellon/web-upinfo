@@ -15,7 +15,7 @@ tags:
   - OPT
 ects: 6
 schedule: "48h"
-website: "#"
+# website: "#"
 email: "julien.provillard@univ-cotedazur.fr"
 #
 # Styling
