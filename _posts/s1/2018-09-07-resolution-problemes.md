@@ -5,8 +5,9 @@ layout: syllabus
 #
 subheadline: "M. Pelleau, MCF"
 title: "Résolution de problèmes"
-teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être résolus, tels que l’allocation de portes d’embarquement aux avions, la recherche de chemins sous contraintes, etc. On utilisera la programmation par contraintes afin de résoudre ces problèmes."
-# Différents types de méthodes seront présentées, comme les algorithmes gloutons, la programmation par contraintes et la programmation linéaire"
+teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être résolus, tels que l’allocation de portes d’embarquement aux avions, la recherche de chemins sous contraintes, etc. 
+Différents types de méthodes seront présentées, comme les algorithmes gloutons, la recherche locale, la programmation par contraintes et la programmation linéaire."
+# On utilisera la programmation par contraintes afin de résoudre ces problèmes.
 categories:
   - S1
 tags:
@@ -22,14 +23,15 @@ image:
   thumb: "reines.png"
   homepage: "header-reines.png"
 #  caption: "https://unsplash.com/"
-  url: "https://unsplash.com/"
+#  url: "https://unsplash.com/"
 header:
   image_fullwidth: "header-reines.png"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+#  caption_url: https://unsplash.com/  
 ---
 
-Ce cours présente la programmation par contraintes, afin de formaliser et résoudre des problèmes fortement combinatoires.
+Ce cours présente différents types de méthodes afin de formaliser et résoudre des problèmes fortement combinatoires.
+<!-- Ce cours présente la programmation par contraintes, afin de formaliser et résoudre des problèmes fortement combinatoires. -->
 
 ### Calendrier ###
 
@@ -37,14 +39,15 @@ Ce cours présente la programmation par contraintes, afin de formaliser et réso
 
 ### Contenu ###
 
-Les diapositives du cours sont disponibles : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}).
-
-Ainsi qu'une [correction du contrôle]({% include link-asset asset="correction.pdf" %}). 
+Les diapositives du cours seront disponibles au fur et à mesure des cours.
+<!--  : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}).
+Ainsi qu'une [correction du contrôle]({% include link-asset asset="correction.pdf" %}). -->
 
 Ce cours est divisé en 3 grandes parties :
-  1. Variables, domaines, contraintes arithmétiques
-  2. Propagation
-  3. Contraintes globales
+  1. Modélisation
+  2. Algorithmes gloutons <!-- Variables, domaines, contraintes arithmétiques -->
+  3. Recherche locale <!-- Propagation -->
+   <!-- Contraintes globales -->
 
 ### Modalités de contrôle des connaissances ###
 
@@ -53,6 +56,6 @@ Ce cours est divisé en 3 grandes parties :
   - Seconde session : écrit de 1h30
 
 ### Ressources ###
-
+  - 
   - [minicp](https://minicp.bitbucket.io/)
 

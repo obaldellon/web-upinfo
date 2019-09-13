@@ -56,7 +56,7 @@ Vous trouverez ci-après la liste des éléments du dossier administratif à fou
  - Certificat de scolarité de l’année en cours (Pas la carte étudiant)
  - RIB (Banque en France), aux nom et prénom de l'étudiant
 
-Ces éléments sont à m’adresser soit par mail si lisibles à Madame Delorme et Monsieur Yameogo, soit par courrier postal soit déposer au bureau de Madame Delorme.  
+Ces éléments sont à adresser soit par mail si lisibles à Madame Delorme et Monsieur Yameogo, soit par courrier postal, soit déposer au bureau de Madame Delorme.  
 
 Joachim Yameogo (Joachim.YAMEOGO@univ-cotedazur.fr)  
 Isabelle DELORME (Isabelle.DELORME@univ-cotedazur.fr)  

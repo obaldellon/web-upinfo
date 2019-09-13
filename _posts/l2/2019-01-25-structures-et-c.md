@@ -24,9 +24,9 @@ image:
 #  caption: "https://unsplash.com/"
   url: "https://unsplash.com/"
 header:
-  image_fullwidth: "header-syllabus-unsplash.jpg"
+  image_fullwidth: "header-codeC.png"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+#  caption_url: https://unsplash.com/  
 ---
 
 ###  Description ###
