@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Etienne Lozes, PR"
+subheadline: "E. Lozes, PR"
 title: "Programmation impérative en Python"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation impérative dans le langage Python"

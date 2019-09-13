@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Philippe Collard, PR"
+subheadline: "P. Collard, PR"
 title: "Projet sciences informatiques"
 logo: "logo_blanc-l.png"
 teaser: "Objectif : S'initier à la démarche scientifique: modéliser, simuler et valider l'étude d'un phénomène à l'aide d'outils informatiques. Savoir présenter un problème, discuter les approches de résolution possibles, défendre des conclusions devant des pairs, et réciproquement savoir évaluer les résultats d'autres études sur des sujets connexes."

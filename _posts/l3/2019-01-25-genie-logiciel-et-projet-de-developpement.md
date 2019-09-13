@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Philippe Renevier, MCF"
+subheadline: "P. Renevier, MCF"
 title: "Génie logiciel et projet de développement"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif est de réaliser, en équipe, un développement logiciel de taille conséquente à partir d'un cahier des charges et en mettant en pratique des techniques de développement du génie logiciel."

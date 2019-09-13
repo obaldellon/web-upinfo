@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Etienne Lozes, PR"
+subheadline: "E. Lozes, PR"
 title: "Programmation fonctionnelle"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation fonctionnelle typée. Le langage support pour le cours est OCaml."

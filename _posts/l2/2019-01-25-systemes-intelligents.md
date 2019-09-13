@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Philippe Collard, PR"
+subheadline: "P. Collard, PR"
 title: "Introduction aux systèmes intelligents"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction aux techniques de l'intelligence artificielle. Il comporte deux parties : une introduction au langage Prolog et à ses applications aux systèmes experts, et une initiation aux techniques de résolution de problème."

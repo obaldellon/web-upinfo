@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Preuve et programmation fiable"
-subheadline: "Yves Bertot, INRIA"
+subheadline: "Y. Bertot, DR INRIA"
 logo: "logo_blanc.png"
 teaser: ""
 categories:

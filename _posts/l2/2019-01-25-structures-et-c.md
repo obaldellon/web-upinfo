@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Marie Pelleau, MCF/Jean-Charles Regin, PR"
+subheadline: "M. Pelleau, MCF/J.-C. Regin, PR"
 title: "Structures de données et programmation C "
 logo: "logo_blanc-l.png"
 teaser: "Ce cours a pour objectif d'introduire les structures de données les plus classiques en s'appuyant sur le langage de programmation bas niveau C."

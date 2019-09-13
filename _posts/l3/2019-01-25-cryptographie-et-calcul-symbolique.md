@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Sandrine Julia, MCF/Bruno Martin, PR"
+subheadline: "S. Julia, MCF/B. Martin, PR"
 title: "Cryptographie et calcul symbolique"
 logo: "logo_blanc-l.png"
 teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne"
@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "54h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "sandrine.julia@univ-cotedazur.fr,bruno.martin@univ-cotedazur.fr"
 #
 # Styling
 #

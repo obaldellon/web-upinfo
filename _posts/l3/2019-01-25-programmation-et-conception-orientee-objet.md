@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Julien Provillard, MCF"
+subheadline: "J. Provillard, MCF"
 title: "Programmation et conception orientée objet"
 logo: "logo_blanc-l.png"
 teaser: "Il s'agit d'un cours de Programmation Orientée Objet qui se base sur le langage Java."

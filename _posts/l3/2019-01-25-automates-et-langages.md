@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Sandrine Julia, MCF"
+subheadline: "S. Julia, MCF"
 title: "Automates et langages"
 logo: "logo_blanc-l.png"
 teaser: "Introduction à la théorie des automates et des machines à états finis,

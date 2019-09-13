@@ -3,18 +3,18 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Emmanuel Kounalis, PR"
+subheadline: "E. Kounalis, PR"
 title: "Algorithmique 2"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
 categories:
-  - L2
+  - L3
 tags:
-  - S4
+  - S6
 ects: 6
 schedule: "48h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
+email: "emmanuel.kounalis@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -34,8 +34,8 @@ header:
 But : Modéliser de nombreux problèmes RÉELS et étudier les algorithmes permettant de 
 les résoudre avec une  grande efficacité.
 
-###  Calendrier ###        
-S6
+<!-- ###  Calendrier ###        
+S6 -->
 
 ###  Cours ###
 1. La décomposition des graphes (Le Parcours de graphes, Le Tri topologique, 
@@ -49,7 +49,8 @@ S6
  
 ###  Modalités de contrôle des connaissances ###
 
-Deux CC à 30% et un CT à 40%
+- 2 CC à 30% 
+- 1 CT à 40%
 
 ###  Ressources ###
 1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms /2008. 

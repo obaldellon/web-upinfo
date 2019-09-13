@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Elena Cabrio, MCF"
+subheadline: "E. Cabrio, MCF"
 title: "Technologies du web"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours présente le fonctionnement du web, ainsi que la production de pages web statiques et la programmation de pages web dynamiques, tant du côté client que serveur. "

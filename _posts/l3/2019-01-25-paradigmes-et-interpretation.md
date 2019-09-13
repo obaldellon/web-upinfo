@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Julien Provillard, MCF"
+subheadline: "J. Provillard, MCF"
 title: "Paradigmes et interprétation"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des 

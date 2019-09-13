@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Cinzia Di Giusto, MCF"
+subheadline: "C. Di Giusto, MCF"
 title: "Bases de l'informatique"
 logo: "logo_blanc-l.png"
 teaser: "Introduction à l'informatique"

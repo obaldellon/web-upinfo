@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Arnaud Malapert, MCF"
+subheadline: "A. Malapert, MCF"
 title: "Algo & Prog avec R"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une initiation à l'algorithmique et à la programmation dans le langage R offert aux portails SV, ST et SITE."

@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Pierre Lezowski, PRAG"
+subheadline: "P. Lezowski, PRAG"
 title: "Bases de données"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif de ce cours est d'apprendre à créer et manipuler des bases de données relationnelles et de comprendre les problèmes qui y sont liés."

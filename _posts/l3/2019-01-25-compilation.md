@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Sid Touati, PR"
+subheadline: "S. Touati, PR"
 title: "Compilation"
 logo: "logo_blanc-l.png"
 teaser: " Introduction aux méthodes d'analyse syntaxique et d'analyse sémantique, dans le cadre de la construction de compilateurs et de traduction d'un formalisme en un autre."
@@ -39,17 +39,17 @@ Ce cours traite d'un thème fondamental en science informatique, qui est la comp
 
 ### Contenu
 
-1- Les différentes étapes d'un compilateur
-2- Langages cibles, langages machines
-3- Analyse lexicale
-4- Analyse syntaxique
-5- Traduction dirigée par la syntaxe
-6- Tables des symboles
-7- Gestion des types
-8- Gestion mémoire
-9- Représentations intermédiaires d'un programme
-10- Génération de code: expressions arithmétiques, expressions logiques, boucles, appels de fonctions, instructions conditionnels.
-11- Introduction à l'optimisation de code
+1. Les différentes étapes d'un compilateur
+2. Langages cibles, langages machines
+3. Analyse lexicale
+4. Analyse syntaxique
+5. Traduction dirigée par la syntaxe
+6. Tables des symboles
+7. Gestion des types
+8. Gestion mémoire
+9. Représentations intermédiaires d'un programme
+10. Génération de code: expressions arithmétiques, expressions logiques, boucles, appels de fonctions, instructions conditionnels.
+11. Introduction à l'optimisation de code
 
 ### Pédagogie par projet
 
