@@ -6,15 +6,15 @@ layout: syllabus
 subheadline: "Emmanuel Kounalis, PR"
 title: "Algorithmique 2"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours présente quatre grandes classes de méthodes générales pour résoudre des problèmes. Ces méthodes sont très puissantes et applicables à de nombreux problèmes d’optimisation. Elles sont la suite des règles fondamentales de l’algorithmique présentées à l’algorithmique I (décroître pour conquérir, transformer pour conquérir, diviser pour conquérir)."
+teaser: "Courte description"
 categories:
-  - L3
+  - L2
 tags:
-  - S6
+  - S4
 ects: 6
-schedule: "18h CM + 36h TD"
+schedule: "48h"
 website: "#"
-email: "emmanuel.kounalis@univ-cotedazur.fr"
+email: "firstname.lastname@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -31,30 +31,30 @@ header:
 
 ###  Description ###
 
-1. La conception « gloutonne »
-  - L’arbre couvrant minimal d’un graphe (Kruskal, Prim)
-  - Le plus court chemin dans un graphe (Dijkstra)
-  - Le choix des intervalles
-2. La conception Programmation Dynamique 
-  -  La plus longue chaîne extraite 
-  -  Sac à dos en 0-1
-  - Plus court chemin pour tout couple des sommets (Floyd)
-3. La conception amélioration itérative
-  - Le plus court chemin dans un graphe (Bellman-Ford)
-  - Flots maximaux dans un graphe (Ford-Fulkerson)
-  - Couplage maximal dans un graphe non orienté biparti
-4. La conception heuristique / approximative 
-  - Coloration d'un graphe
-  - Couverture d'un graphe
-  - Voyageur de commerce
+But : Modéliser de nombreux problèmes RÉELS et étudier les algorithmes permettant de 
+les résoudre avec une  grande efficacité.
 
+###  Calendrier ###        
+S6
+
+###  Cours ###
+1. La décomposition des graphes (Le Parcours de graphes, Le Tri topologique, 
+    Les Composants Fortement Connexes)
+2. Le plus court chemin (Dijkstra, Bellman-Ford, Floyd, Dag,..)
+3. L'arbre couvrant minimal (Prim, Kruscal)
+4. le problème du flot maximal…
+5. La Programmation Linéaire 
+6. Etudes de Cas : Exploration du WEB, Ordonnancement des taches (PERT CPM), 
+	 Réseaux ferroviaires et distributions…
+
+ 
 ###  Modalités de contrôle des connaissances ###
 
-- Controle continu (40%)
-- Controle terminal (60%)
+Deux CC à 30% et un CT à 40%
 
 ###  Ressources ###
-
-1. Algorithms S. Dasgupta, C.H. Papadimitriou, U.V. Vazirani. Mc Graw Hill, 2006
-2. Introduction à l'algorithmique T. Cormen, C. Leiserson, R. Rivest, C. Stein. Dunod, 2002
-3. The algorithm design manual S. Skiena. Springer, 1998
+1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms /2008. 
+2. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest et Clifford Stein,
+Intro-duction to Algorithms, 3rd edition, MIT Press, 2009
+3. Tim Roughgarden-Algorithms Illuminated_ Part 1_ The Basics-Soundlikeyourself 
+Publ. (2017)
