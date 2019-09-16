@@ -4,7 +4,7 @@ title: "Emploi du temps M1"
 subheadline: ""
 teaser: "Vous trouverez sur cette page le calendrier universitaire du Master 1 Informatique."
 tablelink: "https://docs.google.com/spreadsheets/d/1q1GYGoSnMl5b39N5TSg4BEBEIwlAwhw-aO2CWmc5slE/pubhtml?gid=1523095882&amp;single=true&amp;widget=true&amp;headers=false"
-permalink: "/edt/annee1/"
+permalink: "/edt/m1/"
 #
 # Styling
 #

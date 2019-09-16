@@ -32,8 +32,8 @@ header:
 
 ## Calendriers universitaires par année
 
-- [Première année]({{ "/edt/annee1"  | absolute_url }}).
-- [Seconde année]({{ "/edt/annee2"  | absolute_url }}).
+- [Première année]({{ "/edt/m1"  | absolute_url }}).
+- [Seconde année]({{ "/edt/m2"  | absolute_url }}).
  
 #### À propos des agendas 
 L'agenda indique des évenements qui ne figurent pas forcément dans l'emploi du temps.  

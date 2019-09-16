@@ -1,11 +1,11 @@
 ---
-layout: page-fullwidth
+layout: edt-fullwidth
 # layout: edt-fullwidth
 title: "Emploi du temps M2"
 subheadline: ""
 teaser: "Vous trouverez sur cette page le calendrier universitaire du Master 2 Informatique."
-tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRkl0-3EUUirBob8SOuG-OMvHAkH98nQKYzKXVlDqZdRIknYNNT7UjHlg8vehjPv_1OEKJmuuLRQDk3/pubhtml?gid=1523095882&single=true&amp;widget=true&amp;headers=false"
-permalink: "/edt/annee2/"
+tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrR_SqzbiB0ZhVtrO3rs2GF7abDVjQLbTP2mWqbxGlwRz3bNX7sPXuMgQDEb3tNA/pubhtml?gid=363208123&single=true&amp;widget=true&amp;headers=false"
+permalink: "/edt/m2/"
 #
 # Styling
 #
@@ -14,7 +14,7 @@ header:
 #  caption: "Le bâtiment des lucioles à Sophia-Antipolis."
 ---
 
-## Calendrier annuel 2019/2020
+## Calendrier annuel
 
 Le calendrier annuel indique les dates de cours (plein temps et alternance) et d'examens.  
 Certains événements exceptionnels peuvent se dérouler en dehors de ces périodes.

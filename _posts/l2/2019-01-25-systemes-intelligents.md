@@ -4,7 +4,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Philippe Collard, PR"
+subheadline: "P. Collard, PR"
 title: "Introduction aux systèmes intelligents"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
