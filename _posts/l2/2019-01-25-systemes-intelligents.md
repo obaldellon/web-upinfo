@@ -1,20 +1,22 @@
 ---
+# Pour un syllabus
 layout: syllabus
 #
 # Content
 #
-subheadline: "P. Collard, PR"
+subheadline: "Philippe Collard, PR"
 title: "Introduction aux systèmes intelligents"
+# Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
-teaser: "Ce cours est une introduction aux techniques de l'intelligence artificielle. Il comporte deux parties : une introduction au langage Prolog et à ses applications aux systèmes experts, et une initiation aux techniques de résolution de problème."
-categories:
-  - L2
+teaser: "Ce cours introductif comporte deux parties, la première dédiée à l’intelligence collective et la seconde à l’intelligence individuelle."
+categories: 
+ - L2
 tags:
-  - S4
-  - OPT
+ - S4
+ - OPT
 ects: 6
 schedule: "42h"
-# website: "#"
+website: "philippecollard.com"
 email: "philippe.collard@univ-cotedazur.fr"
 #
 # Styling
@@ -30,17 +32,21 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-###  Description ###
-
-1. Prolog (PROgrammation LOGique) est un langage de programmation déclarative qui à partir de la
-description du domaine étudié, puis du problème posé, permet de résoudre ce problème sans que l'on n'ait à expliciter le "comment faire".
-Il permet en outre de manipuler aisément les structures d'arbre et de listes. Ces propriétés, et la potentialité de méta-programmation rendent ce langage particulièrement approprié pour développer des applications en Intelligence Artificielle (représentation et traitement de connaissances).
+### Description
 
 
-2. La seconde partie du cours est consacrée à la présentation de différentes techniques utilisées en intelligence artificielle pour résoudre des problèmes :
-  -  Recherche heuristique de chemin dans un graphe (algorithme A*, minima, alpha/beta)
-  - Apprentissage d'arbre de décision (algorithme C4.5)
+#### Partie 1 : Intelligence collective
+ - Objectif : modéliser et simuler les capacités d’une collectivité à résoudre des problèmes.
+ - Concept : [systèmes complexes](https://fr.wikipedia.org/wiki/Système_complexe#Bibliographie), [approche orientée agent](https://en.wikipedia.org/wiki/Agent-based_model).
+ - Outil : [NetLogo](https://ccl.northwestern.edu/netlogo/) ; langage de Programmation Orientée Agent qui permet de simuler des phénomènes collectifs complexes.
+
+#### Partie 2 :  Intelligence individuelle
+- Objectif : modéliser et simuler les capacités de raisonnement humain sur un domaine d’expertise donné.
+- Concept : programmation logique, systèmes experts.
+- Outil : [Prolog](https://www.swi-prolog.org) ; langage de Programmation Déclarative basé sur la logique des prédicats restreinte aux clauses de Horn qui permet de représenter et manipuler des structures récursives et possède des potentialités de méta-programmation (voir la [bibliographie](https://fr.wikipedia.org/wiki/Prolog#Bibliographie)).
 
 
-Chaque cours est accompagné d'une séance de travaux dirigés sur machine.
+### Organisation
+Chaque cours est accompagné d’une séance de travaux dirigés sur machine.
+
 
