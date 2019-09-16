@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
+subheadline: "M. Pelleau, MCF"
 title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
 teaser: ""
@@ -14,7 +14,7 @@ tags:
 ects: 6
 #schedule: "18h"
 # website: "#"
-email: "arnaud.malapert@univ-cotedazur.fr"
+email: "marie.pelleau@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -29,7 +29,16 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-
 Il n'y a ni prérequis, ni cours magistraux.
 
+### Intervenants ###
+- A. Anglade [aanglade@i3s.unice.fr]({mailto:aanglade@i3s.unice.fr})
+
+### Sujet ###
+Lors de ce TER, le but est de réaliser une bande Led similaire à [celle-ci](https://www.youtube.com/watch?v=oN4Q87aC5l4).
+
+### Modalités de contrôle des connaissances ###
+- Rapport (30%)
+- Soutenance orale (70%)
+- **Pas de 2nde session**
 

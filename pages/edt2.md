@@ -24,3 +24,8 @@ Certains événements exceptionnels peuvent se dérouler en dehors de ces pério
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=gojhjrssif09rqi5e5omjll5ug@group.calendar.google.com&amp;color=%2342104A&amp;ctz=Europe%2FParis&amp" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
 ## Emploi du temps
+
+**Cette première semaine (du 16/09 - 20/09) les cours seront :**
+ - lundi, mardi et mercredi en TD 08
+ - jeudi en TD 12
+ - vendredi en TD 14

@@ -6,7 +6,7 @@ layout: syllabus
 subheadline: "M. Pelleau, MCF"
 title: "Résolution de problèmes"
 teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être résolus, tels que l’allocation de portes d’embarquement aux avions, la recherche de chemins sous contraintes, etc. 
-Différents types de méthodes seront présentées, comme les algorithmes gloutons, la recherche locale, la programmation par contraintes et la programmation linéaire."
+Différents types de méthodes seront présentées, comme les algorithmes gloutons, la recherche locale et la programmation par contraintes."
 # On utilisera la programmation par contraintes afin de résoudre ces problèmes.
 categories:
   - S1
@@ -43,10 +43,11 @@ Les diapositives du cours seront disponibles au fur et à mesure des cours.
 <!--  : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}).
 Ainsi qu'une [correction du contrôle]({% include link-asset asset="correction.pdf" %}). -->
 
-Ce cours est divisé en 3 grandes parties :
+Ce cours est divisé en 4 grandes parties :
   1. Modélisation
   2. Algorithmes gloutons <!-- Variables, domaines, contraintes arithmétiques -->
   3. Recherche locale <!-- Propagation -->
+  4. Programmation par contraintes
    <!-- Contraintes globales -->
 
 ### Modalités de contrôle des connaissances ###

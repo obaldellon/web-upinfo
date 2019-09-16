@@ -40,13 +40,18 @@ Ce cours a pour objectif l'étude des structures de données et des algorithmes 
 <!-- #####  Programme ##### -->
 Le programme détaillé de cet enseignement est le suivant,
 les structures de données classiques seront étudiées :
-- Rappel sur les tableaux
+- Rappel sur les tableaux 
 - Piles
 - Files
 - Listes
 
 Pour chaque structure de données on considérera les algorithmes de manipulations classiques (ajout, insertion, suppression d’éléments...)
 Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appuyant sur les structures de données vues seront détaillés, comme les algorithmes de tris par fusion ou par tas, l’algorithme de codage MP3... Afin de faciliter l'enseignement, un langage de description des algorithmes, proche d'un langage naturel, sera introduit et servira pendant les TDs. Pour chacun des algorithmes étudiés, nous analyserons la complexité algorithmique afin de déterminer les performances théoriques.
+
+###### Supports de cours
+- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})
+- [TD1]({% include link-asset asset="TD1.pdf" %})
+- [TD2]({% include link-asset asset="TD2.pdf" %})
 
 ####  Programmation C ####
 
@@ -62,7 +67,7 @@ Ce cours est divisé en 5 grandes parties :
 
 ###  Calendrier ###
 - Les 6 premières séances sont dédiées aux Structures de données.
-  - 6 CMs (2h)
+  - 6 CMs (2h) 
   - 6 TDs (2h)
 - Les 6 séances siuvantes sont dédiées à la programmation C.
   - 6 CMs (2h)
