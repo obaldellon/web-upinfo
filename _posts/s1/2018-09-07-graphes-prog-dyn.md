@@ -55,16 +55,18 @@ Le plan des cours est le suivant :
 
 #### BU ####
 
--   [Graphes et algorithmes](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000121977%20), Michel Gondran et Michel Minoux.
--   [Précis de recherche opérationnelle](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000108437%20), Robert Faure, Bernard Lemaire et Christophe Picouleau.
--   [Algorithmes de graphes](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000042329%20), Philippe Lacomme, Christian Prins et Marc Sevaux.
+- [Graphes et algorithmes](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000121977%20), Michel Gondran et Michel Minoux.
+- [Précis de recherche opérationnelle](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000108437%20), Robert Faure, Bernard Lemaire et Christophe Picouleau.
+- [Algorithmes de graphes](http://catalogue.unice.fr/primo_library/libweb/action/dlDisplay.do?vid%3DUNS&docId%3Dsc_aleph_uns01000042329%20), Philippe Lacomme, Christian Prins et Marc Sevaux.
 
 #### Électroniques ####
 
--   [Cours en ligne](http://www.apprendre-en-ligne.net/graphes/), Didier Muller.
--   [Cours en ligne](http://idmme06.inpg.fr/~rapinec/Graphe/Graphe/default.html), Christophe Rapine.
--   [Cahier d&rsquo;exercices](http://mathematiques.ac-bordeaux.fr/pedalyc/seqdocped/graphes/cahier/cahier.htm), Eric Sopena.
--   <http://graphes.fr/>
+- [Cours en ligne](http://www.apprendre-en-ligne.net/graphes/), Didier Muller.
+- [Cours en ligne](http://idmme06.inpg.fr/~rapinec/Graphe/Graphe/default.html), Christophe Rapine.
+- [Cahier d&rsquo;exercices](http://mathematiques.ac-bordeaux.fr/pedalyc/seqdocped/graphes/cahier/cahier.htm), Eric Sopena.
+- <http://graphes.fr/>
+- [Cours en ligne (en)](https://algs4.cs.princeton.edu/40graphs/)
+
 
 ### Modalités de contrôle des connaissances ###
 
