@@ -26,8 +26,8 @@ header:
 
 
 ### Extension WebAudio pour Firefox ### 
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Michel Buffa](mailto:micbuffa@gmail.com).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com).
 
 Firefox va supprimer une partie importante pour WebAudio de ses devtools (console de debug). 
 Michel Buffa est en contact avec les devs de Firefox qui sont d'accord pour vous aider à transformer ce qui existait en extension.
@@ -35,21 +35,21 @@ Les extensions sont maintenant codées en RUST, plus en JS.
 Il s'agit d'une opportunité rare de travailler avec les développeurs d'une application avec presque 300 millions d'utilisateurs.
 
 ### Scanner 3D 
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants : [Enrico Formenti et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Dans ce TER on s'intéresse à la création d'un scanner 3D. Pour cela, on modélisera une plateforme rotative sur laquelle sera déposé l'objet à scanner. Un Arduino contrôlera le moteur pour la rotation du plateau et un appareil photo ou une webcam afin de photographier sous plusieurs angles l'objet à scanner.
 
 ### Robot explorateur
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants : [Enrico Forment et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
 Ce TER s’inscrit dans un projet de robot explorateur capable de détecter et éviter des obstacles. Une [première version]( http://i3s.unice.fr/master-info/ter/TER-Scrappy/). L’objectif ici est d’implémenter une version de l’algorithme [A*](https://fr.wikipedia.org/wiki/Algorithme_A*) sur Arduino. La difficulté vient du manque de mémoire disponible sur un Arduino.
 
 ### Flotilles de robots
-- Nombre d'étudiants souhaités : entre 2 et 4.
+- Nombre d'étudiants souhaité : entre 2 et 4.
 - Encadrants : [Enrico Formenti et Marie Pelleau](mailto:enrico.formenti@unice.fr,marie.pelleau@unice.fr).
 - Prérequis : savoir coder en C ou C++.
 
@@ -60,7 +60,7 @@ Ce TER a plusieurs objectifs, à savoir :
 - Conception d'un châssis pour les robots en plexiglas ou modélisation et impression 3D.
 
 ### Bras Robot pour jeu de plateau
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants : [Philippe Renevier et Marie Pelleau](mailto:philippe.renevier@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en C ou C++.
 
@@ -71,7 +71,7 @@ Ce TER a plusieurs objectifs, à savoir :
   - Mettre en œuvre quelques mouvements dans un jeu réel, en fixant les emplacements ou en utilisant une librairie de reconnaissance pour les éléments d'un jeu.
 
 ### Localisation des éléments d'un jeu de plateau
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants : [Philippe Renevier et Marie Pelleau](mailto:philippe.renevier@unice.fr,marie.pelleau@unice.fr).
  
  
@@ -82,7 +82,7 @@ Ce TER a plusieurs objectifs, à savoir :
   - Mettre en œuvre le suivi des éléments d'un jeu lors d'une partie entre humains ou entre humains et IA dotée d'un bras robotique.
 
 ### Création d'une mini ferme de calcul basées sur des Raspberry Pi 2
- - Nombre d'étudiants souhaités : entre 2 et 4
+ - Nombre d'étudiants souhaité : entre 2 et 4
  - Encadrants : [Arnaud Malapert et Marie Pelleau](mailto:arnaud.malapert@unice.fr,marie.pelleau@unice.fr)
 
 En 2015, un étudiant du Master Informatique a créé une mini ferme de calcul de Raspberry Pi 2 contenant une vingtaine de Raspberry Pi 2 rangés dans un rack en bois et en aggloméré. L'une des difficultés était de faire courir les câbles d'alimentation dans le rack.
@@ -90,7 +90,7 @@ Le but de ce projet est donc d'améliorer le rack grâce à l'impression 3D et �
 
 
 ### Utilisation de la programmation par contraintes pour la détermination des paramètres de modèles dynamiques
- - Nombre d'étudiants souhaités : 1.
+ - Nombre d'étudiants souhaité : 1.
  - Encadrants : [Jean-Paul Comet et Marie Pelleau](mailto:comet@unice.fr,marie.pelleau@unice.fr).
  - Prérequis : savoir coder en OCaml et connaître la logique de Hoare est un plus.
 
@@ -101,7 +101,7 @@ On utilisera le solveur continu-discret AbSolute pour trouver les solutions du p
 
 
 ### Generation automatique de texte ###
- - Nombre d'étudiants souhaités : 1.
+ - Nombre d'étudiants souhaité : 1.
  - Encadrants : [Jean-Charles Régin et Élena Cabrio](mailto:jcregin@gmail.com,elena.cabrio@unice.fr).
  - Prérequis : bien programmer en java.
 
@@ -110,15 +110,15 @@ Ce projet a pour objectif la mise en œuvre de techniques pour engendrer automat
 On reprogrammera une technique existante et on la testera sur de nombreux problemes, puis on essaiera d'introduire des contraintes de plus en plus complexes pour donner de plus en plus de sens au texte
 
 ### Utilisation du cloud pour du calcul haute performance ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Jean-Charles Régin](mailto:jcregin@gmail.com).
  - Prérequis : bien programmer en java pour éviter autant que possible l'utilisation de librairies annexes.
 
 Le cloud est souvent utilisé pour heberger des serveurs. Dans le cas présent on souhaite l'utiliser pour faire du calcul intensif, ce que propose de plus en plus les fournisseurs de cloud computing, comme Google avec les Google compute engine. Néanmoins, entre la « theorie » et la pratique il y a souvent une grande différence. L'objectif de ce TER est la mise en place d'une solution (autrement dit d'un ensemble d'outils en Java) permettant d'executer un programme Java sur une machine sur le cloud et de communiquer avec cette machine. 
 
 ### Apprentissage de stratégies statiques ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Jean-Charles Régin](mailto:jcregin@gmail.com).
  - Prérequis : bien programmer en java ; un interet en programmation par contraintes est un plus.
 
 De nombreuses methodes de resolution de problemes d'optimization combinatoires utilisent des methodes dynamiques, telle que la selection de variables ayant le plus d'impact.
@@ -127,8 +127,8 @@ L'idee est d'essayer de voir si on ne pourrait pas remplacer ces strategies dyna
 
 
 ### Cabane à oiseaux connectée ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Gaetan Rey](mailto:gaetan.rey@univ-cotedazur.fr).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Gaetan Rey](mailto:gaetan.rey@univ-cotedazur.fr).
  
 Le but de ce projet est d'instrumenter une grande cabane à oiseaux, à l'aide d'une plateforme de type Raspberry Pi et de capteurs pour transformer cette grande cabane en bois en un objet connecté offrant différents services. 
 
@@ -149,8 +149,8 @@ Soit une plateforme à base de Raspberry Pi (accompagner de capteur Grove), soit
 
 
 ###  Défi orthographique ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Serge Miranda](mailto:miranda.serge@gmail.com).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Serge Miranda](mailto:miranda.serge@gmail.com).
 
 S'approprier sa langue est un enjeu humain, culturel et citoyen. Son apprentissage peut être soutenu par l'utilisation d'outils.
 Le Conseil départemental 06 et le rectorat de Nice souhaitent s'associer autour d'une manifestation visant à promouvoir la réflexion linguistique des élèves chez les élèves de 6ème. Cela se manifestera au final par un "défi orthographique" qui se déroulera en présence d'un ensemble d'acteurs et de partenaires.
@@ -161,8 +161,8 @@ Le projet a deux niveaux :
 
 
 ### Ordonnancement sous contraintes ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
  - Prérequis : programmer en c++ ; un intérêt en programmation par contraintes.
 
 Ce travail porte sur l'étude d'un problème d'ordonnancement de tâches sur des machines parallèles avec des contraintes de qualification des machines. Une machine perd sa qualification pour une famille de tâche si cela fait trop longtemps qu'elle n'a pas exécuté une tâche de cette famille. 
@@ -170,8 +170,8 @@ Ce travail porte sur l'étude d'un problème d'ordonnancement de tâches sur des
 L'objectif de ce TER est de continuer les travaux en cours sur ce sujet, notamment en développant des contraintes dédiées pour aider à la résolution du problème.
 
 ### Optimisation multiobjectif pour l'ordonnancement ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
  - Prérequis : bien programmer en java ; un intérêt en programmation par contraintes.
 
 Le but de ce TER est d'étudier des problèmes d'optimisation multiobjectif sur un réseau de contraintes temporelles de type PERT/CPM. L'optimisation multiobjectif a été très peu étudiée dans ces réseaux et tout reste donc à faire. Par contre, le problème d'ordonnancement est facile et très étudié. Beaucoup de variantes sont polynomiales.
@@ -180,8 +180,8 @@ Le but de ce TER est d'étudier des problèmes d'optimisation multiobjectif sur 
  Il existe de nombreux logiciels pour appliquer ces méthodes, par exemple Microsoft Project.
   
 ### Front de Pareto en programmation par contraintes ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
  - Prérequis : bien programmer en java ; un intérêt en programmation par contraintes.
 
 Ce travail porte sur la construction du front de Pareto en programmation par contraintes. 
@@ -191,7 +191,7 @@ L'objectif de ce TER est de développer des contraintes globales et des stratég
 
 
 ### Intégration de méthodes d'optimisation dans PlanetOptim ###
- - Nombre d'étudiants souhaités : 2 et 4.
+ - Nombre d'étudiants souhaité : 2 et 4.
  - Encadrants : [Arnaud Malapert et Assia Kamal Idrissi](mailto:arnaud.malapert@univ-cotedazur.fr,assia.elafouani@milanamos.com).
  - Prérequis : bien programmer en java ; connaître les bases de données.
 
@@ -201,8 +201,8 @@ L'objectif est de concevoir les requêtes que l'application PlanetOptim dévelop
 Cette communication passera par une queue de message RabbitMQ.
 
 ### Exploration exhaustive du Redi Cube ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Julien Bensmail](mailto:Julien.Bensmail@unice.fr)
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Julien Bensmail](mailto:Julien.Bensmail@unice.fr)
 
 Il existe de nombreuses variantes du Rubik's Cube, dont la complexité peut être évaluée via une exploration exhaustive de tous les mélanges possibles et de la manière de passer de l'un à l'autre. Un exemple parlant est celui du Rubik's Cube, pour lequel il est connu que le « Nombre de Dieu » est 20, ce qui signifie que tout mélange peut être résolu via une combinaison d'au plus 20 mouvements.
 
@@ -227,8 +227,8 @@ Nous pouvons donc simplifier le test t, en supprimant certaines parties par exem
   - \[Zel05\] Andreas Zeller. Why Programs Fail : A Guide to Systematic Debugging. Morgan Kauf- mann Publishers Inc., San Francisco, CA, USA, 2005.
 
 ### Diagnostic et théranostic par des méthodes de machine learning appliquées à des données métabolomiques ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Michel Barlaud](mailto:barlaud@i3s.unice.fr)
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Michel Barlaud](mailto:barlaud@i3s.unice.fr)
  - Prérequis : bonne maîtrise des techniques d'apprentissage supervisées (SVM, LASSO, etc) ; programmation Matlab ; des connaissances en optimisation convexe sont un plus.
  
 Avec sa plateforme de spectrométrie de masse et sa forte interface avec des cliniciens, le laboratoire TIRO étudie des méthodes innovantes de métabolomique notamment pour le dépistage, diagnostic et théragnostic dans le domaine de différents cancers (sein, rein, thyroïde et gliome). La métabolomique est une approche nouvelle et émergente qui consiste à analyser les petites molécules (métabolites) contenus dans un échantillon de tissu ou de fluide biologique.
@@ -237,8 +237,8 @@ Chaque analyse fournit de grosses quantités de données qu'il faut traiter pour
 Dans ce stage, nous proposons d'analyser les données de métabolomique issues de patients grâce à des techniques les plus récentes en Machine Learning (classification supervisée avec sélection de biomarqueurs avec des approches d'optimisation convexe), développées au laboratoire I3S et à Nice. Ils seront intégrés dans les méthodes de traitement de données de métabolomique mis en place par le laboratoire TIRO pour des finalités en médecine et toxicologie. Le stage se déroulera au laboratoire TIRO (Faculté de Médecine) en interface avec le laboratoire I3S.
 
 ### Couplage optimisé dans les modèles pour l'écologie ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Cinzia Di Giusto](mailto:cdigiusto@i3s.unice.fr).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Cinzia Di Giusto](mailto:cdigiusto@i3s.unice.fr).
  - Prérequis : bien programmer en java ; un intérêt en programmation par contraintes.
 
 Un écosystème est un système intégrant des agents biotiques et abiotiques qui interagissent entre eux.
@@ -254,8 +254,8 @@ Au cours du stage l'étudiant devra:
 
 
 ### Exploitation de la faille de débordement de buffer ou de pile ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Sid Touati](mailto:sid.touati@unice.fr).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Sid Touati](mailto:sid.touati@unice.fr).
  - Prérequis : programmation C, programmation assembleur x86, compilateur gcc. 
  - Référence : Aleph One, "Smashing The Stack For Fun And Profit". 
 
@@ -275,8 +275,8 @@ Ce TER est destiné à un étudiant intéressé par les aspects d'informatique b
 
 
 ### Adaptation d'un plugin audio instrument virtuel VSTi de C++ vers WebAudio ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Michel Buffa](mailto:micbuffa@gmail.com).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com).
 
 L'objectif de ce TER est d'adaptater un plugin audio instrument virtuel VSTi écrit en C++ vers le format WebAudioModule (WebAssembly) pour l'intégrer dans logiciels hôte/séquencer en ligne basés Web.
 Le standard [WebAudioModules](http://webaudiomodules.org/), propose de cross compiler les plugins "standards" du monde natif (VST, etc.)  de C++ vers du WebAssembly + création de GUI photo-réaliste à l'aide de WebComponents, par exemple, ceux de [WebAudio Controls](https://github.com/g200kg/webaudio-controls).
@@ -290,7 +290,7 @@ Le plugin sera intégré dans un logiciel "host" AmpedStudio.com et dans l'outil
 
 
 ### Web Sémantique et IHM : conception automatisée de jeux de plateau distribués sur Table interactive – smartphones et tablettes ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants : [Alain Giboin, Anne-Marie Pinna Dery, Philippe Renevier Gonin et Olivier Corby](mailto:Alain.GIBOIN@univ-cotedazur.fr,Anne-Marie.PINNA@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr,olivier.corby@inria.fr)
 
 Des étudiants du parcours IHM ont développé [plusieurs jeux de plateau multi-devices](http://atelierihm.unice.fr/vitrine/category/jeux/) permettant de jouer autour d’une table interactive, chaque joueur ayant une tablette ou un smartphone en sa possession pour réaliser certaines tâches (étapes du jeu). La conception de ces jeux fixe la répartition des tâches à réaliser dans le jeu entre la table et/ou les tablettes. Cette répartition se fait à travers un ensemble de règles.
@@ -301,7 +301,7 @@ Les étudiants utiliseront l’outil [Corese](http://corese.inria.fr). Le langag
 
 
 ### Développement de techniques d'interactions dans 7wonders et études expérimentales ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants : [Alain Giboin, Anne-Marie Pinna Dery et Philippe Renevier Gonin](mailto:Alain.GIBOIN@univ-cotedazur.fr,Anne-Marie.PINNA@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr)
 
 Le travail s'inscrit dans des travaux de recherche étudiant la conception et la réalisation de systèmes interactifs répartis sur plusieurs dispositifs. Ici ces systèmes sont des jeux de plateaux comme [7wonders](http://www.7wonders.net/) et les dispositifs sont une table (tactile et tangible) et des tablettes (une par joueur). La conception, s'intéressant plus particulièrement à la répartition des actions du jeu entre la table et/ou les tablettes ainsi que les transitions entre ces actions, se base sur la théorie de la territorialité pour les tables interactives \[Scott 2010\]. 
@@ -312,7 +312,7 @@ Le travail s'inscrit dans des travaux de recherche étudiant la conception et la
 
 
 ### Deep Learning for Solving Network Problems ###
- - Nombre d'étudiants souhaités : 1.
+ - Nombre d'étudiants souhaité : 1.
  - Encadrants :[Ramon Aparicio-Pardo et Lucile Sassatelli](mailto:raparicio@i3s.unice.fr,sassatelli@i3s.unice.fr)
 
 
@@ -352,7 +352,7 @@ Goal: The goal of the TER is to evaluate how much we can “improve”  the deep
 
 
 ### Comparaison expérimentale de plateformes de data stream ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants :[Fabrice Huet et Alessio Pagliari](mailto:fabrice.huet@univ-cotedazur.fr,alessio.pagliari@univ-cotedazur.fr).
  - Prérequis :  connaissances en Java et en shell Unix indispensables.
 
@@ -367,7 +367,7 @@ Technologies abordées : clusters, middleware de data stream (Storm, Heron, Spar
 
 
 ### Promotion de la santé dans les clubs sportifs ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
+ - Nombre d'étudiants souhaité : entre 2 et 4.
  - Encadrants :[Anne Vuillemin et Marco Winckler](mailto:anne.vuillemin@univ-cotedazur.fr,Marco.WINCKLER@univ-cotedazur.fr).
 
 La demande porte sur l’analyse et la mise à disposition de résultats issus de questionnaires remplis par des dirigeants, entraîneurs et pratiquants de clubs sportifs afin d’évaluer leur perception de la prise en compte de la santé dans les activités de leur club.
@@ -388,8 +388,8 @@ Les objectifs sont les suivants :
 
 
 ### Conception de Robot MicroMouse ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Enrico Formenti](mailto:enrico.formenti@unice.fr).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Enrico Formenti](mailto:enrico.formenti@unice.fr).
 
 
 Connue par le nom de MicroMouse est une compétition oú plusieurs participants mettent en défi des robots portant le nom de MicroMouse.
@@ -403,8 +403,8 @@ Le labyrinthe: Il s'agit tout simplement d'une version physique, exacte, d'un la
 Ce projet aura comme but d'introduire la conception de robots ainsi que d'approfondir mes connaissances sur les algorithmes de recherche, leur application.
 
 ### Application web pour le rétro gaming ### 
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Michel Buffa](mailto:micbuffa@gmail.com).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com).
  
 
 Un hobby à la mode est le "rétro gaming". Je me suis construit pendant les vacances de Noël une mini console de rétro gaming, à l'aide d'un raspberry Pi 3B+, d'un joli boitier type Super Nintendo Mini, de manettes USB et BlueTooth, et de RetroPie, une distribution Linux pour Pi spécialement faite pour le rétro gaming.
@@ -436,8 +436,8 @@ Démonstration de l'existant dans le bureau de Mr Buffa. Un Pi avec une image pr
 Vidéo de ce à quoi ressemble le front end existant pour le choix des jeux : [vidéo youtube](https://www.youtube.com/watch?v=qVHTu9Gu8iI&t=57s)
 
 ### Réalisation d’un environnement pour les TP de sécurité ###
- - Nombre d'étudiants souhaités : entre 2 et 4.
- - Encadrants : [Bruno Martin](mailto:bruno.martin@univ-cotedazur.fr).
+ - Nombre d'étudiants souhaité : entre 2 et 4.
+ - Encadrant : [Bruno Martin](mailto:bruno.martin@univ-cotedazur.fr).
 
 Installer une machine sous linux avec un gestionnaire de machines virtuelles (VMware ou VirtualBox).
 Ce gestionnaire de machines virtuelles hébergera un hyperviseur (de type XenServer).
@@ -456,7 +456,7 @@ Ce que vous apprendrez: gérer un hyperviseur ; mettre en place un serveur dns, 
 Il s’agit de moderniser une installation existante.
 
 ### Simulateur d'automates cellulaires non-uniformes ###
- - Nombre d'étudiants souhaités : 1.
+ - Nombre d'étudiants souhaité : 1.
  - Encadrants : [Julien Provillard et Enrico Formenti](mailto:julien.provillard@unice.fr,enrico.formenti@unice.fr).
  - Prérequis : une connaissance de base en théorie des langages est souhaitable.
  
@@ -465,8 +465,8 @@ Les automates cellulaires sont des systèmes dynamiques discrets composés d'un 
   - Implémenter un certain nombre d'algorithmes de décision en lien avec eux.
 
 ### Découpage de graphe pour accélérer la recherche de chemins ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Jean-Charles Régin](mailto:jcregin@gmail.com).
  - Prérequis : il est indispensable de savoir bien programmer en Java.
  
 Ce projet a pour objectif la mise en œuvre de techniques de découpage de graphes pour accélérer la recherche de plus courts chemins.
@@ -474,8 +474,8 @@ Les algorithme de Dijkstra, de Bellman-Ford, A* et connectionScan seront étudi�
 
 
 ###  Signatures d'image sur GPU ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Fabrice Huet](mailto:fabrice.huet@univ-cotedazur.fr).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Fabrice Huet](mailto:fabrice.huet@univ-cotedazur.fr).
 
 le point de depart du sujet de TER, c’est les deux algos présentés [ici](http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html) qui permettent d’extraire des signatures.
 
@@ -486,8 +486,8 @@ Enfin, si on a le temps, on passera à la dernière phase, la recherche de d’i
 
 
 ### Development of a management tool for computer games ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Jean-Charles Régin](mailto:jcregin@gmail.com).
  - Prérequis : il est indispensable de savoir programmer en Java. 
 
 The purpose of this project is to develop a tool that allows two game programs to automatically compete against each other. Each player's program will be provided as an.jar file.
@@ -497,8 +497,8 @@ The possibility of communicating between the machines, without going through a c
 
 
 ### Prédiction du nombre d'appels du call center IZICAP ###
- - Nombre d'étudiants souhaités : 1.
- - Encadrants : [Gabriel Mopolo-Moke](mailto:gabriel.mopolo@gmail.com).
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrant : [Gabriel Mopolo-Moke](mailto:gabriel.mopolo@gmail.com).
 
 Izicap, créée en 2013, est une startup innovante basée à l'Arénas dont l'objectif est de créer un outil pour conseiller les commerçants de TPE ou PME dans leur stratégie marketing en dématérialisant les cartes de fidélité.
 Pour mieux aider leurs clients IZICAP a installé un Call Center. Le nombre d'appels dans ce call center varie en fonction du jour et des tranches horaires. 
