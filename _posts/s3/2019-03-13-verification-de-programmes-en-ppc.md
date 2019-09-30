@@ -34,3 +34,7 @@ Dans ce cours nous verrons une introduction à l'interprétation abstraite ainsi
 ### Calendrier ###
 
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=cXI0YmQzMzU1bzNvMGI3YTRnZHJjNGdpMThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688&amp;mode=AGENDA" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
+### Supports de cours ###
+
+[PPC Continu]({% include link-asset asset="Continu.pdf" %})
