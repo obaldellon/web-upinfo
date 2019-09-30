@@ -47,6 +47,63 @@ The ambitious objectives of the TER may be some of the following:
 [Version longue]({% include link-asset asset="TER_decomp19.pdf" %})
 
 
+### FPT algorithm for the interaction graph consistency problem ### 
+ - Nombre d'étudiants souhaité : 2
+ - Encadrant : [Adrien Richard](mailto:richard@i3s.unice.fr).
+
+A Boolean network with `n` components is a discrete dynamical systems described by the successive iterations of a function `f` from the set of binary vector of size `n` to itself. The signed interaction graph of such a function `f` gives the positive and negative influences between the n components. Is a very important parameter.
+
+Indeed, Boolean networks are are classical model for gene networks and, in these context, the signed interaction graph `G` is known. Beside, observations on the dynamics can be represented under a partial Boolean network `h`. A natural decision problem is then: does there exists a (global) Boolean network `f`, which extends the partial Boolean network `h`, and whose signed interaction graph is `G`.
+
+We recently proved that there is a FPT-algorithm for this decision problem. The aim of the TER is to implement this algorithm and to test it on real data.
+
+[Version longue]({% include link-asset asset="TER_M2_2019_2020.pdf" %})
+
+
+### Optimal planning of LoRa networks ### 
+ - Nombre d'étudiants souhaité : 1
+ - Encadrant : [Christelle Caillouet](mailto:christelle.caillouet@unice.fr).
+ - Prérequis : Linear programming, Algorithmic, Wireless Networks
+
+LoRa networks enable long range communications at low power and low cost for Internet of Things (IoT) applications.
+The performances of such networks depends on various parameters such as the location of the gateways, energy consumption of end devices and radio configuration of the communications. The goal is to deploy the network gateways in order to ensure the coverage of end devices, limiting congestion and interferences. Additionnaly the network capacity can be improved by properly allocating radio ressources like channel bandwidth, spreading factor, coding rate, and transmission power.
+
+In order to maximize the LoRa network capacity, cross-layer optimization approaches have to be investigated. The goal of this project is to review recent work about planning LoRa networks, and analyze the various parameters to consider for an accurate cross-layer model to garanty good network performances with a large number of gateways and end devices.
+
+The guideline of the proposed project is the following :
+ * Bibliographic analysis and understanding of papers \[1\] and \[2\]
+ * Reflexion about parameters to consider to optimize LoRa network capacity
+ * Development of a linear model or algorithm 
+ * Implementation and analysis of obtained solutions
+
+Useful Information: 
+ * \[1\] M. Cesana, A. Redondi, J. Ortin, "A Framework for Planning LoRaWAN Networks", IEEE PIMRC, Sep. 2018.
+ * \[2\] D. Zorbas, G. Papadopoulos, P. Maille, N. Montavont, C. Douligeris, "Improving LoRa Network Capacity Using Multiple Spreading Factor Configurations", ICT 2018.
+
+This project can be followed by an internship.
+
+
+### Optimization of drones trajectory for optimal sensor coverage and data collection ### 
+ - Nombre d'étudiants souhaité : 1
+ - Encadrant : [Christelle Caillouet](mailto:christelle.caillouet@unice.fr).
+ - Prérequis : Linear programming, Algorithmic, Wireless Networks
+
+Recent advances of technology have led to the development of flying drones that act as wireless base stations to track objects lying on the ground. This kind of robots (also called Unmanned Aerial Vehicles or UAVs) can be used in a variety of applications such as vehicle tracking, traffic management and fire detection.
+Deploying these Unmanned Aerial Vehicles to cover targets is a complex problem since each target should be covered, UAVs should form a connected backbone with a base station in order to collect and send information to the targets, while minimizing several parameters such that deployment cost, UAV's altitudes to ensure good communication quality, energy consumed, UAV's move, ... 
+
+The project direction is to provide an efficient and reliable drone placement and scheduling by adjusting their position ensuring the surveillance of all the targets among time.
+Theoreticaly, this problem is related to the set covering problem (and its dynamic version), and the 3D packing problem.
+
+The guideline of the proposed project is the following :
+ * Bibliographic analysis and understanding of papers \[1\] and \[2\]
+ * Development of a linear model extending \[1\] with trajectory modelling and scheduling constraints
+ * Implementation and analysis of obtained solutions
+ 
+Useful Information: 
+ * \[1\] C. Caillouet, F. Giroire, T. Razafindralambo, "Optimization of mobile sensor coverage with UAVs", in WiSARN@INFOCOM, Apr. 2018.
+ * \[2\] L. Di Puglia Pugliese, F. Guerriero, D. Zorbas, T. Razafindralambo, "Modelling the mobile target covering problem using flying drones", Optimization Letters, Springer Verlag, volume 10(5), pages 1021--1052, June 2016.
+
+This project can be followed by an internship.
 
 <!--
 ### Nom du projet ### 
