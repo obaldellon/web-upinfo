@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "arnaud.malapert@unice.fr"
+email: "arnaud.malapert@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -39,6 +39,8 @@ Les diapositives du cours de théorie des graphes sont disponibles :
 [1 diapositive par page]({% include link-asset asset="graphes.pdf" %}) ;
 [4 diapositives par page]({% include link-asset asset="graphes-4up.pdf" %}) ;
 [8 diapositives par page]({% include link-asset asset="graphes.pdf" %}).
+
+Les diapositives du cours de programmation dynamique  sont disponibles : [suite de Fibonacci](http://www.i3s.unice.fr/~malapert/R/pdf/14-fibonacci.pdf) ; [problème du sac-à-dos]({% include link-asset asset="progdyn.pdf" %}).
 
 Le plan des cours est le suivant :
 - Généralités et définitions sur les graphes.

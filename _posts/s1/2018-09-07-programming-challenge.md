@@ -53,9 +53,9 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 The source code of the lectures is available in this [repository](https://github.com/arnaud-m/Programming-Challenges).
 ### Grading ###
 
-  - **Concours UCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. 
-  - **Homework with moodle** (20%): there will be problem sets over the course of the semester. Please log in to the [UCAnCODE course](https://lms.unice.fr/course/view.php?id=8151).
-  - **Final Exam** (40%): there will be one final exam (2 hours) where you will be asked to solve one of two problems.
+ <!--- - **Concours UCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. -->
+  - **Homework with Sphere Engine** (40%): there will be two problems sets over the course of the semester. 
+  - **Final Exam** (60%): there will be one final exam (3 hours), likely on a computer, where you will be asked to solve two problems. 
     <!-- - You will be asked to solve in writing one of two problems :  The first one is graded out of 15 and the second one out of 20. -->
 
 First, you must masterize the [tutorial]({{ site.baseurl }}{% post_url ucancode/2019-07-22-tutoriel %}).

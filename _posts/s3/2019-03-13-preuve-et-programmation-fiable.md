@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Preuve et programmation fiable"
-subheadline: "Y. Bertot, Directeur de recherches INRIA"
+subheadline: "Y. Bertot, DR INRIA"
 logo: "logo_blanc.png"
 teaser: "L'objectif de ce cours est de décrire comment produire des programmes entièrement corrects vis-à-vis de spécifications logiques en utilisant le système de preuve Coq. "
 categories:
