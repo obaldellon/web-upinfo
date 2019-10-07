@@ -105,6 +105,39 @@ Useful Information:
 
 This project can be followed by an internship.
 
+### ML implementation of the concepts studied in the Types cours ###
+- Nombre d’étudiants souhaités : 2
+- Encadrant : [Cinzia Di Giusto](mailto:cinzia.di-giusto@unice.fr)
+- Prérequis : Following the Type Systems course
+
+During the course of Type Systems we will encounter a series of concepts and algorithms.
+
+We will introduce basic concepts such as expressions and the untyped lambda-calculus. We then proceed with covering the simply typed lambda-calculus and a variety of features such as products, sums, records, variants, references, and exceptions. Then we will talk about more advance concepts such as type safety,  the fundamental mechanism of subtyping. Finally we tackle recursive and polymorphic types.
+
+The project consists in providing a concrete realization of these concepts and  algorithms as an [OCaml](https://ocaml.org) program as suggested and guided in \[1\]. 
+
+- Références :
+  - \[1\] Benjamin C. Pierce: Types and programming languages. MIT Press 2002, ISBN 978-0-262-16209-8, pp. I-XXI, 1-623
+
+### OCaml tool development for the automatic verification of communicating systems ###
+- Nombre d’étudiants souhaités : 1 ou 2
+- Encadrant : [Cinzia Di Giusto & Etienne Lozes](mailto:cinzia.di-giusto@unice.fr,etienne.lozes@unice.fr)
+- Prérequis : Notions of finite automata and functional programming are welcome
+
+Communicating systems are a simple yet powerful model of message-passing programs. Although such systems only allow two basic operations, namely  message sending and message reception, the communication errors of such systems, like message loss or unspecified receptions, are difficult to detect fully automatically due to the asynchrony of communications. Actually, this problem has even been proved undecidable by Brand and Zafiropoulo in the last century \[1\].
+
+Nevertheless, several tools, like [SPIN](http://spinroot.com) or [CADP](https://cadp.inria.fr) were designed for the analysis of communicating systems and are commonly used to detect bugs in industrial software. The major limitation of these tools, however, is that they require communication buffers to be bounded a priori. In particular, these tools miss the bugs that happen for larger buffers than the ones they assumed during the analysis. To overcome this limitation, several theoretical foundations were proposed in the recent years.
+
+The goal of this PFE is to join and actively contribute to the development of an analyzer of communicating systems based on one of these theoretical foundations \[2\]. 
+
+The analyzer will be developed reusing bricks of OCaml code written for two other well-documented analyzers, namely Scm and [McScm](https://svn.labri.fr/repos/acs/www/redmine/projects/mcscm/wiki.html).
+The exact task of the PFE student in this project will be determined depending on the experience with [OCaml](https://ocaml.org) programming.
+
+- Références :
+  - \[1\] Daniel Brand, Pitro Zafiropulo: On Communicating Finite-State Machines. J. ACM 30(2): 323-342 (1983)
+  - \[2\] Ahmed Bouajjani, Constantin Enea, Kailiang Ji, Shaz Qadeer: On the Completeness of Verifying Message Passing Programs Under Bounded Asynchrony. CAV (2) 2018: 372-391
+
+
 <!--
 ### Nom du projet ### 
  - Nombre d'étudiants souhaité : 

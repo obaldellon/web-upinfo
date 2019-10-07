@@ -37,6 +37,11 @@ Il n'y a ni prérequis, ni cours magistraux.
 ### Sujet ###
 Lors de ce TER, le but est de réaliser une bande Led similaire à [celle-ci](https://www.youtube.com/watch?v=oN4Q87aC5l4).
 
+### Autres sujets ###
+
+La liste d'autres sujets est disponible [ici]({{ site.baseurl }}{% post_url /ter/2019-09-30-TER-S3-liste-des-sujets %}).  
+Elle sera mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
+
 ### Modalités de contrôle des connaissances ###
 - Rapport (30%)
 - Soutenance orale (70%)
