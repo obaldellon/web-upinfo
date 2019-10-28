@@ -7,7 +7,8 @@ title: "Model Checking"
 subheadline: "B. Martin, PR"
 #"E. De Maria, MCF"
 logo: "logo_blanc.png"
-teaser: ""
+teaser: "Ce cours propose tout d'abord une initiation à la cyber-sécurité pour en
+comprendre les enjeux, la réglementation et les acteurs. Il remplace le cours de model checking cette année."
 categories:
   - S3
 tags:
