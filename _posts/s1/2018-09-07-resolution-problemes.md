@@ -50,6 +50,8 @@ Ce cours est divisé en 4 grandes parties :
   4. Programmation par contraintes
    <!-- Contraintes globales -->
 
+[HASHCODE](https://51364960.widgets.sphere-engine.com/lp?hash=IgMwEEQvxB)
+
 ### Modalités de contrôle des connaissances ###
 
   - Contrôles : 1 Contrôle continu minimum.
