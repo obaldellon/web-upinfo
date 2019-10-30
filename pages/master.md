@@ -12,7 +12,7 @@ permalink: "/programme/master/"
 Le Master Informatique forme à la conception et au développement des systèmes informatiques des cadres de l’industrie et de la recherche. En suivant le Master, les étudiants deviennent capables de s’adapter et d’anticiper les continuelles évolutions technologiques grâce à une maîtrise des fondements théoriques de l’informatique et des différents concepts et outils mis en œuvre dans les systèmes informatiques d’aujourd’hui.
 
 Le Master Informatique peut être suivi en formation initiale, contrat d'apprentissage, formation continue, formation permanente, ou contrat de professionnalisation.
-Consulter le site de [suivi de l'apprentissage](http://www.i3s.unice.fr/Philippe_Collet/node/6) pour plus d'informations.
+Consulter la page [consacrée à l'alternace](../alternance/) pour plus d'informations.
 
 ### Objectifs ###
 

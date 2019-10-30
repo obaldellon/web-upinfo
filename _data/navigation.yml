@@ -11,6 +11,8 @@
   dropdown:
   - title: "Programme"
     url: "/programme/master/"
+  - title: "Alternance"
+    url: "/programme/alternance/"
   - title: "Semestre 1"
     url: "/programme/semestre1/"
   - title: "Semestre 2"
