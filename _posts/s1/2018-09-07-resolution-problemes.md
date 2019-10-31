@@ -40,11 +40,16 @@ Ce cours présente différents types de méthodes afin de formaliser et résoudr
 ### Contenu ###
 
 Les diapositives du cours seront disponibles au fur et à mesure des cours.
+ - [Introduction]({% include link-asset asset="0-Intro_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Intro_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Intro_x2+notes.pdf" %})
+ - [Modélisation]({% include link-asset asset="0-Modelisation_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Modelisation_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Modelisation_x2+notes.pdf" %})
+ - [Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_x2+notes.pdf" %})
+ - [HashCode 2017 - Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode_x2+notes.pdf" %})
+
 <!--  : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}).
 Ainsi qu'une [correction du contrôle]({% include link-asset asset="correction.pdf" %}). -->
 
 Ce cours est divisé en 4 grandes parties :
-  1. Modélisation
+  1. Modélisation 
   2. Algorithmes gloutons <!-- Variables, domaines, contraintes arithmétiques -->
   3. Recherche locale <!-- Propagation -->
   4. Programmation par contraintes
