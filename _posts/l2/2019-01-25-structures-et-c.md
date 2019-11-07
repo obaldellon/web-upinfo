@@ -67,6 +67,14 @@ Ce cours est divisé en 5 grandes parties :
 4. Tableaux dynamiques et structures chaînées
 5. Nombre variable de paramètres, et fichiers
 
+###### Supports de cours
+  - Le [Cours]({% include link-asset asset="LangageC.pdf" %}). Il ne faut pas hésiter à venir le consulter régulièrement car il change souvent.
+  - [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})
+  - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
+  - Le [QCM de 2010]({% include link-asset asset="interrogation1.pdf" %}) (contrôle continu) et avec [les solutions]({% include link-asset asset="interrogation1sol.pdf" %})
+  - Le [deuxième contrôle de 2011]({% include link-asset asset="interro.pdf" %}), ce document contient les réponses aux questions
+  - [L'énoncé du Projet de 2011]({% include link-asset asset="Projet.pdf" %})
+
 ###  Calendrier ###
 - Les 6 premières séances sont dédiées aux Structures de données.
   - 6 CMs (2h) 
