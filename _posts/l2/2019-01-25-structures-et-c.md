@@ -53,7 +53,9 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 - [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})
 - [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})
 - [CM 4]({% include link-asset asset="4-Listes_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Listes_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Listes_x2+notes.pdf" %})
+- [CM 5]({% include link-asset asset="5-Listes.pdf" %})
 - [TD1]({% include link-asset asset="TD1.pdf" %}), [TD2]({% include link-asset asset="TD2.pdf" %}), [TD3]({% include link-asset asset="TD3.pdf" %}), [TD4]({% include link-asset asset="TD4.pdf" %}), [TD5]({% include link-asset asset="TD5.pdf" %}), [TD6]({% include link-asset asset="TD6.pdf" %})
+- [Contrôle continu]({% include link-asset asset="interro2019.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="Correction-CC.pdf" %})
 
 ####  Programmation C ####
 
