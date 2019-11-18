@@ -1,0 +1,107 @@
+graph G {
+
+
+{
+        node[shape=house, style=filled, fillcolor=coral1]
+        m1a [label="1 unité"]
+        m1b [label="1 unité", shape=invhouse]
+        m2 [label="2 unités"]
+        m3 [label="3 unités"]
+        m4 [label="4 unités"]
+
+}
+
+{
+
+        node[label="1 colon", shape=box, style=filled, fillcolor=beige]
+        c1ap;
+        c1ab;
+        c1bp;
+        c1bb;
+        c2p;
+        c2b;
+        c3p;
+        c3b;
+        c4p;
+        c4b;
+
+        cc0b;
+        cc0p;
+}
+
+{
+        node[label="1 plantation", shape=parallelogram, style=filled, fillcolor=yellowgreen]
+        p1a;
+        p1b;
+        p2;
+        p3;
+        p4;
+
+        pc0;
+}
+
+{
+        node[shape=trapezium, style=filled, fillcolor=grey80]
+        b1a [label="petit bâtiment"]
+        b1b[label="grand bâtiment"]
+        b4 [label="petit bâtiment"]
+        bc0 [label="bâtiment"]
+
+}
+
+{
+        node[shape=box, style=filled, fillcolor=gold]
+        d1a [label="X doublons"]
+        d1b [label="Y doublons"]
+        d4 [label="X doublons"]
+
+        dc0 [label="X-N doublons"]
+
+                
+}
+
+
+m1a -- b1a -- c1ab;
+b1a -- d1a;
+m1a -- p1a -- c1ap;
+
+
+m4 -- m3 -- m2 -- m1b
+
+
+m1b -- b1b -- c1bb;
+b1b -- d1b;
+m1b -- p1b -- c1bp;
+
+
+
+
+m2 -- p2 -- c2p;
+m2 -- c2b;
+
+m3 -- p3 -- c3p;
+m3 -- c3b;
+
+m4 -- b4 -- c4b;
+b4 -- d4;
+
+m4 -- p4 -- c4p;
+
+
+
+// Modifiers
+
+
+subgraph cluster0 {
+        label = "Modificateurs"
+        bc0 -- dc0 [label="N Carr."];
+        bc0 -- cc0b [label="Univ.", style = dashed];        
+
+        //cc0b -- pc0 [style = invisible];        
+        pc0  -- cc0p [label="Hosp.", style = dashed];        
+}
+
+
+
+
+}

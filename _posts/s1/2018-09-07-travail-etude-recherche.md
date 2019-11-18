@@ -49,12 +49,12 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
  - Pas de 2nde session.
 
 **Le rapport et la soutenance sont en anglais.**
-- Le rapport doit être déposé la veille à midi sur github (12/12).
-- La soutenance doit être déposé la veille avant le début des soutenances (13/12).
+- Le rapport doit être déposé la veille de la soutenance avant midi sur github.
+- La soutenance doit être déposée avant le début des soutenances (13/12).
 
 #### Soutenance ####
 
-- Les soutenances auront lieu le jeudi 13/12 au matin.
+- Les soutenances auront lieu en janvier.
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéoprojecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
@@ -62,24 +62,6 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 **Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
-
-Le planning détaillé des soutenances est le suivant.
-
-- 08h00 : [ChloeMaccarinelli/TakenokoRepository](https://github.com/ChloeMaccarinelli/TakenokoRepository)
-- 08h30 : [JohannCOSTE/Takenoko-CLMS](https://github.com/JohannCOSTE/Takenoko-CLMS)
-- 09h00 : [lgermerie/takenoko](https://github.com/lgermerie/takenoko)
-- 09h30 : [JiaFu2018/M1-Projet-PowerRangers](https://github.com/JiaFu2018/M1-Projet-PowerRangers)
-- 10h15 : [Mahe-Thomas/takenoko](https://github.com/Mahe-Thomas/takenoko)
-
-**_Planning Modifié_**
-
-- 13h00 : [faycalbounab/Takenoko-MFAS](https://github.com/faycalbounab/Takenoko-MFAS)
-- 13h30 : [AymericValdenaire/ProjetM1](https://github.com/AymericValdenaire/ProjetM1)
-- 14h00 : [Lucasg6/Takenoko](https://github.com/Lucasg6/Takenoko)
-- 14h30 : [FilipeCosta06/ProjetTakenoko](https://github.com/FilipeCosta06/ProjetTakenoko)
-- 15h00 : [chihabeddine-aourinmouche/AnomicXenon](https://github.com/chihabeddine-aourinmouche/AnomicXenon)
-
-
 
 
 #### Rapport ####
@@ -94,6 +76,22 @@ Le rapport doit expliquer :
 - Tirer un bilan sur vos approches et vos développements d'IA : les résultats sont-ils conformes à ce que vous attendiez ? À ce qui existe par ailleurs ?
 
 
+### Quelques réflexions sur le jeu Puerto Rico ###
+
+Vous trouverez ci-dessous un diagramme de dépendances sous la forme d'un arbre pour produire des marchandises.
+Remarquez que nous avons traiter séparemment le cas où l'objectif final est de produire une unique marchandise
+On peut aussi prendre en considération les avantages octroyés par certains bâtiments/plantations en modifiant dynamiquement le diagramme comme indiqué sur la droite du diagramme.
+
+![Diagramme de production de marchandises avec Puerto Rico]({% include link-asset asset="puerto-rico-marchandises.png" %}){:class="img-responsive" style="width: 100%;"}
+
+Il est judicieux de considérer que chaque sommet a un état : 
+- **Atteint** : le prérequis est rempli, par exemple un bâtiment est construit.
+- **Possible** : le prérequis n'est pas rempli, mais peut être atteint, par exemple un bâtiment n'est pas construit, mais est disponible.
+- **Inatteignable** : le prérequis ne peut plus être rempli, par exemple un bâtiment n'est pas construit et n'est plus disponible.
 
 
 
+Ce diagramme permet de répondre à différentes questions : 
+ - Est-il encore possible de produire X unités de marchandise ?
+ - Qu'est-ce qui manque pour produire X unités de marchandise ? Quel est le coût en doublons et côlons ?
+ - Combien d'étapes sont nécessaires pour produire X unités de marchandise ?
