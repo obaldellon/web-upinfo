@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "https://github.com/arnaud-m/Programming-Challenges"
-email: "arnaud.malapert@unice.fr"
+email: "arnaud.malapert@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -54,12 +54,20 @@ The source code of the lectures is available in this [repository](https://github
 ### Grading ###
 
  <!--- - **Concours UCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. -->
-  - **Homework with Sphere Engine** (40%): there will be two problems sets over the course of the semester. 
-  - **Final Exam** (60%): there will be one final exam (3 hours), likely on a computer, where you will be asked to solve two problems. 
+- **Homework with Sphere Engine** (40%): there will be two problems sets over the course of the semester. Pair work is allowed.
+  - [STAR](https://51364960.widgets.sphere-engine.com/lp?hash=d82S0aO7SN)
+- **Final Exam** (60%): there will be one final exam (3 hours), likely on a computer, where you will be asked to solve two problems. 
     <!-- - You will be asked to solve in writing one of two problems :  The first one is graded out of 15 and the second one out of 20. -->
 
 First, you must masterize the [tutorial]({{ site.baseurl }}{% post_url ucancode/2019-07-22-tutoriel %}).
-  
+
+##### Instructions for submitting your homework
+- Fill the problem form with your student email adresse.
+- For pair work, give your two email adresses as a comment in the file header.
+
+Beware that penalties will be given if you do not follow the above instructions.
+    
+    
 ##### Cannot Log in to moodle ?
 
 You can still practice on the platforms Sphere Engine and spoj below.  
