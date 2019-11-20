@@ -75,7 +75,6 @@ Pour le semestre 2, les documents suivants contiennent les indications pour le r
 
 - [Consignes pour le rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EW3aeGRiB0RFmqvtFXRdfQcBAEIpm56OPzm7HXgHl1wy7A?e=XiRdrk)
 - [Consignes pour la soutenance de fin d'année](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQFdRwZ4OEBDlYMQr2Dsg7sB8_9weCv6G3C1FQJLCUtb_A?e=iYJJP4)
-- [Page de garde du rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ea17s5mJDT9Hohp2OWsJFDIBH4ikPrltk0WwgIcRGFlrlg?e=8Ano4o)
 
 
 ### Semestre 3 Informatique et Interactions : fiche d'évaluation, rapport et soutenance ###
@@ -86,7 +85,6 @@ Pour le semestre 3, les documents suivants contiennent les indications pour le r
 
 - [Consignes pour le rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EW3aeGRiB0RFmqvtFXRdfQcBAEIpm56OPzm7HXgHl1wy7A?e=XiRdrk)
 - [Consignes pour la soutenance intermédiaire](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ec3dGZNgy9pMtje0263ZB3wBKbyTW0dmP0dK4xj7AKW1WQ?e=abWbfe)
-- [Page de garde du rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ea17s5mJDT9Hohp2OWsJFDIBH4ikPrltk0WwgIcRGFlrlg?e=8Ano4o)
 
 
 ### Semestre 4 Informatique et Interactions : fiche d'évaluation, rapport et soutenance ###
@@ -95,6 +93,5 @@ L'étudiant doit s'assurer que son maître d'alternance remplisse et transmette 
 
 Pour le semestre 4, les documents suivants contiennent les indications pour le rapport et la soutenance : 
 
-- [Consignes pour le rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EW3aeGRiB0RFmqvtFXRdfQcBAEIpm56OPzm7HXgHl1wy7A?e=XiRdrk)
-- [Consignes pour la soutenance de fin d'année](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQFdRwZ4OEBDlYMQr2Dsg7sB8_9weCv6G3C1FQJLCUtb_A?e=iYJJP4)
-- [Page de garde du rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ea17s5mJDT9Hohp2OWsJFDIBH4ikPrltk0WwgIcRGFlrlg?e=8Ano4o)
+- Consignes pour le rapport : se reporter aux consignes de rédaction du Master Thesis auprès du responsable d'année. 
+- Consignes pour la soutenance de fin d'année : se reporter aux consignes de soutenance auprès du responsable d'année.
