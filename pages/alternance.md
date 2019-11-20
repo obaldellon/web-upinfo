@@ -93,5 +93,5 @@ L'étudiant doit s'assurer que son maître d'alternance remplisse et transmette 
 
 Pour le semestre 4, les documents suivants contiennent les indications pour le rapport et la soutenance : 
 
-- Consignes pour le rapport : se reporter aux consignes de rédaction du Master Thesis auprès du responsable d'année. 
-- Consignes pour la soutenance de fin d'année : se reporter aux consignes de soutenance auprès du responsable d'année.
+- Consignes pour le rapport : se reporter aux consignes de rédaction du Master Thesis communes avec les étudiant.e.s en formation initiale. 
+- Consignes pour la soutenance de fin d'année : se reporter aux consignes de soutenance communes avec les étudiant.e.s en formation initiale.
