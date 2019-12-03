@@ -46,6 +46,7 @@ Les diapositives du cours seront disponibles au fur et à mesure des cours.
  - [HashCode 2017 - Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode_x2+notes.pdf" %})
  - [Recherche Locale]({% include link-asset asset="2-Recherche-Locale_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale_x2+notes.pdf" %})
  - [Recherche Locale - Suite]({% include link-asset asset="2-Recherche-Locale-suite_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale-suite_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale-suite_x2+notes.pdf" %})
+ - [Programmation par Contraintes]({% include link-asset asset="3-Programmation-Par-Contraintes.pdf" %})
  - [Contrôle de 2018]({% include link-asset asset="interro2018.pdf" %})
  - [Contrôle de 2019]({% include link-asset asset="interro2019.pdf" %})
  
