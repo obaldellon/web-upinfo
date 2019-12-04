@@ -10,6 +10,10 @@ header:
 permalink: "/programme/alternance/"
 ---
 
+### Informations Spécifiques par année universitaire ###
+
+Les informations concernant l'année 2019-2020 sont sur la page [alternance/2019-2020](./2019-2020)
+
 ### Présentation Générale ###
 
 L'alternance, soit sous forme d'apprentissage soit sous forme de contrat de professionnalisation, permet dans le cadre du Master Informatique d'associer la formation universitaire et une expérience professionnelle. 
