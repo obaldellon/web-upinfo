@@ -58,11 +58,11 @@ Le planning général des semestres 1, 2 et 3 est le suivant : 3 semaines en tem
 
 Il y a également des échanges par courriel ou téléphone, ou lors de réunion d'information, notamment pour la prise de contact et le suivi tout au long du semestre. 
 
-Un livret d'alternance numérique va être mis en place.
+Un livret d'alternance numérique est mis en place : [site du livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
 
 ### Semestre 1 : fiche d'évaluation, rapport et soutenance ###
 
-L'étudiant doit s'assurer que son maître d'alternance remplisse et transmette la fiche suivante avant la soutenance intermédiaire : [fiche d'évaluation par l'entreprise semestre 1 ou 3](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQJS7avOUbBOth7GfovO3lABR_NGoK6qMxvG0VMI35EvdQ?e=aLi76T)
+L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
 
 Pour le semestre 1, les documents ci-dessous contiennent les indications pour le rapport et la soutenance, tous les deux en anglais : 
 
@@ -73,7 +73,7 @@ Pour le semestre 1, les documents ci-dessous contiennent les indications pour le
 
 ### Semestre 2 : fiche d'évaluation, rapport et soutenance ###
 
-L'étudiant doit s'assurer que son maître d'alternance remplisse et transmette la fiche suivante avant la soutenance de fin d'année : [fiche d'évaluation par l'entreprise semestre 2 ou 4](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EZeb_Jr3Xd9LlyYZVjwodmAB5i2x_N9vR8KkRrD4LDWYVw?e=pJEmPe)
+L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
 
 Pour le semestre 2, les documents suivants contiennent les indications pour le rapport et la soutenance : 
 
@@ -83,7 +83,7 @@ Pour le semestre 2, les documents suivants contiennent les indications pour le r
 
 ### Semestre 3 Informatique et Interactions : fiche d'évaluation, rapport et soutenance ###
 
-L'étudiant doit s'assurer que son maître d'alternance remplisse et transmette la fiche suivante avant la soutenance intermédiaire : [fiche d'évaluation par l'entreprise semestre 1 ou 3](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQJS7avOUbBOth7GfovO3lABR_NGoK6qMxvG0VMI35EvdQ?e=aLi76T)
+L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
 
 Pour le semestre 3, les documents suivants contiennent les indications pour le rapport et la soutenance : 
 
@@ -93,9 +93,15 @@ Pour le semestre 3, les documents suivants contiennent les indications pour le r
 
 ### Semestre 4 Informatique et Interactions : fiche d'évaluation, rapport et soutenance ###
 
-L'étudiant doit s'assurer que son maître d'alternance remplisse et transmette la fiche suivante avant la soutenance finale : [fiche d'évaluation par l'entreprise semestre 2 ou 4](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EZeb_Jr3Xd9LlyYZVjwodmAB5i2x_N9vR8KkRrD4LDWYVw?e=pJEmPe)
+L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
 
 Pour le semestre 4, les documents suivants contiennent les indications pour le rapport et la soutenance : 
 
 - Consignes pour le rapport : se reporter aux consignes de rédaction du Master Thesis communes avec les étudiant.e.s en formation initiale. 
 - Consignes pour la soutenance de fin d'année : se reporter aux consignes de soutenance communes avec les étudiant.e.s en formation initiale.
+
+### Pour archive, en cas de panne du livret d'alternance en ligne ###
+
+Le questionnaire du livret reprend la fiche suivante, <strong>à n'utiliser qu'en cas de problème avec le livret en ligne</strong> : 
+  * [fiche d'évaluation par l'entreprise semestre 1 ou 3](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQJS7avOUbBOth7GfovO3lABR_NGoK6qMxvG0VMI35EvdQ?e=aLi76T)
+  * [fiche d'évaluation par l'entreprise semestre 2 ou 4](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EZeb_Jr3Xd9LlyYZVjwodmAB5i2x_N9vR8KkRrD4LDWYVw?e=pJEmPe)

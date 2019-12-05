@@ -12,7 +12,7 @@ permalink: "/programme/alternance/2019-2020"
 
 ### Réunion d'information et Livret d'alternance ###
 
-Le mercredi 6 novembre 2019 à 18h s'est tenu une réunion d'information sur l'alternance et le déroulement de l'année. Étaient convié.e.s les étudiant.e.s alternant.e.s, les tuteurs académiques et les maitres d'alternance. Les transparents sont en ligne dans le livret d'alternance. 
+Le mercredi 6 novembre 2019 à 18h s'est tenu une réunion d'information sur l'alternance et le déroulement de l'année. Étaient convié.e.s les étudiant.e.s alternant.e.s, les tuteurs académiques et les maitres d'alternance. Les transparents sont en ligne dans le livret d'alternance / documents de liaison. 
 
 Le livret d'alternance, permettant le suivi de la formation, est mis en place. Il est en ligne à l'adresse [http://www.livret-electronique.cfa-epure.com/](http://www.livret-electronique.cfa-epure.com/). 
 
