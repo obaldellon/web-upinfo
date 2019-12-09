@@ -38,7 +38,7 @@ Les soutenances sont le mercredi 15 janvier 2020 dans la salle du conseil sur le
   * 17h00 : Maël Vaillant-Beuchot
   
 La soutenance et les questions sont en anglais pour les alternant.e.s de 1<sup>re</sup> année.
-Le timing d'une soutenance est le suivant : 
+Le timing d'une soutenance au semestre 1 ou 3 est le suivant : 
   * 10 à 12 minutes de présentation par l’étudiant.e (en anglais pour le semestre 1)
   * 5 à 10 min de questions du jury (en anglais pour le semestre 1)
   * 5 min d’échange avec le maître d’apprentissage.

@@ -12,7 +12,7 @@ permalink: "/programme/alternance/"
 
 ### Informations Spécifiques par année universitaire ###
 
-Les informations concernant l'année 2019-2020 sont sur la page [alternance/2019-2020](./2019-2020)
+Les informations concernant l'année 2019-2020 sont sur la page [alternance/2019-2020](./2019-2020.html)
 
 ### Présentation Générale ###
 
