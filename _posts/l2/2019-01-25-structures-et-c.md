@@ -77,6 +77,8 @@ Ce cours est divisé en 5 grandes parties :
   - Le [deuxième contrôle de 2011]({% include link-asset asset="interro.pdf" %}), ce document contient les réponses aux questions
   - [L'énoncé du Projet de 2011]({% include link-asset asset="Projet.pdf" %})
 
+**Le projet de C** est désormais en ligne [sur la page moodle du cours UCAnCode](https://lms.univ-cotedazur.fr/course/view.php?id=14552). Dans l'onglet `C` du cours `UCAnCode` vous trouverez le projet et deux widgets pour tester votre code de _myWC_ et _multiple de 3_.
+
 ###  Calendrier ###
 - Les 6 premières séances sont dédiées aux Structures de données.
   - 6 CMs (2h) 
