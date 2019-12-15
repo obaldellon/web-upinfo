@@ -58,8 +58,7 @@ The source code of the lectures is available in this [repository](https://github
   - [STAR](https://51364960.widgets.sphere-engine.com/lp?hash=d82S0aO7SN)
   - [CINEMA](https://51364960.widgets.sphere-engine.com/lp?hash=FEDuAqUZCK)
 - **Final Exam** (60%): there will be two final exams of 3 hours, on a computer, where you will be asked to solve one problem each.
-  - XXX : Wednesday, 18 December 2019, at 9h15.
-  - XXX: ? January 2020 at ?.
+  - Look at the timetable where the time slots are given.
   
 First, you must masterize the [tutorial]({{ site.baseurl }}{% post_url ucancode/2019-07-22-tutoriel %}).
 
