@@ -30,7 +30,7 @@ header:
 ---
 
 
-Il n'y a ni prérequis, ni cours magistraux.
+bIl n'y a ni prérequis, ni cours magistraux.
 Les problèmatiques abordées seront toutefois liées à d'autres cours.
 
  
@@ -49,12 +49,14 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
  - Pas de 2nde session.
 
 **Le rapport et la soutenance sont en anglais.**
-- Le rapport doit être déposé la veille de la soutenance avant midi sur github.
-- La soutenance doit être déposée avant le début des soutenances (13/12).
+
+- Les spécifications de la règle du jeu et des IA doivent être déposées sur github avant les vacances de Noël.
+- Le rapport doit être déposé la veille de la soutenance (23/01/20) avant midi sur github.
+- La soutenance doit être déposée avant le début des soutenances (24/01/20).
 
 #### Soutenance ####
 
-- Les soutenances auront lieu en janvier.
+- Les soutenances auront lieu le 24 janvier 2020.
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéoprojecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
