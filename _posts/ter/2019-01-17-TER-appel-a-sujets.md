@@ -31,7 +31,7 @@ Les objectifs pédagogiques de ce projet sont les suivants :
 - s'initier à la recherche scientifique,
 - apprendre à travailler de façon autonome
 
-Les projets commenceront mi-février 2019 et se termineront par une soutenance finale fin mai (MIAGE) ou mi-juin (INFO). 
+Les projets commenceront mi-février 2019 et se termineront par une soutenance finale mi-juin (INFO). 
 Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l'équivalent de 2 jours par semaine (pendant que les étudiants alternants seront en entreprise les
 jeudis et vendredis).
 
@@ -48,26 +48,17 @@ leur travail
 
 Pour les universitaires, cet encadrement sera rémunéré 4h équivalent TD.
 
-En parallèle de l'encadrement technique, Arnaud Malapert pour le Master Informatique et Isabelle Mirbel pour le Master MIAGE nous chargerons de suivre les étudiants afin que leur travail progresse régulièrement tout au long du semestre.
-
-Pour les étudiants du Master MIAGE, deux soutenances intermédiaires - auxquelles vous êtes bien sûr conviés - obligatoires permettront de faire le point avec les étudiants sur leur méthode de travail et leur avancement.  
-Pour les étudiants du Master INFO deux séances de suivi - auxquelles vous êtes bien sûr conviés - permettront de faire le point avec les étudiants sur leur méthode de travail et leur avancement.
+En parallèle de l'encadrement technique, Arnaud Malapert pour le Master Informatique se chargera de suivre les étudiants afin que leur travail progresse régulièrement tout au long du semestre.
+Deux séances de suivi - auxquelles vous êtes bien sûr conviés - permettront de faire le point avec les étudiants sur leur méthode de travail et leur avancement.
 
 ### Proposer un sujet ###
 
 Nous recherchons de bonnes volontés pour proposer des sujets. 
-Si vous en faites partie, il vous suffit de nous envoyer un mail - au plus tard vendredi 25 janvier 2019 - avec les informations suivantes :
+Si vous en faites partie, il vous suffit de nous envoyer un mail avec les informations suivantes :
 
   - Titre du projet
-  - Sujet (15 lignes max)
   - Nom et e-mail de l'encadrant
   - Méthodes, langages ou technologies envisagés
-
-### Calendrier ###
-
-  - Vendredi 25 janvier 2019 : Date limite pour proposer un sujet.
-  - Mi-février 2019 : Début des projets.
-  - Fin mai 2019 : Soutenance finale MIAGE.
-  - Mi-juin 2019 : Soutenance finale INFO.
-
+  - Sujet (15 lignes max)
+  
 Nous vous remercions par avance pour vos propositions de sujet.

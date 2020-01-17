@@ -30,7 +30,7 @@ header:
 ---
 
 
-bIl n'y a ni prérequis, ni cours magistraux.
+Il n'y a ni prérequis, ni cours magistraux.
 Les problèmatiques abordées seront toutefois liées à d'autres cours.
 
  
