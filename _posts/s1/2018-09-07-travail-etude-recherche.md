@@ -56,14 +56,31 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 #### Soutenance ####
 
-- Les soutenances auront lieu le 24 janvier 2020.
+- **Les soutenances auront lieu le vendredi 24 janvier 2020.**
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéoprojecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
 - La soutenance est suivie d'une séance de questions d'une dizaine de minutes.
 
-**Le jury comprend des personnes extérieures aux projets.**
+**Le jury comprend des personnes extérieures aux projets.**  
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
+
+L'ordre de passage est donné ci-dessous. 
+
+| Horaire | Groupe              | Étudiants                                                                              |
+|---------+---------------------+----------------------------------------------------------------------------------------|
+| 08h00   | Poussière d'étoiles | Amine Bentellis, Mohamed Amine Romdhane, Théo Tracol                                   |
+| 08h25   | Projet-2019         | Maxime Samak, Romain Michelucci, Nina Singlan, Camille Bonnin                          |
+| 08h50   | Conquistadores      | Jerome Lecompte, Sébastien Desideri                                                    |
+| 09h15   | Jibaro              | Adam Bond, Hassan Mazyad, Ilyes Benzaid                                                |
+| 09h40   | PAUSE               |                                                                                        |
+| 10h00   | Groupe42            | Florian Régin, Kevin Alessandro                                                        |
+| 10h25   | TeamRocket          | Rémi Janin, Begum Sariguzel, Allan Pajany Carpin Caoundin, Elhadj Mamadou Foula Diallo |
+| 10h50   | Puerto2019          | Remy Munier, Alexandre Denos, Jrad Yassine, Otmane Rahim                               |
+| 11h15   | PAUSE               |                                                                                        |
+| 11h30   | ACSA                | Sabri Hallaci, Alexandre Bonlarron, Corentin Fossati                                   |
+| 11h55   | Pastis-Projet-2019  | Yorick Deroche, Thibaut Depond, Fabrice Simon, Mael Giese                              |
+| 12h20   | Rhum                | Aymeric Picard-Marchetto, Arnaud Arbona, Thomas Portet                                 |
 
 
 #### Rapport ####
