@@ -46,7 +46,7 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 1. [Array]({% include link-asset asset="3-Array.pdf" %})
 1. [Sort]({% include link-asset asset="4-Sort.pdf" %})
 1. [Tree]({% include link-asset asset="5-Tree.pdf" %})
-1. Dynamic Programming : see [this course material]({{ site.baseurl }}{% post_url s1/2018-09-07-graphes-prog-dyn %})
+1. Dynamic Programming : see [this course material]({% post_url s1/2018-09-07-graphes-prog-dyn %})
 1. [String Processing]({% include link-asset asset="7-String-Processing.pdf" %})
 1. [Graph]({% include link-asset asset="8-Graph.pdf" %})
 
@@ -60,7 +60,7 @@ The source code of the lectures is available in this [repository](https://github
 - **Final Exam** (60%): there will be two final exams of 3 hours, on a computer, where you will be asked to solve one problem each.
   - Look at the timetable where the time slots are given.
   
-First, you must masterize the [tutorial]({{ site.baseurl }}{% post_url ucancode/2019-07-22-tutoriel %}).
+First, you must masterize the [tutorial]({% post_url ucancode/2019-07-22-tutoriel %}).
 
 ##### Instructions for submitting your homework
 - Fill the problem form with your student email adresse.
@@ -89,7 +89,7 @@ Beware, in these widgets, your work is judged, but not marked for grading.
 
 ### Resources
 
-- [UCAnCODE]({{ site.baseurl }}{% link pages/ucancode.md %})
+- [UCAnCODE]({% link pages/ucancode.md %})
 - [CSE 392 - Programming Challenges (2012)](https://www3.cs.stonybrook.edu/~skiena/392/)
 - [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
 

@@ -34,7 +34,7 @@ Au début du deuxième semestre du Master 1 Informatique plusieurs sujets de TER
 ![Le robot cartographe]({{ site.urlimg }}header-robotglasses.jpg){:class="img-responsive"}
 
 
-Notre équipe se compose de Michel Marmone--Marini, Victor Jung, Steve Malalel et Aymeric Valdenaire. Ce TER était encadré par Marie Pelleau et Enrico Formenti, il avait pour but de créer une flottille de robots capable d'explorer et de cartographier un espace en 2D (par manque de temps, nous avons décidé d'utiliser un seul robot). Nous nous sommes basés sur [une première version du robot]({{ site.baseurl }}{% post_url /ter/2018-09-20-TER-Scrappy %}) capable de détecter des obstacles et de calculer la distance qui les sépare du robot à l'aide de six capteurs à ultrason. Notre objectif était d'améliorer ce robot afin qu'il soit capable de longer des obstacles, d'enregistrer les données des capteurs et de les communiquer afin de pouvoir réaliser une carte de l'espace exploré.
+Notre équipe se compose de Michel Marmone--Marini, Victor Jung, Steve Malalel et Aymeric Valdenaire. Ce TER était encadré par Marie Pelleau et Enrico Formenti, il avait pour but de créer une flottille de robots capable d'explorer et de cartographier un espace en 2D (par manque de temps, nous avons décidé d'utiliser un seul robot). Nous nous sommes basés sur [une première version du robot]({% post_url /ter/2018-09-20-TER-Scrappy %}) capable de détecter des obstacles et de calculer la distance qui les sépare du robot à l'aide de six capteurs à ultrason. Notre objectif était d'améliorer ce robot afin qu'il soit capable de longer des obstacles, d'enregistrer les données des capteurs et de les communiquer afin de pouvoir réaliser une carte de l'espace exploré.
 
 ### Travaux et recherches effectués ###
 
@@ -52,4 +52,4 @@ Durant ce TER, plusieurs problèmes se sont posés, et nous avons pensé à plus
 ### Pour plus de détails ###
 
  - Le projet [github](https://github.com/MMarmone/Flotilles-de-robots) où vous trouverez toutes les informations utiles relatives au projet.
- - Le billet sur le précédent TER [Scrappy]({{ site.baseurl }}{% post_url /ter/2018-09-20-TER-Scrappy %})
+ - Le billet sur le précédent TER [Scrappy]({% post_url /ter/2018-09-20-TER-Scrappy %})

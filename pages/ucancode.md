@@ -57,8 +57,8 @@ Ils soumettent leur solution à un juge (automatique), qui accepte ou refuse la 
 
 ### Résoudre des problèmes en ligne ### 
 Ces activités sont aussi au programme et au contrôle continu de plusieurs cours. 
- - Pour une première confrontation avec un juge automatique, vous pouvez, en autonomie, suivre le [tutoriel]({{ site.baseurl }}{% post_url ucancode/2019-07-22-tutoriel %}).
- - Le cours [Programming Challenge]({{ site.baseurl }}{% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 contient d'autres exercices accompagnés de supports de cours.
+ - Pour une première confrontation avec un juge automatique, vous pouvez, en autonomie, suivre le [tutoriel]({% post_url ucancode/2019-07-22-tutoriel %}).
+ - Le cours [Programming Challenge]({% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 contient d'autres exercices accompagnés de supports de cours.
    Le cours pointe aussi vers d'autres ressources en ligne pour vous entraîner quel que soit votre niveau d’études.
  
 

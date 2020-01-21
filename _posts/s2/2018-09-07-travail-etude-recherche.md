@@ -56,14 +56,14 @@ Pour les détails, consultez le calendrier général sur la page EDT.
 ### Appel à sujets ###
 
 
-L'appel à sujets est [ici]({{ site.baseurl }}{% post_url /ter/2019-01-17-TER-appel-a-sujets %}).  
+L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).  
 
 Je vous encourage à trouver un sujet avant le 1er février en donnant un bonus (1pt).
 Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
 
 ### Liste des sujets ###
 
-La liste des sujets est disponible [ici]({{ site.baseurl }}{% post_url /ter/2019-01-21-TER-liste-des-sujets %}).  
+La liste des sujets est disponible [ici]({% post_url /ter/2019-01-21-TER-liste-des-sujets %}).  
 Elle sera mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
 
 Vous pouvez aussi consulter les sujets des années précédentes et essayer de contacter les encadrants qui les avaient déposés. 
