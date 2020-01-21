@@ -31,11 +31,11 @@ header:
 
 
 Il n'y a ni prérequis, ni cours magistraux.
-Les problèmatiques abordées seront toutefois liées à d'autres cours.
+Les problématiques abordées seront toutefois liées à d'autres cours.
 
  
 Les TDs servent à suivre et à encadrer les équipes d'étudiants dans la réalisation du projet.
- - Identifier la problèmatique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
+ - Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
  - Définir et formaliser un ou plusieurs problèmes à résoudre dans un contexte agile.
  - Déterminer les techniques de résolution et les implémenter correctement.
  - Évaluer rigoureusement les performances en termes de qualité et d'efficacité.
@@ -58,7 +58,7 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 - **Les soutenances auront lieu le vendredi 24 janvier 2020.**
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
-- La soutenance se déroule avec un vidéoprojecteur et un de vos ordinateurs pour la démonstration.
+- La soutenance se déroule avec un vidéo-projecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
 - La soutenance est suivie d'une séance de questions d'une dizaine de minutes.
 
@@ -98,7 +98,7 @@ Le rapport doit expliquer :
 ### Quelques réflexions sur le jeu Puerto Rico ###
 
 Vous trouverez ci-dessous un diagramme de dépendances sous la forme d'un arbre pour produire des marchandises.
-Remarquez que nous avons traiter séparemment le cas où l'objectif final est de produire une unique marchandise
+Remarquez que nous avons traiter séparément le cas où l'objectif final est de produire une unique marchandise
 On peut aussi prendre en considération les avantages octroyés par certains bâtiments/plantations en modifiant dynamiquement le diagramme comme indiqué sur la droite du diagramme.
 
 ![Diagramme de production de marchandises avec Puerto Rico]({% include link-asset asset="puerto-rico-marchandises.png" %}){:class="img-responsive" style="width: 100%;"}
