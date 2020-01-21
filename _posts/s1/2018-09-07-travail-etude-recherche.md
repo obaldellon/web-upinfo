@@ -67,20 +67,20 @@ Il faudra donc donner à l'oral tous les éléments d'information et de contexte
 
 L'ordre de passage est donné ci-dessous. 
 
-| Horaire | Groupe              | Étudiants                                                                              |
-|---------+---------------------+----------------------------------------------------------------------------------------|
-| 08h00   | Poussière d'étoiles | Amine Bentellis, Mohamed Amine Romdhane, Théo Tracol                                   |
-| 08h25   | Projet-2019         | Maxime Samak, Romain Michelucci, Nina Singlan, Camille Bonnin                          |
-| 08h50   | Conquistadores      | Jerome Lecompte, Sébastien Desideri                                                    |
-| 09h15   | Jibaro              | Adam Bond, Hassan Mazyad, Ilyes Benzaid                                                |
-| 09h40   | PAUSE               |                                                                                        |
-| 10h00   | Groupe42            | Florian Régin, Kevin Alessandro                                                        |
-| 10h25   | TeamRocket          | Rémi Janin, Begum Sariguzel, Allan Pajany Carpin Caoundin, Elhadj Mamadou Foula Diallo |
-| 10h50   | Puerto2019          | Remy Munier, Alexandre Denos, Jrad Yassine, Otmane Rahim                               |
-| 11h15   | PAUSE               |                                                                                        |
-| 11h30   | ACSA                | Sabri Hallaci, Alexandre Bonlarron, Corentin Fossati                                   |
-| 11h55   | Pastis-Projet-2019  | Yorick Deroche, Thibaut Depond, Fabrice Simon, Mael Giese                              |
-| 12h20   | Rhum                | Aymeric Picard-Marchetto, Arnaud Arbona, Thomas Portet                                 |
+| Horaire | Groupe              | Étudiants                                                             |
+|---------|---------------------|-----------------------------------------------------------------------|
+| 08h00   | Pastis-Projet-2019  | Yorick Deroche, Thibaut Depond, Fabrice Simon, Mael Giese             |
+| 08h25   | Projet-2019         | Maxime Samak, Romain Michelucci, Nina Singlan, Camille Bonnin         |
+| 08h50   | Conquistadores      | Jerome Lecompte, Sébastien Desideri                                   |
+| 09h15   | Jibaro              | Adam Bond, Hassan Mazyad, Ilyes Benzaid                               |
+| 09h40   | PAUSE               |                                                                       |
+| 10h00   | Groupe42            | Florian Régin, Kevin Alessandro                                       |
+| 10h25   | TeamRocket          | Rémi Janin, Allan Pajany Carpin Caoundin, Elhadj Mamadou Foula Diallo |
+| 10h50   | Puerto2019          | Remy Munier, Alexandre Denos, Jrad Yassine, Otmane Rahim              |
+| 11h15   | PAUSE               |                                                                       |
+| 11h30   | ACSA                | Sabri Hallaci, Alexandre Bonlarron, Corentin Fossati                  |
+| 11h55   | Poussière d'étoiles | Amine Bentellis, Mohamed Amine Romdhane, Théo Tracol                  |
+| 12h20   | Rhum                | Aymeric Picard-Marchetto, Arnaud Arbona, Thomas Portet                |
 
 
 #### Rapport ####
