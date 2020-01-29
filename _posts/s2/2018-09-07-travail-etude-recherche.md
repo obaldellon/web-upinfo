@@ -47,24 +47,23 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
 
 ### Calendrier ###
 
-  - Fin janvier : fin du bonus étudiant.
   - Mi-février : début des projets.
   - Mi-juin : soutenance finale.
 
-Pour les détails, consultez le calendrier général sur la page EDT.
+Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}).
 
 ### Appel à sujets ###
 
 
 L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).  
 
-Je vous encourage à trouver un sujet avant le vendredi 14 février 2020 en donnant un bonus (1pt).  
+Je vous encourage à trouver rapidement un sujet en donnant un bonus (1pt). La date limite est dans l'agenda.  
 Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
 
 ### Liste des sujets ###
 
-La liste des sujets sera disponible à partir du vendredi 7 février 2020.  
-Elle sera mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
+La liste des sujets sera disponible à partir de la date indiquée dans l'agenda.  
+Elle est mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
 
 Vous pouvez aussi consulter les sujets des années précédentes et essayer de contacter les encadrants qui les avaient déposés. 
 Au pire, ils refuseront ou ne vous répondront pas.
