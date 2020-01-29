@@ -71,7 +71,7 @@ L'ordre de passage est donné ci-dessous.
 |---------|---------------------|-----------------------------------------------------------------------|
 | 08h00   | Pastis-Projet-2019  | Yorick Deroche, Thibaut Depond, Fabrice Simon, Mael Giese             |
 | 08h25   | Projet-2019         | Maxime Samak, Romain Michelucci, Nina Singlan, Camille Bonnin         |
-| 08h50   | Conquistadores      | Jerome Lecompte, Sébastien Desideri                                   |
+| 08h50   | Conquistadores      | Sébastien Desideri                                                    |
 | 09h15   | Jibaro              | Adam Bond, Hassan Mazyad, Ilyes Benzaid                               |
 | 09h40   | PAUSE               |                                                                       |
 | 10h00   | Groupe42            | Florian Régin, Kevin Alessandro                                       |
