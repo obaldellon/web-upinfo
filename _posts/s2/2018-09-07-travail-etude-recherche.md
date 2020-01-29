@@ -58,7 +58,7 @@ Pour les détails, consultez le calendrier général sur la page EDT.
 
 L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).  
 
-Je vous encourage à trouver un sujet avant le 1er février en donnant un bonus (1pt).
+Je vous encourage à trouver un sujet avant le vendredi 14 février 2020 en donnant un bonus (1pt).  
 Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
 
 ### Liste des sujets ###
