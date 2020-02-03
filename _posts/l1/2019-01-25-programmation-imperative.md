@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Lozes, PR"
+subheadline: "O. Baldellon, Prag"
 title: "Programmation impérative en Python"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation impérative dans le langage Python"
@@ -13,8 +13,8 @@ tags:
     - S2
 ects: 6
 schedule: "52h"
-website: "http://deptinfo.unice.fr/~elozes/AlgoPython"
-email: "etienne.lozes@univ-cotedazur.fr"
+website: "http://deptinfo.unice.fr/~obaldellon/python"
+email: "olivier.baldellon@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -40,7 +40,7 @@ Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal)
 
 - 9 séances de cours
 - 9 séances de TD
-- 8 séances de TP
+- 9 séances de TP
 - un partiel
 
 Le cours commence en général fin janvier, dans les premières semaines du second semestre.
@@ -61,12 +61,12 @@ Une séance du cours est consacrée aux graphismes et à la programmation créat
 
 ###  Modalités de contrôle des connaissances ###
 
-- 1/3 note de controle continu
-- 1/3 note de partiel
-- 1/3 note d'examen
+- Une note de controle continu
+- Une note de partiel
+- Une note d'examen
 
 
 ###  Ressources ###
 
-- la [page publique du cours](http://deptinfo.unice.fr/~elozes/AlgoPython)
-- le cours SPUI21 sur [Moodle](http://lms.unice.fr)
+- la [page publique du cours](http://deptinfo.unice.fr/~obaldellon/python)
+- le cours SPUF21 sur [Moodle](http://lms.unice.fr)
