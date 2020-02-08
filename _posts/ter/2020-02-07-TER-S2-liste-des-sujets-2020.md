@@ -24,6 +24,38 @@ header:
 1. TOC
 {:toc}
 
+### Intégration dans une plateforme Web unifiée des outils du projet Wasabi
+ - Nombre d'étudiants souhaité : 3-4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
+ - Méthodes, langages ou technologies envisagés : WebApp HTML/CSS/JS/NodeJS.
+ 
+Dans le cadre du projet de recherche WASABI, nous disposons d'outils séparés qu'il serait intéressant d'intégrer dans une plateforme Web unifiée, à destination des écoles de musique (plus précisément des professeurs de guitare/basse/clavier et des étudiants) :
+- Base de données et moteur de recherche de chansons 
+- Outils en ligne de commande python permettant de séparer les instruments de musique d'un fichier audio stéréo (basés Deep Learning)
+- Lecteur Audio multipistes (WebApp HTML/CSS/JS/NodeJS)
+- Amplificateurs et effets virtuels pour guitaristes, synthétiseurs et instruments claviers virtuels tournant dans le browser.
+
+On aimerait, à partir de tous ces outils avoir une WebApp simple. Le prof choisit et prépare des chansons à travailler et envoie un lien à ses élèves. Les élèves cliquent le lien et peuvent écouter la chanson en multipistes, ils peuvent brancher leur guitare ou leur clavier midi sur leur ordi, et sans aucune installation, juste avec la WebApp, jouer par dessus le morceau à travailler. Voir cette [vidéo](https://youtu.be/-iExdePDsPA) qui présente certains de ces aspects.
+
+
+
+Détails : un prof de guitare veut faire travailler un morceau à la classe Rock. Il choisit un morceau dans la base de données WASABI à l'aide du moteur de recherche ([ici](https://wasabi.i3s.unice.fr/)). Une fois le morceau choisi, il lance un outil de séparation des instruments (qui utilisera comme source le mp3 du morceau ou le son de la vidéo YouTube). Nous disposons de deux outils écrits en Python, que l'on utilise actuellement en ligne de commande  : l'outil [Spleeter](https://github.com/deezer/spleeter) et l'outil concurrent [Open-Unmix](https://sigsep.github.io/open-unmix/). Ces outils peuvent, en un temps égal au temps de la chanson divisé par 5 (sur cpu) ou par 45 (gpu), séparer la voix, la basse, la batterie, le piano et le reste) en pistes .wav séparées. On peut alors écouter ces pistes à l'aide d'un lecteur (une webapp) multipistes (voir la version actuelle de ce [lecteur](https://mainline.i3s.unice.fr/)). Aujourd'hui ces opérations sont faites manuellement en ligne de commande, puis on copie à la main les pistes séparées (des fichiers .wav) dans des répertoires utilisées par le lecteur multipiste, et il faut reloader la page web du lecteur pour voir les pistes apparaitre.
+Donc, dans ce premier scénario, en supposant que vous avez fait le projet  : le prof choisit un morceau, clique sur un bouton, et le lecteur permettant d'écouter le morceau en pistes séparées apparait.
+Grave à ce lecteur un élève guitariste peut isoler la guitare et l'étudier, ou au contraire la muter et jouer la piste de guitare. C'est un excellent outil pour s'entrainer à jouer avec les "vrais artistes" qui ont enregistré le morceau original (ex: Queen, AC/DC etc.)
+
+Second étape : le prof utilise alors une WebApp qui permet de traiter en temps réel le son de la guitare à l'aide de recréations virtuelles d'amplificateurs de guitare, de pédales d'effets. Il choisit parmi les sons pré-réglés celui qui est proche du morceau à étudier, l'affiche en touchant les boutons des différentes IHMs.
+
+à la fin il enregistre ses choix, et prépare les chansons à travailler (ex: 5 chansons pour un trimestre, avec pour chaque chanson la version multi-piste, les effets guitare ou basse, ou les synthétiseurs  pour les claviers....).
+
+Il envoie le lien à ses élèves.
+
+Ici une [vidéo](https://www.youtube.com/watch?v=DUM99xQt5fg) du prof de l'école de guitare de Biot en train de tester les logiciels séparés.
+
+##### Travail à faire
+{:.no_toc}
+
+Développer la WebApp qui permettra de tout faire depuis un browser Web, améliorer ou recoder le lecteur Multipiste qui prend trop de place, n'est pas intégré avec l'outil python d'extraction des pistes ni avec l'outil pour jouer du clavier ou de la guitare etc. Permettre simplement de régler le volume de l'appli qui traite les sons et du lecteur séparément etc.
+
 
 ### Analyse des phénotypes dans les réseaux de régulation génétiques: étude de cas du métabolisme énergétique dans le cancer du pancréas
  - Nombre d'étudiants souhaité : 1.
