@@ -24,6 +24,66 @@ header:
 1. TOC
 {:toc}
 
+### Approche deep learning à la détection d'anomalies dans un système à temps réel
+- Nombre d'étudiants souhaités : 2
+- Encadrant : [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : Python, bibliothèque Scikit-learn, bibliothèque TensorFlow
+
+Le stage vise à répondre à un besoin d’une startup qui propose des services d’optimisation de consommation de l’eau dans le milieu agricole. L’optimisation se fait en réponse à un certain nombre de données qui viennent des senseurs qui sont installés dans le domaine agricole cible. Il s’agira de mettre en place un modèle de détection des failles matérielles par des méthodes d’apprentissage automatique.
+
+L'approche *courante* au problème est via un modèle basé sur les réseaux de néurones et les algorithmes d'apprentissage classiques (e.g. regression logistique, etc). 
+Nous voudrions concevoir un nouveau modèle basé sur un approche de type *deep learning*. Il s'agira d'affiner le modèle et d'en tester la faisabilité par rapport à l'exigence *temps réel*.
+
+La connaissance de TensorFlow et du *deep learning* n'est pas réquise. Justement apprendre à travailler avec cette bibliothèque et *quelques rudiments* de deep learning font partie des acquis du stage.
+
+### Jeux multijoueurs sur le Web
+ - Nombre d'étudiants souhaité : 3-4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
+ - Méthodes, langages ou technologies envisagés : JS/NodeJS.
+
+Dans ce TER je vous propose d'étudier comment on peut implémenter des jeux multijoueurs sur le Web. Par exemple, vous hébergez un jeu multijoueur dans le cloud et vous voulez :
+ - Gérer plusieurs parties simultanément,
+ - Faire un jeu d'action temps réel où la latence ne doit pas être perceptible,
+ - Gérer des collisions, des mouvements de joueurs sans à coup, de la manière la plus efficace possible, alors que les joueurs sont distants et que leur connexions sont de qualité différentes et variables d'une seconde à l'autre.
+
+Pour cela je vous propose d'étudier cet [article](http://buildnewgames.com/real-time-multiplayer/) en particulier les parties situées à la fin, qui traitent des problèmes classiques (mais je pense non étudiés dans votre cursus, ou en tout cas non implémenté) de "compensation de latence" et "prédiction côté client" des mouvements des entités distantes dans les jeux multis.
+
+Vous pouvez tester cette [démo](https://battle-world.herokuapp.com/?debug) à plusieurs par exemple (ouvrez le même URL depuis plusieurs machines), chaque joueur déplace un petit carré de couleur. Le serveur est dans le cloud, sur heroku.com. Ca devrait fonctionner pas trop mal. Maintenant, dans le menu sur la droite, ouvrez la section "Methods" et désactivez l'option "client prediction", et testez. Faites de même avec "client smoothing"... 
+
+Le but de ce projet consistera à développer, en vous inspirant de l'article précité et du code de cette démonstration, un jeu multijoueurs à 60 images/secondes, le plus réactif possible. Par exemple (ce n'est qu'une suggestion), reprendre l'idée d'un jeu développé par des master infos il y a quelques années où les joueurs sont représentés par des carrés de couleur, et doivent aller le plus vite possible d'un point de départ sur la gauche de l'écran, et atteindre un point sur la droite, en évitant des obstacles (qui peuvent être animés)... Le jeu sera hébergé dans le cloud et devra être jouable dans les salles de cours par plusieurs joueurs (jq 16 dans une partie). Vous devrez également fournir des mesures de latence et de bande passante précises pour évaluer le nombre de joueurs maximal (ou plug généralement d'entités synchronisées) pour une bande passante donnée, avant que ce ne soit injouable, même avec les meilleurs algorithmes.
+
+Ce [livre](https://mega.nz/#!f5IQEK5R!-aFqReRvRxEqT935l0IraNVOr2Kero6ntzG3uHEhwlA) reprend également de manière très détaillée, les concepts évoqués et pourra vous aider à mieux les appréhender (chap 7, 8 et 9) et contient par ailleurs, pour ceux qui veulent une bonne culture générale sur le sujet, un historique complet des algos utilisés depuis les premiers jeux multi, une étude sur la sécurité, sur la scalabilité, compare les approches classiques et P2P, étudier les offres "multiplay as a service" etc. 
+
+L'implémentation sera en NodeJS/Socket.io côté serveur, et libre côté client (pur JS, frameworks comme PhaserJS, BabylonJS etc.).
+
+
+
+### Simulation de foule dans les jeux vidéos
+ - Nombre d'étudiants souhaité : 3-4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
+ - Méthodes, langages ou technologies envisagés : javascript.
+
+Dans "l'IA pour les jeux, il existe une catégories d'algorithmes dits 'réactifs' qui permettent de calculer les mouvements d'entités controlées par l'ordinateurs dans des jeux vidéos ou des simulations plus sérieuses comme des simulations de foules".
+
+Les plus célèbres sont ceux de Craig Reynolds (voir [ici](https://www.red3d.com/cwr/)), notamment ses "steering behaviours" pour simuler des comportements tels que "avancer en formation, atteindre un but, fuir, attaquer, arriver à en endroit précis en réglant préciséments vitesse, direction, accélération, suivre quelqu'un, faire la queue pour passer en nombre par un passage étroit, éviter les obstacles, etc." Chaque entité controlée est une sorte de "robot" avec des capteurs qui "voient" autour d'elle (obstacles, terrains, autres entités), et peut empiler plusieurs comportements avec des poids (ex: suivre la route mais éviter les obstacles et atteindre un lieu précis, ou encore "attaquer mais fuir quand on est trop blessé et aller se soigner à un endroit précis").
+
+Ces algorithmes sont bien connus et on trouve des implémentations dans plusieurs langages. 
+
+L'idée de ce TER est de récupérer des implémentations en JavaScript, les porter pour une intégration dans la librairie 3D BabylonJS, faire des jolis démonstrateurs, et sans doute coder un petit jeu mettant ces comportements en valeur.
+
+Ex de vidéos : chercher "craig reynolds steering behavior" sur YT, chercher "steering behaviours JavaScript sur google ou github", etc.
+
+Démos interactives ici :
+- [choses marrantes avec les steering behaviors](https://codepen.io/denisharda/pen/vxBmRz)
+- [Déplacements en formation à la manière des oiseaux ("boids")](https://codepen.io/agar3s/pen/jZagNB)
+- [Séparation (bouger en gardant ses distances)](https://codepen.io/enxaneta/pen/vyGzJM)
+- [Evitement d'obstacles](https://codepen.io/kaolay/pen/OmzXKq)
+- [Mix de tout cela](http://www.visualiser.fr/page.php?id=Js_-_TypeScript_-_Steering_behavior)
+
+Lien supplémentaire vers une [vidéo](https://www.youtube.com/watch?v=fRHMgIQ4zGs) qui montre un peu ce que j'attends du projet (en 3D) : 
+
+
+
 ### Intégration dans une plateforme Web unifiée des outils du projet Wasabi
  - Nombre d'étudiants souhaité : 3-4.
  - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
