@@ -24,6 +24,43 @@ header:
 1. TOC
 {:toc}
 
+
+### Implémentation des algorithmes pour décider si un automate communicant est k-synchronisable
+- Nombre d'étudiants souhaités : 1
+- Encadrants : [Cinzia Di Giusto, Laetitia Laversa](mailto:Cinzia.DI-GIUSTO@univ-cotedazur.fr,laetitia.laversa@etu.univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : programmation fonctionnelle, OCaml
+
+Nous travaillons sur des systèmes composés d'automates communicants. Les automates communicants sont des réseaux d'automates à états finis qui se synchronisent sur des canaux organisés en architecture mailbox. 
+Un système est k-synchronisable si  chacune de ses exécutions  peut être divisée en une succession de phases d'interaction où la taille du buffer est limité par k. 
+Il est possible de vérifier si un système est k-synchronisable ou non. L'objectif de ce TER est de mettre en œuvre et de tester l'algorithme de décision.
+
+### Approche IA à la G-art
+- Nombre d'étudiants souhaités : 3/4
+- Encadrants : [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr) (I3S), Jean-Louis Paquelin (Villa Arson).
+- Méthodes, langages ou technologies envisagés : Python, bibliothèque [kiwy](https://kivy.org/#home).
+
+Ce stage se situe au croisement de l'[art génératif](https://en.wikipedia.org/wiki/Generative_art) et des [automates cellulaires](https://en.wikipedia.org/wiki/Cellular_automaton). Le stage propose de participer au projet *G-art*, une collaboration entre l'[I3S](https://www.i3s.unice.fr/presentation), un laboratoire de recherche en informatique, et la [Villa Arson](https://www.villa-arson.org/), une école d'art et un centre d'art. Tous deux font partie d'UCA et sont mondialement connus.
+
+Nous avons conçu un modèle multi-agents (automates cellulaires) qui produit des œuvres d'art (images) et propose une nouvelle approche algorithmique du traitement d'image. Un premier outil de visualisation/simulation du modèle a été réalisé en Python avec une interface utilisateur développée à l'aide la bibliothèque kivy.
+
+Les objectifs de ce travail de TER sont les suivants :
+- apprendre à utiliser la bibliothèque kivy ;
+- finaliser l'interface utilisateur des simulateurs déjà existants ;
+- ajouter de nouvelles fonctionnalités aux simulateurs afin de permettre une meilleure analyse du comportement des agents ;
+- expérimenter avec le modèle pour en explorer les potentialités ;
+- évaluer dans quelle mesure le modèle pourrait être porté vers le logiciel de simulation [Golly](http://golly.sourceforge.net/).
+
+
+
+La connaissance préalable de la bibliothèque [kivy](https://kivy.org/#home) n'est pas requise. Apprendre à travailler avec cette bibliothèque fait partie des objectifs du stage.
+
+### Langage de propriétés de sûreté pour les véhicules autonomes
+- Nombre d'étudiants souhaités : 1.
+- Encadrant : [Frederic Mallet](mailto:frederic.mallet@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : Java, Eclipse, Modeling Framework
+
+
+Le système de conduite automatique des véhicules autonomes (ADAS) doit être capable de fonctionner dans un environnement très incertain sur lequel les techniques de vérification exhaustives s'avèrent impuissantes. Définir un algorithme 100% sûr devient un vrai défi pour les concepteurs si on ne fixe pas de manière non ambigues les conditions (pré-requis) sous lesquelles le véhicule doit être capable de répondre correctement et le sens de ce qu'on appelle une réponse acceptable. Chez tous les constructeurs la sûreté de fonctionnement  se transforme de plus en plus en règles de responsabilités (voir Responsability Sensitive Safety - RSS de chez Mobile Eye). Dans le cadre d'un partenariat avec Renault Software Labs on se propose de construire un langage qui permet à l'ingénieur de l'ADAS de décrire les pré-requis, décrire les règles de sûreté et de responsabilité attendue, décrire la capacité de mesure de l'ensemble des capteurs embarqués dans les véhicules autonomes et de construire un système de contraintes capable de mesurer, plus que de garantir, les conditions dangereuses et le degré de confiance dans le système de conduite. Le sujet de TER portera sur la définition de ce langage en liaison avec les ingénieurs de Renault et d'un doctorant CIFRE salarié de Renault. Tout l'environnement de travail s'appuie sur Eclipse et Java.
 ### Approche deep learning à la détection d'anomalies dans un système à temps réel
 - Nombre d'étudiants souhaités : 2
 - Encadrant : [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr)
