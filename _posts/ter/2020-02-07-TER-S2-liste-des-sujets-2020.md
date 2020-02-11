@@ -25,6 +25,28 @@ header:
 {:toc}
 
 
+### Modélisation d'un comportement furtif
+- Nombre d’étudiants souhaités : 1.
+- Encadrants  : [G. Menez](mailto:menez@unice.fr) (I3S)
+- Méthodes, langages ou technologies envisagés : Pas sur qu'il y ait de la programmation ?
+
+Dans le contexte du déplacement d'un drône ou de tout objet plus ou moins autonome, l'objectif final est d'être capable de sélectionner un trajet plus furtif qu'un autre.
+
+Le travail de ce TER est d'établir un état de l'art de la modélisation des comportements avec l'idée de répondre à l'objectif final.
+
+### Politique Economique Européenne
+
+- Nombre d’étudiants souhaités : 3/4.
+- Encadrants  : L. Menez (Gredeg), [G. Menez](mailto:menez@unice.fr) (I3S)
+- Méthodes, langages ou technologies envisagés : SQL (un tout petit peu), R ou Python 
+
+PATSTAT est une base de données qui contient des données bibliographiques sur plus de 100 millions de documents brevetés provenant de grands pays industrialisés et en développement sur une période de plus de 30 ans. 
+On y trouve des brevets avec leurs inventeurs, la localisation de leurs inventeurs, les dates de dépôts, etc 
+
+Sur la base de l'étude des brevets européens et des collaborations que l'on peut en déduire, on aimerait découvrir les effets des politiques économiques européennes sur les déplacements des lieux de production de la connaissance dans l’Union Européenne. Par exemple, il s’agirait d’essayer de savoir si les pays fraîchement arrivés dans l'UE ont vu leurs activités scientifiques évoluer? au détriment d'autres ?
+
+Bien évidemment compte tenu de  la dimension du problème, il s'agit de mettre une place une approche informatique dont on pourra discuter.
+
 ### Implémentation des algorithmes pour décider si un automate communicant est k-synchronisable
 - Nombre d'étudiants souhaités : 1
 - Encadrants : [Cinzia Di Giusto, Laetitia Laversa](mailto:Cinzia.DI-GIUSTO@univ-cotedazur.fr,laetitia.laversa@etu.univ-cotedazur.fr)
