@@ -305,7 +305,14 @@ dd {
 article dl dt   { line-height: 1.3; }
 article dl dd   { line-height: 1.6; margin-bottom: rem-calc(12); margin-left: rem-calc(24); }
 
+/* Reduce spacing between paragraphs and lists */
+p + ul {
+    margin-top: -1rem;
+}
 
+p + ol {
+    margin-top: -1rem;
+} 
 
 /* Quotes
 ------------------------------------------------------------------- */
