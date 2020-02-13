@@ -24,6 +24,19 @@ header:
 1. TOC
 {:toc}
 
+###  Démonstrateur IA
+
+ - Nombre d’étudiants souhaités : 3/4.
+ - Encadrant : [Michel Winter](michel.winter@univ-cotedazur.fr)
+ - Méthodes, langages ou technologies envisagés : python + tensorflow, ou javascript + MediaPipe
+ 
+L'objectif est de développer un demonstrateur IA pour la maison de l'IA. 
+La [maison de l'intelligence artificielle](https://www.departement06.fr/un-territoire-ia/maison-de-lintelligence-artificielle-mia-30530.html) a plusieurs missions dont celle d'illustrer les récentes avancées dans ce domaine par des démonstrateurs qui seront exposés au public dans un show-room.
+Le demonstrateur proposé, qui fait l'objet de ce projet, consiste à piloter un jeu vidéo simpliste en utilisant la vision par ordinateur, voire le reconnaissance vocale. Le jeu pourrait être le T-Rex de chrome dont le code source est facile a obtenir en javascript et en python. 
+Les actions du T-rex seraient déclenchées par déplacement de la main (filmée par une caméra) ou l'ouverture de la main. 
+D'autres types d'interfacage peuvent être envisagées : mouvement de la tête, mots-clefs, etc
+En fonction de la motivation et des envies des étudiants, le choix du jeu comme celui des modalités de déclenchement des actions pourra être changé.
+
 
 ### Modélisation d'un comportement furtif
 - Nombre d’étudiants souhaités : 1.
