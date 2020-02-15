@@ -55,14 +55,14 @@ Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %})
 ### Appel à sujets ###
 
 
-L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).  
+L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).
 
 Je vous encourage à trouver rapidement un sujet en donnant un bonus (1pt). La date limite est dans l'agenda.  
 Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
 
 ### Liste des sujets ###
 
-La liste des sujets sera disponible à partir de la date indiquée dans l'agenda.  
+La liste des sujets est [ici]({% post_url /ter/2020-02-07-TER-S2-liste-des-sujets-2020 %}).  
 Elle est mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
 
 Vous pouvez aussi consulter les sujets des années précédentes et essayer de contacter les encadrants qui les avaient déposés. 
