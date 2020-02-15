@@ -24,6 +24,40 @@ header:
 1. TOC
 {:toc}
 
+### Amélioration d’un algorithme d’énumération de cliques dans les hypergraphes
+
+- Nombre d’étudiants souhaités : 1.
+- Encadrants : [M. Pelleau](mailto:marie.pelleau@unice.fr) (I3S)
+- Méthodes, langages ou technologies envisagés : C, C++
+
+L’algorithme de [Bron et Kerbosch](https://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm) permet d’énumérer efficacement des cliques dans un graphe. Cet algorithme repose sur la notion de voisinage. Il a était montré que l’utilisation d’un pivot peut réduire le temps de calcul. 
+Un [hypergraphe](https://fr.wikipedia.org/wiki/Hypergraphe) est un graphe dont les arêtes peuvent contenir plus de 2 sommets.
+Une version de l’algorithme de Bron et Kerbosch pour les hypergraphes a été développée au sein du laboratoire.
+
+Le but de ce TER est de voir si la notion pivot peut se traduire pour les hypergraphes et si cette notion peut réduire le temps de calcul lors de l’énumération de cliques dans les hypergraphes. 
+
+##### Référence
+{:.no_toc}
+
+- F. Cazals, C. Karande, _A note on the problem of reporting maximal cliques_, Theoretical Computer Science 407(1--3), 2008, pp. (564--568)
+
+### Animations 3D en VR: Interactions entre regard et déplacement
+ - Nombre d'étudiants souhaité : 3-4.
+ - Encadrant : [Lucile Sassatelli](mailto:sassatelli@i3s.unice.fr)
+ - Méthodes, langages ou technologies envisagés : Unity 3D, C#.
+
+Ce projet vise à créer une scène de déplacement en utilisant la réalité virtuelle (VR). Dans cette scène, la personne utilisatrice se déplace dans une rue, dans laquelle sont répartis des avatars la regardant. Le regard des avatars devra donc suivre le déplacement (marche) de la personne.
+
+Le but de ce projet est de concevoir la scène pour étudier l'effet du regard sur l'impression de présence dans des environnements virtuels. Une démo immersive sera ainsi créée comme étape préliminaire à une scène de sensibilisation au harcèlement de rue.
+
+##### Objectifs
+{:.no_toc}
+Concevoir en Unity 3D une scène en VR où l'utilisatrice se déplace devant des personnages en 3D dont le regard réagit au déplacement, contrôlé par la personne utilisant le casque.
+
+- Phase 1: Création de la scène, identifier comment contrôler le mouvement de translation dans un application Android
+- Phase 2: Intégration de personnages animés réactifs
+
+
 ###  Démonstrateur IA
 
  - Nombre d’étudiants souhaités : 3/4.
