@@ -73,12 +73,14 @@
 #   Navigation to the right -> side: right
 #
 - title: "EdT"
-  url: "/edt/"
+  url: "/edt/m1"
   side: right
+  dropdown:
+  - title: "M1"
+    url: "/edt/m1"
+  - title: "M2"
+    url: "/edt/m2"
 
-# - title: "Info"
-#   url: "/info/"
-#   side: right
 
 - title: "Search"
   url: "/search/"
