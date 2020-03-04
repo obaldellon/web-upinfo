@@ -444,3 +444,22 @@ Le but de ce TER est de poursuivre un [projet](https://github.com/MatthiasPercel
 
 Plus précisemment, il s'agira d'abord de d'évaluer et de tester en profondeur les modèles développés et, si possible, de les améliorer. 
 Ensuite, il faudra proposer une interface utilisateur ergonomique pour (re-)générer ces emplois du temps utilisant la technologie de votre choix.
+
+### Comportements réactifs dans les jeux vidéo
+ - Nombre d'étudiants souhaité : 3-4.
+ - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
+ - Méthodes, langages ou technologies envisagés : JS/NodeJS.
+ 
+Les comportements réactifs dans les jeux visent à aider les personnages autonomes à se déplacer de manière réaliste, en utilisant un modèle physique et des forces simples qui sont combinés pour produire des déplacements vivants et improvisés dans l'environnement des personnages. Vous étudierez la théorie de base proposée par Craig Reynolds dans un article scientifique très connu, les améliorations qui ont suivi ces travaux, notamment en apportant une couche évolutionnaire à ces modèles, et vous procèderez à leur mise en oeuvre dans un prototype de jeu vidéo.
+
+Les idées  proposées par Craig W. Reynolds ne sont pas basées sur des stratégies complexes impliquant une planification de trajectoire ou des calculs globaux, mais utilisent plutôt des informations locales, telles que less obstacles présents dans le champ de vision, des forces d'attraction ou de répulsion de/vers des obstacles ou entités mobiles voisines. Cela les rend simples à comprendre et à mettre en œuvre, mais toujours capables de produire des modèles de mouvement très complexes.
+
+Optionnellement, ces stratégies réactives se mêlent très bien avec d'autres stratégies de mouvement basées par exemple sur l'algorithme A*.
+
+Exemple de scénarios : 
+- Atteindre un but lointain dans une carte, en suivant une route, en évitant les obstacles, en se déplaçant en formation variable (ex: bataillon ou en suivant un leader), et en réagissant à des événements non planifiés (se faire attaquer, se défendre, etc).
+- Essayer de survivre alors qu'on manque de nourriture et que des prédateurs sont dans le secteur. Se reproduire avec une entité du sexe opposé, protéger ses enfants jusqu'à ce qu'ils soient autonomes.
+- Des gardiens font leur ronde autours d'une prison. Si ils voient quelqu'un ils essaient de l'intercepter avec des stratégies différentes : un suit l'évadé, l'autre essaie de lui couper la route etc. Et l'évadé essaie de ne pas se faire attraper.
+- Une voiture doit suivre la piste sur un circuit, doubler les véhicules attardés, zigzaguer un peu pour ne pas se faire doubler, aller aux stands lorsque les pneus sont usés ou qu'on manque de carburant.
+- S'adapter si la voiture jouée par un humain est trop faible/trop forte, afin que le jeu soit amusant, essayer de devenir un opposant plus redoutable sur la fin de partie...
+- Dans un jeu de tir, coder des missiles à tête chercheuse, le comportement des bonus "magnétiques" que l'on peut ramasser avec son vaisseau, des patterns d'attaque de vagues d'ennemis qui convergent vers le joueur...
