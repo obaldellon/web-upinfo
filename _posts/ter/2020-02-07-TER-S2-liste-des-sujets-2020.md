@@ -463,3 +463,13 @@ Exemple de scénarios :
 - Une voiture doit suivre la piste sur un circuit, doubler les véhicules attardés, zigzaguer un peu pour ne pas se faire doubler, aller aux stands lorsque les pneus sont usés ou qu'on manque de carburant.
 - S'adapter si la voiture jouée par un humain est trop faible/trop forte, afin que le jeu soit amusant, essayer de devenir un opposant plus redoutable sur la fin de partie...
 - Dans un jeu de tir, coder des missiles à tête chercheuse, le comportement des bonus "magnétiques" que l'on peut ramasser avec son vaisseau, des patterns d'attaque de vagues d'ennemis qui convergent vers le joueur...
+
+
+### Jmagine le MAMAC
+ - Nombre d'étudiants souhaité : 3-4.
+ - Encadrant : [Gregory Galli](greg.galli@gmail.com)
+ - Méthodes, langages ou technologies envisagés : Agile (XP), J2EE / Grails / API REST / Mobile natif / Mobile via framework, NFC, QR, LIFI, AR.
+
+L'idée de ce projet est de proposer une expérience augmentée via une application mobile dans le musée du MAMAC à Nice
+Des œuvres sont présente et nous collaborons avec des écoles (lycées) pour la production de contenu connexe aux œuvres
+L'objectif est que le mobile devienne une sorte d'audioguide ++, guide les utilisateurs au travers du musée, leur fasse découvrir le contenu additionnel produit par les élèves et permette aux utilisateurs de remonter du contenu additionnel ou des avis.

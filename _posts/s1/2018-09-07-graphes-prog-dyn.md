@@ -38,9 +38,9 @@ La programmation dynamique, une méthode algorithmique pour résoudre des probl�
 Les diapositives du cours de théorie des graphes sont disponibles :
 [1 diapositive par page]({% include link-asset asset="graphes.pdf" %}) ;
 [4 diapositives par page]({% include link-asset asset="graphes-4up.pdf" %}) ;
-[8 diapositives par page]({% include link-asset asset="graphes.pdf" %}).
+[8 diapositives par page]({% include link-asset asset="graphes-8up.pdf" %}).
 
-Les diapositives du cours de programmation dynamique  sont disponibles : [suite de Fibonacci](http://www.i3s.unice.fr/~malapert/R/pdf/14-fibonacci.pdf) ; [problème du sac-à-dos]({% include link-asset asset="progdyn.pdf" %}).
+Les diapositives du cours de programmation dynamique sont disponibles : [suite de Fibonacci](http://www.i3s.unice.fr/~malapert/R/pdf/14-fibonacci.pdf) ; [problème du sac-à-dos]({% include link-asset asset="progdyn.pdf" %}).
 
 Le plan des cours est le suivant :
 - Généralités et définitions sur les graphes.
@@ -74,6 +74,6 @@ Le plan des cours est le suivant :
 
 Le contrôle des connaissances comprendra 2 épreuves écrites :
 
-- Contrôle Continu (1h)
+- Contrôle Continu (2h)
 - Contrôle Terminal (2h)
 - Épreuve orale en seconde session
