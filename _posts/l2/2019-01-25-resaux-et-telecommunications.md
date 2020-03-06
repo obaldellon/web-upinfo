@@ -29,8 +29,6 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-{% include alert info="<b>Cette page n'est plus maintenue par les responsables de Licence. La dernière modification date de septembre 2019.<br/>Cette page sera supprimée le mercredi 1er avril 2020. Si cela vous pose problème, contactez les responsables de licence.</b>" %}
-
 ###  Description ###
 
 Ce cours présente les principes qui permettent d’interconnecter des systèmes terminaux (par exemple des ordinateurs) et de gérer leurs communications. Pour des raisons pratiques d’interopérabilité, on distingue plusieurs couches. La couche dite basse correspond au canal de communication qui va transporter les signaux échangés (un câble ethernet par exemple) et les couches supérieures proposent des protocoles pour faire coopérer des systèmes distants. Nous présenterons cette structuration en couche en suivant une approche dite de bas en haut selon le plan:

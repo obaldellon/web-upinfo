@@ -29,8 +29,6 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-{% include alert info="<b>Cette page n'est plus maintenue par les responsables de Licence. La dernière modification date de septembre 2019.<br/>Cette page sera supprimée le mercredi 1er avril 2020. Si cela vous pose problème, contactez les responsables de licence.</b>" %}
-
 ### Pré-requis conseillés
 
 Structures de données et programmation C, automates et langages.
