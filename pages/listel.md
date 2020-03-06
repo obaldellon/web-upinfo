@@ -9,6 +9,8 @@ header:
 permalink: "/programme/listel/"
 ---
 
+{% include alert info="<b>Cette page n'est plus maintenue par les responsables de Licence. La dernière modification date de septembre 2019.<br/>Cette page sera supprimée le mercredi 1er avril 2020. Si cela vous pose problème, contactez les responsables de licence.</b>" %}
+
 ## Semestre 1 ##
 {%include accordion-posts category="L1" tag="S1" %}
 

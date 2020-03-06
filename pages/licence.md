@@ -9,6 +9,8 @@ header:
 permalink: "/programme/licence/"
 ---
 
+{% include alert info="<b>Cette page n'est plus maintenue par les responsables de Licence. La dernière modification date de septembre 2019.<br/>Cette page sera supprimée le mercredi 1er avril 2020. Si cela vous pose problème, contactez les responsables de licence.</b>" %}
+
 ## Présentation
 La licence informatique vise à préparer au mieux les futurs informaticiens
 à la grande variété de technologies auxquelles ils seront confrontés et à
