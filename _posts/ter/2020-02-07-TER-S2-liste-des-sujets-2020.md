@@ -61,7 +61,7 @@ Concevoir en Unity 3D une scène en VR où l'utilisatrice se déplace devant des
 ###  Démonstrateur IA
 
  - Nombre d’étudiants souhaités : 3/4.
- - Encadrant : [Michel Winter](michel.winter@univ-cotedazur.fr)
+ - Encadrant : [Michel Winter](mailto:michel.winter@univ-cotedazur.fr)
  - Méthodes, langages ou technologies envisagés : python + tensorflow, ou javascript + MediaPipe
  
 L'objectif est de développer un demonstrateur IA pour la maison de l'IA. 
@@ -467,7 +467,7 @@ Exemple de scénarios :
 
 ### Jmagine le MAMAC
  - Nombre d'étudiants souhaité : 3-4.
- - Encadrant : [Gregory Galli](greg.galli@gmail.com)
+ - Encadrant : [Gregory Galli](mailto:greg.galli@gmail.com)
  - Méthodes, langages ou technologies envisagés : Agile (XP), J2EE / Grails / API REST / Mobile natif / Mobile via framework, NFC, QR, LIFI, AR.
 
 L'idée de ce projet est de proposer une expérience augmentée via une application mobile dans le musée du MAMAC à Nice
