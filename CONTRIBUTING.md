@@ -62,13 +62,12 @@ Mettez d'abord à jour la branche `master-info`.
 ```
  git checkout master-info
  git pull upstream master-info
-
 ```
+ 
 Ensuite, fusionnez la branche `master-info` avec votre branche locale.
 ```
  git checkout <nom_branche>
  git rebase master-info 
-
 ```
 Il est possible que vous ayez quelques conflits à arbitrer.
 
@@ -79,18 +78,21 @@ Configurez la pull request de la manière suivante :
  - base repository : `arnaud-m/master-info` 
  - base : `master-info`
  - head repository : `<user_name>/master-info`
- - compare : <nom_branche>
+ - compare : `<nom_branche>`
  
 Normalement, il ne devrait plus y avoir de conflits.
 
 ## Tests
 
 Lors du premier déploiement, vous devrez installer les dépendances requises pour le site 
-```bundle install```
+```
+bundle install
+```
 
-Ensuite, le projet contient un makefile très simple pour déployer localement le site 
-```make serve```
-
+Ensuite, le projet contient un [makefile](https://github.com/arnaud-m/master-info/blob/master-info/Makefile) très simple pour déployer localement le site 
+```
+make serve
+```
 
 ## Ressources 
 
