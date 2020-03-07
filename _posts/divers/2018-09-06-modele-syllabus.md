@@ -60,12 +60,7 @@ header:
 
 ###  Publier par github ###
 
- 1. Cloner ou forker le [projet](https://github.com/arnaud-m/master-info).
- 2. Copier le modèle `_posts/divers/2018-09-06-modele-syllabus.md` dans un sous-répertoire de `_posts`.
- 3. Renommer et modifier le modèle.
- 4. Copier les ressources dans le bon sous-répertoire de `assets` (voir plus bas). 
- 3. Tester dans un terminal avec `make serve` si vous avez installé jekyll.
- 4. Contribuez à votre manière : issue ; patch ; pull request. 
+Suivez le [guide du contributeur](https://github.com/arnaud-m/master-info/blob/master-info/CONTRIBUTING.md).
 
 ### Insérer des liens
 
