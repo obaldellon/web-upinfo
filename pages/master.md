@@ -35,9 +35,9 @@ Cette formation apprend aux étudiants à connaître et comprendre les concepts 
 ## Première année ##
 
 Le Master Informatique se déroule sur 2 semestres.  
-Lors de chaque semestre les étudiants doivent suivre des cours obligatoires et des cours optionnels.
+Lors de chaque semestre, les étudiants doivent suivre des cours obligatoires et des cours optionnels.
 Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas).
-Chaque étudiant doit suivre environ 192h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
+Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
 
 
 
@@ -56,5 +56,14 @@ Le jury peut éventuellement accorder une seconde session à un étudiant si son
 
 ## Seconde année ##
 
+Le Master Informatique se déroule sur 2 semestres.  
+Lors du premier semestre, les étudiants doivent suivre des cours obligatoires et des cours optionnels.
+Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas).
+Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
+
+Lors du deuxième semestre, les étudiants doivent réaliser une stage de fin d'études en entreprise ou en laboratoire d'une durée comprise entre 4 mois et 6 mois  ([vos droits](https://www.service-public.fr/particuliers/vosdroits/F16734)).
+Une gratification minimale doit être versée. Le montant minimum versé pour chaque heure de présence effective est de 3,90 €.
+
 - [Semestre 3]({{ "/programme/semestre3"  | absolute_url }}).
+- Semestre 4 : Stage étudiant en milieu professionnel.
 
