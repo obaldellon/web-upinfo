@@ -14,7 +14,7 @@ tags:
   - S6
   - OPT
 ects: 6
-schedule: "48h"
+schedule: "24h cours + 6h TD + 24h TP"
 # website: "#"
 email: "julien.provillard@univ-cotedazur.fr"
 #

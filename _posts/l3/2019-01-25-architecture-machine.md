@@ -6,14 +6,14 @@ layout: syllabus
 subheadline: "S. Touati, PR"
 title: "Architecture machine"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours présente de façon approfondie les différentes composantes des architectures d'ordinateurs modernes, depuis le transistor jusqu'au niveau RTL/TLM. Les grandes familles d'architectures (RISC, CISC, DSP) sont introduites sous l'aspect du concepteur d'architecture et sous l'aspect du programmeur (jeu d'instructions) pour montrer l'influence des décisions architecturales sur les performances."
+teaser: "Ce cours présente de façon approfondie les différentes composants des architectures d'ordinateurs, depuis les portes logiques jusqu'au niveau du processeur. Nous apprendrons comment concevoir un processer simple, et comment le programmer au niveau assembleur et binaire. Nous montrerons aussi comment des décisions architecturales peuvent influencer sur les performances."
 categories:
   - L3
 tags:
   - S5
   - OPT
 ects: 6
-schedule: "18h cours + 18h TP"
+schedule: "20h cours + 20h TD + 20h TP"
 # website: "#"
 email: "sid.touati@univ-cotedazur.fr"
 #
@@ -42,5 +42,5 @@ Le cours contiendra un enseignement magistral, des travaux dirigés (exercices) 
 
 ###  Modalités de contrôle des connaissances ###
 
-- Controle continu (1 mini-projet)
-- Controle terminal
+- Controle continu (plusieurs circuits logiques à réaliser avec le logiciel diglog tout au long du semestre): 50%.
+- Controle terminal écrit: 50%.

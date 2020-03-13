@@ -13,7 +13,7 @@ categories:
 tags:
   - S5
 ects: 6
-schedule: "54h"
+schedule: "18h cours + 24 TD + 12h TP"
 website: "http://deptinfo.unice.fr/%7ejulia/AL/"
 email: "sandrine.julia@univ-cotedazur.fr"
 #

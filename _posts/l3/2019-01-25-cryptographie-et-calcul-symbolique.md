@@ -13,7 +13,7 @@ tags:
   - S5
   - OPT
 ects: 6
-schedule: "54h"
+schedule: "18h cours + 12h TD + 24h TP"
 # website: "#"
 email: "bruno.martin@univ-cotedazur.fr"
 #

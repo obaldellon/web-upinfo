@@ -205,5 +205,5 @@ Les cours sont dispensés en français.
    - **Paradigmes et interprétation**
    - **Grands concepts de l'informatique fondamentale**
 - L'une des UE suivantes (choix d'option 2)
-   - **Projet science informatique** : il se compose de deux ECUE, qui sont *introduction à la démarche scientifique* et *projet de licence* 
-   - **Génie logiciel et projet de développement**
+   - **Méthodes de simulation informatique** 
+   - **Travail encadré d'étude, de recherche et de développement (TERD)**

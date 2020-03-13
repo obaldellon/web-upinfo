@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 subheadline: "P. Collard, PR"
-title: "Projet sciences informatiques"
+title: "Méthodes de simulation informatique"
 logo: "logo_blanc-l.png"
 teaser: "Objectif : S'initier à la démarche scientifique: modéliser, simuler et valider l'étude d'un phénomène à l'aide d'outils informatiques. Savoir présenter un problème, discuter les approches de résolution possibles, défendre des conclusions devant des pairs, et réciproquement savoir évaluer les résultats d'autres études sur des sujets connexes."
 categories:
@@ -13,7 +13,7 @@ tags:
   - S6
   - OPT
 ects: 6
-schedule: "64h"
+schedule: "24h cours + 18h TD + 18h TP"
 # website: "#"
 email: "philippe.collard@univ-cotedazur.fr"
 #
