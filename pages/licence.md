@@ -9,7 +9,9 @@ header:
 permalink: "/programme/licence/"
 ---
 
+{% comment %}
 {% include alert info="<b>Cette page sera mise à jour prochaînement.</b>" %}
+{% endcomment %}
 
 ## Présentation
 La licence informatique vise à préparer au mieux les futurs informaticiens
