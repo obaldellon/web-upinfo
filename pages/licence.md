@@ -206,4 +206,4 @@ Les cours sont dispensés en français.
    - **Grands concepts de l'informatique fondamentale**
 - L'une des UE suivantes (choix d'option 2)
    - **Méthodes de simulation informatique** 
-   - **Travail encadré de recherche et de développement (TERD)**
+   - **Travail encadré d'étude, de recherche et de développement (TERD)**
