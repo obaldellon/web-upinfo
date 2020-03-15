@@ -25,7 +25,7 @@ Et si vous êtes motivés, pourquoi ne pas [soumettre une modification](#pull) ?
 
 Contribuer au site est facile.
 
-1. Fork le [projet](https://github.com/arnaud-m/master-info).
+1. Forker le [projet](https://github.com/arnaud-m/master-info).
 2. Travailler avec le code source : le site est basé sur [jekyll](https://jekyllrb.com/), générateur de site statique simple, prêt-à-bloguer.
 3. Modifier le site et le tester localement.
 4. Envoyer une pull request sur Github.
@@ -41,7 +41,7 @@ Vous débutez avec git ? Lisez le guide ci-dessous.
 4. Configurez votre fork pour pouvoir le synchroniser avec le projet en suivant la [documentation](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork).
 
 Il est possible de contribuer sans compte github (en clonant et patchant) si vous êtes déjà familier avec `git`. 
-### Travailler sur sa propre branche
+### Travailler sur sa propre branche locale
 
 Vous allez travailler indépendamment sur votre branche et vous re-synchroniserez votre fork au moment de soumettre vos modifications. 
 ```
@@ -82,6 +82,24 @@ Configurez la pull request de la manière suivante :
  
 Normalement, il ne devrait plus y avoir de conflits.
 
+### Resynchroniser sa branche locale
+
+Mettez à nouveau à jour la branche `master-info`.
+```
+ git checkout master-info
+ git merge upstream master-info 
+```
+
+Resynchronisez votre branche.
+```
+ git checkout <nom_branche>
+ git rebase master-info 
+```
+
+### Travailler sur sa propre branche distante
+
+Si vous poussez votre branche locale sur votre fork (`git push`), il faudra remplacer certaine commandes `git rebase` par des `git merge` pour préserver l'historique de votre branche distante. 
+
 ## Tests
 
 Lors du premier déploiement, vous devrez installer les dépendances requises pour le site 
@@ -89,7 +107,7 @@ Lors du premier déploiement, vous devrez installer les dépendances requises po
 bundle install
 ```
 
-Ensuite, le projet contient un [makefile](https://github.com/arnaud-m/master-info/blob/master-info/Makefile) très simple pour déployer localement le site 
+Ensuite, le projet contient un [makefile](https://github.com/arnaud-m/master-info/blob/master-info/Makefile) très simple pour déployer localement le site. 
 ```
 make serve
 ```
