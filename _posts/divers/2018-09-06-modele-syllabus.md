@@ -241,3 +241,83 @@ $(function(){
 });
 ```
 
+### Normal code block
+
+```java
+/** Comment */
+public void method();
+```
+
+*Some extra explanation to help understand the code.*
+
+
+### Code block with title
+
+```java
+/** Comment */
+public void method();
+```
+{: title="Short description of the code block"}
+
+
+### Code block with Liquid code
+
+```liquid{% raw %}
+{% for tag in site.data.tags %}<li>{{ tag.name }}{% unless forloop.last %}, {% endunless %}</li>{% endfor %}
+```{% endraw %}
+{: title="Liquid code, that's not executed"}
+{% comment %}Outputting `endraw` in code block requires some trickery: http://blog.slaks.net/2013-06-10/jekyll-endraw-in-code/{% endcomment %}
+
+### Code block for shell
+
+```shell
+me@laptop$ command args "more args"
+output text from command
+though output may be highlighted weirdly
+```
+
+## Quotes
+
+Here's a <q>short quotation</q> which is in the middle of a sentence.
+
+> This is a long quotation by someone, normal markdown formatting rules apply:  
+  **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>
+  <cite>TWiStErRob</cite>
+
+> <samp>Program output text</samp> <cite>output from [file.name](http://sources.com/path/to/file.name#line=123) in [library](http://library.com/)</cite>
+
+
+## Alerts
+All `alert`s support markdown and their names are all lowercase, because they're used as CSS classes, for example TODO is `alert todo=`. The <q>TODO:</q> prefix is not automatically inserted, it's for name calling only here.
+{% include alert alert='Alert:  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert warning='Warning: call out a caveat that\'s easy to trigger  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert info='Info: supplementary information, for example links to further reading or documentation.  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert tip='Tip: call out something non-trivial that could help.  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert success='Success:  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert text='Text:  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert todo='TODO: reminder to myself that something needs to be done here  
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+
+{% include alert terminal='Terminal:<br/>
+    This is like any normal markdown, even when used from non-markdown context:  
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    
