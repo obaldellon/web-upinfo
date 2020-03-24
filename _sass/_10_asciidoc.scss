@@ -1,7 +1,11 @@
 
 $experimental: true;
 
-$pre-bg: $code-background-color;
+@if variable-exists(this-code-background-color) {
+    $pre-bg: $this-code-background-color;
+} @else {
+    $pre-bg: $code-background-color;
+}
 $pre-border-size: $panel-border-size;
 $pre-border-style: $panel-border-style;
 $pre-border-color: $panel-border-color;
@@ -49,14 +53,23 @@ $rainbow-lightness: 20%;
     word-spacing: $code-word-spacing;
   }
   //white-space: nowrap;
-  @if $code-background-color != inherit {
-    background-color: $code-background-color;
-  }
   @if $code-border-size != 0 {
     border: $code-border-size $code-border-style $code-border-color;
   }
-  @if $code-background-color != inherit or $code-border-size != 0 {
-    @include radius;
+  @if variable-exists(this-code-background-color) {
+    @if $this-code-background-color != inherit {
+      background-color: $this-code-background-color;
+    }
+    @if $this-code-background-color != inherit or $code-border-size != 0 {
+      @include radius;
+    }
+  } @else {
+    @if $code-background-color != inherit {
+      background-color: $code-background-color;
+    }
+    @if $code-background-color != inherit or $code-border-size != 0 {
+      @include radius;
+    }
   }
   //text-shadow: none;
   line-height: $code-line-height;
@@ -68,7 +81,12 @@ $rainbow-lightness: 20%;
 pre, pre > code {
   line-height: $pre-line-height;
   // this overrides what was set on code
-  color: $code-color;
+  @if variable-exists(this-code-color) {
+    color: $this-code-color;
+  }
+  @else {
+    color: $code-color;
+  }
   font-family: $code-font-family;
   font-weight: normal;
   @if $code-text-rendering != inherit {

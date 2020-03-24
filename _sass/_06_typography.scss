@@ -171,17 +171,30 @@ td {
 /* Code
 From https://github.com/Phlow/feeling-responsive/issues/156
 ------------------------------------------------------------------- */
-$code-border: 3px ridge transparentize(darken($primary-color, 40%), 0.5);
+$code-border: 3px ridge transparentize($primary-color, 0.5);
 pre {
     margin-bottom: rem-calc(20);
     padding: rem-calc(4) rem-calc(7) rem-calc(3) rem-calc(4);
     border-radius: $global-radius;
     line-height: 1.2;
     max-height: 350px;
-    color: $code-color;
-    background-color: $code-background-color;
-    .alert-box & {
-        background-color: opacify($code-background-color, 0.3);
+    @if variable-exists(this-code-color) {
+        color: $this-code-color;
+    }
+    @else {
+        color: $code-color;
+    }
+    @if variable-exists(this-code-background-color) {
+        background-color: $this-code-background-color;
+        .alert-box & {
+            background-color: opacify($this-code-background-color, 0.3);
+        }
+    }
+    @else {
+        background-color: $code-background-color;
+        .alert-box & {
+            background-color: opacify($code-background-color, 0.3);
+        }
     }
     &:active {
         //max-height: none; // TODO annoying and impossible to scroll
@@ -210,7 +223,12 @@ pre {
     &::-webkit-scrollbar {
         height: 12px;
         width: 12px;
-        background: lighten($code-background-color, 10%);
+        @if variable-exists(this-code-background-color) {
+            background: lighten($this-code-background-color, 10%);
+        }
+        @else {
+            background: lighten($code-background-color, 10%);
+        }
     }
 
     &::-webkit-scrollbar-thumb {
@@ -240,8 +258,8 @@ pre {
     @media print {
         border: 1px solid $aluminum !important; // from _type > @print > pre
     }
-    background-color: transparentize(scale-color($header-font-color, $lightness: -90%), 0.5);
-    color: darken($header-font-color, 20%);
+    background-color: transparentize($primary-color, 0.8);
+    color: $primary-color;
     border-bottom: none;
 }
 

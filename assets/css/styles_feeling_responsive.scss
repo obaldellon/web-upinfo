@@ -36,6 +36,11 @@ sitemap:
 @import "foundation-components/type";
 @import "foundation-components/visibility";
 
+// Uncomment to test another syntax highlighting
+@import "11_syntax-highlighting_murphy.scss";
+// @import "11_syntax-highlighting_prism.scss";
+// @import "11_syntax-highlighting_rand01.scss";
+
 @import "06_typography.scss";
 @import "07_layout.scss";
 @import "foundation-components/grid";
@@ -44,5 +49,3 @@ sitemap:
 {% if site.asciidoctor-enabled == true %}
 @import "10_asciidoc.scss";
 {% endif %}
-
-@import "11_syntax-highlighting.scss";

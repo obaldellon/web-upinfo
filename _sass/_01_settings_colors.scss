@@ -27,7 +27,7 @@ $body-bg: 			#fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1: #212529;		// dark turquoise
-$ci-2: rgba(0, 133, 163, 0.8);		// turquoise
+$ci-2: rgb(0, 133, 163);		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
@@ -39,7 +39,7 @@ $ci-7: #0df;     // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-1;
+$primary-color: $ci-2;
 $secondary-color: $ci-6;
 $alert-color: $ci-5;
 $todo-color: $ci-2;
@@ -125,7 +125,7 @@ $subfooter-link-color: $grey-8;
 $code-background-color: rgb(248, 248, 248);//scale-color($secondary-color, $lightness: 70%);
 $code-color: #5d7980;
 
-$highlight-background: #ffffff;
+/*$highlight-background: #ffffff;
 $highlight-comment: #AED8E5;
 $highlight-comment-special: #999999;
 $highlight-deleted: #000000;
@@ -158,4 +158,4 @@ $highlight-name-namespace: #83FEE6;
 $highlight-name-tag: #000080;
 $highlight-name-variable: #008080;
 $highlight-subheading: #aaaaaa;
-$highlight-text-whitespace: #bbbbbb;
+$highlight-text-whitespace: #bbbbbb; */
