@@ -39,7 +39,7 @@ All the material for this course is available on Moodle.
  - Design Patterns by examples: 
     - Behavior: Visitors (static or dynamic), 
     - Creation: Factory, Singleton
- - Generating Environments
+ - Generating Environments from models
     - Generating Parsers and Lexical Analyzers
     - Generating Graphical Editors
  - Code Versioning 
