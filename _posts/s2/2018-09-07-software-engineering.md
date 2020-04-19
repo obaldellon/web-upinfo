@@ -30,6 +30,8 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
+All the material for this course is available on Moodle.
+
 ### Description ###
 
  - The Eclipse Modeling Framework: Building tools for software Engineers
@@ -44,7 +46,7 @@ header:
 
 ### Grading ###
 
- - Project (40%)
+ - Project (40%) - [2020]({% include link-asset asset="project-m1/"} )
  - Final Exam (60%)
 
 ### Resources ###
