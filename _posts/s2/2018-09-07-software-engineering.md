@@ -46,7 +46,7 @@ All the material for this course is available on Moodle.
 
 ### Grading ###
 
- - Project (40%) - [2020]({% include link-asset asset="project-m1/"%} )
+ - Project (40%) - [2020]({% include link-asset asset="project-m1/project.pdf"%} )
  - Final Exam (60%)
 
 ### Resources ###
