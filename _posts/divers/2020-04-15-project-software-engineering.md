@@ -5,22 +5,23 @@ layout: page-fullwidth
 #
 subheadline: "Project Software Engineering"
 title: "Improving the design flow"
-teaser: "The project aims at improving the design flow for printing protective equiment for COVID" 
+teaser: "The project aims at improving the design flow for printing protective equiment for COVID-19." 
 categories:
   - divers
 tags:
   - NEWS
+  - Fablab
 # website: "https://lms.univ-cotedazur.fr/course/view.php?id=11739"
 # email: "#"
 #
 # Styling
 #
 image:
-  header: "header-covid19.png"
-  thumb: "thumb-covid19.png"
-  homepage: "header-covid19.png"
+  header: "header-project-software-engineering.png"
+  thumb: "thumb-project-software-engineering.png"
+  homepage: "header-project-software-engineering.png"
 header:
-  image_fullwidth: "header-covid19.png"
+  image_fullwidth: "header-project-software-engineering.png"
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
@@ -46,7 +47,7 @@ This is a bad flow since STL store shapes as set of triangle faces, reconstructi
 
 The tool for 3D printers starts with [.STL files](https://en.wikipedia.org/wiki/STL_(file_format)). The 3D shapes are sliced into 2D layers, a path in 2D of a given thickness. STL files mainly contain [meshes](http://en.wikipedia.org/wiki/Polygon_mesh), here we consider, as a first approximation, a list of points (in 3D) and a list of faces (mainly triangles : list of 3 points, but could be other shapes).  
 
-![30% center](../../assets/s2/software-engineering/project-m1/images/mask_STL_top.png)
+![30% center]({% include link-asset asset="mask_STL_top.png" %})
 
 ### Laser cut
 
@@ -56,7 +57,7 @@ The tool for cutting 2D shapes uses [gcode](https://en.wikipedia.org/wiki/G-code
 
 One 2D layer is a set of **2D path**s, a sequence of **2D point**s or a group of 2D paths. The figure below gives an example of [SVG path](https://www.w3.org/TR/SVG/paths.html). Points can be linked by simple lines or by [Bezier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
-![20% center](../../assets/s2/software-engineering/project-m1/images/mask_SVG_paths.png)
+![20% center]({% include link-asset asset="mask_SVG_paths.png" %})
 
 #### Tiling and paving of shapes
 
@@ -67,7 +68,7 @@ Each shape can be replicated several times to optimize the use of raw material (
 
 The figure below gives an example of list of *Parameterized shapes* (see the dashed paths). This list is a mix of absolute position shapes and tiled shapes. In the top part of the figure, the basic shape is made of two masks and is replicated 3 times horizontally and 1 time vertically, with a negative distance between the horizontal replicates. In the bottom part of the figure, the basic shape is replicated twice horizontally and once vertically with a positive distance between the consecutive horizontal replicates.
 
-![20% center](../../assets/s2/software-engineering/project-m1/images/mask_RLD_paths.png)
+![20% center]({% include link-asset asset="mask_RLD_paths.png" %})
 
 On the figure above, we can see that the shapes are associated to layers. Each layer has a different color (here red and blue) that represents a different *configuration*.  
 
@@ -80,7 +81,7 @@ All these cutting instructions are sent to the laser cutter as a sequence of GCO
 
 The table below gives an example of powers depending on the colors. We can see that the configuration also contains the output parameter (yes or no) that says that the layer is used or ignored. When Output is no, the layer is not cut. When Output is yes, the layer is cut. 
 
-![20% center](../../assets/s2/software-engineering/project-m1/images/mask_RLD_power.png)
+![20% center]({% include link-asset asset="mask_RLD_power.png" %})
 
 ## New flow
 
