@@ -31,6 +31,8 @@ Cependant, il nous est demandé de trouver et suivre des solutions innovantes af
 Outre nos outils habituels de travail collaboratif à distance (site web, moodle, github, sphere engine), les étudiants ont mis en place un serveur [discord](https://discordapp.com/).
 [Discord](https://discordapp.com/) offre des fonctionnalités intéressantes : conférence vocale ; conférence vidéo ; partage d'écran ; chat.
 
-Donc, retrouvons-nous sur le [serveur discord du Master Informatique](https://discord.gg/YJAcCW4).
+Donc, retrouvons-nous sur le serveur discord du Master Informatique[^1].
+
+[^1]: L'URL du serveur n'est plus donnée publiquement ici pour éviter les messages intempestifs concernant les candidatures au master. 
 
 
