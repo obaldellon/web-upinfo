@@ -46,7 +46,7 @@ All the material for this course is available on Moodle.
 
 ### Grading ###
 
- - Project (40%) - [2020]({% include link-asset asset="project-m1/project.pdf"%} )
+ - Project (40%) - [2020]({% link _posts/divers/2020-04-15-project-software-engineering.md %} )
  - Final Exam (60%)
 
 ### Resources ###
