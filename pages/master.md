@@ -30,8 +30,6 @@ Les compétences développées sont les suivantes :
 Cette formation apprend aux étudiants à connaître et comprendre les concepts et les principes fondamentaux de l’informatique. Ils maîtrisent les liens entre les différents aspects de l’informatique, ce qui leur permet de transposer les méthodes et techniques d’un aspect à l’autre afin de concevoir, mettre en oeuvre et intégrer des applications.
 À l'issue du Master, un étudiant sait gérer des projets informatiques de grande échelle, incluant les normes de qualité permettant de concevoir leur architecture et leur intégration et évolution dans des systèmes préexistants.
 
-
-
 ## Première année ##
 
 Le Master Informatique se déroule sur 2 semestres.  
