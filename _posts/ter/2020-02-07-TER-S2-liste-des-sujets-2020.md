@@ -473,3 +473,21 @@ Exemple de scénarios :
 L'idée de ce projet est de proposer une expérience augmentée via une application mobile dans le musée du MAMAC à Nice
 Des œuvres sont présente et nous collaborons avec des écoles (lycées) pour la production de contenu connexe aux œuvres
 L'objectif est que le mobile devienne une sorte d'audioguide ++, guide les utilisateurs au travers du musée, leur fasse découvrir le contenu additionnel produit par les élèves et permette aux utilisateurs de remonter du contenu additionnel ou des avis.
+
+### Étude experimentale et theorique de divers modeles de flots
+ - Nombre d'étudiants souhaité : 1.
+ - Encadrants : [Nicolas Isoart et Jean-Charles Régin](mailto:nicolas.isoart@gmail.com,jcregin@gmail.com).
+ - Prérequis : bonne connaissance de la programmation java, intéret pour l'algorithmique et les structures de données.
+
+Il s’agit de facon une comparaison pratique et théorique de divers modeles de flots pour le successive shortest augmenting path algorithm (SSAP).
+Dans un premier temps il faudra implémenter l’algorithme SSAP pour le problème du flot maximum à coût minimum, tel que présenté dans le cours.
+
+De facon plus détaillé : on prend un graphe et on cherche un max flot min cost avec le SSAP en utilisant
+ - l’algorithme de Bellman Ford pour trouver les chaines augmentantes
+ - la transformation systématique des couts en cout réduit et l’algorithme de Dijsktra depuis la source jusqu’a tous les sommets. On expliquera dans le détail quelle queue de priorité est utilisée.
+ - la transformation systématique des couts en cout réduit et l’algorithme de Dijsktra avec les astuces décrites à la fin de la page 323 du livre « network Flows » pour éviter de cherche le plus chemin jusqu’à tous les sommets.
+
+ Ensuite, on considérera la version « uncapacitated » des graphes. Les pages 40-41 de « Network flows » explique comment tranformer un graph pour qu’il n’ait plus de capacité maximale.
+On reproduira les experiences précédentes sur ces graphes transformés. On comparer les résultats. On s’intéressera aussi à la complexité des algorithmes dans la cas ou le graphe a été transformé dans sa version uncapacitated
+
+On pourra consulter les pages wikipedia sur les differents algorithmes.
