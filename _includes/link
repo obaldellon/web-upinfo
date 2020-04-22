@@ -1,0 +1,10 @@
+{% comment %}
+*   
+*   This include lets you retrieve the path to a post in the 'divers' folder.
+*   
+*   The `page` paramater usually is a filename.  
+*
+*   Example: {% include link folder='bar' page='foo' %}
+*   
+{% endcomment %}
+{{ include.folder | relative_url | append:"/" | append:include.page }}
