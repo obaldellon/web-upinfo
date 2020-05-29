@@ -57,7 +57,6 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
 Les rendus sont à faire dans le cours [ECUE Projet disciplinaire INFO TER S2 - SMEFPR20](https://lms.univ-cotedazur.fr/course/view.php?id=12032) (onglet Rendus).  
 Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription (cliquez pour voir).
 La date limite est stricte pour le rapport. Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance. 
-TER-M1I-S2-2019-2020-Soutenances.pdf
 
 Le planning des soutenances est [ici]({% include link-asset asset="TER-M1I-S2-2019-2020-Soutenances.pdf" %}).  
 Nous alternerons les soutenances sur discord dans les salons vocaux 282 et TD06. 
