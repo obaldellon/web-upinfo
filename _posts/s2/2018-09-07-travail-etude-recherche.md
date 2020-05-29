@@ -47,13 +47,29 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
 
 ### Calendrier ###
 
-  - Mi-février : début des projets.
-  - Mi-juin : soutenance finale.
+  - Mi-février 2020 : début des projets.
+  - 16 Juin 2020 à 20h00 : rendu du rapport sur moodle
+  - 17-19 juin 2020 : rendu de la présentation sur moodle
+  - 17-19 juin 2020 : soutenance finale sur discord.
 
-Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}).
+<!-- Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}). -->
+
+Les rendus sont à faire dans le cours [ECUE Projet disciplinaire INFO TER S2 - SMEFPR20](https://lms.univ-cotedazur.fr/course/view.php?id=12032) (onglet Rendus).  
+Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription (cliquez pour voir).
+La date limite est stricte pour le rapport. Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance. 
+TER-M1I-S2-2019-2020-Soutenances.pdf
+
+Le planning des soutenances est [ici]({% include link-asset asset="TER-M1I-S2-2019-2020-Soutenances.pdf" %}).  
+Nous alternerons les soutenances sur discord dans les salons vocaux 282 et TD06. 
+
+- Les membres du groupe et les encadrants se connectent dans leur salon avant le début de la soutenance et le configure (partage d'écran, webcam, liens, documents, etc). 
+  - Les créneaux à l'heure pile (9h00, 10h00, etc) sont en TD06.
+  - Les créneaux à la demi-heure (9h30, 10h30, etc) sont en 282.
+- Les membres du jury changent de salon à la fin de chaque soutenance. 
+- Les informations importantes seront publiées dans le salon textuel général. 
+
 
 ### Appel à sujets ###
-
 
 L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).
 

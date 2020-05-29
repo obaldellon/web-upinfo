@@ -11,6 +11,8 @@ permalink: "/contact/"
 #### Pour toute information administrative ####
 
 - [ds4h-sco@univ-cotedazur.fr](mailto:ds4h-sco@univ-cotedazur.fr) : scolarité de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
+- [Laetitia Infantino](mailto:laetitia.infantino@univ-cotedazur.fr) : assistante administrative et pédagogique du département d’informatique.
+
 
 #### Pour toute information pédagogique ####
 
