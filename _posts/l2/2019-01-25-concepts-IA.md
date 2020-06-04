@@ -5,7 +5,7 @@ layout: syllabus
 # Content
 #
 subheadline: ""
-title: "Introduction à l'intelligence artificielle"
+title: "Concepts d'intelligence artificielle"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est destiné aux étudiants qui souhaitent se spécialiser en intelligence artificielle. "
