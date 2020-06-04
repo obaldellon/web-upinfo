@@ -1,5 +1,5 @@
-JEKYLL=bundle exec jekyll
-JOPTS=
+JEKYLL=bundle exec /usr/local/bin/jekyll
+JOPTS=--incremental
 DEVCONF=--config _config.yml,_config_dev.yml
 serve:
 	${JEKYLL} serve ${JOPTS} ${DEVCONF}
