@@ -13,9 +13,9 @@ tags:
   - S6
   - OPT
 ects: 6
-schedule: "44h"
+schedule: "24h CM + 36h TP"
 # website: "#"
-#email: "24h CM + 36h TP"
+#email: ""
 #
 # Styling
 #
