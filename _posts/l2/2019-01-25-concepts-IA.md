@@ -4,20 +4,20 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "P. Collard, PR"
-title: "Introduction aux systèmes intelligents"
+subheadline: ""
+title: "Introduction à l'intelligence artificielle"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
-teaser: "Ce cours introductif comporte deux parties, la première dédiée à l’intelligence collective et la seconde à l’intelligence individuelle."
+teaser: "Ce cours est destiné aux étudiants qui souhaitent se spécialiser en intelligence artificielle. "
 categories: 
  - L2
 tags:
  - S4
  - OPT
 ects: 6
-schedule: "42h"
-website: "philippecollard.com"
-email: "philippe.collard@univ-cotedazur.fr"
+schedule: "24h CM, 18h TD, 18h TP"
+website: ""
+email: ""
 #
 # Styling
 #

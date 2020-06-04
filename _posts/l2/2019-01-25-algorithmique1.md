@@ -13,7 +13,7 @@ categories:
 tags:
   - S4
 ects: 6
-schedule: "48h"
+schedule: "24h CM, 36h TD"
 # website: "#"
 email: "emmanuel.kounalis@univ-cotedazur.fr"
 #
