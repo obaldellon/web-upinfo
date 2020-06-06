@@ -35,6 +35,6 @@ Les modalités des mineures sont définies par les enseignants chargés du cours
 Elles proviennent principalement d’autres domaines que l’informatique et sont gérées par d’autres masters. Elles peuvent évoluer.
 Les syllabus des mineures sont disponibles sur cette [page](http://univ-cotedazur.fr/en/eur/ds4h/graduate-school/masters-programs/minor/minors "page des masters DS4H") ou dans cette [brochure](http://univ-cotedazur.fr/en/eur/ds4h/contents/files/minors-brochure "Brochure des mineures DS4H").
 
-*Les alternants ne sont pas autorisés à suivre les mineures*
+*Les alternants ne sont pas autorisés à suivre les mineures.*
 
 
