@@ -29,6 +29,11 @@ header:
 #  caption_url: https://unsplash.com/  
 ---
 
+{% include alert info='Info : Épreuve de rattrapage.  
+    L\'épreuve de rattrapage (2ème chance) est prévue le 16 juin de 13h à 15h.
+    Les consignes de cette épreuve seront données sur moodle dans l\'onglet [Épreuve de rattrapage](https://lms.univ-cotedazur.fr/mod/assign/view.php?id=109382).
+    Il vous est fortement conseiller de suivre le [tutoriel](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=1), et de faire les exercices de l\'onglet [C](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=3) du cours [UCANCODE](https://lms.univ-cotedazur.fr/course/view.php?id=14552).'%}
+
 ###  Description ###
 Ce cours est diviser en deux sous-modules :
 1. Structures de données
