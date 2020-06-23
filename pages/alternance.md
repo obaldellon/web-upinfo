@@ -22,6 +22,8 @@ Plusieurs guides du [CFA EPURE](https://www.cfa-epure.com/) expliquent l'alterna
   - [Guide du maitre d'apprentissage (pdf)](https://www.cfa-epure.com/media/FORMASUP-GUIDE-DU-MAITRE-D-APPRENTISSAGE.pdf)
   - [Comparatif apprentissage / contrat de professionnalisation](http://www.cfa-epure.com/media/FICHE-CACP-03WEB.pdf)
   - [Résumé des aides pour les alternants](http://www.cfa-epure.com/lalternance-en-apprentissage/les-aides-pour-les-jeunes/)
+  - [L'alternance présenté sur le site du Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation](https://www.enseignementsup-recherche.gouv.fr/cid20247/l-alternance-dans-le-superieur.html)
+  - [Le Contrat d'apprentissage présenté sur le site service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F2918#:~:text=La%20formation%20de%20l'apprenti%20doit%20avoir%20une%20dur%C3%A9e%20minimale,un%20suivi%20par%20le%20CFA.)
   
 Le responsable de l'alternance pour le Master Informatique 1<sup>re</sup> année et pour la 2<sup>e</sup> année pour le parcours "Informatique et Interactions" est [Philippe Renevier Gonin](http://www.i3s.unice.fr/~renevier/index.fr.html).<br />
 
