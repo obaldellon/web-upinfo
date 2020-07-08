@@ -17,5 +17,6 @@ permalink: "/contact/"
 #### Pour toute information pédagogique ####
 
 - [master-info@i3s.unice.fr](mailto:master-info@i3s.unice.fr). 
+- [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
 
 
