@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Deuxième semestre"
+teaser: "Parcours <i>Informatique</i> et <i>Computer Science</i>."
 #logo: "logo_blanc.png"
 #logo_flush: "center"
 header:
@@ -14,9 +15,13 @@ permalink: "/programme/semestre2/"
 Pour les étudiants apprentis, le projet d’apprentissage fait office de TER. Les étudiants présentent leurs travaux en français accompagnés d’un rapport.
 {%include accordion-posts category="S2" tag="REQ" %}
 
+Les étudiants du parcours *Computer Science* ne suivent pas les cours "Gestion de projet" et "Anglais".
+
 ## Cours optionnels ##
 
-6 cours au minimum doivent être choisis.
+Pour le parcours *Informatique*, les étudiants doivent suivre entre 6 et 8 cours pouvant inclure une mineure.
+En alternance, il est vivement déconseillé de suivre plus de 6 cours et les mineures sont interdites.  
+Pour le parcours *Computer Science*, les étudiants doivent suivre entre 8 et 10 cours pouvant inclure une mineure.
 
 {%include accordion-posts category="S2" tag="OPT" %}
 

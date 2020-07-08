@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Troisième semestre"
+teaser: "Parcours <i>Informatique et interactions</i>."
 #logo: "logo_blanc.png"
 #logo_flush: "center"
 header:
@@ -16,7 +17,8 @@ permalink: "/programme/semestre3/"
 
 ## Cours optionnels ##
 
-7 cours au minimum doivent être choisis si vous choisissez une mineure, sinon vous devez en choisir au moins 8.
+Vous devez suivre entre 8 et 10 cours pouvant inclure une mineure.
+En alternance, il est vivement déconseillé de suivre plus de 6 cours et les mineures sont interdites.
 
 {%include accordion-posts category="S3" tag="OPT" %}
 
