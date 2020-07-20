@@ -48,3 +48,25 @@ N'oubliez pas de consulter [les consignes](https://unice-my.sharepoint.com/:w:/g
 ### Forum entreprise le 24 mars 2020 ###
 
 Le 24 mars 2020, aux lucioles, à partir de 12h, il y a le forum entreprise, pour les Masters Miage et Informatique. Le forum ne concerne pas directement les étudiant.e.s en alternance, quoiqu'il leur est possible de conseiller leurs camarades. En revanche, le forum peut intéresser directement les entreprises pour présenter de sujets pour l'année prochaine.
+Le forum n'a pas eu lieu physiquement mais il a été remplacé par un forum en ligne sur la plateforme : [https://link.univ-cotedazur.fr/](https://link.univ-cotedazur.fr/)
+
+### Soutenance du semestre 2 ###
+
+Les soutenances sont le jeudi 03 septembre 2020 dans la salle du conseil sur le site des lucioles (si la situation sanitaire le permet). Voici le planning : 
+
+  * 09h00 : Diane Delsinne
+  * 10h00 : Alex Zarzitski
+  * 11h00 : Camélia Benhmida Zarzitski
+  
+  * 14h00 : Swabahadine Abdallah
+  * 15h00 : Michaël Porracchia
+  * 16h00 : Maël Vaillant-Beuchot
+
+### Soutenance du semestre 4 ###
+
+Les soutenances sont le vendredi 04 septembre 2020 dans la salle du conseil sur le site des lucioles (si la situation sanitaire le permet). Voici le planning : 
+
+  * 09h00 : Mathias Percelay
+  * 10h00 : Théo Qui
+  * 11h00 : Violette Heron
+  
