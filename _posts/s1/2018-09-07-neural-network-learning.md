@@ -4,9 +4,9 @@ layout: syllabus
 # Content
 #
 subheadline: "E. Formenti, PR"
-title: "Neural network and learning"
+title: "Neural networks and learning"
 logo: "logo_blanc.png"
-teaser: "teaser ..."
+teaser: "The main goal of the course is to introduce the students to the different concepts of machine learning by neural networks (also several other models will be considered). For most subjects, first the formal aspects and concepts will be introduced and explained, then they will be illustrated through a series of programming exercises and experiments."
 categories:
   - S1
 tags:
@@ -30,10 +30,7 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-
-# Neural networks and learning #
-
-DS4H Master of Computer Science, Université Côte d'Azur.
+**DS4H Master of Computer Science, Université Côte d'Azur**
 
 **Instructor:** Enrico Formenti
 
