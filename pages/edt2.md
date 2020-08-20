@@ -1,9 +1,9 @@
 ---
 layout: edt-fullwidth
 # layout: edt-fullwidth
-title: "Emploi du temps M2"
-subheadline: ""
-teaser: "Vous trouverez sur cette page le calendrier universitaire du Master 2 Informatique."
+title: "Emploi du temps"
+subheadline: "Master 2 Informatique"
+teaser: "Vous trouverez sur cette page le calendrier universitaire du parcours <i>Informatique et interactions</i>."
 # tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrR_SqzbiB0ZhVtrO3rs2GF7abDVjQLbTP2mWqbxGlwRz3bNX7sPXuMgQDEb3tNA/pubhtml?gid=363208123&single=true&amp;widget=true&amp;headers=false"
 permalink: "/edt/m2/"
 #
