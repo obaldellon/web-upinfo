@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "enrico.formenti@unice.fr"
+email: "enrico.formenti@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -30,15 +30,8 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-**DS4H Master of Computer Science, Université Côte d'Azur**
-
-**Instructor:** Enrico Formenti
-
-**Email:** enrico.formenti@univ-cotedazur.fr
-
-**Office:** Bureau 222, Laboratoire I3S
-
-**Contact:** appointments by email
+ - **Instructor Office:** Bureau 222, Laboratoire I3S
+ - **Contact:** appointments by email
 
 ## Course description ##
 The main goal of the course is to introduce the students to the different concepts of machine learning by neural networks (also several other models will be considered).
