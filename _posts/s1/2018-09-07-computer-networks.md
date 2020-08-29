@@ -4,9 +4,9 @@ layout: syllabus
 # Content
 #
 subheadline: "R. Aparicio, MCF"
-title: "Computer networks"
+title: "(N/A) )Computer networks"
 logo: "logo_blanc.png"
-teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
+teaser: "<strong>This course is not available in 2020-2021.</strong></br>This course aims to present the architecture of the computer networks from a protocol perspective."
 categories:
   - S1
 tags:
