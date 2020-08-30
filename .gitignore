@@ -1,9 +1,11 @@
-.jekyll-metadata
-Gemfile.lock
-_build/
-_site/
-_images/
-.sass-cache/
+_site
+.bundle
 .DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+Gemfile.lock
 .jekyll-cache/
+_build/
+_images/
 Makefile
