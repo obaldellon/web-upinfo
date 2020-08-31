@@ -98,7 +98,7 @@ In this way, you'll have a good installation for developing your project.
 
 ## Course grading ##
 During the practice sessions (programming) there will be one or two assignments. The average mark of them will provide a mark *T*.
-Another mark *P* will come from a project assignment which will be given and explained in Lecture 5. The overall grading is obtained by the formula *(T+3P)/4* where *P* and *T* are in the range [0,20].
+Another mark *P* will come from a project assignment which will be given and explained in Lecture 5. The overall grading is obtained by the formula *(T+3P)/4* where *P* and *T* are in the range \[0,20\].
 
 ## Requests for instructor feedback ##
 Sometimes the notions or exercises given are a little bit cumbersome or hard to understand. Whenever this happens, students are invited to apply the following algorithm:
