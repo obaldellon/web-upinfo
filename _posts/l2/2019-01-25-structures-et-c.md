@@ -57,13 +57,6 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 ###### Supports de cours
 
 Les supports de cours seront bientôt mis à jour.
-<!--- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})
-- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})
-- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})
-- [CM 4]({% include link-asset asset="4-Listes_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Listes_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Listes_x2+notes.pdf" %})
-- [CM 5]({% include link-asset asset="5-Listes.pdf" %})
-- [TD1]({% include link-asset asset="TD1.pdf" %}), [TD2]({% include link-asset asset="TD2.pdf" %}), [TD3]({% include link-asset asset="TD3.pdf" %}), [TD4]({% include link-asset asset="TD4.pdf" %}), [TD5]({% include link-asset asset="TD5.pdf" %}), [TD6]({% include link-asset asset="TD6.pdf" %})
-- [Contrôle continu]({% include link-asset asset="interro2019.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="Correction-CC.pdf" %})-->
 
 ####  Programmation C ####
 
@@ -80,15 +73,6 @@ Ce cours est divisé en 5 grandes parties :
 ###### Supports de cours
 
 Les supports de cours seront bientôt mis à jour.
-<!--- 
-  - Le [Cours]({% include link-asset asset="LangageC.pdf" %}). Il ne faut pas hésiter à venir le consulter régulièrement car il change souvent.
-  - [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})
-  - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
-  - Le [QCM de 2010]({% include link-asset asset="interrogation1.pdf" %}) (contrôle continu) et avec [les solutions]({% include link-asset asset="interrogation1sol.pdf" %})
-  - Le [deuxième contrôle de 2011]({% include link-asset asset="interro.pdf" %}), ce document contient les réponses aux questions
-  - [L'énoncé du Projet de 2011]({% include link-asset asset="Projet.pdf" %})
-
-**Le projet de C** est désormais en ligne [sur la page moodle du cours UCAnCode](https://lms.univ-cotedazur.fr/course/view.php?id=14552). Dans l'onglet `C` du cours `UCAnCode` vous trouverez le projet et deux widgets pour tester votre code de _myWC_ et _multiple de 3_.-->
 
 ###  Calendrier ###
 - Les 6 premières séances sont dédiées aux Structures de données.
