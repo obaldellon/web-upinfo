@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 subheadline: "S. Touati, PR"
-title: "Architectures hautes performances"
+title: "Architectures de processeurs hautes performances"
 logo: "logo_blanc.png"
 teaser: "L’informatique est composée d’une partie logicielle et d’une
 partie matérielle. Cette matière est destinée aux étudiants souhaitant approfondir leurs connaissances et compréhension dans le fonctionnement des machines d’aujourd’hui et demain. Ces connaissances sont indispensables pour parfaire vos études en sciences et ingénierie informatiques, mais également pour que vous puissiez écrire des programmes efficaces et performants. Il ne s’agit pas d’un cours de conception de processeurs, mais un cours d’explications des mécanismes internes, vous permettant de comprendre comment le logiciel et le matériel interagissent ensemble."
@@ -14,8 +14,8 @@ tags:
   - OPT
 ects: 3
 schedule: "24h"
-# website: "#"
-email: "sid.touati@unice.fr"
+website: "https://lms.univ-cotedazur.fr"
+email: "sid.touati@univ-cotedazur.fr"
 #
 # Styling
 #
@@ -27,10 +27,8 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
-
-
 
 Nous aborderons les mécanismes micro-architecturaux et architecturaux introduits
 dans les processeurs pour améliorer leur vitesse et performance. Les processeurs
@@ -40,7 +38,7 @@ supercalaculateurs.
 
 ## Contenu ##
 
-Le site web du cours est un site privé sur [Jalon](http://jalon.unice.fr/).
+Le site web du cours est un site privé sur [Moodle](https://lms.univ-cotedazur.fr).
 
 - Introduction général et bref historique des processeurs
 - La notion des performances

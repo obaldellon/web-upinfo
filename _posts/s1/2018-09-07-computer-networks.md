@@ -27,23 +27,23 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
-First, networking basics are introduced, paying a special attention to how network services are organize in layers and how these services are implemented by standardized protocols. 
-Then, the different layers in the protocol stack are explored following a top--‐down approach. Finally, at each layer main protocols, algorithms and mechanisms are detailed. 
+First, networking basics are introduced, paying a special attention to how network services are organize in layers and how these services are implemented by standardized protocols.
+Then, the different layers in the protocol stack are explored following a top--‐down approach. Finally, at each layer main protocols, algorithms and mechanisms are detailed.
 
 ## Lectures ##
 ### Part 1: Ramon Aparicio
  - Session 1. INTRODUCTION / APPLICATIONS LAYER.
-     - Packet switching, performance (delay, throughput, ...), protocol stack (layers) --‐ Services Application layer. 
+     - Packet switching, performance (delay, throughput, ...), protocol stack (layers) --‐ Services Application layer.
  - Session 2. APPLICATIONS LAYER.
      - Protocols DNS, HTTP, FTP, email.
  - Session 3. TRANSPORT LAYER PRESENTATION.
      - UDP and TCP protocols, Sockets.
  - Session 4. TRANSPORT LAYER ALGORITHMS & MECHANISMS (TCP).
      - Congestion control, TCP throughput, TCP fairness.
-### Part 2: Chadi Barakat    
+### Part 2: Chadi Barakat
  - Session 5. NETWORK LAYER PRESENTATION.
      - Services (addressing, routing, fragmentation), IP Protocol.
  - Session 6. NETWORK LAYER ALGORITHMS & MECHANISMS.
@@ -52,8 +52,8 @@ Then, the different layers in the protocol stack are explored following a top--�
      - Services, Ethernet Protocol, MAC addresses, hub vs switch vs router.
  - Session 8. LINK LAYER ALGORITHMS & MECHANISMS
      - MAC (Aloha, CSMA--‐CD), IEEE 802.11.
-     
-## Teaching materials ##      
+
+## Teaching materials ##
 
 - Access only granted by password: http://www.i3s.unice.fr/~raparicio/teaching/compNetw/
 
@@ -70,7 +70,7 @@ Then, the different layers in the protocol stack are explored following a top--�
 
 - ONLY 2-hour written exam (French Univ. jargon: 2nd session = examen écrit de 2h)
 
-## Lecturers ## 
+## Lecturers ##
 
-- Ramon Aparicio Pardo (Module coordinator): http://www.i3s.unice.fr/~raparicio/ 
+- Ramon Aparicio Pardo (Module coordinator): http://www.i3s.unice.fr/~raparicio/
 - Chadi Barakat : https://team.inria.fr/diana/team-members/chadi/
