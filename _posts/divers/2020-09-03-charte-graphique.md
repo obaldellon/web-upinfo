@@ -3,7 +3,7 @@ layout: page-fullwidth
 #
 # Content
 #
-subheadline: "Charte Graphique"
+subheadline: "Licence et Master Informatique"
 title: "Charte Graphique"
 teaser: "Retrouvez ici les logos pour vos présentations, rapports de projet et stage." 
 categories:
