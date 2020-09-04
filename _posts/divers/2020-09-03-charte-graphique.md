@@ -8,8 +8,6 @@ title: "Charte Graphique"
 teaser: "Retrouvez ici les logos pour vos présentations, rapports de projet et stage." 
 categories:
   - divers
-tags:
-  - NEWS
 #
 # Styling
 #
