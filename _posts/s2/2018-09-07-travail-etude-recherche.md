@@ -119,6 +119,8 @@ Deux formats sont possibles et votre encadrant est libre de vous en imposer un :
 
 Veuillez lire ce document pour [préparer et écrire le rapport]({% include link-asset asset="TM_Guide_Redaction_EPFL.pdf" %}).
 
+De plus vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-03-charte-graphique %}) un modèle de rapport en LaTeX.
+
 ##### Exemple de plan #####
 
 1.  Introduction
