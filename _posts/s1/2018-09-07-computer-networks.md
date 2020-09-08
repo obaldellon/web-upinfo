@@ -3,10 +3,10 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "R. Aparicio, MCF"
-title: "(N/A) Computer networks"
+subheadline: "C. Barakat, DR INRIA"
+title: "Computer networks"
 logo: "logo_blanc.png"
-teaser: "<strong>This course is not available in 2020-2021.</strong></br>This course aims to present the architecture of the computer networks from a protocol perspective."
+teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
 categories:
   - S1
 tags:
@@ -15,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www.i3s.unice.fr/~raparicio/teaching/compNetw/"
-email: "ramon.aparicio-pardo@unice.fr"
+email: "chadi.barakat@inria.fr"
 #
 # Styling
 #
@@ -34,7 +34,7 @@ First, networking basics are introduced, paying a special attention to how netwo
 Then, the different layers in the protocol stack are explored following a top--‐down approach. Finally, at each layer main protocols, algorithms and mechanisms are detailed.
 
 ## Lectures ##
-### Part 1: Ramon Aparicio
+### Part 1:
  - Session 1. INTRODUCTION / APPLICATIONS LAYER.
      - Packet switching, performance (delay, throughput, ...), protocol stack (layers) --‐ Services Application layer.
  - Session 2. APPLICATIONS LAYER.
@@ -43,7 +43,7 @@ Then, the different layers in the protocol stack are explored following a top--�
      - UDP and TCP protocols, Sockets.
  - Session 4. TRANSPORT LAYER ALGORITHMS & MECHANISMS (TCP).
      - Congestion control, TCP throughput, TCP fairness.
-### Part 2: Chadi Barakat
+### Part 2:
  - Session 5. NETWORK LAYER PRESENTATION.
      - Services (addressing, routing, fragmentation), IP Protocol.
  - Session 6. NETWORK LAYER ALGORITHMS & MECHANISMS.
