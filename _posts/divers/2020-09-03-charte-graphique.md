@@ -19,9 +19,13 @@ header:
   caption_url: https://unsplash.com/
 ---
 
+Sur cette page vous trouverez les logos ainsi qu'un modèle de rapport en LaTeX pour vos projets, TER, stage,...
+
+## Logos 
+
 Il existe 2 logos, celui pour la licence et celui pour le master. Pour chacun de ces logos vous trouverez sur cette page une version du logo en couleur et une en blanc, ainsi que des versions avec le texte à droite du logo ou en-dessous du logo.
 
-##  Logo de Licence
+###  Logo de Licence
 
 ####  Logo horizontaux
 
@@ -38,7 +42,7 @@ Il existe 2 logos, celui pour la licence et celui pour le master. Pour chacun de
 ![Logo licence rond]({% include link folder="assets/img" page="logo_rond-l.png" %}){:style="width:15%"}
 ![Logo licence rond blanc]({% include link folder="assets/img" page="logo_rond_blanc-l.png" %}){:style="width:15%; background-color:#7aabbd"}
 
-##  Logo du Master
+###  Logo du Master
 
 ####  Logo horizontaux
 
@@ -54,3 +58,7 @@ Il existe 2 logos, celui pour la licence et celui pour le master. Pour chacun de
 
 ![Logo licence rond]({% include link folder="assets/img" page="logo_rond.png" %}){:style="width:15%"}
 ![Logo licence rond blanc]({% include link folder="assets/img" page="logo_rond_blanc.png" %}){:style="width:15%; background-color:#7aabbd"}
+
+## Modèle de rapport
+
+[Modèle de rapport]{% include link-asset asset="rapport.zip" %} en LaTeX.
