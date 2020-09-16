@@ -3,7 +3,7 @@ layout: edt-fullwidth
 title: "Emploi du temps"
 subheadline: "Master 1 Informatique"
 teaser: "Vous trouverez sur cette page le calendrier universitaire des parcours <i>Informatique</i> et <i>Computer Science</i>."
-# tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vThITMAlWusIyGYxv5hhTPBGnr3Y-3rj7gN8nTreTpdfKyunC_UWhOl2-aM1PhmrGBgeogt9C9WIuvA/pubhtml?gid=1523095882&amp;single=true&amp;widget=true&amp;headers=false"
+tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTk2m7MqD6w5nKZXtkXstMUcRHgLWlMMoPPXHSuoQKuaTOBFoy6RG2xoTWgC-GChg_ZN2ikOPp2SBew/pubhtml?gid=1523095882&amp;single=true&amp;widget=true&amp;headers=false"
 permalink: "/edt/m1/"
 #
 # Styling
