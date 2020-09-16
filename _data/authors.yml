@@ -9,11 +9,10 @@ arnaud:
   name: "Arnaud Malapert"
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~malapert/"
-  email: "arnaud.malapert@unice.fr"
-# you can add more authors here
-marie: 
+  email: "arnaud.malapert@univ-cotedazur.fr"
+marie:
   name: "Marie Pelleau"
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~mpelleau/"
-  email: "marie.pelleau@unice.fr"
+  email: "marie.pelleau@univ-cotedazur.fr"
 # you can add more authors here
