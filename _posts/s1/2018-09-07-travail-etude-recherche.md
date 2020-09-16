@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
+subheadline: "M. Pelleau, MCF"
 title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
 teaser: "Ce projet complète le projet de développement. L'objectif est de comprendre, formaliser, analyser, et répondre aux besoins du logiciel en termes de structures de données, d'algorithmes, d'aide à la décision, ou même d'intelligence artificielle."
@@ -26,14 +26,14 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 
 Il n'y a ni prérequis, ni cours magistraux.
 Les problématiques abordées seront toutefois liées à d'autres cours.
 
- 
+
 Les TDs servent à suivre et à encadrer les équipes d'étudiants dans la réalisation du projet.
  - Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
  - Définir et formaliser un ou plusieurs problèmes à résoudre dans un contexte agile.
@@ -45,7 +45,7 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 ### Modalités de contrôle des connaissances ###
 
  - Rapport (30%)
- - Soutenance orale (70%) 
+ - Soutenance orale (70%)
  - Pas de 2nde session.
 
 **Le rapport et la soutenance sont en anglais.**
@@ -62,10 +62,10 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 - La soutenance présente les éléments saillants (importants) du rapport.
 - La soutenance est suivie d'une séance de questions d'une dizaine de minutes.
 
-**Le jury comprend des personnes extérieures aux projets.**  
+**Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
-L'ordre de passage est donné ci-dessous. 
+L'ordre de passage est donné ci-dessous.
 
 | Horaire | Groupe              | Étudiants                                                             |
 |---------|---------------------|-----------------------------------------------------------------------|
@@ -103,14 +103,14 @@ On peut aussi prendre en considération les avantages octroyés par certains bâ
 
 ![Diagramme de production de marchandises avec Puerto Rico]({% include link-asset asset="puerto-rico-marchandises.png" %}){:class="img-responsive" style="width: 100%;"}
 
-Il est judicieux de considérer que chaque sommet a un état : 
+Il est judicieux de considérer que chaque sommet a un état :
 - **Atteint** : le prérequis est rempli, par exemple un bâtiment est construit.
 - **Possible** : le prérequis n'est pas rempli, mais peut être atteint, par exemple un bâtiment n'est pas construit, mais est disponible.
 - **Inatteignable** : le prérequis ne peut plus être rempli, par exemple un bâtiment n'est pas construit et n'est plus disponible.
 
 
 
-Ce diagramme permet de répondre à différentes questions : 
+Ce diagramme permet de répondre à différentes questions :
  - Est-il encore possible de produire X unités de marchandise ?
  - Qu'est-ce qui manque pour produire X unités de marchandise ? Quel est le coût en doublons et côlons ?
  - Combien d'étapes sont nécessaires pour produire X unités de marchandise ?
