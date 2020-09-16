@@ -25,8 +25,8 @@ header:
 {:toc}
 
 <!--
-### Nom du projet ### 
- - Nombre d'étudiants souhaité : 
+### Nom du projet ###
+ - Nombre d'étudiants souhaité :
  - Encadrant : [Prénom Nom](mailto:prenom.nom@domaine.fr).
  - Prérequis :
 
