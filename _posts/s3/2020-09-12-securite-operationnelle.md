@@ -6,7 +6,7 @@ layout: syllabus
 title: "Sécurité opérationnelle"
 subheadline: "B. Martin, PR"
 logo: "logo_blanc.png"
-teaser: "Ce cours propose tout d'abord une initiation à la cyber-sécurité pour en comprendre les enjeux, la réglementation et les acteurs. Il remplace le cours de model checking cette année."
+teaser: "Ce cours propose une initiation à la cyber-sécurité, une découverte des outils d'audit, et une présentation des techniques d'attaque des applications web."
 categories:
   - S3
 tags:
@@ -30,7 +30,7 @@ header:
 ---
 
 
-Ce cours sur 8 semaines est scindé en deux grandes périodes.
+Ce cours sur 8 semaines est scindé en trois grandes périodes.
 
 Il propose tout d'abord une initiation à la cyber-sécurité pour en
 comprendre les enjeux, la réglementation et les acteurs.  Les
@@ -42,14 +42,17 @@ sécurité du trafic sur Internet (web et mail). Les aspects sur la vie
 privée et les nouvelles réglementations (RGPD) seront discutés.  Dans
 l’ensemble du cours, on se situera aussi bien du coté de l’attaquant
 (les menaces) que du coté du RSSI -responsable de sécurité- pour
-évaluer les risques et préparer les défenses. Cette première partie du
-cours est commune avec le Master 2 MIAGE SIRIS.
+évaluer les risques et préparer les défenses.
 
 Dans un second temps, les étudiants du M2 "Informatique et Interactions"
 partiront à la découverte d'outils d'audit qui permettront d'illustrer
 plusieurs concepts (OSINT, Pentesting, vie privée, MIM, sûreté des
 mots de passe,...) et présenteront leur travail selon une approche de
 pédagogie inversée.
+
+Enfin, F. Ecard, professionnel de la sécurité, présentera des
+techniques d'attaque des applications du web qui seront mises en
+œuvre dans une série de travaux pratiques
 
 
 ### Goals ###
@@ -60,14 +63,19 @@ l'interface entre la direction et un RSSI ou un sous-traitant en
 matière de sécurité et pouvoir contribuer à la mise en place d'une
 politique de sécurité cohérente. Les étudiants auront un aperçu de
 plusieurs outils d'audit de sécurité et auront une meilleure
-connaissance de la vision "opérationnelle" de la cyber-sécurité.
+ connaissance de la vision "opérationnelle" de la cyber-sécurité.
+
 
 
 ### Evaluation ###
+
+
 -   Un contrôle écrit partiel (1/2 de la note)
 -   Un compte-rendu de mini-projet avec sa présentation (1/2 de la note)
 
 ### References ###
+
+
 -   B. Martin, Codage, cryptologie et applications, PPUR, 2004
 -   A. Noordergraaf, How hackers do it, Sun Blueprints, 2002
 -   FreeBSD Handbook, chapter 14, Security
