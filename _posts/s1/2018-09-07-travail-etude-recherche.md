@@ -14,7 +14,7 @@ tags:
 ects: 6
 schedule: "18h"
 # website: "#"
-email: "arnaud.malapert@univ-cotedazur.fr"
+email: "marie.pelleau@univ-cotedazur.fr"
 #
 # Styling
 #
