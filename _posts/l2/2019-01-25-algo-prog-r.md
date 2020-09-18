@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
 title: "Algo & Prog avec R"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une initiation à l'algorithmique et à la programmation dans le langage R offert aux portails SV, ST et SITE."
@@ -14,7 +13,7 @@ tags:
 ects: 3 ou 6
 #schedule: "48h"
 website: "http://www.i3s.unice.fr/~malapert/R/"
-email: "arnaud.malapert@univ-cotedazur.fr"
+author: arnaud
 #
 # Styling
 #

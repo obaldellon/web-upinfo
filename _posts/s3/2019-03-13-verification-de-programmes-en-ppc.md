@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Vérification de programmes en PPC"
-subheadline: "M. Pelleau, MCF"
 logo: "logo_blanc.png"
 teaser: "Ce cours est une introduction à la vérification de programmes en utilisant l'interprétation abstraite et la programmation par contraintes."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "marie.pelleau@univ-cotedazur.fr"
+author: marie
 #
 # Styling
 #

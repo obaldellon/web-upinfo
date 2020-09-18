@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "R. Aparicio-Pardo, MCF"
 title: "Réseaux et télécommunication"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours présenter les principes de fonctionnement des réseaux de téléommunication depuis le signal à transmettre jusqu'à la réalisation de réseaux locaux."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "Ramon.Aparicio-Pardo@univ-cotedazur.fr"
+author: ramon
 #
 # Styling
 #

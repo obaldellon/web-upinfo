@@ -8,7 +8,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Lozes, PR"
 title: "Logique avancée"
 logo: "logo_blanc.png"
 teaser: "Ce cours invite à découvrir les liens étroits existants entre
@@ -28,7 +27,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://deptinfo.unice.fr/~elozes"
-email: "etienne.lozes@univ-cotedazur.fr"
+author: etienne
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.

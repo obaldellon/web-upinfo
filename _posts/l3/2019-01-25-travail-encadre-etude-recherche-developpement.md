@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: ""
 title: "Travail encadré d'étude, de recherche et de dévelopement"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif est de réaliser, en équipe, un projet de fin d'études qui combine plusieurs thèmes appris durant vos études. Le sujet à réaliser change régulièrement ainsi que les enseignants. Chaque année, le responsable de licence vous communiquera le sujet du projet à réaliser pour que vous puissiez faire votre choix."
@@ -15,7 +14,7 @@ tags:
 ects: 6
 schedule: "24h CM + 36h TP"
 # website: "#"
-#email: ""
+# author: 
 #
 # Styling
 #

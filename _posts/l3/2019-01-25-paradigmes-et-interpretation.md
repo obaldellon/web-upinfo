@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J. Provillard, MCF"
 title: "Paradigmes et interprétation"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des 
@@ -16,7 +15,7 @@ tags:
 ects: 6
 schedule: "24h cours + 6h TD + 24h TP"
 # website: "#"
-email: "julien.provillard@univ-cotedazur.fr"
+author: julien
 #
 # Styling
 #

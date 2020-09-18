@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "S. Touati, PR"
 title: "Compilation"
 logo: "logo_blanc-l.png"
 teaser: " Introduction aux méthodes d'analyse syntaxique et d'analyse sémantique, dans le cadre de la construction de compilateurs et de traduction d'un formalisme en un autre."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h cours + 36h TD + 6h TP"
 # website: "#"
-email: "sid.touati@univ-cotedazur.fr"
+author: sid
 #
 # Styling
 #

@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "O. Baldellon, Prag"
 title: "Programmation impérative en Python"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation impérative dans le langage Python"
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "52h"
 website: "http://deptinfo.unice.fr/~obaldellon/python"
-email: "olivier.baldellon@univ-cotedazur.fr"
+author: olivier
 #
 # Styling
 #

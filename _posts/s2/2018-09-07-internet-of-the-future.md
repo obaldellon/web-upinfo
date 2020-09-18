@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "R. Aparicio, MCF"
 title: "(N/A) Internet of the future"
 logo: "logo_blanc.png"
 teaser: "<strong>This course is not available in 2020-2021.</strong></br>This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www.i3s.unice.fr/~raparicio/teaching/IoF/"
-email: "ramon.aparicio-pardo@unice.fr"
+author: ramon
 #
 # Styling
 #

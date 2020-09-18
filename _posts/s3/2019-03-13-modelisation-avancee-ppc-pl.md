@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Modélisation Avancée PPC/PL"
-subheadline: "A. Malapert, MCF"
 logo: "logo_blanc.png"
 teaser: "We will study and solve a real-life nurse rostering problem occurring at the university hospital centre Pasteur II."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "arnaud.malapert@univ-cotedazur.fr"
+author: arnaud
 #
 # Styling
 #

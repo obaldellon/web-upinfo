@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "C. Di Giusto, MCF"
 title: "Bases de l'informatique"
 logo: "logo_blanc-l.png"
 teaser: "Introduction à l'informatique"
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "cinzia.di-giusto@univ-cotedazur.fr"
+author: cinzia
 #
 # Styling
 #

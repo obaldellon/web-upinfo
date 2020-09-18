@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Solveur Programmation par Contraintes"
-subheadline: "J.-C. Régin, PR"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: ""
-email: "jcregin@gmail.com"
+author: jcregin
 #
 # Styling
 #

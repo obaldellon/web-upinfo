@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Formenti, PR"
 title: "Outils formels de l'informatique"
 logo: "logo_blanc-l.png"
 teaser: "Initiation à l'étude des fondements théoriques de l'informatique."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "enrico.formenti@univ-cotedazur.fr"
+author: enrico
 #
 # Styling
 #

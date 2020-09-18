@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Lozes, PR"
 title: "Programmation fonctionnelle"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation fonctionnelle typée. Le langage support pour le cours est OCaml."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h cours + 18h TD + 18h TP"
 website: "http://deptinfo.unice.fr/~elozes/PF"
-email: "etienne.lozes@univ-cotedazur.fr"
+author: etienne
 #
 # Styling
 #

@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
 title: "Graphes et programmation dynamique"
 logo: "logo_blanc.png"
 teaser: " La théorie des graphes est une théorie informatique et mathématique. 
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "arnaud.malapert@univ-cotedazur.fr"
+author: arnaud
 #
 # Styling
 #

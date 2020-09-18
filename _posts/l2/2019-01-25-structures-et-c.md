@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "M. Pelleau, MCF"
 title: "Structures de données et programmation C "
 logo: "logo_blanc-l.png"
 teaser: "Ce cours a pour objectif d'introduire les structures de données les plus classiques en s'appuyant sur le langage de programmation bas niveau C."
@@ -14,7 +13,8 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "marie.pelleau@univ-cotedazur.fr"
+
+author: marie
 #
 # Styling
 #

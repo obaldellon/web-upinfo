@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
 title: "Programming challenge"
 logo: "logo_blanc.png"
 teaser: " This course will introduce an interesting variety of subjects in programming, algorithms, and discrete mathematics though puzzles and problems which have appeared in the International ACM Programming Contest and similar venues."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "https://github.com/arnaud-m/Programming-Challenges"
-email: "arnaud.malapert@univ-cotedazur.fr"
+author: arnaud
 #
 # Styling
 #

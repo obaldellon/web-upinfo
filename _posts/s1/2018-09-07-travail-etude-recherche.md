@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "M. Pelleau, MCF"
 title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
 teaser: "Ce projet complète le projet de développement. L'objectif est de comprendre, formaliser, analyser, et répondre aux besoins du logiciel en termes de structures de données, d'algorithmes, d'aide à la décision, ou même d'intelligence artificielle."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h"
 # website: "#"
-email: "marie.pelleau@univ-cotedazur.fr"
+author: marie
 #
 # Styling
 #

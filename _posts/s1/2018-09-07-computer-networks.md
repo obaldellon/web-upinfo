@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "C. Barakat, DR INRIA"
 title: "Computer networks"
 logo: "logo_blanc.png"
 teaser: "This course aims to present the architecture of the computer networks from a protocol perspective."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www.i3s.unice.fr/~raparicio/teaching/compNetw/"
-email: "chadi.barakat@inria.fr"
+author: chadi
 #
 # Styling
 #

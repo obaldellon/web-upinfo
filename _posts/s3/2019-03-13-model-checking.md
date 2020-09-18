@@ -4,8 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Model Checking"
-subheadline: "E. De Maria, MCF"
-#"E. De Maria, MCF"
 logo: "logo_blanc.png"
 teaser: "Ce cours porte sur des méthodes et des outils qui permettent de vérifier automatiquement si un système (software ou hardware) vérifie une spécification donnée."
 categories:
@@ -15,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "edemaria@i3s.unice.fr"
+author: edemaria
 #
 # Styling
 #

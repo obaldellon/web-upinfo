@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "C. Di Giusto, MCF"
 title: "Parallelism"
 logo: "logo_blanc.png"
 teaser: "In this course we will study how to design and implement parallel algorithms for modern multicore machines."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "cinzia.di-giusto@univ-cotedazur.fr"
+author: cinzia
 #
 # Styling
 #

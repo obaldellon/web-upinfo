@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Sécurité opérationnelle"
-subheadline: "B. Martin, PR"
 logo: "logo_blanc.png"
 teaser: "Ce cours propose une initiation à la cyber-sécurité, une découverte des outils d'audit, et une présentation des techniques d'attaque des applications web."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "bruno.martin@univ-cotedazur.fr"
+author: bruno
 #
 # Styling
 #

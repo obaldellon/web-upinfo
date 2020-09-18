@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Théorie des Graphes avancée"
-subheadline: "N. Nisse, CR INRIA"
 logo: "logo_blanc.png"
 teaser: "This lecture is the continuation of the lecture on graphs and algorithms that I give in Master 1."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "nicolas.nisse@sophia.inria.fr"
+author: nicolas
 #
 # Styling
 #

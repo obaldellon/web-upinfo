@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "M. Pelleau, MCF"
 title: "Résolution de problèmes"
 teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être résolus, tels que l’allocation de portes d’embarquement aux avions, la recherche de chemins sous contraintes, etc. 
 Différents types de méthodes seront présentées, comme les algorithmes gloutons, la recherche locale et la programmation par contraintes."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "marie.pelleau@unice.fr"
+author: marie
 #
 # Styling
 #

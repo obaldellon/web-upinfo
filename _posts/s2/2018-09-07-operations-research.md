@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J.-C. Régin, PR"
 title: "Operations Research"
 logo: "logo_blanc.png"
 teaser: "This course is about shortest path and maximum flow problems in graphs."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "jcregin@gmail.com"
+author: jcregin
 #
 # Styling
 #

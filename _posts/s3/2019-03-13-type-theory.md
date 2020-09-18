@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Type Theory"
-subheadline: "C. Di Giusto, MCF"
 logo: "logo_blanc.png"
 teaser: "The aim of the course is to introduce a family of formal methods to reason about programs. We will focus on type systems that are useful for statically prove the absence of some bad program behaviours."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website:
-email: "cinzia.di-giusto@univ-cotedazur.fr"
+author: cinzia
 #
 # Styling
 #

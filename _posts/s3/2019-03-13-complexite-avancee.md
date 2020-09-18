@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Complexité Avancée"
-subheadline: "E. Formenti, PR"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "enrico.formenti@unice.fr"
+author: enrico
 #
 # Styling
 #

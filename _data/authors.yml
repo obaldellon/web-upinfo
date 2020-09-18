@@ -6,13 +6,103 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 arnaud:
-  name: "Arnaud Malapert"
+  name: "A. Malapert, MCF"
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~malapert/"
   email: "arnaud.malapert@univ-cotedazur.fr"
 marie:
-  name: "Marie Pelleau"
+  name: "M. Pelleau, MCF"
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~mpelleau/"
   email: "marie.pelleau@univ-cotedazur.fr"
+pierre:
+  name: "P. Lezowski, PRAG"
+  email: "pierre.lezowski@univ-cotedazur.fr"
+cinzia:
+  name: "C. Di Giusto, MCF"
+  email: "cinzia.di-giusto@univ-cotedazur.fr"
+olivier:
+  name: "O. Baldellon, PRAG"
+  email: "olivier.baldellon@univ-cotedazur.fr"
+franck:
+  name: "F. Guingne, MCF"
+  email: "franck.guingne@univ-cotedazur.fr"
+elena:
+  name: "E. Cabrio, MCF"
+  email: "elena.cabrio@univ-cotedazur.fr"
+enrico:
+  name: "E. Formenti, PR"
+  email: "enrico.formenti@univ-cotedazur.fr"
+ramon:
+  name: "R. Aparicio-Pardo, MCF"
+  email: "ramon.aparicio-pardo@univ-cotedazur.fr"
+sid:
+  name: "S. Touati, PR"
+  email: "sid.touati@univ-cotedazur.fr"
+emmanuel:
+  name: "E. Kounalis, PR"
+  email: "emmanuel.kounalis@univ-cotedazur.fr"
+sandrine:
+  name: "S. Julia, MCF"
+  email: "sandrine.julia@univ-cotedazur.fr"
+bruno:
+  name: "B. Martin, PR"
+  email: "bruno.martin@univ-cotedazur.fr"
+julien:
+  name: "J. Provillard, MCF"
+  email: "julien.provillard@univ-cotedazur.fr"
+etienne:
+  name: "E. Lozes, PR"
+  email: "etienne.lozes@univ-cotedazur.fr"
+jcregin:
+  name: "J.-C. Régin, PR"
+  email: "jcregin@gmail.com"
+serge:
+  name: "S. Miranda, PR"
+  email: "serge.miranda@unice.fr"
+chadi:
+  name: "C. Barakat, DR INRIA"
+  email: "chadi.barakat@inria.fr"
+philippect:
+  name: "P. Collet, PR"
+  email: "philippe.collet@unice.fr"
+gilles:
+  name: "G.Menez, MCF"
+  email: "gilles.menez@univ-cotedazur.fr"
+andrea:
+  name: "A. Tettamanzi, PR"
+  email: "andrea.tettamanzi@unice.fr"
+philipper:
+  name: "P. Renevier, MCF"
+  email: "philippe.renevier@unice.fr"
+frederic:
+  name: "F. Mallet, PR"
+  email: "frederic.mallet@unice.fr"
+philippecd:
+  name: "P. Collard, PR"
+  email: "philippe.collard@unice.fr"
+pyamate:
+  name: "P. Yamate"
+  email: "pyamate@gmail.com"
+nathalie:
+  name: "N. Sauvage"
+  email: ""
+nicolas:
+  name: "N. Nisse, CR INRIA"
+  email: "nicolas.nisse@sophia.inria.fr"
+michel:
+  name: "M. Buffa, MCF"
+  email: "michel.buffa@univ-cotedazur.fr"
+edemaria:
+  name: "E. De Maria, MCF"
+  email: "edemaria@i3s.unice.fr"
+fabrice:
+  name: "F. Huet, MCF"
+  email: "fabrice.huet@univ-cotedazur.fr"
+yves:
+  name: "Y. Bertot, DR INRIA"
+  email: "yves.bertot@inria.fr"
+richard:
+  name: "A. Richard, CR CNRS"
+  email: "richard@i3s.unice.fr"
 # you can add more authors here
