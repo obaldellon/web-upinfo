@@ -1,12 +1,5 @@
 <div id="page-meta" class="t30">
     <p>
-	<!--  <\!-- Look the author details up from the site config. -\-> -->
-	<!--  {% assign author = site.data.authors[page.author] %} -->
-	<!--  Output author details if some exist. -->
-	<!--  {% if author %} -->
-	<!--  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="{{ author.uri }}" target="_blank"> {{ author.name }}</a></span> -->
-	<!-- </span> -->
-	<!-- {% endif %} -->
         {% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
 
 	{% if page.ects %}<span class="icon-check pr20"> {{ page.ects }} ECTS</span>{% endif %}
@@ -17,5 +10,4 @@
         {% if page.website %}<span class="icon-home pr20"><a href="{{ page.website }}" target="_blank"> Site web</a></span>{% endif %}
         {% if page.email %}<span class="icon-mail pr20"><a href="mailto:{{ page.email }}" target="_blank"> {{ page.email }}</a></span>{% endif %}
     </p>
-
 </div><!--  /.page-meta -->
