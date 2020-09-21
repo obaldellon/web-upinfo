@@ -59,28 +59,28 @@ jcregin:
   email: "jcregin@gmail.com"
 serge:
   name: "S. Miranda, PR"
-  email: "serge.miranda@unice.fr"
+  email: "serge.miranda@univ-cotedazur.fr"
 chadi:
   name: "C. Barakat, DR INRIA"
   email: "chadi.barakat@inria.fr"
 philippect:
   name: "P. Collet, PR"
-  email: "philippe.collet@unice.fr"
+  email: "philippe.collet@univ-cotedazur.fr"
 gilles:
   name: "G.Menez, MCF"
   email: "gilles.menez@univ-cotedazur.fr"
 andrea:
   name: "A. Tettamanzi, PR"
-  email: "andrea.tettamanzi@unice.fr"
+  email: "andrea.tettamanzi@univ-cotedazur.fr"
 philipper:
   name: "P. Renevier, MCF"
-  email: "philippe.renevier@unice.fr"
+  email: "philippe.renevier@univ-cotedazur.fr"
 frederic:
   name: "F. Mallet, PR"
-  email: "frederic.mallet@unice.fr"
+  email: "frederic.mallet@univ-cotedazur.fr"
 philippecd:
   name: "P. Collard, PR"
-  email: "philippe.collard@unice.fr"
+  email: "philippe.collard@univ-cotedazur.fr"
 pyamate:
   name: "P. Yamate"
   email: "pyamate@gmail.com"
@@ -97,7 +97,7 @@ edemaria:
   name: "E. De Maria, MCF"
   email: "edemaria@i3s.unice.fr"
 fabrice:
-  name: "F. Huet, MCF"
+  name: "F. Huet, PR"
   email: "fabrice.huet@univ-cotedazur.fr"
 yves:
   name: "Y. Bertot, DR INRIA"
