@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-author: philippecd
+#author: philippecd
 #
 # Styling
 #
@@ -25,7 +25,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 
@@ -51,14 +51,13 @@ Durant cet enseignement seront en autres présentés des modèles de déplacemen
 
 - Systèmes complexes :
     - http://www.complex-systems.com
-      - http://www.systemescomplexes.fr 
+      - http://www.systemescomplexes.fr
 - Agent Based Model :
   - https://mitpress.mit.edu/books/introduction-agent-based-modeling
     - https://www.youtube.com/watch?v=A4Q5A2ZNpxk
 - Netlogo : https://ccl.northwestern.edu/netlogo/
-- GIS : https://gisgeography.com/what-gis-geographic-information-systems/ 
+- GIS : https://gisgeography.com/what-gis-geographic-information-systems/
 - Openstreetmap : https://qgis.org/fr/site/ http://openstreetmap.org
 
 
 ### Modalités de contrôle des connaissances ###
-
