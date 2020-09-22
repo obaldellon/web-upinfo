@@ -35,7 +35,7 @@ format: syllabus
 			</p>
 			{% endif %}
                         {% if page.show_meta == true %}
-                        {% include _meta_information_syllabus.html %}
+                        {% include _meta_information_syllabus.html authorinfo=author %}
 			{% endif %}
 
 			{{ content }}
