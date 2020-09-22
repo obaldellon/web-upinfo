@@ -26,15 +26,15 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
-  
-This is a lecture-lab course in which topics are presented by the instructor, practice problems are explained, and assigned problems are completed by students both during lab periods and outside of class. 
+
+This is a lecture-lab course in which topics are presented by the instructor, practice problems are explained, and assigned problems are completed by students both during lab periods and outside of class.
 
 ### Instructors ###
 
-  Arnaud Malapert (course facilitator), Gilles Menez, Valentin Montmirail, Marie Pelleau.
+  Arnaud Malapert, Gilles Menez, Marie Pelleau.
 
 ### Lectures ###
 
@@ -50,28 +50,10 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 1. [Graph]({% include link-asset asset="8-Graph.pdf" %})
 
 The source code of the lectures is available in this [repository](https://github.com/arnaud-m/Programming-Challenges).
-### Grading ###
 
- <!--- - **Concours UCAnCODE** (40%): you will participate to a local programming contest. Your grade will depend on your rank in the contest. -->
-- **Homework with Sphere Engine** (40%): there will be two problems sets over the course of the semester. Pair work is allowed.
-  - [STAR](https://51364960.widgets.sphere-engine.com/lp?hash=d82S0aO7SN)
-  - [CINEMA](https://51364960.widgets.sphere-engine.com/lp?hash=FEDuAqUZCK)
-- **Final Exam** (60%): there will be two final exams of 3 hours, on a computer, where you will be asked to solve one problem each.
-  - Look at the timetable where the time slots are given.
-  
-First, you must masterize the [tutorial]({% post_url ucancode/2019-07-22-tutoriel %}).
+### Problems
 
-##### Instructions for submitting your homework
-- Fill the problem form with your student email adresse.
-- For pair work, give your two email adresses as a comment in the file header.
-
-Beware that penalties will be given if you do not follow the above instructions.
-    
-    
-##### Cannot Log in to moodle ?
-
-You can still practice on the platforms Sphere Engine and spoj below.  
-Beware, in these widgets, your work is judged, but not marked for grading. 
+You can practice on the platforms Sphere Engine and spoj below.
 
 1 | [TEST](https://51364960.widgets.sphere-engine.com/lp?hash=BYJvSEImzv) ([spoj](https://www.spoj.com/problems/TEST/))         | [HELLOKIT](https://51364960.widgets.sphere-engine.com/lp?hash=5nZK5szNQp) ([spoj](https://www.spoj.com/problems/HELLOKIT/)) | [LC-DISPLAY](https://51364960.widgets.sphere-engine.com/lp?hash=3PHly1PcH6)                                                                                                     |
  2 | [GILNUM](https://51364960.widgets.sphere-engine.com/lp?hash=akOa9uI8qs)                                                     | [GILNUM (C/C++)](https://51364960.widgets.sphere-engine.com/lp?hash=aXNs7iIWY3)                                             | [MIRROR](https://51364960.widgets.sphere-engine.com/lp?hash=aLzFhfssNq)  |
@@ -82,9 +64,23 @@ Beware, in these widgets, your work is judged, but not marked for grading.
  7 | [PLAQ](https://51364960.widgets.sphere-engine.com/lp?hash=tUXeBE8MMo)                                                       | [REBOND](https://51364960.widgets.sphere-engine.com/lp?hash=MoVdQtKITi)                                                     |                                                                                                                                                                                 |
  8 | [ANARC08G](https://51364960.widgets.sphere-engine.com/lp?hash=knT8Qe9kRj) ([spoj](https://www.spoj.com/problems/ANARC08G/)) | [PARADOX](https://51364960.widgets.sphere-engine.com/lp?hash=snqNEbCYaf) ([spoj](https://www.spoj.com/problems/PARADOX/))   | [BUGLIFE](https://51364960.widgets.sphere-engine.com/lp?hash=lBWbE6pLT8) ([spoj](https://www.spoj.com/problems/BUGLIFE/))                                                       |
 
+First, you must masterize the [tutorial]({% post_url ucancode/2019-07-22-tutoriel %}).
+
+### Grading ###
+
+Coding Battle Oral (40%) - October 28, 2020
+: Each student present their solutions to problems given at the [Coding Battle](https://le-shaker.com/la-coding-battle-2/). Pair work is allowed.
+
+Homework with Sphere Engine (20%) - November 9, 2020
+: One problem, prepared at home is submitted during the last lab under teacher supervision. Pair work is allowed.
+
+Final Exam with Sphere Engine (40%) - January 2020
+: There are two problems to solve in the labs within 3 hours. Pair work is not allowed.
+
+
 ### Schedule ###
 
-<iframe src="https://calendar.google.com/calendar/embed?src=be9r3mfa0pnmkf0cfvb8ode4p8%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=YmU5cjNtZmEwcG5ta2YwY2Z2YjhvZGU0cDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F09300&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
 ### Resources
 
