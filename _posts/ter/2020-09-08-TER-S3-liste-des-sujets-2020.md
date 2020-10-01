@@ -45,7 +45,7 @@ Pour valider ce projet exploratoire, il faudra réfléchir aux briques de bases 
 **Il sera possible de poursuivre ce projet dans le cadre d'un stage de recherche au laboratoire I3S.**
 
 ### Refactorisation de codes de génération automatique de phrases standardisées permettant des tests de lecture à grande échelle ###
- - Encadrant : [Pierre Kornprobst, Jean-Charles Regin et Aurelie Calabrese](mailto:pierre.kornprobst@inria.fr,jcregin@gmail.com,aurelie.calabrese@inria.fr)
+ - Encadrant : [Pierre Kornprobst, Jean-Charles Regin & Aurelie Calabrese](mailto:pierre.kornprobst@inria.fr,jcregin@gmail.com,aurelie.calabrese@inria.fr)
  - Mots-clés : Architecture logicielle, programmation Java, algorithmes, structure des données, linguistique
 
 Notre projet vise à développer de nouveaux outils pour diagnostiquer les pathologies visuelles, en permettant des tests de lecture à grande échelle grâce à des méthodes de génération automatique de textes sous contraintes. Le test MNREAD - un test de lecture standardisé utilisé dans le monde entier, tant en clinique qu'en recherche - sert de base à nos travaux. Cependant, en raison de leur nature très contraignante, les phrases du tests MNREAD sont difficiles à produire, ce qui conduit à un nombre très limité de versions du test (seulement deux jeux de phrases en français, soit 38 phrases). Étant donné que des mesures répétées sont nécessaires dans de nombreuses situations cliniques, les communautés scientifiques et médicales sont très intéressées de disposer d’un plus grand nombre de phrases. Nous avons développé un premier prototype de générateur qui donne des résultats très prometteurs par rapport à une autre approche récente \[MAL+19\].
@@ -57,6 +57,25 @@ Les objectifs de ce TER sont :
  - Références :
    - \[MNREAD\] [Vidéo](https://www.precision-vision.com/mn-read-testing-demonstration) expliquant le test MNREAD
    - \[MAL+19\] Mansfield, J.S., Atilgan, N., Lewis, A.M.,Legge, G.E., [Extending the MNREAD sentence corpus: Computer-generated sentences for measuring visual performance in reading](https://www.sciencedirect.com/science/article/pii/S0042698919300227). Vision Research, 158, 11–18, 2019
+
+### ​Deep learning for Image / DNA strand denoising ###
+ - Encadrant : [​Marc Antonini & Eva Gil San Antonio](mailto:​am@i3s.unice.fr​,gilsanan@i3s.unice.fr).
+ - Prérequis : Matlab/Python
+
+Rapid technological advances and the increasing use of social media has caused a tremendous increase in the generation of digital data, a fact that imposes nowadays a great challenge for the field of digital data storage due to the short-term reliability of conventional storage devices. Hard disks, flash, tape or even optical storage have a durability of 5 to 20 years while running data centers also require huge amounts of energy.
+An alternative to hard drives is the use of DNA, which is life’s information-storage material, as a means of digital data storage. Recent works have proven that storing digital data into DNA is not only feasible but also very promising as the DNA's biological properties allow the storage of a great amount of information into an extraordinary small volume for centuries or even longer with no loss of information. During the past few years, high throughput DNA sequencing has allowed to reduce dramatically the cost of sequencing, however, this technology introduces a considerable amount of noise in the DNA strands and the full retrieval of the stored information can be at stake.
+The main goals of this project are:
+1. Optimization of our encoding solution to increase its robustness against sequencing error.
+2. To explore different deep learning models for image denoising (such as convolutional autoencoders, stacked denoising autoencoders, etc.) and DNA strand denoising (Recurrent Neural Networks) to improve the quality of the decoded data.
+Students will be required to work in one of the above topics.
+
+
+ - Références :
+   - \[1\] Dimopoulou, M., Antonini, M., Barbry, P., & Appuswamy, R. (2019, September). A biologically constrained encoding solution for long-term storage of images onto synthetic DNA. In ​2019 27th European Signal Processing Conference (EUSIPCO)​ (pp. 1-5). IEEE.
+   - \[2\] Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., Manzagol, P. A., & Bottou, L. (2010). Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion. Journal of machine learning research, 11(12).
+   - \[3\] Li, H. (2014). Deep learning for image denoising. ​International Journal of Signal Processing, Image Processing and Pattern Recognition​, ​7(​ 3), 171-180.
+   - \[4\] [Convolutional Autoencoders for Image Noise Reduction, Medium](https://towardsdatascience.com/convolutional-autoencoders-for-image-noise-reduction-32fce9fc1763).
+   - \[5\] [DCNet — Denoising (DNA) Sequence With a LSTM-RNN and PyTorch, ​Medium​](https://medium.com/@infoecho/dcnet-denoising-dna-sequence-with-a-lstm-rnn-and-pytorch-3b454ff727e7).
 
 <!--
 ### Nom du projet ###
