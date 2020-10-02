@@ -96,7 +96,7 @@ Les objectifs de ce TER sont :
 
 
 ### Designing a tool for annotation and visualization of multimodal film datasets ###
- - Encadrant : [Hui-Yin Wu & Lucile Sassatelli](hui-yin.wu@inria.fr,lucile.sassatelli@univ-cotedazur.fr).
+ - Encadrant : [Hui-Yin Wu & Lucile Sassatelli](mailto:hui-yin.wu@inria.fr,lucile.sassatelli@univ-cotedazur.fr).
  - Méthodes, langages ou technologies envisagés : Interface design, C++ or Python, notions of Qt are appreciated but not required
 
 The growth of deep neural networks for various tasks in video analysis – e.g. genre classification, summarization – have driven the need for larger, annotated, datasets of image and video content. Multiple features can influence the accuracy of such prediction models, including audio-visual features (e.g. pose of on screen characters, color, motion, sound), editing rhythm, dialogue, etc. While the annotation of many of these features – notably pose, motion,  shot boundary – can be semi-automated through existing tools and libraries, they are far from error free and frequently require human intervention to manually correct their outputs. However, there are currently no available tools that facilitate the annotation and visualization of such a diverse range of features in video annotation. Most commonly used image annotation tools for image classification tasks with deep neural networks are ill-adapted to dealing with videos, for which different features appear in a multi-level fashion – frame, shot, and scene levels. Existing video annotation tools such as Anvil \[1\] and Insight \[2\] are not easily extensible with different label categories that can include 2D and 3D pose and motion information that are continuous across multiple frames or even shots.
