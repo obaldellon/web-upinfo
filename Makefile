@@ -1,5 +1,5 @@
 JEKYLL=bundle exec jekyll
-JOPTS=
+JOPTS= #--trace --verbose
 DEVCONF=--config _config.yml,_config_dev.yml
 serve:
 	${JEKYLL} serve ${JOPTS} ${DEVCONF}

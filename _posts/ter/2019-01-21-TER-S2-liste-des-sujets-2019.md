@@ -347,7 +347,7 @@ Goal: The goal of the TER is to evaluate how much we can “improve”  the deep
 3. W. L. Hamilton, R. Ying and J. Leskovec. Representation Learning on Graphs: Methods and Applications. arXiv:1709.05584, Apr. 2018.
 4. H. Cai, V. W. Zheng and K. Chen-Chuan Chang. A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. IEEE Transactions on Knowledge and Data Engineering 30 (2018): 1616-1637.
 5. A. Valadarsky, M. Schapira, D. Shahaf, & A. Tamar., Learning To Route with Deep RL, 1st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA.
-6. [TensorFlow Guide](​https://www.tensorflow.org/guide/)​, the TensorFlow's official documentation. 
+6. [TensorFlow Guide](https://www.tensorflow.org/guide/)​, the TensorFlow's official documentation. 
 7. R. Aparicio-Pardo and L. Sassatelli. A Green Video Control Plane with Fixed-Mobile Convergence and Cloud-RAN. Internation Teletraffic Congress, Sep. 2018.
 
 

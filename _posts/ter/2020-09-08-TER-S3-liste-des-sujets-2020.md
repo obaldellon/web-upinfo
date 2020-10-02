@@ -45,7 +45,7 @@ Pour valider ce projet exploratoire, il faudra réfléchir aux briques de bases 
 **Il sera possible de poursuivre ce projet dans le cadre d'un stage de recherche au laboratoire I3S.**
 
 ### Refactorisation de codes de génération automatique de phrases standardisées permettant des tests de lecture à grande échelle ###
- - Encadrant : [Pierre Kornprobst, Jean-Charles Regin & Aurelie Calabrese](mailto:pierre.kornprobst@inria.fr,jcregin@gmail.com,aurelie.calabrese@inria.fr)
+ - Encadrants : [Pierre Kornprobst, Jean-Charles Regin & Aurelie Calabrese](mailto:pierre.kornprobst@inria.fr,jcregin@gmail.com,aurelie.calabrese@inria.fr)
  - Mots-clés : Architecture logicielle, programmation Java, algorithmes, structure des données, linguistique
 
 Notre projet vise à développer de nouveaux outils pour diagnostiquer les pathologies visuelles, en permettant des tests de lecture à grande échelle grâce à des méthodes de génération automatique de textes sous contraintes. Le test MNREAD - un test de lecture standardisé utilisé dans le monde entier, tant en clinique qu'en recherche - sert de base à nos travaux. Cependant, en raison de leur nature très contraignante, les phrases du tests MNREAD sont difficiles à produire, ce qui conduit à un nombre très limité de versions du test (seulement deux jeux de phrases en français, soit 38 phrases). Étant donné que des mesures répétées sont nécessaires dans de nombreuses situations cliniques, les communautés scientifiques et médicales sont très intéressées de disposer d’un plus grand nombre de phrases. Nous avons développé un premier prototype de générateur qui donne des résultats très prometteurs par rapport à une autre approche récente \[MAL+19\].
@@ -59,7 +59,7 @@ Les objectifs de ce TER sont :
    - \[MAL+19\] Mansfield, J.S., Atilgan, N., Lewis, A.M.,Legge, G.E., [Extending the MNREAD sentence corpus: Computer-generated sentences for measuring visual performance in reading](https://www.sciencedirect.com/science/article/pii/S0042698919300227). Vision Research, 158, 11–18, 2019
 
 ### ​Deep learning for Image / DNA strand denoising ###
- - Encadrant : [​Marc Antonini & Eva Gil San Antonio](mailto:​am@i3s.unice.fr​,gilsanan@i3s.unice.fr).
+ - Encadrants : [​Marc Antonini & Eva Gil San Antonio](mailto:​am@i3s.unice.fr​,gilsanan@i3s.unice.fr).
  - Prérequis : Matlab/Python
 
 Rapid technological advances and the increasing use of social media has caused a tremendous increase in the generation of digital data, a fact that imposes nowadays a great challenge for the field of digital data storage due to the short-term reliability of conventional storage devices. Hard disks, flash, tape or even optical storage have a durability of 5 to 20 years while running data centers also require huge amounts of energy.
@@ -69,13 +69,30 @@ The main goals of this project are:
 2. To explore different deep learning models for image denoising (such as convolutional autoencoders, stacked denoising autoencoders, etc.) and DNA strand denoising (Recurrent Neural Networks) to improve the quality of the decoded data.
 Students will be required to work in one of the above topics.
 
-
  - Références :
    - \[1\] Dimopoulou, M., Antonini, M., Barbry, P., & Appuswamy, R. (2019, September). A biologically constrained encoding solution for long-term storage of images onto synthetic DNA. In ​2019 27th European Signal Processing Conference (EUSIPCO)​ (pp. 1-5). IEEE.
    - \[2\] Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., Manzagol, P. A., & Bottou, L. (2010). Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion. Journal of machine learning research, 11(12).
    - \[3\] Li, H. (2014). Deep learning for image denoising. ​International Journal of Signal Processing, Image Processing and Pattern Recognition​, ​7(​ 3), 171-180.
    - \[4\] [Convolutional Autoencoders for Image Noise Reduction, Medium](https://towardsdatascience.com/convolutional-autoencoders-for-image-noise-reduction-32fce9fc1763).
    - \[5\] [DCNet — Denoising (DNA) Sequence With a LSTM-RNN and PyTorch, ​Medium​](https://medium.com/@infoecho/dcnet-denoising-dna-sequence-with-a-lstm-rnn-and-pytorch-3b454ff727e7).
+
+
+### Un voyage dans la conception des journaux : Comment quantifier l'esthétique ? ###
+ - Encadrants : [Hui-Yin Wu & Pierre Kornprobst](mailto:hui-yin.wu@inria.fr,pierre.kornprobst@inria.fr).
+ - Méthodes, langages ou technologies envisagés : Analyse d'images en Python ou C++, expérience avec OpenCV serait apprécié
+
+Notre projet vise à rendre plus accessible la presse écrite aux malvoyants, tout en conservant la ligne éditoriale. Ceci implique de devoir reorganiser le contenu du journal ce qui impacte l'esthétique visuelle des pages. Le problème est que cette esthétique joue un role fondamental dans le processus de lecture et qu'il est donc crucial de savoir la préserver. En effet, il a été montré qu'une approche visuelle cohérente et attrayante renforce l'impact et la compréhension du contenu et de l'histoire lue. C'est donc cette notion d'esthétique que nous voulons mieux comprendre et savoir quantifier. Autrement dit, étant donné une page de journal, peut-on automatiquement lui associer une (des) mesure(s) qui caractérise(nt) l'esthétique de son organisation ? Disposer de telles mesures nous permettrait de faire des choix sur la production de différents modèles de conception.
+
+Les objectifs de ce TER sont :
+1. d'explorer les différentes propriétés qui définissent l'esthétique perçue des journaux imprimés \[GG2017\], 
+2. d'étudier comment ces propriétés peuvent être formalisées pour quantifier l'esthétique \[K2012,NTB2003\], et 
+3. de les implémenter et de les tester sur un ensemble de pages de journaux préalablement segmentées \[WCK2020\]. 
+
+ - Références :
+   - \[GG2017\] C. Gautier and D. Gautier. Design, typography etc.: A Handbook, Niggli, 2017.
+   - \[K2012\] I.-M Kivela. Aesthetic measures for automated magazine layout on tablet devices, Master thesis, Aalto University, Finland, 2012.
+   - \[NTB2003\] D.C.L. Ngo, L.S. Teo, and J.G. Byrne. Modeling interface aesthetics, Information Sciences, 152:25-46, 2003.
+   - \[WCK2020\] H.-Y. Wu, A. Calabrese, and P. Kornprobst, Towards Accessible News Reading Design in Virtual Reality for Low Vision, Inria Research Report, RR-9298, 2020.
 
 <!--
 ### Nom du projet ###
