@@ -94,6 +94,25 @@ Les objectifs de ce TER sont :
    - \[NTB2003\] D.C.L. Ngo, L.S. Teo, and J.G. Byrne. Modeling interface aesthetics, Information Sciences, 152:25-46, 2003.
    - \[WCK2020\] H.-Y. Wu, A. Calabrese, and P. Kornprobst, Towards Accessible News Reading Design in Virtual Reality for Low Vision, Inria Research Report, RR-9298, 2020.
 
+
+### Designing a tool for annotation and visualization of multimodal film datasets ###
+ - Encadrant : [Hui-Yin Wu & Lucile Sassatelli](hui-yin.wu@inria.fr,lucile.sassatelli@univ-cotedazur.fr).
+ - Méthodes, langages ou technologies envisagés : Interface design, C++ or Python, notions of Qt are appreciated but not required
+
+The growth of deep neural networks for various tasks in video analysis – e.g. genre classification, summarization – have driven the need for larger, annotated, datasets of image and video content. Multiple features can influence the accuracy of such prediction models, including audio-visual features (e.g. pose of on screen characters, color, motion, sound), editing rhythm, dialogue, etc. While the annotation of many of these features – notably pose, motion,  shot boundary – can be semi-automated through existing tools and libraries, they are far from error free and frequently require human intervention to manually correct their outputs. However, there are currently no available tools that facilitate the annotation and visualization of such a diverse range of features in video annotation. Most commonly used image annotation tools for image classification tasks with deep neural networks are ill-adapted to dealing with videos, for which different features appear in a multi-level fashion – frame, shot, and scene levels. Existing video annotation tools such as Anvil \[1\] and Insight \[2\] are not easily extensible with different label categories that can include 2D and 3D pose and motion information that are continuous across multiple frames or even shots.
+
+This project targets the design of an extension for the VLC media player \[3\] that allows the visualization and modification on an established film annotation dataset.  Alternatively, if preferred, the PySide2 Python module can be investigated and used to create a video player and code the annotation tool.
+
+Specifically, the project involves the following steps:
+   1. creating a VLC extension that takes as input a standardized .json annotation file, and visualizes the annotated features on the video
+   2. the extension should also provide easy point-and-click functions to modify or add annotations
+   3. for multi-frame features, the tool should, given an annotated feature at a start and end frame, perform interpolations for intermediate frames.
+
+ - Références :
+   - \[1\] Kipp, M., von Hollen, L., Hrstka, M.C., Zamponi, F. (2014) Single-Person and Multi-Party 3D Visualizations for Nonverbal Communication Analysis. In: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC), ELDA, Paris.
+   - \[2\] Merabti, B., Wu, H. Y., Sanokho, C. B., Galvane, Q., Lino, C., & Christie, M. (2015, May). Insight: An annotation tool and format for film analysis.
+   - \[3\] VLC media player: [https://www.videolan.org/index.fr.html](https://www.videolan.org/index.fr.html)
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
