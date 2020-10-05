@@ -186,6 +186,20 @@ Ce projet a pour objectif de générer du code C ou C++ à partir d’une descri
 [Version longue]({% include link-asset asset="TER-CCSL-2020-2021-Touati-Mallet.pdf" %})
 
 
+### Stack overflow: exploitation des failles de sécurité dans les programmes multi-threads ###
+ - Encadrant : [Sid Touati](mailto:Sid.Touati@univ-cotedazur.fr).
+ - Méthodes, langages ou technologies envisagés : Programmation (C, système, multi-threads, assembleur), architecture des processeurs, compilation, Linux.
+ 
+Dans ce TER, nous nous focalisons sur un cas connu et précis en informatique bas niveau: il s’agit du débordement de pile d’une fonction (stack overflow). Lorsqu’un programme contient un bug qui corrompt la pile d’exécution d’une fonction, il est possible à un hacker de dérouter le code du programme pour faire exécuter un code malicieux.
+Ce TER a un objectif essentiellement pédagogique. Il offre à l’étudiant une première expérience de spécialisation dans le domaine de la sécurité bas niveau, ou de compilation selon la sensibilité du candidat. Le sujet ici est d’exploiter la faille provoquée par un débordement de pile, et étudier les mécanismes de parades. D’autres types de failles existent, mais ne seront pas étudiées ici. L’étudiant devra étudier quatre grandes tâches:
+  1. Étude bibliographique du domaine (articles scientifiques et documents en ligne): attaques et parades.
+  2. Reproduire des attaques informatiques exploitant la faille de débordement de pile sur des exemples de programmes multi-threads s’exécutant sous Linux.
+  3. Tester les parades des compilateurs contre les attaques de type débordement de pile.
+  4. Réfléchir à de nouvelles méthodes de compilation pour prévenir ces attaques.
+
+[Version longue]({% include link-asset asset="TER-Touati-StackOverflow-multithreads.pdf" %})
+
+
 
 <!--
 ### Nom du projet ###
