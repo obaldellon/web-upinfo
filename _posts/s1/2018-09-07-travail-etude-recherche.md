@@ -50,12 +50,14 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 **Le rapport et la soutenance sont en anglais.**
 
 - Les spécifications de la règle du jeu et des IA doivent être déposées sur github avant les vacances de Noël.
-- Le rapport doit être déposé la veille de la soutenance (23/01/20) avant midi sur github.
-- La soutenance doit être déposée avant le début des soutenances (24/01/20).
+- Le rapport doit être déposé la veille de la soutenance avant midi sur github.
+- La soutenance doit être déposée avant le début des soutenances.
 
 #### Soutenance ####
-
+<!--
 - **Les soutenances auront lieu le vendredi 24 janvier 2020.**
+-->
+
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéo-projecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
@@ -64,6 +66,7 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 **Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
+<!--
 L'ordre de passage est donné ci-dessous.
 
 | Horaire | Groupe              | Étudiants                                                             |
@@ -80,7 +83,7 @@ L'ordre de passage est donné ci-dessous.
 | 11h30   | ACSA                | Sabri Hallaci, Alexandre Bonlarron, Corentin Fossati                  |
 | 11h55   | Poussière d'étoiles | Amine Bentellis, Mohamed Amine Romdhane, Théo Tracol                  |
 | 12h20   | Rhum                | Aymeric Picard-Marchetto, Arnaud Arbona, Thomas Portet                |
-
+-->
 
 #### Rapport ####
 
@@ -93,7 +96,14 @@ Le rapport doit expliquer :
 - Quelles sont les performances de votre IA ambitieuse : vs random, vs "robot" de PD/GL, vs IA garantie, contre elle-même ? Expliquez votre méthode et vos résultats.
 - Tirer un bilan sur vos approches et vos développements d'IA : les résultats sont-ils conformes à ce que vous attendiez ? À ce qui existe par ailleurs ?
 
+Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-03-charte-graphique %}) un modèle de rapport en LaTeX.
 
+
+### Calendrier ###
+
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ZDh1dXRiaDUwcGI0aDJlZG9xNjdhY2s1aXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
+<!--
 ### Quelques réflexions sur le jeu Puerto Rico ###
 
 Vous trouverez ci-dessous un diagramme de dépendances sous la forme d'un arbre pour produire des marchandises.
@@ -113,3 +123,5 @@ Ce diagramme permet de répondre à différentes questions :
  - Est-il encore possible de produire X unités de marchandise ?
  - Qu'est-ce qui manque pour produire X unités de marchandise ? Quel est le coût en doublons et côlons ?
  - Combien d'étapes sont nécessaires pour produire X unités de marchandise ?
+
+-->

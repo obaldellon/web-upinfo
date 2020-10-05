@@ -86,4 +86,8 @@ Voici quelques conseils :
 
 -   [Liste des sujets 2019-2020]({% post_url /ter/2019-09-30-TER-S3-liste-des-sujets-2019 %}).
 
+### Calendrier ###
+
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=dHJha2ZlM3VudjBjbms4czI2dnYxNDY3bG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
 
