@@ -123,10 +123,28 @@ Specifically, the project involves the following steps:
 
 Dans le cadre de l'évolution d'une plateforme de composition musicale pour spectacle interactif, jeu vidéo ou production audiovisuelle, il s'agit de développer un langage graphique à partir de la solution open-source Blockly de Google. La plateforme de composition, baptisée Skini, a été développée à l'Inria Sophia-Antipolis. Elle a été utilisée pour des spectacles et des projets pédagogiques et elle fait l'objet d'un projet de startup.
 
-Une partie important de Skini repose sur la programmation d'automates complexes avec le langage HipHop.js qui est une évolution récente du langage réactif synchrone Estérel. La conception d'automates avec HipHop.js pour Skini se prête bien à une description graphique qui correspond à la façon de concevoir la musique interactive pilotée par des automates. Il s'agit donc de mettre en œuvre un outil qui puisse permettre de passer automatiquement d'une conception graphique au programme HipHop.js et ainsi de simplifier le travail du compositeur.
+Une partie importante de Skini repose sur la programmation d'automates complexes avec le langage HipHop.js qui est une évolution récente du langage réactif synchrone Estérel. La conception d'automates avec HipHop.js pour Skini se prête bien à une description graphique qui correspond à la façon de concevoir la musique interactive pilotée par des automates. Il s'agit donc de mettre en œuvre un outil qui puisse permettre de passer automatiquement d'une conception graphique au programme HipHop.js et ainsi de simplifier le travail du compositeur.
 
 Skini est une plateforme Web qui repose sur Hop.js. Hop.js est un environnement de développement multi-tier JavaScript qui permet de concevoir des programmes qui fonctionnent à la fois sur le client et sur le serveur [http://hop.inria.fr/home/index.html](http://hop.inria.fr/home/index.html).
 Hop.js, HipHop.js et Skini sont des solutions produites par l'équipe Indes de l'Inria dont les thèmes de recherche sont les langages de programmation, les modèles de programmation pour l'informatique distribuée et la sécurité informatique.
+
+
+### Model-checking symbolique dédié à l’identification des paramètres dans les réseaux de régulation génétique ###
+ - Encadrant : [Hélène Collavizza & Jean-Paul Comet](mailto:helene.collavizza@univ-cotedazur.fr,Jean-Paul.Comet@univ-cotedazur.fr).
+ - Méthodes, langages ou technologies envisagés : Méthodes formelles, Model-checking, Théorie des graphes, Contraintes, le langage d'implémentation sera déterminé en fonction des étudiants intéressés.
+
+Lorsqu'on cherche à modéliser un système d'interactions comme par exemple un réseau génétique, les interactions sont généralement bien connues et le problème principal réside dans les paramètres qui contrôlent la dynamique de ce réseau. Une méthode classique consiste donc à choisir une paramétrisation, à construire le modèle de la dynamique du système sous forme de graphe de transitions, puis à vérifier par model-checking des propriétés connues ou hypothétiques du modèle construit.
+Malheureusement, ce processus est limité par la phase d'énumération des paramétrisations.
+
+Comme toutes les paramétrisations mènent à des systèmes discrets différents mais qui se ressemblent, il est possible de représenter l'ensemble des graphes de transitions dans une unique structure (dans laquelle, une transition est étiquetée par les modèles qui la possèdent). L'objet de ce TER est de reprendre l'algorithme classique de model-checking de formules temporelles CTL sur cette structure étiquetée afin de calculer en une seule passe les modèles qui valident cette propriété temporelle.
+
+Le projet pourra se dérouler de la façon suivante.
+  1. Réflection sur la façon de représenter les contraintes sur les paramétrages, éventuellement sous forme de Multi-Valued Decision Diagrams,
+  2. Construction de graphe de transitions symbolique,
+  3. Application des parcours de graphe élémentaires sur cette structure symbolique,
+  4. Définition et implémentation de l’algorithme de model-checking sur cette structure symbolique,
+  5. Application de cet algorithme aux exemples connus pour validation de l'approche.
+
 
 
 <!--
