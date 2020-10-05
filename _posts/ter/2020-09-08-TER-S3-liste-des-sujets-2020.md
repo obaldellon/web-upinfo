@@ -162,6 +162,17 @@ The TER can also be done in a group of two students.
 **The TER may be followed by an internship for interested students.**
 
 
+### Imitation robotique du bras humain via un réseau neuronal artificiel et un capteur RGB-D ###
+ - Encadrant : [Andrew Comport & André Anglade](mailto:Andrew.Comport@cnrs.fr,aanglade@i3s.unice.fr).
+ - Méthodes, langages ou technologies envisagés : Programmation en Python, C++, OpenGL et ROS
+
+La plupart des humains peuvent apprendre à accomplir une tâche donnée en observant une autre personne l'exécuter une seule fois. Les robots qui sont programmés pour apprendre en imitant les humains, cependant, doivent généralement être formés à une série de démonstrations humaines avant de pouvoir reproduire efficacement le comportement souhaité. Dans cette étude, un bras robotique capable d'imiter le bras humain sera conçu \[1,2,3\]. Plus précisément, le but de ce stage est d’implémenter un algorithme de suivi visuel de corps humain en utilisant un camera RGB-D (couleur et profondeur) du type Microsoft Azure Kinect. Azure Kinect est un kit de développement de pointe dédié à l'informatique spatiale qui comprend des modèles de vision par ordinateur qui est conçu pour des algorithmes d'IA avancés. Pendant ce stage nous voulons utiliser un logiciel d'apprentissage machine open source (i.e. PoseNet) avec ce capteur pour réaliser du suivi temps-réel. PoseNet est un modèle IA pour la vision qui peut être utilisé pour estimer la pose d'une personne dans une image ou une vidéo en estimant où se trouvent les principales articulations du corps. Ce modèle articulé  serait ensuite utilisé ensuite pour contrôler un bras robotique à distance en temps-réel en utilisant ROS. Robot Operating System (ROS), est un ensemble d'outils informatiques open source permettant de développer des logiciels pour la robotique. Ce projet est idéal pour un binôme qui travailleront en parallèle, un sur la partie perception (kinect) et l'autre sur la partie actionneur (robot). 
+
+ - Références :
+   - \[1\] Li, S., Jiang, J., Ruppel, P., Liang, H., Ma, X., Hendrich, N., Sun, F. and Zhang, J., 2020. A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU. arXiv preprint arXiv:2003.05212.
+   - \[2\] Smith, L., Dhawan, N., Zhang, M., Abbeel, P. and Levine, S., 2019. Avid: Learning multi-stage tasks via pixel-level translation of human videos. arXiv preprint arXiv:1912.04443.
+   - \[3\] Tow, A., Sünderhauf, N., Shirazi, S., Milford, M. and Leitner, J., 2017. What would you do? acting by learning to predict. arXiv preprint arXiv:1703.02658.
+
 
 
 
