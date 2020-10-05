@@ -33,6 +33,7 @@ Dans le du projet OCTPOPUS l’équipe de recherche SPARKS, en collaboration ave
   - Filtrage : Une fois les services détectés, on ne retiendra que ceux qui peuvent être utiles pour l’application courant ou que ceux qui sont autorisé pour être utilisés dans cette application. Les autres seront simplement ignorés.
   - Instanciation : Enfin il faudra générer un proxy (sous la forme d’un composant logiciel) dans les différents containeur applicatif. Pour le containeur applicatif le focus sera mis dans un premier temps sur le containeur Nod-red qui repose sur la technologie Node-JS.
 
+
 ### Modélisation de workflows d'algorithmes évolutionnistes ###
  - Encadrant : [Denis Pallez](mailto:denis.pallez@univ-cotedazur.fr), [site web](https://denispallez.i3s.unice.fr).
  - Mots-clés : Modélisation de workflows, Algorithmes évolutionnistes.
@@ -43,6 +44,7 @@ L'inconvénient de précédentes tentatives, comme GUIDE basé sur la librairie 
 On se propose d'utiliser le logiciel [OpenModelica](https://www.openmodelica.org) pour gérer l'aspect simulation et manipulation graphique de blocs de bases (conception interactive de workflows) afin de gagner du temps de développement. 
 Pour valider ce projet exploratoire, il faudra réfléchir aux briques de bases nécessaires à la définition de plusieurs algorithmes évolutionnistes (Évolution Différentielle, Algorithme Génétique, Programmation Génétique, Optimisation par Essaims, Colonie de Fourmis...) avec OpenModelica et permettre la comparaison de ces algorithmes sur des problèmes classiques (benchmarks). Par exemple, il devra être nécessaire de définir une brique "Sélection" qui considère en entrée un ensemble de solutions et retourne en sortie une solution en particulier, puis une brique "Reproduction" qui considère un ensemble de solutions en entrée et produit une nouvelle solution en sortie...
 **Il sera possible de poursuivre ce projet dans le cadre d'un stage de recherche au laboratoire I3S.**
+
 
 ### Refactorisation de codes de génération automatique de phrases standardisées permettant des tests de lecture à grande échelle ###
  - Encadrants : [Pierre Kornprobst, Jean-Charles Regin & Aurelie Calabrese](mailto:pierre.kornprobst@inria.fr,jcregin@gmail.com,aurelie.calabrese@inria.fr)
@@ -57,6 +59,7 @@ Les objectifs de ce TER sont :
  - Références :
    - \[MNREAD\] [Vidéo](https://www.precision-vision.com/mn-read-testing-demonstration) expliquant le test MNREAD
    - \[MAL+19\] Mansfield, J.S., Atilgan, N., Lewis, A.M.,Legge, G.E., [Extending the MNREAD sentence corpus: Computer-generated sentences for measuring visual performance in reading](https://www.sciencedirect.com/science/article/pii/S0042698919300227). Vision Research, 158, 11–18, 2019
+
 
 ### ​Deep learning for Image / DNA strand denoising ###
  - Encadrants : [​Marc Antonini & Eva Gil San Antonio](mailto:​am@i3s.unice.fr​,gilsanan@i3s.unice.fr).
@@ -112,6 +115,19 @@ Specifically, the project involves the following steps:
    - \[1\] Kipp, M., von Hollen, L., Hrstka, M.C., Zamponi, F. (2014) Single-Person and Multi-Party 3D Visualizations for Nonverbal Communication Analysis. In: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC), ELDA, Paris.
    - \[2\] Merabti, B., Wu, H. Y., Sanokho, C. B., Galvane, Q., Lino, C., & Christie, M. (2015, May). Insight: An annotation tool and format for film analysis.
    - \[3\] VLC media player: [https://www.videolan.org/index.fr.html](https://www.videolan.org/index.fr.html)
+
+
+### Langage graphique pour la composition musicale interactive ###
+ - Encadrant : [Bertrand Petit & Manuel Serrano](mailto:bertrand.petit@inria.fr,manuel.serrano@inria.fr).
+ - Méthodes, langages ou technologies envisagés : Blockly (générateur graphique de code proposé par google), HipHop.js (langage réactif synchrone), Hop.js (programmation Web Multi-tier JavaScript), Git.
+
+Dans le cadre de l'évolution d'une plateforme de composition musicale pour spectacle interactif, jeu vidéo ou production audiovisuelle, il s'agit de développer un langage graphique à partir de la solution open-source Blockly de Google. La plateforme de composition, baptisée Skini, a été développée à l'Inria Sophia-Antipolis. Elle a été utilisée pour des spectacles et des projets pédagogiques et elle fait l'objet d'un projet de startup.
+
+Une partie important de Skini repose sur la programmation d'automates complexes avec le langage HipHop.js qui est une évolution récente du langage réactif synchrone Estérel. La conception d'automates avec HipHop.js pour Skini se prête bien à une description graphique qui correspond à la façon de concevoir la musique interactive pilotée par des automates. Il s'agit donc de mettre en œuvre un outil qui puisse permettre de passer automatiquement d'une conception graphique au programme HipHop.js et ainsi de simplifier le travail du compositeur.
+
+Skini est une plateforme Web qui repose sur Hop.js. Hop.js est un environnement de développement multi-tier JavaScript qui permet de concevoir des programmes qui fonctionnent à la fois sur le client et sur le serveur [http://hop.inria.fr/home/index.html](http://hop.inria.fr/home/index.html).
+Hop.js, HipHop.js et Skini sont des solutions produites par l'équipe Indes de l'Inria dont les thèmes de recherche sont les langages de programmation, les modèles de programmation pour l'informatique distribuée et la sécurité informatique.
+
 
 <!--
 ### Nom du projet ###
