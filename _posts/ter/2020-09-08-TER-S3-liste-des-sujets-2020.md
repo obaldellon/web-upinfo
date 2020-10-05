@@ -174,7 +174,16 @@ La plupart des humains peuvent apprendre à accomplir une tâche donnée en obse
    - \[3\] Tow, A., Sünderhauf, N., Shirazi, S., Milford, M. and Leitner, J., 2017. What would you do? acting by learning to predict. arXiv preprint arXiv:1703.02658.
 
 
+### Génération de code pour le contrôle des systèmes synchrones ###
+ - Encadrant : [Sid Touati & Frédéric Mallet](mailto:Sid.Touati@univ-cotedazur.fr,fmallet@i3s.unice.fr).
+ - Méthodes, langages ou technologies envisagés : Compilation, automates, algèbre.
+ 
+Ce projet a pour objectif de générer du code C ou C++ à partir d’une description CCSL (Logical Clock Calculus Algebra). CCSL permet de décrire non pas une application entièrement, mais uniquement le comportement de ses horloges. Une horloge permet de déclencher ou pas l’exécution d’une fonction ou d’une tache à un instant précis. CCSL n’est pas un langage de programmation qui permet d’exprimer l’algorithmique des fonctions, il exprime uniquement l’instant de leur exécution. Le code généré doit pouvoir permettre de calculer les valeurs de ces horloges logiques. Il y aura trois aspects principaux à aborder :
+  1. Au niveau de la spécification formelle avec CCSL: le formalisme de CCSL permet une grande liberté de description des horloges avec un algèbre propre. Suite à cela, un outil d’analyse existant permet de déduire l’espace des valeurs possibles des horloges et de le modéliser avec avec un automate.
+  2. Une fois l’automate construit, l’étudiant devra réfléchir aux méthodes de génération automatique de code C ou C++. Dans la littérature, il y a plusieurs schémas de génération de code pour automates, qui ne sont pas conçus dans une optique de performances, mais plutôt dans une optique de correction sémantique.
+  3. Implémenter d’un générateur de code à partir d’une description CCSL.
 
+[Version longue]({% include link-asset asset="TER-CCSL-2020-2021-Touati-Mallet.pdf" %})
 
 
 
