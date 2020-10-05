@@ -200,6 +200,49 @@ Ce TER a un objectif essentiellement pédagogique. Il offre à l’étudiant une
 [Version longue]({% include link-asset asset="TER-Touati-StackOverflow-multithreads.pdf" %})
 
 
+### New modelization of the universal faring engine with constraint programming ###
+ - Encadrant : [Sébastien Autran & Jean-Charles Regin](mailto:scouic@gmail.com,jcregin@gmail.com).
+
+Le moteur de recherche Amadeus est assez statique : une boucle qui va créer des millions de combinaisons et vérifier leur validité. Lorsque nous faisons une invalidation, nous pouvons rétro-propager cette invalidation afin de couper des branches de l'arbre d'exploration. Et si on y ajoutait de la programmation par contraintes ?
+
+Le but de ce travail d’étude et de recherche est de construire un modèle simple de programmation par contraintes du moteur de recommandations d'Amadeus, en ayant éventuellement recours à la programmation dynamique. Ce modèle utilisera les informations sur les vols, les tarifs (fares) et quelques contraintes simples de combinabilité entre eux.
+
+Une phase d’optimisation du modèle de programmation par contraintes visera à essayer de trouver une recommandation valide, voire trouver la moins chère sur un itinéraire donné en quelques secondes voire quelques centaines de millisecondes. Les étudiants apporterons une nouvelle façon dynamique de modéliser les objets et les relations entre les objets afin de voir si un tel modèle peut être intégré dans le moteur de recommandations actuel.
+
+[Version longue]({% include link-asset asset="TER AMADEUS Constraint Programming.pdf" %})
+
+
+### Natural language processing to process airlines fare conditions ###
+ - Encadrant : [Sébastien Autran & Elena Cabrio](mailto:scouic@gmail.com,elena.cabrio@unice.fr).
+
+Comme décrit ci-contre, le moteur de recherche Amadeus est assez statique : une boucle qui va créer des millions de combinaisons et vérifier leur validité. Il y a deux manières d’invalider des combinaisons :
+- pendant que l’on combine des objets (checks)
+- avant de combiner des objets (pre-checks)
+En analysant les filings des tarifs des compagnies aériennes, on y trouvera par exemple la condition « COMBINABLE END-ON-END DOMESTIC ». Si on se trouve dans une branche d’exploration avec de la combinatoire internationale, et si on est capable de comprendre ce filing, il devient inutile de continuer d’explorer cette branche puisque tout sera invalide, seules les combinaisons domestiques étant autorisées.
+En introduisant du Natural Language Processing (NLP), on essaye donc de passer d’une approche d’exploration Generate&Check à une approche SmartGenerate&Check, ce qui permettra de réduire le nombre de checks tardifs et donc d’optimiser le temps de réponse du moteur de recommendations.
+
+Le but de ce travail d’étude et de recherche est de traiter la partie « free text » des conditions tarifaires en utilisant du NLP. Il faudra comprendre les règles de combinabilité écrites par les compagnies aériennes avant de lancer des combinaisons d'objets, ce qui permettra de générer de manière intelligente les différentes combinaisons pour construire des recommandations. Ensuite, l’Etudiant devra essayer de créer des partitionnements (clusters) de conditions tarifaires : cela pourrait considérablement améliorer le temps de réponse du moteur de recommandations, ou du moins créer des opportunités de développement ultérieur.
+
+Note : les ensembles de textes contenus dans les champs free text des filings ne sont pas annotés, et il sera difficile d’y appliquer de l’apprentissage supervisé. Une idée de généralisation consiste à représenter les concepts et les relations comme une ontology / un graphe de connaissances et essayer de trouver un lien entre les checks de catégorie et cette représentation. On pourra également utiliser du bootstrapping (to learn lexico-syntactic patterns) ou de l’active learning (to improve the method and increase data coverage with semi-supervised methods).
+
+[Version longue]({% include link-asset asset="TER AMADEUS Natural Language Processing.pdf" %})
+
+
+### Typing the higher-order polyadic μ-calculus ###
+ - Encadrant : [Cinzia Di Giusto & Etienne Lozes](mailto:cinzia.di-giusto@univ-cotedazur.fr,etienne.lozes@univ-cotedazur.fr).
+ - Méthodes, langages ou technologies envisagés : OCAML, Notions of μ-calculus
+
+This project is meant for 1 student.
+The goal is to implement a type system for a modal fixpoint logic \[1\] obtained as the merger between two extensions of the modal μ-calculus, namely the polyadic μ-calculus and the higher-order μ-calculus. 
+The type system rules out formulas for which the semantics of a formula μX . Φ is not the one of a fixpoint. Moreover it helps characterising a fragment of the logic that can be model-checked efficiently. The type inference algorithm lies on the notion of variance. During the TER project the student will study how to determine in an efficient way the variance of a formula.
+
+**The TER may be followed by an internship for the interested student.**
+
+
+ - Références :
+   - \[1\] Martin Lange, Étienne Lozes: Capturing Bisimulation-Invariant Complexity Classes with Higher-Order Modal Fixpoint Logic. IFIP TCS 2014: 90-103
+
+
 
 <!--
 ### Nom du projet ###
