@@ -146,6 +146,26 @@ Le projet pourra se dérouler de la façon suivante.
   5. Application de cet algorithme aux exemples connus pour validation de l'approche.
 
 
+### Evolution over time of the structure of social graphs ###
+ - Nombre d'étudiants souhaité :
+ - Encadrant : [Frédéric Giroire & Nicolas Nisse](mailto:frederic.giroire@inria.fr,nicolas.nisse@inria.fr), [web site](http://www-sop.inria.fr/members/Frederic.Giroire/).
+ - Prérequis : Knowledge and/or taste for graph algorithms, big data, graph algorithms, network analysis.
+
+The goal of the project is to develop methods to analyse the evolution across time of a social network. We will consider as example the graph of scientific collaborations as it can be crawled freely.
+
+The project will have two phases:
+- Data collection. In the first phase, the student will use the available bibliographic research tools (SCOPUS, Web of Science, Patstat) to create data sets. One corresponding to the current situation and others corresponding to past moments. The data sets will correspond mainly to networks (annotated graphs) of scientific collaborations.
+- Data analysis. In the 2nd phase, the student will analyse this data. First, they will focus on simple metrics (number of publications, number of patent applications...) and compare the evolutions across time. Then, if there is time, she will start studying the evolution of the structure of the network and will look at whether they are observing an evolution of its clustering due to the emergence of new collaborations.
+
+The TER will be part of a larger project on the evaluation of the impact of funding on scientific research. The project involves researchers in economics, sociology, and computer science.
+The TER can also be done in a group of two students.
+**The TER may be followed by an internship for interested students.**
+
+
+
+
+
+
 
 <!--
 ### Nom du projet ###
