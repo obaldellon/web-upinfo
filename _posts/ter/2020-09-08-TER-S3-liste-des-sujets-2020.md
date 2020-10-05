@@ -218,6 +218,7 @@ Une phase d’optimisation du modèle de programmation par contraintes visera à
 Comme décrit ci-contre, le moteur de recherche Amadeus est assez statique : une boucle qui va créer des millions de combinaisons et vérifier leur validité. Il y a deux manières d’invalider des combinaisons :
 - pendant que l’on combine des objets (checks)
 - avant de combiner des objets (pre-checks)
+
 En analysant les filings des tarifs des compagnies aériennes, on y trouvera par exemple la condition « COMBINABLE END-ON-END DOMESTIC ». Si on se trouve dans une branche d’exploration avec de la combinatoire internationale, et si on est capable de comprendre ce filing, il devient inutile de continuer d’explorer cette branche puisque tout sera invalide, seules les combinaisons domestiques étant autorisées.
 En introduisant du Natural Language Processing (NLP), on essaye donc de passer d’une approche d’exploration Generate&Check à une approche SmartGenerate&Check, ce qui permettra de réduire le nombre de checks tardifs et donc d’optimiser le temps de réponse du moteur de recommendations.
 
