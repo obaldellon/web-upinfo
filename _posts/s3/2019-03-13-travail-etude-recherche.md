@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
-teaser: ""
+teaser: "Le TER (Travail d’Étude et de Recherche) est un projet sous la direction d’un encadrant universitaire ou industriel qui s’effectue par groupe de 2 à 4 étudiants (ingénierie) ou seul (recherche). Il s’étend sur environ 3-4 mois (2 jours par semaine)."
 categories:
   - S3
 tags:
