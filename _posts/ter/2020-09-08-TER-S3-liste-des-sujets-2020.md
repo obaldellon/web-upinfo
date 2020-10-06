@@ -244,6 +244,46 @@ The type system rules out formulas for which the semantics of a formula μX . Φ
    - \[1\] Martin Lange, Étienne Lozes: Capturing Bisimulation-Invariant Complexity Classes with Higher-Order Modal Fixpoint Logic. IFIP TCS 2014: 90-103
 
 
+### Apprentissage de la dynamicité des stratégies de recherche ###
+ - Encadrant : [Nicolas Isoart & Jean-Charles Régin](mailto:nicolas.isoart@gmail.com,jcregin@gmail.com).
+ - Langage de programmation : Java
+
+Les procédures de recherche de solutions dans un espace de recherche procèdent par affectation successives de valeurs à  des variables.
+Une stratégie de recherche détermine le choix la prochaine variable et la prochaine valeur qui formeront la prochaine affectation.
+Les stratégies peuvent être statique (définie une fois pour toute avant la résolution) ou dynamique (pendant la résolution).
+Ces dernières donnent en général de bien meilleur résultats. Cependant certaines méthodes sont peu compatibles avec des stratégies dynamiques, comme les méthodes qui décomposent le problème initial en sous problème (par exemple comme le parallélisme).
+ 
+L’objectif de ce TER est de comprendre s’il est possible de simuler des stratégies dynamiques avec des variantes de stratégies statiques \[1\], par exemple des stratégies pseudo dynamiques (i.e. qui choisissent la prochaine variable dans une petit sous-ensemble de variables).  
+Une première solution a été proposée : c’est une pré-exploration qui consiste à exécuter une recherche dynamique sur une petite partie du problème afin d’identifier les variables les plus importantes.
+ 
+L’étudiant devra tester cette méthode sur différents problèmes pour essayer de généraliser notre approche.
+Différents type de pré-explorations seront considérés et éventuellement proposés par l’etudiant.
+
+ - Références :
+   - \[1\] [Nicolas Isoart](https://dblp.org/pid/249/1855.html), [Jean-Charles Régin](https://dblp.org/pid/20/6918.html): Parallelization of TSP Solving in CP. [CP 2020](https://dblp.org/db/conf/cp/cp2020.html#IsoartR20): 410-426
+
+
+### Hub-labeling dynamique ###
+ - Encadrant : [David Coudert](mailto:David.coudert@inria.fr).
+ - Méthodes, langages ou technologies envisagés : Etude bibliographique; programmation C++
+
+La technique du hub labeling (ou 2-hop cover) est une méthode de pré-traitement d'un graphes permettant ensuite de répondre très rapidement à des requêtes de plus courts chemins. Ceci permet par exemple de répondre en quelques micro-secondes à une requête  dans un réseau routier à 20 millions de sommets, alors qu'un appel à l'algorithme de Dijkstra peut prendre plusieurs secondes.
+De plus, la quantité d'informations à stocker en mémoire est faible (de l'ordre de n log n). Cette technique est donc très intéressante pour de nombreuses applications.
+
+Toutefois, le temps de calcul nécessaire à ce pré-traitement est long (plusieurs heures) et les algorithmes proposés jusqu'à présent sont conçus pour des scénarios statiques, i.e., si le graphe change, il faut tout recalculer.
+
+Pour prendre en compte la dynamique, une méthode a été proposée pour prendre en compte les ajouts de sommets ou d'arêtes \[1\], et une autre pour prendre en compte les suppressions de sommets et d'arêtes \[2,3\]. Toutefois, ces méthodes ne sont pas compatibles et ne permettent donc pas de supporter tout type de modification du graphe.
+
+L'objectif de ce projet est d'abord d'étudier et tester ces algorithmes. Ensuite, on cherchera à combiner ces méthodes pour obtenir un algorithme performant et supportant tout type de modification du graphe.
+
+
+ - Références :
+   - \[1\] T. Akiba, Y. Iwata, Y. Yoshida: Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling. International World Wide Web Conference (WWW), Seoul, Korea, April 2014. http://dx.doi.org/10.1145/2566486.2568007
+   - \[2\] G. D'Angelo, M. D'Emidio, D. Frigioni: Fully dynamic 2-hop cover labeling. ACM Journal of Experimental Algorithmics (JEA) 24(1):1-36, 2019. https://dl.acm.org/doi/abs/10.1145/3299901
+   - \[3\] M. D’Emidio: Faster Algorithms for Mining Shortest-Path Distances from Massive Time-Evolving Graphs. Algorithms 13(8):191, 2020. https://doi.org/10.3390/a13080191
+
+
+
 
 <!--
 ### Nom du projet ###
