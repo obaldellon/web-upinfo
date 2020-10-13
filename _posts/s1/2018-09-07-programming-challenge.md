@@ -66,6 +66,8 @@ You can practice on the platforms Sphere Engine and spoj below.
 
 First, you must masterize the [tutorial]({% post_url ucancode/2019-07-22-tutoriel %}).
 
+Try out one of the problems from the coding battle [Le Shaker in 2019](https://51364960.widgets.sphere-engine.com/lp?hash=rCg1hF4dZ1).
+
 ### Grading ###
 
 Coding Battle Oral (40%) - October 28, 2020
