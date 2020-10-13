@@ -54,9 +54,8 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 - La soutenance doit être déposée avant le début des soutenances.
 
 #### Soutenance ####
-<!--
-- **Les soutenances auront lieu le vendredi 24 janvier 2020.**
--->
+
+- **Les soutenances auront lieu le vendredi 8 janvier 2021.**
 
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéo-projecteur et un de vos ordinateurs pour la démonstration.
