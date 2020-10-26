@@ -78,7 +78,7 @@ The [moodle course](https://lms.univ-cotedazur.fr/course/view.php?id=14293) is u
 You should be already registered. Anyway, you could self register by clicking on the link.
 
 Coding Battle Oral (40%) - October 28, 2020
-: Each student present a solution one of the problems given at the [Coding Battle](https://le-shaker.com/la-coding-battle-2/). Pair work is allowed.
+: Each student present a solution one of the problems given at the [Coding Battle](https://le-shaker.com/la-coding-battle-2/). Pair work is allowed for problem solving, but the oral is into individual.
 
 Homework with Sphere Engine (20%) - Released on November 9, 2020
 : One problem, prepared at home is submitted during the last lab under teacher supervision. Pair work is allowed.
