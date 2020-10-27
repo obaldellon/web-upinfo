@@ -36,5 +36,5 @@ Dans ce cours nous verrons une introduction à l'interprétation abstraite ainsi
 
 ### Supports de cours ###
 
-[PPC Continu]({% include link-asset asset="Continu.pdf" %})
-[Vérification]({% include link-asset asset="Verification.pdf" %})
+  - [PPC Continu]({% include link-asset asset="Continu.pdf" %})
+  - [Vérification]({% include link-asset asset="Verification.pdf" %})
