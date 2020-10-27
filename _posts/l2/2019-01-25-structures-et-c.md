@@ -81,7 +81,10 @@ Ce cours est divisé en 5 grandes parties :
 
 ###### Supports de cours
 
-Les supports de cours seront bientôt mis à jour.
+Les supports de cours seront mis au fur et à mesure.
+
+  - [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})	
+  - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
 
 ###  Calendrier ###
 - Les 6 premières séances sont dédiées aux Structures de données.
