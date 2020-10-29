@@ -105,11 +105,11 @@ Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-
 
 ### Supports ###
 
-  - Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA.pdf" %}).
-  - [Les règles de 7 wonders]({% include link-asset asset="7wonders-reegles.pdf" %}).
-  - [Le descriptif des effets]({% include link-asset asset="7wonders-effets.pdf" %}).
-  - [Les cartes et les chaînages]({% include link-asset asset="7wonders-cartes-chainages.pdf" %}).
-  - [Les merveilles]({% include link-asset asset="boards_v2.jpg" %}).
+  - Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA.pdf" %})
+  - [Les règles de 7 wonders]({% include link-asset asset="7wonders-regles.pdf" %})
+  - [Le descriptif des effets]({% include link-asset asset="7wonders-effets.pdf" %})
+  - [Les cartes et les chaînages]({% include link-asset asset="7wonders-cartes-chainages.pdf" %})
+  - [Les merveilles]({% include link-asset asset="boards_v2.jpg" %})
 
 
 <!--
