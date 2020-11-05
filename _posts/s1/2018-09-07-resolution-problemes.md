@@ -38,7 +38,7 @@ Ce cours présente différents types de méthodes afin de formaliser et résoudr
 
 ### Contenu ###
 
-Les diapositives du cours seront disponibles au fur et à mesure des cours.
+Les diapositives du cours seront mises à jour au fur et à mesure des cours.
  - [Introduction]({% include link-asset asset="0-Intro_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Intro_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Intro_x2+notes.pdf" %})
  - [Modélisation]({% include link-asset asset="0-Modelisation_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Modelisation_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Modelisation_x2+notes.pdf" %})
  - [Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_x2+notes.pdf" %})
