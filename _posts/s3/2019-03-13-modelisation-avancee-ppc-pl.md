@@ -30,7 +30,7 @@ header:
 
 ### Lesson 1: Project Management
 
-We start with a a quick reminder from the [graph theory course]({% post_url /s1/2018-09-07-graphes-prog-dyn %}) from pages 193 to 212 that will present the main algorithm used in project management : shortest path in a directed acyclic graph. Then, we will follow the chapter 10 entitled [Project Management with PERT/CPM](https://thalis.math.upatras.gr/~tsantas/DownLoadFiles/Hillier&Lieberman_7th-edition_Chapter10.pdf) from the book *Introduction to operations Research* written by Hillier and Lieberman. The lab will be conducted using [IBM Ilog Optimization Studio](({% post_url /divers/2019-07-23-installation-cplex-studio %})) instead of an Excel worksheet.
+We start with a a quick reminder from the [graph theory course]({% post_url /s1/2018-09-07-graphes-prog-dyn %}) from pages 193 to 212 that will present the main algorithm used in project management : shortest path in a directed acyclic graph. Then, we will follow the chapter 10 entitled [Project Management with PERT/CPM](https://thalis.math.upatras.gr/~tsantas/DownLoadFiles/Hillier&Lieberman_7th-edition_Chapter10.pdf) from the book *Introduction to operations Research* written by Hillier and Lieberman. The lab will be conducted using [IBM Ilog Optimization Studio]({% post_url /divers/2019-07-23-installation-cplex-studio %}) instead of an Excel worksheet.
 
 Some additional resources are listed below :
 - [Project Management Tools and Techniques (PERT- Project Evaluation and Review Technique; CPM- Critical Path Method)](https://www.slideshare.net/zulfiquer732/project-management-tools-and-techniques-pert-project-evaluation-and-review-technique-cpm-critical-path-method)
