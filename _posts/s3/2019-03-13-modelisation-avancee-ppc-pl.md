@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Modélisation Avancée PPC/PL"
 logo: "logo_blanc.png"
-teaser: "We will study and solve a real-life nurse rostering problem occurring at the university hospital centre Pasteur II."
+teaser: "We introduce some scheduling problems, algorithms and general methods (linear and constraint programming)."
 categories:
   - S3
 tags:
@@ -28,15 +28,62 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-### Lesson 1 : Project Management
+### Lesson 1: Project Management
 
-We start with a a quick reminder from the [graph theory course]({% post_url /s1/2018-09-07-graphes-prog-dyn %}) from pages 193 to 212 that will present the main algorithm used in project management : shortest path in a directed acyclic graph.
-Then, we will follow the chapter 10 entitled [Project Management with PERT/CPM](https://thalis.math.upatras.gr/~tsantas/DownLoadFiles/Hillier&Lieberman_7th-edition_Chapter10.pdf) from the book *Introduction to operations Research* written by Hillier and Lieberman. The lab will be conducted using [IBM Ilog Optimization Studio](({% post_url /divers/2019-07-23-installation-cplex-studio %})) instead of an Excel worksheet.
+We start with a a quick reminder from the [graph theory course]({% post_url /s1/2018-09-07-graphes-prog-dyn %}) from pages 193 to 212 that will present the main algorithm used in project management : shortest path in a directed acyclic graph. Then, we will follow the chapter 10 entitled [Project Management with PERT/CPM](https://thalis.math.upatras.gr/~tsantas/DownLoadFiles/Hillier&Lieberman_7th-edition_Chapter10.pdf) from the book *Introduction to operations Research* written by Hillier and Lieberman. The lab will be conducted using [IBM Ilog Optimization Studio](({% post_url /divers/2019-07-23-installation-cplex-studio %})) instead of an Excel worksheet.
 
 Some additional resources are listed below :
 - [Project Management Tools and Techniques (PERT- Project Evaluation and Review Technique; CPM- Critical Path Method)](https://www.slideshare.net/zulfiquer732/project-management-tools-and-techniques-pert-project-evaluation-and-review-technique-cpm-critical-path-method)
 - [Project Planning And Scheduling Using PERT And CPM Techniques With Linear Programming: Case Study]({% include link-asset asset="Project-Planning-And-Scheduling-Using-Pert-And-Cpm-Techniques-With-Linear-Programming-Case-Study.pdf" %})
 - [Project Completion Probability after Crashing PERT/CPM Network]({% include link-asset asset="project-completion-probability-after-crashing-pert-cpm-network_compress.pdf" %})
+
+##### Guidelines and addtional questions for the PERT/CPM Lab
+
+I suggest to use the data model given below.
+
+```
+// Table 10.1 (without estimated durations)
+tuple Activity {
+  key string code;
+  string description;
+  {string} predecessors;
+}
+{Activity} Activities = ...;
+
+// Figure 10.11
+tuple TimeCostTradeoff {
+  int normalTime;
+  int crashTime;
+  int normalCost;
+  int crashCost;
+}
+// Table 10.7
+TimeCostTradeoff tradeoffs[Activities] = ...;
+```
+
+###### CPM Models
+
+1. The most simple approach is to define two optimization models to apply the critical path method.
+The first model computes the Earliest Start Schedule while the second model computes the Latest Start Schedule for a given deadline/makespan.
+2. But, you will remark that these two models are very similar.
+In fact, it is possible to write a single model for which parameters, given as external data, define the schedule to compute (ES or LS).
+3. However, you still have to manually execute two run configurations to apply the CPM model.
+You can automate these two steps by using the IBM OPL Script language.
+
+###### Approximating the Probability of Meeting the Deadline (p. 491) :
+
+1. What is the probability of finishing the project within of 44 weeks ?
+2. What is the probability of meeting the deadline of 47 weeks ?
+3. What is the probability to get the bonus by finishing the project within 40 weeks ?
+
+
+###### Crashing
+
+1. You should start by writing a new model for crashing activities for a given makespan.
+If needed, the model is described in the chapter.
+2. Then, you can try to factorize some code with the CPM model(s) by using the `include` command.
+3. Last, you must compute the total crash cost for every possible makespan.
+Again, it can be automated with the IBM OPL Script language.
 
 
 ### Textbooks
