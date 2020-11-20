@@ -34,9 +34,9 @@ header:
 
 Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal), et comprend:
 
-- 9 séances de cours
+- 8 séances de cours
 - 16 séances de TD (2 par semaine)
-- un partiel
+- deux partiel
 
 
 ###  Cours ###
