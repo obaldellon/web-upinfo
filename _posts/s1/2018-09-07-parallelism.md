@@ -40,7 +40,9 @@ During the lab sessions we will be using C and OpenMP, a standard library for pa
 
 ### Teaching materials ###
 
-There are no slides for this course, everything is hand written on the board. This gives us time to think.
+- Moodle Pages
+- Introduction to Parallel Computing. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, Addison Wesley, 2003. 
+- Introduction to Parallel Computing: From Algorithms to Programming on State-of-the-Art Platforms. Roman Trobec, Boštjan Slivnik, Patricio Bulić, Borut Robič. Springer 2018.
 
 
 
