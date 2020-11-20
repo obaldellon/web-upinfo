@@ -80,7 +80,7 @@ You should be already registered. Anyway, you could self register by clicking on
 Coding Battle Oral (40%) - October 28, 2020
 : Each student present a solution one of the problems given at the [Coding Battle](https://le-shaker.com/la-coding-battle-2/). Pair work is allowed for problem solving, but the oral is into individual.
 
-Homework with Sphere Engine (20%) - Released on November 9, 2020
+Homework with Sphere Engine (20%) - Released on November 19, 2020
 : One problem, prepared at home is submitted during the last lab under teacher supervision. Pair work is allowed.
 
 Final Exam with Sphere Engine (40%) - January 2020
@@ -112,6 +112,13 @@ Then, the oral of 20 minutes (in English or French) will be organized in three p
 - Code presentation (3 min): describe the implementation choices of your final submission; compare its performance to the public solutions.
 - Questions (10 min) about the algorithmic and the code: you can use a whiteboard for answering.
 
+#### Coding Battle Oral ####
+
+You must submit your solution on sphere engine and moodle before December 6, 2020. <br/>
+A short presentation about the homework followed by a Q&A session on Thusrday is scheduled on Thuersday, November 19th at 17:00.
+
+ - [Problem presentation]({% include link-asset asset="presentation-VQIMG.pdf" %}).
+ - [Problem widget](https://51364960.widgets.sphere-engine.com/lp?hash=Q6bYwJljy7).
 
 ### Resources
 
