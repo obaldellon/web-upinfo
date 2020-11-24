@@ -38,3 +38,4 @@ Dans ce cours nous verrons une introduction à l'interprétation abstraite ainsi
 
   - [PPC Continu]({% include link-asset asset="Continu.pdf" %})
   - [Vérification]({% include link-asset asset="Verification.pdf" %})
+  - [Logique de Hoare]({% include link-asset asset="Hoare.pdf" %})
