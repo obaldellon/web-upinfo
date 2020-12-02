@@ -112,7 +112,7 @@ Then, the oral of 20 minutes (in English or French) will be organized in three p
 - Code presentation (3 min): describe the implementation choices of your final submission; compare its performance to the public solutions.
 - Questions (10 min) about the algorithmic and the code: you can use a whiteboard for answering.
 
-#### Coding Battle Oral ####
+#### Homework ####
 
 You must submit your solution on sphere engine and moodle before December 6, 2020. <br/>
 A short presentation about the homework followed by a Q&A session on Thusrday is scheduled on Thuersday, November 19th at 17:00.

@@ -85,6 +85,12 @@ If needed, the model is described in the chapter.
 3. Last, you must compute the total crash cost for every possible makespan.
 Again, it can be automated with the IBM OPL Script language.
 
+###### Unary Resource
+
+A unary or disjunctive resource models a set of non-interruptible activities which must not overlap in the schedule: two tasks cannot be executed simulatenously.
+
+1. All activities use the the unary resource.
+2. Only crashed activities use the unary resource.
 
 ### Textbooks
 
