@@ -56,8 +56,8 @@ Les diapositives du cours seront mises à jour au fur et à mesure des cours.
 [HASHCODE2017](https://51364960.widgets.sphere-engine.com/lp?hash=ZxDblRSByv)
  - [Contrôle de 2018]({% include link-asset asset="interro2018.pdf" %})
  - [Contrôle de 2019]({% include link-asset asset="interro2019.pdf" %})
- - [Contrôle de 2018]({% include link-asset asset="examen2018.pdf" %})
- - [Contrôle de 2019]({% include link-asset asset="examen2019.pdf" %})
+ - [Examen de 2018]({% include link-asset asset="examen2018.pdf" %})
+ - [Examen de 2019]({% include link-asset asset="examen2019.pdf" %})
  
 <!--  : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}).
 Ainsi qu'une [correction du contrôle]({% include link-asset asset="correction.pdf" %}). -->
