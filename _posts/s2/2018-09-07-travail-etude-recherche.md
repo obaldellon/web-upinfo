@@ -69,7 +69,7 @@ Nous alternerons les soutenances sur discord dans les salons vocaux 282 et TD06.
 
 ### Appel à sujets ###
 
-L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-appel-a-sujets %}).
+L'appel à sujets est [ici]({% post_url /ter/2019-01-17-TER-S2-appel-a-sujets %}).
 
 Je vous encourage à trouver rapidement un sujet en donnant un bonus (1pt). La date limite est dans l'agenda.  
 Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
@@ -185,7 +185,7 @@ Si vous pensez que c\'est injuste, posez la question à votre encadrant ou au ju
 
 ### Listes des sujets des années précédentes ###
 
--   [Liste des sujets 2018-2019]({% post_url /ter/2019-01-21-TER-S2-liste-des-sujets-2019 %}).
+{: .t10 } {% include list-posts-nonav category='TERS2' %}
 -   [Liste des sujets 2017-2018](http://www.i3s.unice.fr/~malapert/ter18.html)
 -   [Liste des sujets 2016-2017](http://www.i3s.unice.fr/~malapert/ter17.html)
 -   [Liste des sujets 2015-2016](http://www.i3s.unice.fr/~malapert/ter16.html)

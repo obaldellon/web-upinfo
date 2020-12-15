@@ -1,0 +1,39 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › category
+*    › tag
+*
+*   Example for Category: {% include list-posts-nonav category='design' %}
+*
+*   Example for Tag: {% include list-posts-nonav tag='terminal' %}
+*
+*
+*   This loop works like this:
+*
+*   1. First we check if there was given a category for filtering › if include.categories == NULL
+*   2. If no category is given for filtering do a general loop.
+*   3. If a category/tag was given, assign category/tag to the variable category/tag › assign category = include.categories
+*
+{% endcomment %}
+
+{% assign category = include.category %}
+{% assign tag = include.tag %}
+<ul style="margin-bottom:0">
+  {% if category %}
+
+    {% for post in site.categories.[category] %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
+    {% endfor %}
+
+
+  {% elsif tag %}
+
+    {% for post in site.tags.[tag] %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
+    {% endfor %}
+
+  {% endif %}
+</ul>
+

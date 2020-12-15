@@ -19,6 +19,8 @@
     url: "/programme/semestre2/"
   - title: "Semestre 3"
     url: "/programme/semestre3/"
+  - title: "Stage"
+    url: "/programme/stage/"
   - title: "Liste des cours"
     url: "/programme/liste/"
 

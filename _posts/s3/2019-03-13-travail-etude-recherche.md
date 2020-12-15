@@ -84,7 +84,7 @@ Voici quelques conseils :
 
 ### Listes des sujets des années précédentes ###
 
--   [Liste des sujets 2019-2020]({% post_url /ter/2019-09-30-TER-S3-liste-des-sujets-2019 %}).
+{: .t10 } {% include list-posts-nonav category='TERS3' %}
 
 ### Calendrier ###
 
