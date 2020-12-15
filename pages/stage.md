@@ -19,9 +19,6 @@ Le stage se déroulera dans la période 1er mars au 31 août. Le stage peut s'ef
 
 L'appel à sujets est [ici]({% post_url /stage/2020-12-15-stage-appel-a-sujets %}).
 
-Je vous encourage à trouver rapidement un sujet en donnant un bonus (1pt). La date limite est dans l'agenda.  
-Formez un groupe, consultez la liste des sujets ou contactez directement des professeurs ou des industriels travaillant dans vos thématiques préférées pour leur demander un sujet.
-
 ### Choisir un sujet ###
 
 Les étudiants auront jusqu'au 5 février pour choisir un sujet.
