@@ -65,21 +65,20 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 **Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
-<!--
 L'ordre de passage est donné ci-dessous.
 
-| Horaire | Groupe     | Étudiants                                                                             |
+| Horaire | Équipe     | Étudiants                                                                             |
 |---------|------------|---------------------------------------------------------------------------------------|
-| 09h00   | Teamrocket | Mohamed Chakri, Vincent Laubry, Samuele Marino, Maya Medjad, Mohummad Zaid Burkutally |
-| 09h45   | Aventure   | Ralph El Chalfoun, Jérémy Hirth Daumas, Nabil Yacoub, Rémi Yacoub                     |
-| 10h30   | PAUSE      |                                                                                       |
-| 11h00   | Vamos      | Ossama Ashraf, Kevin Levy, Nicolas Zimmer                                             |
-| 11h45   | Mocanigaya | Morgane Govone, Gaetan Jacquet, Cassandre Maire, Nicolas Saint Jean                   |
-| 12h30   | PAUSE      |                                                                                       |
-| 14h00   | Lamac      | Meryem Boufalah, Loïc Filippi, Anastasiia Kozlova, Alessandro Pepegna, Chaeyeon Shim  |
-| 14h45   | Utopia     | Aymen Baroudi, Tom Donnadieu, Filipe Gomes Silva, Tigran Nersissian, Erdal Toprak     |
-| 15h30   | Top4-1     | Arnaud Barbe, Yasmine Benfredj, Yassine Chouchane, Sébastien Marro                    |
--->
+| 9h00    | Mocanigaya | Morgane Govone, Gaetan Jacquet, Cassandre Maire, Nicolas Saint Jean                   |
+| 9h45    | Teamrocket | Mohamed Chakri, Vincent Laubry, Samuele Marino, Maya Medjad, Mohummad Zaid Burkutally |
+| 10h30   | **PAUSE**                                                                                          |
+| 11h00   | Utopia     | Aymen Baroudi, Tom Donnadieu, Filipe Gomes Silva, Tigran Nersissian, Erdal Toprak     |
+| 11h45   | Top4-1     | Arnaud Barbe, Yasmine Benfredj, Yassine Chouchane, Sébastien Marro                    |
+| 12h30   | **PAUSE**                                                                                          |
+| 14h00   | Aventure   | Ralph El Chalfoun, Jérémy Hirth Daumas, Nabil Yacoub, Rémi Yacoub                     |
+| 14h45   | Vamos      | Ossama Ashraf, Kevin Levy, Nicolas Zimmer                                             |
+| 15h30   | Lamac      | Meryem Boufalah, Loïc Filippi, Anastasiia Kozlova, Alessandro Pepegna, Chaeyeon Shim  |
+
 
 #### Rapport ####
 
