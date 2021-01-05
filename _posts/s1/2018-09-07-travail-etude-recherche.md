@@ -28,10 +28,8 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-
 Il n'y a ni prérequis, ni cours magistraux.
 Les problématiques abordées seront toutefois liées à d'autres cours.
-
 
 Les TDs servent à suivre et à encadrer les équipes d'étudiants dans la réalisation du projet.
  - Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
@@ -79,7 +77,6 @@ L'ordre de passage est donné ci-dessous.
 | 14h45   | Vamos      | Ossama Ashraf, Kevin Levy, Nicolas Zimmer                                             |
 | 15h30   | Lamac      | Meryem Boufalah, Loïc Filippi, Anastasiia Kozlova, Alessandro Pepegna, Chaeyeon Shim  |
 
-
 #### Rapport ####
 
 Le rapport doit expliquer :
@@ -93,11 +90,9 @@ Le rapport doit expliquer :
 
 Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-03-charte-graphique %}) un modèle de rapport en LaTeX.
 
-
 ### Calendrier ###
 
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ZDh1dXRiaDUwcGI0aDJlZG9xNjdhY2s1aXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
-
 
 ### Supports ###
 
@@ -106,7 +101,6 @@ Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-
   - [Le descriptif des effets]({% include link-asset asset="7wonders-effets.pdf" %})
   - [Les cartes et les chaînages]({% include link-asset asset="7wonders-cartes-chainages.pdf" %})
   - [Les merveilles]({% include link-asset asset="merveilles.pdf" %}) [(images)]({% include link-asset asset="wonderboards.zip" %})
-
 
 <!--
 ### Quelques réflexions sur le jeu Puerto Rico ###

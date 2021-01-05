@@ -15,7 +15,7 @@ tags:
  - OPT
 ects: 6
 schedule: "24h CM, 18h TD, 18h TP"
-# author:
+author: jcregin
 #
 # Styling
 #
@@ -29,6 +29,9 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
+
+{% include alert alert="Alert:  
+    Ce syllabus n'est pas à jour." %}
 
 ### Description
 
