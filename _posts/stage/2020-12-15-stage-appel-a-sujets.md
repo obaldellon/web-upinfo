@@ -7,6 +7,8 @@ subheadline: "M2 INFO"
 title: "Appel à sujets de stage"
 logo: "logo_blanc.png"
 teaser: "Les étudiants du Master 2 Informatique et Interactions de l’Université Côte d’Azur vont effectuer un stage de recherche ou professionnalisant lors de leur quatrième (et dernier) semestre."
+categories:
+  - Stage
 #
 # Styling
 #

@@ -84,7 +84,7 @@ Voici quelques conseils :
 
 ### Listes des sujets des années précédentes ###
 
-{: .t10 } {% include list-posts-nonav category='TERS3' %}
+{: .t10 } {% include list-posts-nonav category='TER' tag='S3' %}
 
 ### Calendrier ###
 

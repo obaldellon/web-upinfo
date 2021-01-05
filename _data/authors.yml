@@ -5,6 +5,9 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+anonym:
+  name: "Prénom Nom, MCF/PR"
+  email: "firstname.lastname@univ-cotedazur.fr"
 arnaud:
   name: "A. Malapert, MCF"
   siterole: "webmaster, developer, copywriter, designer"

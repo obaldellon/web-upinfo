@@ -185,7 +185,7 @@ Si vous pensez que c\'est injuste, posez la question à votre encadrant ou au ju
 
 ### Listes des sujets des années précédentes ###
 
-{: .t10 } {% include list-posts-nonav category='TERS2' %}
+{: .t10 } {% include list-posts-nonav category='TER' tag='S2' %}
 -   [Liste des sujets 2017-2018](http://www.i3s.unice.fr/~malapert/ter18.html)
 -   [Liste des sujets 2016-2017](http://www.i3s.unice.fr/~malapert/ter17.html)
 -   [Liste des sujets 2015-2016](http://www.i3s.unice.fr/~malapert/ter16.html)

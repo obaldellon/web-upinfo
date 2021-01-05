@@ -46,4 +46,4 @@ La convention est à remplir en trois copies (la scolarité en garde aussi une c
 
 ### Listes des sujets ###
 
-{: .t10 } {% include list-posts-nonav category='StageS4' %}
+{: .t10 } {% include list-posts-nonav category='Stage' tag='S4' %}

@@ -8,7 +8,9 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+# Auteur du post ou du responsable cours
+# Les valeurs sont dans le fichier _data/authors.yml
+author: anonym
 title: "Écrire un syllabus ou un post"
 # Vous pouvez changer le logo qui apparait dans l'entête
 # si vous ne souhaitez pas de logo :
@@ -36,7 +38,6 @@ tags:
 ects: 3
 schedule: "24h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
