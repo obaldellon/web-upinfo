@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Grands concepts de l'Informatique"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: "L'objectif de ce cours est de faire découvrir de concepts qui dominent l'informatique au-delà de l'ordinateur."
 categories:
   - L3
 tags:
@@ -25,17 +25,14 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Description ###
-L'objectif de ce cours est de faire découvrir de concepts qui dominent
-l'informatique au-delà de l'ordinateur. Nous y découvrons d’une façon « simple » et
-« uniforme » l'aventure intellectuelle de la « quête épique des fondements des
-Mathématiques et de l' Informatique ». Cantor, Cödel, et  Turing nous enseignent
-le pourquoi des limites des sciences mathématique et informatique.
-	
-<!-- ###  Calendrier ###        
+
+Nous y découvrons d’une façon « simple » et « uniforme » l'aventure intellectuelle de la « quête épique des fondements des Mathématiques et de l' Informatique ». Cantor, Cödel, et  Turing nous enseignent le pourquoi des limites des sciences mathématique et informatique.
+
+<!-- ###  Calendrier ###
 S6 -->
 
 ###  Cours ###
@@ -50,7 +47,7 @@ S6 -->
 
 ###  Modalités de contrôle des connaissances ###
 
-- 2 CC à 30% 
+- 2 CC à 30%
 - 1 CT à 40%
 
 ###  Ressources ###

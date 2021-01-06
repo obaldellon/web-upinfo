@@ -78,5 +78,5 @@ Le contrôle des connaissances comprendra 2 épreuves écrites :
 
 - Contrôle Continu (2h)
 - Projet (modif Covid)
-- Contrôle Terminal (2h)
+- ~~Contrôle Terminal (2h)~~
 - Épreuve orale en seconde session
