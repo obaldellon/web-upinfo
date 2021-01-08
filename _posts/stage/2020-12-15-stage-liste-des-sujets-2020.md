@@ -39,6 +39,24 @@ The aim of this project is to contribute to such lack of effective null models b
 
 [Version longue]({% include link-asset asset="null_processes_for_comp_neuroscience.pdf" %})
 
+### Génération procédurale de scénarios de jeux ###
+
+- Encadrant : [Laurent Simon](mailto:lsimon@labri.fr).
+- Mots clés : Intelligence Artificielle, Contraintes, Génération Procédurale, Vérification.
+- Prérequis : Solides notions de programmation et une formation scientifique de haut niveau
+- Contexte : Le stage est proposé dans le cadre d’un projet collaboratif avec Ubisoft Bordeaux. Il se situera au LaBRI (Talence) et des rencontres régulières avec les équipes de Ubisoft sont prévues. Bien entendu, suivant le contexte sanitaire, le télétravail partiel est envisageable.
+
+Les mondes virtuels dans lesquels les joueurs évoluent n’ont cessé de voir leur complexité augmenter, grâce aux progrès matériel des supports de jeux. Si cette complexité offre au joueur de plus en plus de possibilités et un monde de plus en plus ouvert, la conception de ces jeux demande souvent de pouvoir créer "à la demande" de nouveaux contenus. Cette génération procédurale implique de résoudre des défis à plusieurs niveaux dont celui de la génération automatique de scénarios de jeux.
+
+Dans une chaîne de création vidéo-ludique, le monde généré peut être vu comme le support le
+mieux adapté au scénario que le joueur va explorer. Toute la chaîne de création va donc dépendre des
+contraintes imposées par le scénario (succession d’objets à collecter, obligation de rencontrer certains
+personnages avant d’avancer, complexité des épreuves, garantie de l’existence d’une solution, etc.)
+
+Dans ce stage, nous proposons d’aborder cette problématique en ne considérant qu’une vision textuelle des scénarios à considérer. Ainsi, le level designer pourra exprimer un ensemble possible de scénarios de manière déclarative, en précisant les actions et gains possibles du monde qu’il désire créer, ainsi que les propriétés que doivent respecter les scénarios à générer. Le générateur de scénarios devra produire, avec des performances compatibles avec l’idée de scénario "à la demande", des scénarios de jeu adéquats.
+
+[Version longue](https://www.labri.fr/perso/lsimon/internships/Stage-UbiSoft-LaBRI.pdf)
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
