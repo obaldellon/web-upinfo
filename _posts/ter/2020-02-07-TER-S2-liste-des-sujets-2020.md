@@ -11,7 +11,6 @@ categories:
   - TER
 tags:
   - S2
-  - NEWS
 #
 # Styling
 #
