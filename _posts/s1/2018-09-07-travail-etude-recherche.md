@@ -68,7 +68,7 @@ L'ordre de passage est donné ci-dessous.
 | Horaire | Équipe     | Étudiants                                                                             |
 |---------|------------|---------------------------------------------------------------------------------------|
 | 9h00    | Mocanigaya | Morgane Govone, Gaetan Jacquet, Cassandre Maire, Nicolas Saint Jean                   |
-| 9h45    | Teamrocket | Mohamed Chakri, Vincent Laubry, Samuele Marino, Maya Medjad, Mohummad Zaid Burkutally |
+| 9h45    | Teamrocket |  Vincent Laubry, Samuele Marino, Maya Medjad, Mohummad Zaid Burkutally                |
 | 10h30   | **PAUSE**                                                                                          |
 | 11h00   | Utopia     | Aymen Baroudi, Tom Donnadieu, Filipe Gomes Silva, Tigran Nersissian, Erdal Toprak     |
 | 11h45   | Top4-1     | Arnaud Barbe, Yasmine Benfredj, Yassine Chouchane, Sébastien Marro                    |
