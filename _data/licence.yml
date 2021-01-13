@@ -1,0 +1,99 @@
+s1:
+  title: "Semestre 1"
+  courses:
+    - title: Bases de l'informatique
+      info: true
+    - title: "Mathématiques S1 : Fondements 1"
+    - title: "Mathématiques : complément 1"
+    - title: "Electronique S1 : Électronique numérique, bases"
+    - title: UE transversale
+      uet: true
+
+s2:
+  title: Semestre 2
+  courses:
+    - title: Programmation impérative en Python
+      info: true
+    - title: "Système 1 : programmation shell"
+      info: true
+    - title: "Mathématiques S2 : Fondements 2"
+    - title: L'une des UE non disciplinaire suivantes
+      options:
+        - title: "Mathématiques S2 : compléments 2"
+        - title: "Mathématiques S2 : Méthodes math approche discrète"
+        - title: "Électronique S2 : Électronique analogique"
+    - title: UE transversale
+      uet: true
+
+s3:
+  title: Semestre 3
+  courses:
+    - title: Structures de données et programmation C
+      info: true
+    - title: Bases de données
+      info: true
+    - title: Outils formels pour l'informatique
+      info: true
+    - title: L'une des UE non disciplinaires suivantes
+      options:
+        - title: "Mathématique S3 : Fondements S3"
+        - title: "Mathématique S3 : Structures algébriques"
+        - title: "Mathématique S3 : Méthodes mathématiques, approche géométrique"
+        - title: Programmation en R
+        - title: Introduction à l’intelligence artificielle
+
+s4:
+  title: Semestre 4 (parcours informatique S4)
+  courses:
+    - title: Algorithmique 1
+      info: true
+    - title: Réseaux et télécommunications
+      info: true
+    - title: "Systèmes 2 : mécanismes interne des systèmes d'exploitation"
+      info: true
+    - title: L'une des UE suivantes (cf règle de non cumul des options)
+      options:
+        - title: Concepts d’intelligence artificielle
+          info: true
+        - title: Technologies du web
+          info: true
+    - title: UE transversale
+      uet: true
+
+s5:
+  title: Semestre 5 (Licence informatique L3)
+  courses: 
+    - title: Automates et langages
+      info: true
+    - title: Programmation fonctionnelle
+      info: true
+    - title: Programmation et conception orientées objet
+      info: true
+    - title: L'une des UE suivantes (cf règle de non cumul des options)
+      options:
+        - title: Architecture machine
+          info: true
+        - title: Cryptographie et calcul symbolique
+          info: true
+    - title: UE transversale
+      uet: true
+
+s6:
+  title: Semestre 6 (Licence informatique L3)
+  courses:
+    - title: Algorithmique 2
+      info: true
+    - title: Compilation
+      info: true
+    - title: L'une des UE suivantes (choix d'option 1)
+      options:
+        - title: Paradigmes et interprétation
+          info: true
+        - title: Grands concepts de l'informatique fondamentale
+          info: true
+    - title: L'une des UE suivantes (choix d'option 2)
+      options:
+        - title: Méthodes de simulation informatique
+          info: true
+        - title: Travail encadré d'étude, de recherche et de développement (TERD)
+          info: true

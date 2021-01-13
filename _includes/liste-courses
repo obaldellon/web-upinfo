@@ -1,0 +1,32 @@
+
+{% assign semester=site.data.licence[include.entry] %}
+
+
+{{ semester.title | append:" ###" | prepend:"### " | markdownify }}
+
+<ul>
+  {% for course in semester.courses %}
+    <li>
+    {% if course.info %}
+      <strong>{{ course.title }}</strong>
+    {% elsif course.options or course.uet %}
+      {{ course.title }}
+    {% else %}
+      <em>{{ course.title }}</em>
+    {% endif %}
+    {% if course.options %}
+      <ul>
+      {% for option in course.options %}
+        <li>
+        {% if option.info %}
+          <strong>{{ option.title }}</strong>
+        {% else %}
+          <em>{{ option.title }}</em>
+        {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+    </li>
+  {% endfor %}
+</ul>
