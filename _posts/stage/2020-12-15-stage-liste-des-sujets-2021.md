@@ -156,8 +156,6 @@ On the other hand, the structure of an energy functional, say a PEL, can be summ
 
 The goal of this internship will be to design and analyze provably correct deep learning algorithms computing certified approximations of ensemble averages on groups of basins. The developments will be validated on a set of models ranging from toy landscapes to PEL of biomolecules.
 
-[Version longue]({% include link-asset asset="master21-deepPEL.pdf" %})
-
 - Références :
   - \[2\] D. J. Wales. Energy Landscapes. Cambridge University Press, 2003.
   - \[3\] D.M. Zuckerman. Statistical Physics of Biomolecules: An Introduction. CRC Press, 2010.
@@ -165,6 +163,8 @@ The goal of this internship will be to design and analyze provably correct deep 
   - \[5\] Frank Noé, Simon Olsson, Jonas Köhler, and Hao Wu. Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning. Science, 365(6457):eaaw1147, 2019.
   - \[6\] J. Carr, D. Mazauric, F. Cazals, and D. J. Wales. Energy landscapes and persistent minima. The Journal of Chemical Physics, 144(5):4, 2016.
   - \[7\] F. Cazals, T. Dreyfus, D. Mazauric, A. Roth, and C.H. Robert. Conformational ensembles and sampled energy landscapes: Analysis and comparison. J. Comp. Chem., 36(16):1213–1231, 2015.
+
+[Version longue]({% include link-asset asset="master21-deepPEL.pdf" %})
 
 ### Trekking and mapping high-dimensional landscapes ###
 
