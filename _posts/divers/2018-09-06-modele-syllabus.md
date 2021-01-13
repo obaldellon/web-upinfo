@@ -293,7 +293,7 @@ All `alert`s support markdown and their names are all lowercase, because they're
     This is like any normal markdown, even when used from non-markdown context:  
     **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert warning="Warning: call out a caveat that\'s easy to trigger  
+{% include alert warning="Warning: call out a caveat that's easy to trigger  
     This is like any normal markdown, even when used from non-markdown context:  
     **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 

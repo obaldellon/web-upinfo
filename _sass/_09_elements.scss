@@ -98,10 +98,7 @@
     border-color: scale-color($grey-2, $lightness: -14%);
     color: $grey-12;
   }
-
-  &.tip {
-    @include alert-style($info-color);
-  }
+  
   &.todo {
     @include alert-style($todo-color);
     text-shadow: none;
