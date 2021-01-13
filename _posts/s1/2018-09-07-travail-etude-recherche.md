@@ -41,12 +41,11 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 ### Modalités de contrôle des connaissances ###
 
- - Rapport (30%)
- - Soutenance orale (70%)
- - Pas de 2nde session.
+- Rapport (30%)
+- Soutenance orale (70%)
+- Pas de 2nde session.
 
-**Le rapport et la soutenance sont en anglais.**
-
+- **Le rapport et la soutenance sont en anglais.**
 - Les spécifications de la règle du jeu et des IA doivent être déposées sur github avant les vacances de Noël.
 - Le rapport doit être déposé la veille de la soutenance avant midi sur github.
 - La soutenance doit être déposée avant le début des soutenances.
@@ -70,7 +69,7 @@ L'ordre de passage est donné ci-dessous.
 | 9h00    | Mocanigaya | Morgane Govone, Gaetan Jacquet, Cassandre Maire, Nicolas Saint Jean                   |
 | 9h45    | Teamrocket |  Vincent Laubry, Samuele Marino, Maya Medjad, Mohummad Zaid Burkutally                |
 | 10h30   | **PAUSE**                                                                                          |
-| 11h00   | Utopia     | Aymen Baroudi, Tom Donnadieu, Filipe Gomes Silva, Tigran Nersissian, Erdal Toprak     |
+| 11h00   | Utopia     | Aymen Baroudi, Tom Donnadieu, Filipe Gomes Silva, Erdal Toprak                        |
 | 11h45   | Top4-1     | Arnaud Barbe, Yasmine Benfredj, Yassine Chouchane, Sébastien Marro                    |
 | 12h30   | **PAUSE**                                                                                          |
 | 14h00   | Aventure   | Ralph El Chalfoun, Jérémy Hirth Daumas, Nabil Yacoub, Rémi Yacoub                     |
