@@ -1,4 +1,4 @@
-s1:
+S1:
   title: "Semestre 1"
   courses:
     - title: Bases de l'informatique
@@ -9,7 +9,7 @@ s1:
     - title: UE transversale
       uet: true
 
-s2:
+S2:
   title: Semestre 2
   courses:
     - title: Programmation impérative en Python
@@ -25,7 +25,7 @@ s2:
     - title: UE transversale
       uet: true
 
-s3:
+S3:
   title: Semestre 3
   courses:
     - title: Structures de données et programmation C
@@ -42,7 +42,7 @@ s3:
         - title: Programmation en R
         - title: Introduction à l’intelligence artificielle
 
-s4:
+S4:
   title: Semestre 4 (parcours informatique S4)
   courses:
     - title: Algorithmique 1
@@ -60,7 +60,7 @@ s4:
     - title: UE transversale
       uet: true
 
-s5:
+S5:
   title: Semestre 5 (Licence informatique L3)
   courses: 
     - title: Automates et langages
@@ -78,7 +78,7 @@ s5:
     - title: UE transversale
       uet: true
 
-s6:
+S6:
   title: Semestre 6 (Licence informatique L3)
   courses:
     - title: Algorithmique 2

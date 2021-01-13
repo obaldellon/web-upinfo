@@ -167,14 +167,14 @@ Les cours sont dispensés en français.
 
 ## Parcours conseillé ##
 
-{% include liste-courses entry="s1" %}
+{% include liste-courses entry="S1" %}
 
-{% include liste-courses entry="s2" %}
+{% include liste-courses entry="S2" %}
 
-{% include liste-courses entry="s3" %}
+{% include liste-courses entry="S3" %}
 
-{% include liste-courses entry="s4" %}
+{% include liste-courses entry="S4" %}
 
-{% include liste-courses entry="s5" %}
+{% include liste-courses entry="S5" %}
 
-{% include liste-courses entry="s6" %}
+{% include liste-courses entry="S6" %}
