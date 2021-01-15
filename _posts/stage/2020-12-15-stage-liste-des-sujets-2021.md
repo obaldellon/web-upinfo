@@ -245,7 +245,7 @@ c'est possible et que cette trajectoire ne contient pas de collision.
   - S. M. Lavalle: [Planning Algorithms.  Cambridge University Press. 2006.](http://planning.cs.uiuc.edu/)
   - A. Mahboubi, E. Tassi: [Mathematical Components.  To appear.](https://math-comp.github.io/mcb/)
 
-[Version longue](http://www-sop.inria.fr/members/Yves.Bertot/internship/geometry_for_robots.pdf)
+[Version longue](http://www-sop.inria.fr/members/Yves.Bertot/internships/geometry_for_robots.pdf)
 
 ### Interaction graphs of isomorphic Boolean networks ###
 
