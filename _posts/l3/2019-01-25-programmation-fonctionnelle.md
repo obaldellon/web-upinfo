@@ -34,17 +34,15 @@ Ce cours est destiné au L2 math-info et au L3 info.
 
 ###  Contenu ###
 
-Ce cours et un nouveau cours et son contenu est susceptible
-d'évoluer au moment de l'ouverture du cours.
+1. Listes, pattern matching, exceptions
+2. Fonctions d'ordre superieur, polymorphisme.
+3. Mutation et style imperatif.
+4. Modules et foncteurs. Structures de données.
+5. Programmation orientée objets.
+6. Paresse, flots.
 
-A titre indicatif, le contenu envisagé pour ce cours est
+### Contrôle des connaissances ###
 
-1. Programmer avec des fonctions
-2. Listes, pattern matching, exceptions
-3. Les fonctions d'ordre superieur, les types enumeres, recursifs, et polymorphes
-4. Mutation et style imperatif
-5. Modules et foncteurs
-6. Programmation orientée objet en OCaml
-7. Paresse, flots, structures de données persistantes
-8. Monades
-9. Typage avancé
+- 1/3 Partiel
+- 1/3 Projet
+- 1/3 Examen terminal
