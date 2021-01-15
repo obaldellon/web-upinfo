@@ -215,6 +215,51 @@ The goal of this internship will be to develop a novel strategy, using insights 
 
 [Version longue]({% include link-asset asset="master21-saddles.pdf" %})
 
+### Preuves formelles pour la planfication de mouvements de robots ###
+
+- Encadrant : [Yves Bertot](mailto:Yves.Bertot@inria.fr).
+- Mots-clés : Preuve formelle, Coq, géométrie, robots.
+- Prérequis : Programmation fonctionnelle et preuve formelle, Coq, OCaml, logique, connaissance élémentaire de la géométrie du plan
+- Contexte :
+
+Nous voulons étudier comment la preuve formelle peut contribuer à la correction
+de programmes utilisés dans le déplacements de robots dans le plan.  La preuve
+formelle peut par exemple être utilisée pour démontrer que la trajectoire
+prévue ne rencontre pas les obstacles.  Ceci pourra avoir des applications
+à long terme pour garantir que des robots utilisés dans des conditions
+critiques ne sont pas dangereux: robotique en milieu nucléaire, robotique
+chirurgicale, robotique domestique en présence de personnes fragiles, etc.
+
+- Objectif :
+
+L'objectif est de produire un programme qui prend en entrée une description
+d'un sous-ensemble du plan avec des obstacles, un position de départ et
+une position finale et produit une trajectoire
+pour un véhicule qui permet d'éviter ces obstacles.  Le résultat du travail
+devra contenir une preuve que le programme produit une trajectoire lorsque
+c'est possible et que cette trajectoire ne contient pas de collision.
+
+- Références :
+  - Y. Bertot, P. Castéran: [Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions. Springer. 2004.](http://www.labri.fr/perso/casteran/CoqArt/)
+  - J.-C. Latombe: Robot Motion Planning. Kluwer Academic Publishers. 1991.
+  - S. M. Lavalle: [Planning Algorithms.  Cambridge University Press. 2006.](http://planning.cs.uiuc.edu/)
+  - A. Mahboubi, E. Tassi: [Mathematical Components.  To appear.](https://math-comp.github.io/mcb/)
+
+[Version longue](http://www-sop.inria.fr/members/Yves.Bertot/internship/geometry_for_robots.pdf)
+
+### Interaction graphs of isomorphic Boolean networks ###
+
+- Encadrant : [Adrien Richard](mailto:richard@i3s.unice.fr).
+- Mots-clés : Boolean networks, directed graphs.
+- Prérequis : Programmation fonctionnelle et preuve formelle, Coq, OCaml, logique, connaissance élémentaire de la géométrie du plan
+- Contexte :
+
+A Boolean network (BN) with n components if a finite dynamical system described by the successive iterations of a function _f_. BNs are classical models for the dynamics of real complex systems, such as gene and neural networks ; they also have many applications in Computer Science (network coding, memoryless computation).
+
+The main parameter of _f_ is its interaction graph. A usual line of research consists in deducing some dynamical properties of _f_ from its interaction graph only. This may have impacts in the context of gene networks : the first reliable experimental data obtained when a gene network is studied concern the interaction graph of this network (the interaction graph of _f_ is well approximated, but _f_ itself is unknown). The classical line of research consists in studying the dynamical properties of the BNs according to their interaction graph.
+
+[Version longue]({% include link-asset asset="stage_M2_INFO_AR_2021.pdf" %})
+
 ### Stages chez Amadeus ###
 
 - Contact : [Najeth Geuffroy](mailto:najeth.geuffroy@amadeus.com).
