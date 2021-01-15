@@ -37,7 +37,7 @@ Introduction au traitement du signal ;
 La couche physique et les différents types de liens (haut débit filaire) ;
 Introduction à la couche liaison ;
 
-COUCHES HAUTES (Responsable: ? )
+COUCHES HAUTES (Responsable: ??? )
 Introduction aux Réseaux des Données;
 Couches Réseau et Liaison (Ethernet, IP, méthodes d’adressage et de routage);
 Couche Transport (TCP, UDP) et Application (DNS, web, mail);
