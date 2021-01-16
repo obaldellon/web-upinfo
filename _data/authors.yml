@@ -18,6 +18,9 @@ marie:
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~mpelleau/"
   email: "marie.pelleau@univ-cotedazur.fr"
+elisabetta:
+  name: "E. De Maria, MCF"
+  email: "elisabetta.de-maria@univ-cotedazur.fr"  
 pierre:
   name: "P. Lezowski, PRAG"
   email: "pierre.lezowski@univ-cotedazur.fr"
