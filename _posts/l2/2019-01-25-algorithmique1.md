@@ -48,8 +48,8 @@ en mettant l'accent sur les stratégies de conception d'un algorithme efficace.
  
 ###  Modalités de contrôle des connaissances ###
 
-- 2 CC à 30%
-- 1 CT à 40%
+- 1 CC à 50%
+- 1 CT à 50%
 
 ###  Ressources ###
 1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms /2008. 
