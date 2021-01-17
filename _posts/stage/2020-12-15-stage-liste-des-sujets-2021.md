@@ -260,6 +260,32 @@ The main parameter of _f_ is its interaction graph. A usual line of research con
 
 [Version longue]({% include link-asset asset="stage_M2_INFO_AR_2021.pdf" %})
 
+### Hub-labelling dynamique ###
+
+- Encadrant : [David Coudert](mailto:david.coudert@inria.fr).
+- Mots-clés : Graphes; plus courts chemins; routage compact.
+- Prérequis : Théorie des graphes, algorithmes de graphes, langage de programmation (Python, C++).
+- Contexte :
+
+La technique du hub labelling (ou 2-hop cover) est une méthode de prétraitement d'un graphe permettant ensuite de répondre très rapidement à des requêtes de plus courts chemins. Ceci permet par exemple de répondre en quelques microsecondes à une requête de plus court chemin dans un réseau routier à 20 millions de sommets, alors qu'un appel à l'algorithme de Dijkstra peut prendre plusieurs secondes.
+De plus, la quantité d'informations à stocker en mémoire est faible (de l'ordre de n log n entiers). Cette technique est donc très intéressante pour de nombreuses applications.
+
+Toutefois, le temps de calcul nécessaire à ce prétraitement est long (plusieurs heures) et les principaux algorithmes proposés pour réaliser ce prétraitement sont conçus pour des scénarios statiques. Dès lors, si le graphe change, il faut tout recalculer.
+
+Pour prendre en compte la dynamique, une méthode a été proposée pour prendre en compte les ajouts de sommets ou d'arêtes \[1\], et une autre pour prendre en compte les suppressions de sommets et d'arêtes \[2,3\]. Toutefois, le temps de calcul nécessaire à une mise à jour reste long. De plus, ces méthodes peuvent entraîner une forte augmentation de la quantité d’information à stocker en mémoire.
+
+L'objectif de ce projet est d'abord d'étudier et tester ces algorithmes. Ensuite, on cherchera à combiner ces méthodes pour obtenir un algorithme performant et supportant tout type de modification du graphe.
+
+- Objectif du stage :
+
+Après avoir mené une étude bibliographique sur les différents algorithmes proposés pour le hub-labeling et sa mise à jour, l’étudiant cherchera à identifier expérimentalement et théoriquement les scénarios de modification de graphe (séquence d’ajouts, suppressions ou modifications des poids des arêtes) important fortement la quantité d’information à stocker. Ensuite, il s’agira de proposer de nouvelles méthodes de mise à jour qui soient plus rapides que les méthodes proposées et permettant de mieux contrôler la quantité d’information à stocker.
+Ensuite, nous pourrons nous étudier plus spécifiquement ces méthodes dans le contexte de réseaux dont l’évolution au cours du temps est prévisible (ex: évolution du temps de traversée d’une route selon l’heure).
+
+- Bibliographie :
+  - \[1\] T. Akiba, Y. Iwata, Y. Yoshida: Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling. International World Wide Web Conference (WWW), Seoul, Korea, April 2014. <http://dx.doi.org/10.1145/2566486.2568007>
+  - \[2\] G. D'Angelo, M. D'Emidio, D. Frigioni: Fully dynamic 2-hop cover labeling. ACM Journal of Experimental Algorithmics (JEA) 24(1):1-36, 2019. <https://dl.acm.org/doi/abs/10.1145/3299901>
+  - \[3\] M. D’Emidio: Faster Algorithms for Mining Shortest-Path Distances from Massive Time-Evolving Graphs. Algorithms 13(8):191, 2020. <https://doi.org/10.3390/a13080191>
+
 ### Stages chez Amadeus ###
 
 - Contact : [Najeth Geuffroy](mailto:najeth.geuffroy@amadeus.com).
