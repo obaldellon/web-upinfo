@@ -286,6 +286,31 @@ Ensuite, nous pourrons nous étudier plus spécifiquement ces méthodes dans le 
   - \[2\] G. D'Angelo, M. D'Emidio, D. Frigioni: Fully dynamic 2-hop cover labeling. ACM Journal of Experimental Algorithmics (JEA) 24(1):1-36, 2019. <https://dl.acm.org/doi/abs/10.1145/3299901>
   - \[3\] M. D’Emidio: Faster Algorithms for Mining Shortest-Path Distances from Massive Time-Evolving Graphs. Algorithms 13(8):191, 2020. <https://doi.org/10.3390/a13080191>
 
+### Emotion recognition through next-generation multimodal fusion ###
+
+- Encadrant : [Francois Bremond](mailto:francois.bremond@inria.fr).
+- Mots-clés : Emotion, Video Analysis, multimodal, fusion, biosignal, Deep Learning.
+- Prérequis : Computer Vision, Strong background in C++/Python programming, Linux. Knowledge on the following topics is a plus:
+  - Machine learning,
+  - Deep Neural Networks frameworks (PyTorch, TensorFlow, Keras),
+  - Probabilistic Graphical Models and Optimization techniques,
+  - Mathematic (Geometry, Graph theory, Optimization),
+  - Artificial intelligence,
+  - Image processing and 3D Vision.
+- Contexte :
+
+An emotion is a mental state that arises spontaneously and is often accompanied by cognitive, physical and physiological changes. Due to the complexity of human reactions, recognizing emotions is still limited to our knowledge and remains the target of many relevant scientific researches. In littérature, the recognition of human behaviours \[1\], especially from facial expressions, often rely on the interpretation of dynamic scenes observed by video cameras. The accuracy of computer vision (CV) algorithms, as in the case of CNN, is typically limited by the identification of real emotion \[2, 3\]. A person may be happy even if she is not smiling and people differ widely in how expressive they are in showing their inner emotions. Recent multimodal sentiment analysis approaches focus on deep neural networks and propose multi-sensor data fusion methods. As emotions are complex set of reactions with multiple components \[4\], the idea is to compare/infuse/combine salient information from different modalities, coming from video cameras and biosensors. To lift the ambiguity, Galvanic Skin Conductance (GSC) or electrodermal activity (EDA) with be used as ground truth (GT).
+
+The objective of the internship is to develop and test a model on multiple datasets with various modalities to identify specific emotions, as stress, anxiety, joy. The student will be guided through the implementation of advanced Deep Learning methods for combining multimodal inputs, comparing various strategies such as multi-task learning, Knowledge Elicitation (infusion) using Student-Teacher paradigm, contrastive learning and co-training. Several levels of ground truth (GT) supervision will be used to trained the model.
+
+- Références :
+  - \[1\] Shu, L. et al. A review of emotion recognition using physiological signals. Sensors 18, 2074 (2018).
+  - \[2\] Chanthaphan, N., Uchimura, K., Satonaka, T. & Makioka, T. in 2015 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS). 117-124 (IEEE).
+  - \[3\] Kahou, S. E. et al. Emonets: Multimodal deep learning approaches for emotion recognition in video. Journal on Multimodal User Interfaces 10, 99-111 (2016).
+  - \[4\] Li, S. & Deng, W. Deep facial expression recognition: A survey. IEEE Transactions on Affective Computing (2020).
+
+[Version longue]({% include link-asset asset="Project_Multimodal emotion recognition.pdf" %})
+
 ### Stages chez Amadeus ###
 
 - Contact : [Najeth Geuffroy](mailto:najeth.geuffroy@amadeus.com).
