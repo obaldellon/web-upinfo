@@ -8,8 +8,6 @@
 *   Example: {% include numbered-headings main=2 sub=3 %}
 *
 * Source: https://2ality.com/2012/01/numbering-headingshtml.html
-* FIXME There are conflicting css rules that remove the numbering when the section is the target of a hyperlink:
-* http://i3s.unice.fr/master-info/ter/TER-S2-liste-des-sujets-2020/#d%C3%A9monstrateur-ia
 {% endcomment %}
 
 {% if include.sub %}
