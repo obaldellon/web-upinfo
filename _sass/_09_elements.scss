@@ -199,7 +199,12 @@ img.lazy {
 }
 
 *:target:not([id^='fn:']):not([id^='fnref:']) {
-  &::before {
+  &.toc::before {
+    display: inline-block;
+    padding-top: 50px;
+  }
+
+  &:not(.toc)::before {
     content: " ";
     width: 0;
     height: 0;
