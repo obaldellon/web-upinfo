@@ -50,4 +50,5 @@ One final exam (QCM) done on the machines
 
 ### Ressources ###
 
-All the material of the courses and labs will be available on our course server: [moodle](https://lms.univ-cotedazur.fr).
+All the material of the courses and labs will be available on our course server: [moodle](https://lms.univ-cotedazur.fr/course/view.php?id=14302).
+You must register to the course before the first lecture.

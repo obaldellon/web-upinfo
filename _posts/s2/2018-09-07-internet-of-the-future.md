@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "(N/A) Internet of the future"
 logo: "logo_blanc.png"
-teaser: "<strong>This course is not available in 2020-2021.</strong></br>This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
+teaser: "<strong>This course is not available in 2020-2021.</strong> </br>This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
 categories:
   - S2
 tags:
