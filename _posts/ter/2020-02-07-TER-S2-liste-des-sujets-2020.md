@@ -27,7 +27,6 @@ header:
 {% include numbered-headings main=3 %}
 
 ### Amélioration d’un algorithme d’énumération de cliques dans les hypergraphes
-{:.toc}
 
 - Nombre d’étudiants souhaités : 1.
 - Encadrants : [M. Pelleau](mailto:marie.pelleau@unice.fr) (I3S)
@@ -45,7 +44,6 @@ Le but de ce TER est de voir si la notion pivot peut se traduire pour les hyperg
 - F. Cazals, C. Karande, _A note on the problem of reporting maximal cliques_, Theoretical Computer Science 407(1--3), 2008, pp. (564--568)
 
 ### Animations 3D en VR: Interactions entre regard et déplacement
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Lucile Sassatelli](mailto:sassatelli@i3s.unice.fr)
@@ -63,7 +61,6 @@ Concevoir en Unity 3D une scène en VR où l'utilisatrice se déplace devant des
 - Phase 2: Intégration de personnages animés réactifs
 
 ###  Démonstrateur IA
-{:.toc}
 
 - Nombre d’étudiants souhaités : 3/4.
 - Encadrant : [Michel Winter](mailto:michel.winter@univ-cotedazur.fr)
@@ -77,7 +74,6 @@ D'autres types d'interfacage peuvent être envisagées : mouvement de la tête, 
 En fonction de la motivation et des envies des étudiants, le choix du jeu comme celui des modalités de déclenchement des actions pourra être changé.
 
 ### Modélisation d'un comportement furtif
-{:.toc}
 
 - Nombre d’étudiants souhaités : 1.
 - Encadrants  : [G. Menez](mailto:menez@unice.fr) (I3S)
@@ -88,7 +84,6 @@ Dans le contexte du déplacement d'un drône ou de tout objet plus ou moins auto
 Le travail de ce TER est d'établir un état de l'art de la modélisation des comportements avec l'idée de répondre à l'objectif final.
 
 ### Politique Economique Européenne
-{:.toc}
 
 - Nombre d’étudiants souhaités : 3/4.
 - Encadrants  : L. Menez (Gredeg), [G. Menez](mailto:menez@unice.fr) (I3S)
@@ -102,7 +97,6 @@ Sur la base de l'étude des brevets européens et des collaborations que l'on pe
 Bien évidemment compte tenu de  la dimension du problème, il s'agit de mettre une place une approche informatique dont on pourra discuter.
 
 ### Implémentation des algorithmes pour décider si un automate communicant est k-synchronisable
-{:.toc}
 
 - Nombre d'étudiants souhaités : 1
 - Encadrants : [Cinzia Di Giusto, Laetitia Laversa](mailto:Cinzia.DI-GIUSTO@univ-cotedazur.fr,laetitia.laversa@etu.univ-cotedazur.fr)
@@ -113,7 +107,6 @@ Un système est k-synchronisable si  chacune de ses exécutions  peut être divi
 Il est possible de vérifier si un système est k-synchronisable ou non. L'objectif de ce TER est de mettre en œuvre et de tester l'algorithme de décision.
 
 ### Approche IA à la G-art
-{:.toc}
 
 - Nombre d'étudiants souhaités : 3/4
 - Encadrants : [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr) (I3S), Jean-Louis Paquelin (Villa Arson).
@@ -133,7 +126,6 @@ Les objectifs de ce travail de TER sont les suivants :
 La connaissance préalable de la bibliothèque [kivy](https://kivy.org/#home) n'est pas requise. Apprendre à travailler avec cette bibliothèque fait partie des objectifs du stage.
 
 ### Langage de propriétés de sûreté pour les véhicules autonomes
-{:.toc}
 
 - Nombre d'étudiants souhaités : 1.
 - Encadrant : [Frederic Mallet](mailto:frederic.mallet@univ-cotedazur.fr)
@@ -142,7 +134,6 @@ La connaissance préalable de la bibliothèque [kivy](https://kivy.org/#home) n'
 Le système de conduite automatique des véhicules autonomes (ADAS) doit être capable de fonctionner dans un environnement très incertain sur lequel les techniques de vérification exhaustives s'avèrent impuissantes. Définir un algorithme 100% sûr devient un vrai défi pour les concepteurs si on ne fixe pas de manière non ambigues les conditions (pré-requis) sous lesquelles le véhicule doit être capable de répondre correctement et le sens de ce qu'on appelle une réponse acceptable. Chez tous les constructeurs la sûreté de fonctionnement  se transforme de plus en plus en règles de responsabilités (voir Responsability Sensitive Safety - RSS de chez Mobile Eye). Dans le cadre d'un partenariat avec Renault Software Labs on se propose de construire un langage qui permet à l'ingénieur de l'ADAS de décrire les pré-requis, décrire les règles de sûreté et de responsabilité attendue, décrire la capacité de mesure de l'ensemble des capteurs embarqués dans les véhicules autonomes et de construire un système de contraintes capable de mesurer, plus que de garantir, les conditions dangereuses et le degré de confiance dans le système de conduite. Le sujet de TER portera sur la définition de ce langage en liaison avec les ingénieurs de Renault et d'un doctorant CIFRE salarié de Renault. Tout l'environnement de travail s'appuie sur Eclipse et Java.
 
 ### Approche deep learning à la détection d'anomalies dans un système à temps réel
-{:.toc}
 
 - Nombre d'étudiants souhaités : 2
 - Encadrant : [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr)
@@ -156,7 +147,6 @@ Nous voudrions concevoir un nouveau modèle basé sur un approche de type *deep 
 La connaissance de TensorFlow et du *deep learning* n'est pas réquise. Justement apprendre à travailler avec cette bibliothèque et *quelques rudiments* de deep learning font partie des acquis du stage.
 
 ### Jeux multijoueurs sur le Web
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
@@ -178,7 +168,6 @@ Ce [livre](https://mega.nz/#!f5IQEK5R!-aFqReRvRxEqT935l0IraNVOr2Kero6ntzG3uHEhwl
 L'implémentation sera en NodeJS/Socket.io côté serveur, et libre côté client (pur JS, frameworks comme PhaserJS, BabylonJS etc.).
 
 ### Simulation de foule dans les jeux vidéos
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
@@ -204,7 +193,6 @@ Démos interactives ici :
 Lien supplémentaire vers une [vidéo](https://www.youtube.com/watch?v=fRHMgIQ4zGs) qui montre un peu ce que j'attends du projet (en 3D) :
 
 ### Intégration dans une plateforme Web unifiée des outils du projet Wasabi
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
@@ -236,7 +224,6 @@ Ici une [vidéo](https://www.youtube.com/watch?v=DUM99xQt5fg) du prof de l'écol
 Développer la WebApp qui permettra de tout faire depuis un browser Web, améliorer ou recoder le lecteur Multipiste qui prend trop de place, n'est pas intégré avec l'outil python d'extraction des pistes ni avec l'outil pour jouer du clavier ou de la guitare etc. Permettre simplement de régler le volume de l'appli qui traite les sons et du lecteur séparément etc.
 
 ### Analyse des phénotypes dans les réseaux de régulation génétiques: étude de cas du métabolisme énergétique dans le cancer du pancréas
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrant : [Hélène Collavizza](mailto:helene.collavizza@univ-cotedazur.fr)
@@ -256,7 +243,6 @@ Une approche prometteuse pour analyser les systèmes biologiques en termes de ph
 6. (Travaux exploratoires) Explorer comment les ensembles d'états associés à un phénotype, obtenus pour une certaine paramétrisation, pourraient être utilisés pour rechercher une autre paramétrisation satisfaisant un autre phénotype (par exemple, pour passer d'un état stationnaire à deux états stationnaires)
 
 ### Interaction guidée par machine learning pour la composition musicale gestuelle
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Lucile Sassatelli, Diane Lingrand](mailto:sassatelli@i3s.unice.fr,lingrand@i3s.unice.fr)
@@ -277,7 +263,6 @@ Construire un outil de composition musicale interactif permettant un accès faci
 2. Etude des méthodes génératives basées sur l'apprentissage. Nous considérerons d'abord les auto-encodeurs variationnels (VAE). Un humain musicien générera des données d'entraînement composées de séries chronologiques de gestes, ensuite encodées par le VAE. Lorsqu'un non-expert interagit avec le système, ses gestes seront utilisés pour naviguer dans l'espace de distribution latent, et le décodage permettra la génération d'une série de sons cohérents.
 
 ### Rendu fovéal proactif pour les environnements VR
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Lucile Sassatelli](mailto:sassatelli@i3s.unice.fr)
@@ -293,7 +278,6 @@ Conception en Unity de tunnels fovéaux réactifs au regard.
 - Phase 2: Modification de l'implémentation pour rendre les tunnels également réactifs au regard de la personne, pour ensuite déterminer les meilleurs paramètres (période de re-calage sur le regard) assurant un guidage efficace. Confirmation par analyse de données collectées sur quelques personnes.
 
 ### Animations 3D en VR : interactions du regard pour augmenter l'impression de présence
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Lucile Sassatelli](mailto:sassatelli@i3s.unice.fr)
@@ -309,7 +293,6 @@ Concevoir en Unity 3D une scène en VR où les personnages en 3D réagissent dyn
 - Phase 2: Intégration de personnages animés réactifs: en utilisant les capteurs du caque VR pour estimer la direction du regard de la personne, et faire réagir les yeux des personnages 3D.
 
 ### Conception assistée d’Interfaces Graphiques Réparties
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant :  [Philippe Renevier Gonin, Anne-Marie Dery-Pinna](mailto:Philippe.RENEVIER@univ-cotedazur.fr,Anne-Marie.PINNA@univ-cotedazur.fr)
@@ -337,7 +320,6 @@ Ce TER est dans le cadre d'un projet PHC Tournesol (échange France-Wallonie) NO
 - https://hal.archives-ouvertes.fr/hal-01899181
 
 ### Le problème de trouver k plus courts chemins
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrant : [Ali Al Zoobi, et David Coudert](mailto:ali.al-zoobi@inria.fr,david.coudert@inria.fr)
@@ -362,7 +344,6 @@ L’objectif de ce stage est de concevoir de nouvelles méthodes permettant d’
 - Jin Y. Yen. *Finding the k shortest loopless paths in a network*. Management Science, 17(11):712–716, 1971
 
 ###  Pipeline multilingue pour la reconnaissance des entités nommées (NER) exécutable sur un cluster de micro-GPU ###
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Michel Riveil](mailto:michel.riveil@univ-cotedazur.fr).
@@ -389,7 +370,6 @@ Ce qui est aujourd’hui disponible :
 - un jeu de données un peu différent pour le texte en Français
 
 ### Conception, développement d'un outil d'automatisation de tâche dans PowerPoint
-{:.toc}
 
 - Nombre d'étudiants souhaité : 2-3.
 - Encadrant : [Gaetan Rey](mailto:gaetan.rey@univ-cotedazur.fr).
@@ -405,7 +385,6 @@ Elle devra être extensible, c’est-à-dire qu’elle devra offrir la possibili
 La solution produite à vocation à être distribuée en open source, il sera donc important de choisir une licence appropriée pour cela en fonction des bibliothèques qui seront utilisées.
 
 ### Comparaison des performances de codes de calculs scientifiques : C++ versus Java ###
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrant : [Sid Touati](mailto:sid.touati@univ-cotedazur.fr).
@@ -421,7 +400,6 @@ Ce TER contient deux volets:
 3. Comparer les avantages et les inconvénients entre C++ et Java dans notre contexte.
 
 ### Etude du generateur automatique de texte GPT-2 d’OpenAI ###
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrants : [Jean-Charles Régin](mailto:jcregin@gmail.com).
@@ -437,7 +415,6 @@ L’etudiant intéressé pourra commencer par tester la page web [talk to transf
 *Language Models are Unsupervised Multitask Learners*, Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever.
 
 ### Aide à la résolution du problème du voyageur de commerce ###
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrants : [Nicolas Isoart et Jean-Charles Régin](mailto:nicolas.isoart@gmail.com,jcregin@gmail.com).
@@ -451,7 +428,6 @@ Le but de ce TER est de comprendre l'évolution des données interne des algorit
 Pour comprendre cette évolution, on pourra etudier finement les structures de données et/ou leurs représentations graphiques.
 
 ### Optimisation multiobjectif pour l'ordonnancement ###
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrant : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
@@ -463,7 +439,6 @@ Le but de ce TER est d'étudier des problèmes d'optimisation multiobjectif sur 
  Il existe de nombreux logiciels pour appliquer ces méthodes, par exemple Microsoft Project.
 
 ### Génération d'emplois du temps d'infirmières.
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr).
@@ -475,7 +450,6 @@ Plus précisemment, il s'agira d'abord de d'évaluer et de tester en profondeur 
 Ensuite, il faudra proposer une interface utilisateur ergonomique pour (re-)générer ces emplois du temps utilisant la technologie de votre choix.
 
 ### Comportements réactifs dans les jeux vidéo
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Michel Buffa](mailto:micbuffa@gmail.com)
@@ -496,7 +470,6 @@ Exemple de scénarios :
 - Dans un jeu de tir, coder des missiles à tête chercheuse, le comportement des bonus "magnétiques" que l'on peut ramasser avec son vaisseau, des patterns d'attaque de vagues d'ennemis qui convergent vers le joueur...
 
 ### Jmagine le MAMAC
-{:.toc}
 
 - Nombre d'étudiants souhaité : 3-4.
 - Encadrant : [Gregory Galli](mailto:greg.galli@gmail.com)
@@ -507,7 +480,6 @@ Des œuvres sont présente et nous collaborons avec des écoles (lycées) pour l
 L'objectif est que le mobile devienne une sorte d'audioguide ++, guide les utilisateurs au travers du musée, leur fasse découvrir le contenu additionnel produit par les élèves et permette aux utilisateurs de remonter du contenu additionnel ou des avis.
 
 ### Étude experimentale et theorique de divers modeles de flots
-{:.toc}
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrants : [Nicolas Isoart et Jean-Charles Régin](mailto:nicolas.isoart@gmail.com,jcregin@gmail.com).
