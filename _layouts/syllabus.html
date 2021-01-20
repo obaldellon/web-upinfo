@@ -18,13 +18,28 @@ format: syllabus
 <div class="row t30">
 	<div class="medium-12 columns">
 	    <article>
-                {% assign author = site.data.authors[page.author] %}
+                {% assign authors = page.author | split: ", " %}
                 <!--  <\!-- Output author details if some exist. -\-> -->
 		<header>
                     <p class="subheadline">
-                        {%if page.subheadline %}<p class="subheadline">{{ page.subheadline }}
-                        {% if page.author %} &ndash; {{ author.name }}{% endif %}
-                        {% elsif page.author %}{{ author.name }}{% endif %}
+                        {%if page.subheadline %}{{ page.subheadline }}
+                            {% if page.author %} 
+                                &ndash; 
+                                {% if forloop.index == 1 %}
+                                    {{ site.data.authors[author].name }}
+                                {% else %}
+                                    &amp; {{ site.data.authors[author].name }}
+                                {% endif %}
+                            {% endif %}
+                        {% elsif page.author %}
+                            {% for author in authors %}
+                                {% if forloop.index == 1 %}
+                                    {{ site.data.authors[author].name }}
+                                {% else %}
+                                    &amp; {{ site.data.authors[author].name }}
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
                     </p>
 		    <h1>{{ page.title }}</h1>
 			</header>
@@ -35,7 +50,7 @@ format: syllabus
 			</p>
 			{% endif %}
                         {% if page.show_meta == true %}
-                        {% include _meta_information_syllabus.html authorinfo=author %}
+                        {% include _meta_information_syllabus.html authorinfo=authors %}
 			{% endif %}
 
 			{{ content }}

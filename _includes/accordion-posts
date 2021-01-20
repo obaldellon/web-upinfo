@@ -25,66 +25,67 @@
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
+{% assign posts = NULL %}
+
+{% if category == NULL and tag == NULL %}
+    {% assign posts = site.posts %}
+{% elsif category and tag == NULL %}
+    {% assign posts = site.categories.[category] %}
+{% elsif category == NULL and tag %}
+    {% assign posts = site.tags.[tag] %}
+{% endif %}
 
 <div class="small-12 columns">
 		<dl class="accordion" data-accordion>
 
-  {% if category == NULL and tag == NULL %}
+  {% if posts %}
+    {% for post in posts limit:1000 offset:0 %}
+      {% assign authors = post.author | split: ", " %}
+      {% assign names = "" %}
+      {% for author in authors %}
+        {% if site.data.authors[author].name %}
+          {% if names == "" %}
+            {% assign names = site.data.authors[author].name %}
+          {% else %}
+            {% assign names = names | append:", " | append:site.data.authors[author].name %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
 
-    {% for post in site.posts limit:1000 offset:0 %}
-        {% assign author = site.data.authors[post.author] %}
-       	<dd class="accordion-navigation">
-		<a href="#panel{{ counter }}"><span class="iconfont"></span> <strong>{{ post.title }}</strong> › {% if post.subheadline %}{{ post.subheadline }}{% endif %}{% if author.name %} › {{ author.name }}{% endif %}</a>
+      <dd class="accordion-navigation">
+		<a href="#panel{{ counter }}"><span class="iconfont"></span> <strong>{{ post.title }}</strong> › {% if post.subheadline %}{{ post.subheadline }}{% endif %}{% if names != "" %} › {{ names }}{% endif %}</a>
 		<div id="panel{{ counter }}" class="content">
-		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+		  {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+		  <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
 		</div>
-		</dd>
-		{% assign counter=counter | plus:1 %}
-	{% endfor %}     
- 
-  {% elsif category and tag == NULL %}
-  
-    {% for post in site.categories.[category] limit:1000 offset:0 %}
-        {% assign author = site.data.authors[post.author] %}
-        <dd class="accordion-navigation">
-		<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}{% if author.name %} › {{ author.name }}{% endif %}</a>
-		<div id="panel{{ counter }}" class="content">
-		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
-		</div>
-		</dd>
-		{% assign counter=counter | plus:1 %}
+	  </dd>
+	  {% assign counter=counter | plus:1 %}
 	{% endfor %}
-
-  {% elsif category == NULL and tag %}
-
-    {% for post in site.tags.[tag] limit:1000 %}
-        {% assign author = site.data.authors[post.author] %}
-        <dd class="accordion-navigation">
-		<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}{% if author.name %} › {{ author.name }}{% endif %}</a>
-		<div id="panel{{ counter }}" class="content">
-		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
-		</div>
-		</dd>
-		{% assign counter=counter | plus:1 %}
-    {% endfor %}
-    
    {% else %}
 
       {% for post in site.categories.[category] limit:1000 offset:0 %}
       
         {% if post.tags contains tag %}
-          {% assign author = site.data.authors[post.author] %}
+          {% assign authors = post.author | split: ", " %}
+          {% assign names = "" %}
+          {% for author in authors %}
+            {% if site.data.authors[author].name %}
+              {% if names == "" %}
+                {% assign names = site.data.authors[author].name %}
+              {% else %}
+                {% assign names = names | append:", " | append:site.data.authors[author].name %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
           <dd class="accordion-navigation">
-		  <a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}{% if author.name %} › {{ author.name }}{% endif %}</a>
-		  <div id="panel{{ counter }}" class="content">
-		  {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-		  <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
-		  </div>
+		    <a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}{% if names != "" %} › {{ names }}{% endif %}</a>
+		    <div id="panel{{ counter }}" class="content">
+		      {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+		      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+		    </div>
 		  </dd>
-	   {% assign counter=counter | plus:1 %}
+	      {% assign counter=counter | plus:1 %}
         {% endif %}             
       {% endfor %}   
   

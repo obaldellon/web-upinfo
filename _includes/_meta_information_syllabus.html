@@ -1,4 +1,4 @@
-{% assign author = include.authorinfo %}
+{% assign authors = include.authorinfo %}
 
 <div id="page-meta" class="t30">
     <p>
@@ -10,7 +10,18 @@
 	<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
 
         {% if page.website %}<span class="icon-home pr20"><a href="{{ page.website }}" target="_blank"> Site web</a></span>{% endif %}
-        {% if author.email %}<span class="icon-mail pr20"><a href="mailto:{{ author.email }}" target="_blank"> {{ author.email }}</a></span>
+
+        {% assign emails = "" %}
+        {% for author in authors %}
+            {% if site.data.authors[author].email %}
+                {% if emails == "" %}
+                    {% assign emails = site.data.authors[author].email %}
+                {% else %}
+                    {% assign emails = emails | append:"," | append:site.data.authors[author].email %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        {% if emails != "" %}<span class="icon-mail pr20"><a href="mailto:{{ emails }}" target="_blank"> {{ emails }}</a></span>
         {% elsif page.email %}<span class="icon-mail pr20"><a href="mailto:{{ page.email }}" target="_blank"> {{ page.email }}</a></span>{% endif %}
     </p>
 </div><!--  /.page-meta -->

@@ -11,6 +11,8 @@ layout: syllabus
 # Auteur du post ou du responsable cours
 # Les valeurs sont dans le fichier _data/authors.yml
 author: anonym
+# Vous pouvez mettre plusieurs auteurs :
+# author: "anonym, anonym"
 title: "Écrire un syllabus ou un post"
 # Vous pouvez changer le logo qui apparait dans l'entête
 # si vous ne souhaitez pas de logo :
