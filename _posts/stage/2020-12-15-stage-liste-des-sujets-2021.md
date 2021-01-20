@@ -24,6 +24,7 @@ header:
 1. TOC
 {:toc}
 
+{% include numbered-headings main=3 %}
 
 ### Null Processes for Computational Neuroscience ###
 

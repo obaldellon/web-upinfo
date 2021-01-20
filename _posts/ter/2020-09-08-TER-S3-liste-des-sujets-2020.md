@@ -24,6 +24,8 @@ header:
 1. TOC
 {:toc}
 
+{% include numbered-headings main=3 %}
+
 ### Assistant de découverte dynamique de services ###
  - Encadrant : [Gaëtan Rey](mailto:Gaetan.Rey@univ-cotedazur.fr).
  - Méthodes, langages ou technologies envisagés  : Le développement est principalement prévu en C# et plus particulièrement sur la dernière version du Framework .netCore (Framework open source et multiplateforme). Une approche incrémentale est souhaitée pour ce projet. Elle consistera à mettre en place l’architecture souhaité puis à développer chaque bloc fonctionnel un à un en fonction des préférences des étudiants et de leur performance. Un premier prototype du projet existe mais n’est pas développé sur le Framework souhaité ni ne respecte l’architecture finalisée du projet. Il pourra être utilisé comme source d’inspiration.
@@ -39,9 +41,9 @@ Dans le du projet OCTPOPUS l’équipe de recherche SPARKS, en collaboration ave
  - Mots-clés : Modélisation de workflows, Algorithmes évolutionnistes.
 
 Les logiciels comme [Weka](https://www.cs.waikato.ac.nz/ml/weka/) ou [Orange Data Mining](https://orange.biolab.si) permettent de construire graphiquement des chaines de traitements sur un ou plusieurs jeux de données. L'intérêt consiste à manipuler graphiquement des blocs de base pour construire une chaine de traitements (workflow) à appliquer sur des données, comparer plusieurs algorithmes de fouille sur les mêmes données ...
-Nous souhaitons réaliser exactement la même chose sur des [algorithmes évolutionnistes](https://fr.wikipedia.org/wiki/Algorithme_évolutionniste), plus connus sous le nom d'algorithmes génétiques, afin de construire des algorithmes en s'affranchissant de leurs définitions via un langage de programmation. 
-L'inconvénient de précédentes tentatives, comme GUIDE basé sur la librairie EO ou CodeMonkey intégré à Eclipse, est qu'ils ne considèrent pas un algorithme évolutionniste comme une chaine de traitement appliquée, non pas à des données, mais à un code génétique (une solution). 
-On se propose d'utiliser le logiciel [OpenModelica](https://www.openmodelica.org) pour gérer l'aspect simulation et manipulation graphique de blocs de bases (conception interactive de workflows) afin de gagner du temps de développement. 
+Nous souhaitons réaliser exactement la même chose sur des [algorithmes évolutionnistes](https://fr.wikipedia.org/wiki/Algorithme_évolutionniste), plus connus sous le nom d'algorithmes génétiques, afin de construire des algorithmes en s'affranchissant de leurs définitions via un langage de programmation.
+L'inconvénient de précédentes tentatives, comme GUIDE basé sur la librairie EO ou CodeMonkey intégré à Eclipse, est qu'ils ne considèrent pas un algorithme évolutionniste comme une chaine de traitement appliquée, non pas à des données, mais à un code génétique (une solution).
+On se propose d'utiliser le logiciel [OpenModelica](https://www.openmodelica.org) pour gérer l'aspect simulation et manipulation graphique de blocs de bases (conception interactive de workflows) afin de gagner du temps de développement.
 Pour valider ce projet exploratoire, il faudra réfléchir aux briques de bases nécessaires à la définition de plusieurs algorithmes évolutionnistes (Évolution Différentielle, Algorithme Génétique, Programmation Génétique, Optimisation par Essaims, Colonie de Fourmis...) avec OpenModelica et permettre la comparaison de ces algorithmes sur des problèmes classiques (benchmarks). Par exemple, il devra être nécessaire de définir une brique "Sélection" qui considère en entrée un ensemble de solutions et retourne en sortie une solution en particulier, puis une brique "Reproduction" qui considère un ensemble de solutions en entrée et produit une nouvelle solution en sortie...
 **Il sera possible de poursuivre ce projet dans le cadre d'un stage de recherche au laboratoire I3S.**
 
@@ -87,9 +89,9 @@ Students will be required to work in one of the above topics.
 Notre projet vise à rendre plus accessible la presse écrite aux malvoyants, tout en conservant la ligne éditoriale. Ceci implique de devoir reorganiser le contenu du journal ce qui impacte l'esthétique visuelle des pages. Le problème est que cette esthétique joue un role fondamental dans le processus de lecture et qu'il est donc crucial de savoir la préserver. En effet, il a été montré qu'une approche visuelle cohérente et attrayante renforce l'impact et la compréhension du contenu et de l'histoire lue. C'est donc cette notion d'esthétique que nous voulons mieux comprendre et savoir quantifier. Autrement dit, étant donné une page de journal, peut-on automatiquement lui associer une (des) mesure(s) qui caractérise(nt) l'esthétique de son organisation ? Disposer de telles mesures nous permettrait de faire des choix sur la production de différents modèles de conception.
 
 Les objectifs de ce TER sont :
-1. d'explorer les différentes propriétés qui définissent l'esthétique perçue des journaux imprimés \[GG2017\], 
-2. d'étudier comment ces propriétés peuvent être formalisées pour quantifier l'esthétique \[K2012,NTB2003\], et 
-3. de les implémenter et de les tester sur un ensemble de pages de journaux préalablement segmentées \[WCK2020\]. 
+1. d'explorer les différentes propriétés qui définissent l'esthétique perçue des journaux imprimés \[GG2017\],
+2. d'étudier comment ces propriétés peuvent être formalisées pour quantifier l'esthétique \[K2012,NTB2003\], et
+3. de les implémenter et de les tester sur un ensemble de pages de journaux préalablement segmentées \[WCK2020\].
 
  - Références :
    - \[GG2017\] C. Gautier and D. Gautier. Design, typography etc.: A Handbook, Niggli, 2017.
@@ -166,7 +168,7 @@ The TER can also be done in a group of two students.
  - Encadrant : [Andrew Comport & André Anglade](mailto:Andrew.Comport@cnrs.fr,aanglade@i3s.unice.fr).
  - Méthodes, langages ou technologies envisagés : Programmation en Python, C++, OpenGL et ROS
 
-La plupart des humains peuvent apprendre à accomplir une tâche donnée en observant une autre personne l'exécuter une seule fois. Les robots qui sont programmés pour apprendre en imitant les humains, cependant, doivent généralement être formés à une série de démonstrations humaines avant de pouvoir reproduire efficacement le comportement souhaité. Dans cette étude, un bras robotique capable d'imiter le bras humain sera conçu \[1,2,3\]. Plus précisément, le but de ce stage est d’implémenter un algorithme de suivi visuel de corps humain en utilisant un camera RGB-D (couleur et profondeur) du type Microsoft Azure Kinect. Azure Kinect est un kit de développement de pointe dédié à l'informatique spatiale qui comprend des modèles de vision par ordinateur qui est conçu pour des algorithmes d'IA avancés. Pendant ce stage nous voulons utiliser un logiciel d'apprentissage machine open source (i.e. PoseNet) avec ce capteur pour réaliser du suivi temps-réel. PoseNet est un modèle IA pour la vision qui peut être utilisé pour estimer la pose d'une personne dans une image ou une vidéo en estimant où se trouvent les principales articulations du corps. Ce modèle articulé  serait ensuite utilisé ensuite pour contrôler un bras robotique à distance en temps-réel en utilisant ROS. Robot Operating System (ROS), est un ensemble d'outils informatiques open source permettant de développer des logiciels pour la robotique. Ce projet est idéal pour un binôme qui travailleront en parallèle, un sur la partie perception (kinect) et l'autre sur la partie actionneur (robot). 
+La plupart des humains peuvent apprendre à accomplir une tâche donnée en observant une autre personne l'exécuter une seule fois. Les robots qui sont programmés pour apprendre en imitant les humains, cependant, doivent généralement être formés à une série de démonstrations humaines avant de pouvoir reproduire efficacement le comportement souhaité. Dans cette étude, un bras robotique capable d'imiter le bras humain sera conçu \[1,2,3\]. Plus précisément, le but de ce stage est d’implémenter un algorithme de suivi visuel de corps humain en utilisant un camera RGB-D (couleur et profondeur) du type Microsoft Azure Kinect. Azure Kinect est un kit de développement de pointe dédié à l'informatique spatiale qui comprend des modèles de vision par ordinateur qui est conçu pour des algorithmes d'IA avancés. Pendant ce stage nous voulons utiliser un logiciel d'apprentissage machine open source (i.e. PoseNet) avec ce capteur pour réaliser du suivi temps-réel. PoseNet est un modèle IA pour la vision qui peut être utilisé pour estimer la pose d'une personne dans une image ou une vidéo en estimant où se trouvent les principales articulations du corps. Ce modèle articulé  serait ensuite utilisé ensuite pour contrôler un bras robotique à distance en temps-réel en utilisant ROS. Robot Operating System (ROS), est un ensemble d'outils informatiques open source permettant de développer des logiciels pour la robotique. Ce projet est idéal pour un binôme qui travailleront en parallèle, un sur la partie perception (kinect) et l'autre sur la partie actionneur (robot).
 
  - Références :
    - \[1\] Li, S., Jiang, J., Ruppel, P., Liang, H., Ma, X., Hendrich, N., Sun, F. and Zhang, J., 2020. A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU. arXiv preprint arXiv:2003.05212.
@@ -177,7 +179,7 @@ La plupart des humains peuvent apprendre à accomplir une tâche donnée en obse
 ### Génération de code pour le contrôle des systèmes synchrones ###
  - Encadrant : [Sid Touati & Frédéric Mallet](mailto:Sid.Touati@univ-cotedazur.fr,fmallet@i3s.unice.fr).
  - Méthodes, langages ou technologies envisagés : Compilation, automates, algèbre.
- 
+
 Ce projet a pour objectif de générer du code C ou C++ à partir d’une description CCSL (Logical Clock Calculus Algebra). CCSL permet de décrire non pas une application entièrement, mais uniquement le comportement de ses horloges. Une horloge permet de déclencher ou pas l’exécution d’une fonction ou d’une tache à un instant précis. CCSL n’est pas un langage de programmation qui permet d’exprimer l’algorithmique des fonctions, il exprime uniquement l’instant de leur exécution. Le code généré doit pouvoir permettre de calculer les valeurs de ces horloges logiques. Il y aura trois aspects principaux à aborder :
   1. Au niveau de la spécification formelle avec CCSL: le formalisme de CCSL permet une grande liberté de description des horloges avec un algèbre propre. Suite à cela, un outil d’analyse existant permet de déduire l’espace des valeurs possibles des horloges et de le modéliser avec avec un automate.
   2. Une fois l’automate construit, l’étudiant devra réfléchir aux méthodes de génération automatique de code C ou C++. Dans la littérature, il y a plusieurs schémas de génération de code pour automates, qui ne sont pas conçus dans une optique de performances, mais plutôt dans une optique de correction sémantique.
@@ -189,7 +191,7 @@ Ce projet a pour objectif de générer du code C ou C++ à partir d’une descri
 ### Stack overflow: exploitation des failles de sécurité dans les programmes multi-threads ###
  - Encadrant : [Sid Touati](mailto:Sid.Touati@univ-cotedazur.fr).
  - Méthodes, langages ou technologies envisagés : Programmation (C, système, multi-threads, assembleur), architecture des processeurs, compilation, Linux.
- 
+
 Dans ce TER, nous nous focalisons sur un cas connu et précis en informatique bas niveau: il s’agit du débordement de pile d’une fonction (stack overflow). Lorsqu’un programme contient un bug qui corrompt la pile d’exécution d’une fonction, il est possible à un hacker de dérouter le code du programme pour faire exécuter un code malicieux.
 Ce TER a un objectif essentiellement pédagogique. Il offre à l’étudiant une première expérience de spécialisation dans le domaine de la sécurité bas niveau, ou de compilation selon la sensibilité du candidat. Le sujet ici est d’exploiter la faille provoquée par un débordement de pile, et étudier les mécanismes de parades. D’autres types de failles existent, mais ne seront pas étudiées ici. L’étudiant devra étudier quatre grandes tâches:
   1. Étude bibliographique du domaine (articles scientifiques et documents en ligne): attaques et parades.
@@ -234,7 +236,7 @@ Note : les ensembles de textes contenus dans les champs free text des filings ne
  - Méthodes, langages ou technologies envisagés : OCAML, Notions of μ-calculus
 
 This project is meant for 1 student.
-The goal is to implement a type system for a modal fixpoint logic \[1\] obtained as the merger between two extensions of the modal μ-calculus, namely the polyadic μ-calculus and the higher-order μ-calculus. 
+The goal is to implement a type system for a modal fixpoint logic \[1\] obtained as the merger between two extensions of the modal μ-calculus, namely the polyadic μ-calculus and the higher-order μ-calculus.
 The type system rules out formulas for which the semantics of a formula μX . Φ is not the one of a fixpoint. Moreover it helps characterising a fragment of the logic that can be model-checked efficiently. The type inference algorithm lies on the notion of variance. During the TER project the student will study how to determine in an efficient way the variance of a formula.
 
 **The TER may be followed by an internship for the interested student.**
@@ -252,10 +254,10 @@ Les procédures de recherche de solutions dans un espace de recherche procèdent
 Une stratégie de recherche détermine le choix la prochaine variable et la prochaine valeur qui formeront la prochaine affectation.
 Les stratégies peuvent être statique (définie une fois pour toute avant la résolution) ou dynamique (pendant la résolution).
 Ces dernières donnent en général de bien meilleur résultats. Cependant certaines méthodes sont peu compatibles avec des stratégies dynamiques, comme les méthodes qui décomposent le problème initial en sous problème (par exemple comme le parallélisme).
- 
-L’objectif de ce TER est de comprendre s’il est possible de simuler des stratégies dynamiques avec des variantes de stratégies statiques \[1\], par exemple des stratégies pseudo dynamiques (i.e. qui choisissent la prochaine variable dans une petit sous-ensemble de variables).  
+
+L’objectif de ce TER est de comprendre s’il est possible de simuler des stratégies dynamiques avec des variantes de stratégies statiques \[1\], par exemple des stratégies pseudo dynamiques (i.e. qui choisissent la prochaine variable dans une petit sous-ensemble de variables).
 Une première solution a été proposée : c’est une pré-exploration qui consiste à exécuter une recherche dynamique sur une petite partie du problème afin d’identifier les variables les plus importantes.
- 
+
 L’étudiant devra tester cette méthode sur différents problèmes pour essayer de généraliser notre approche.
 Différents type de pré-explorations seront considérés et éventuellement proposés par l’etudiant.
 

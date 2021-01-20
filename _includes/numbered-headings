@@ -1,0 +1,50 @@
+{% comment %}
+*   
+*   This include lets you number the heading and subheadings at a given depth (h1, h2, etc).
+*   
+*   The `main` paramater is the depth of the heading to number.
+*   The optional `sub` paramater is a the depth of the subheadings (`sub` > `main`).
+*
+*   Example: {% include numbered-headings main=2 sub=3 %}
+*
+* Source: https://2ality.com/2012/01/numbering-headingshtml.html
+* FIXME There are conflicting css rules that remove the numbering when the section is the target of a hyperlink:
+* http://i3s.unice.fr/master-info/ter/TER-S2-liste-des-sujets-2020/#d%C3%A9monstrateur-ia
+{% endcomment %}
+
+{% if include.sub %}
+<style>
+body {
+     counter-reset: section;
+}
+
+h{{include.main}} {
+   counter-reset: subsection;
+}
+
+h{{include.main}}:before {
+    content: counter(section) ".\0000a0\0000a0" ;
+    counter-increment: section;
+    counter-reset: subsection;
+}
+
+h{{include.sub}}:before {
+        content: counter(section) "." counter(subsection) ".\0000a0\0000a0";
+        counter-increment: subsection;
+}
+
+</style>
+{% else %}
+<style>
+body {counter-reset:section;}
+
+h{{include.main}}:before
+{
+    counter-increment:section;
+    content:counter(section) ".\0000a0\0000a0";
+}
+
+</style>
+{% endif %}
+
+
