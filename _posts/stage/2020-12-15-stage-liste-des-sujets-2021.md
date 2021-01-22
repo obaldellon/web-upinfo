@@ -312,6 +312,72 @@ The objective of the internship is to develop and test a model on multiple datas
 
 [Version longue]({% include link-asset asset="Project_Multimodal emotion recognition.pdf" %})
 
+### Analyse non invasive de la complexité de la fibrillation atriale persistante au cours de l’ablation par dispersion spatio-temporelle ###
+
+- Encadrant : [Vicente Zarzoso](mailto:vicente.zarzoso@univ-cotedazur.fr)
+- Mots-clés : Biomédecine computationnelle, signal biomédical, arythmie cardiaque, ablation par cathéter, complexité spatio-temporelle, algorithmes.
+- Pré-requis : Le stagiaire doit avoir de solides bases en traitement de signaux et des images biomédicaux, et un bon niveau de programmation (MATLAB).
+- Contexte : Le stage s'inscrit dans d’une collaboration multidisciplinaire entre le Service cardiologie du CHU Nice Pasteur et le Laboratoire d'informatique, signaux et systèmes de Sophia Antipolis (I3S).
+
+La fibrillation atriale (FA) est l'arythmie cardiaque soutenue la plus fréquemment rencontrée dans la pratique clinique, et pourtant ses mécanismes d'apparition et de perpétuation sont encore mal compris \[1\]. En raison du phénomène de remodelage, la FA a tendance à devenir chronique, et ses formes persistantes sont particulièrement difficiles à gérer. Un nouveau protocole d’ablation par cathéter a récemment été proposé afin de traiter cette arythmie complexe de manière personnalisée. Dans ce nouveau protocole, le cardiologue vise des zones du tissu atrial présentant de la dispersion spatio-temporelle mais leur identification reste un processus long et subjectif \[2\].
+
+Afin d’aider le spécialiste à mieux cibler les zones de dispersion spatio-temporelle, le projet vise à caractériser le degré d’importance des points ablatés en quantifiant les variations du degré de complexité de l’électrocardiogramme (ECG), le signal électrique cardiaque mesuré en surface, au cours de l’intervention. Différentes mesures de complexité proposées dans la littérature seront considérées, notamment celles basées sur l’amplitude, la densité spectrale ou la variabilité spatio-temporelle de l’ECG de FA \[3,4\], mais aussi des approches plus récentes basées sur la modélisation tensorielle du signal multi-capteur \[5\]. Pour les valider, les mesures non invasives seront mises en relation avec celles obtenues à partir de modalités invasives acquises à l'échelle du tissu et de l'organe à l'aide de cathéters pendant des interventions d'ablation, telles que les électrogrammes (EGM) atriaux et les cartographies électriques des oreillettes (par exemple, les cartes de fragmentation fournies par le système commercial CARTO). Grâce à cet ensemble d’algorithmes de calcul de la complexité du signal atrial, le stage pourrait contribuer de manière significative à la caractérisation de cette nouvelle thérapie personnalisée d’ablation de FA, en améliorant son taux de succès à long terme tout en réduisant son coût, sa durée et ses risques de complications.
+
+- Références :
+  - \[1\] C. T. January et al., “2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on practice guidelines and the Heart Rhythm Society", Circulation, 64(21): 2246-2280, Dec. 2014.
+  - \[2\] J. Seitz et al., “AF ablation guided by spatiotemporal electrogram dispersion without pulmonary vein isolation. A wholly patient-tailored approach”, Journal of the American College of Cardiology, 69(3):303-321, Jan. 2017.
+  - \[3\] V. Zarzoso et al., “Non-invasive prediction of catheter ablation outcome in persistent atrial fibrillation by fibrillatory wave amplitude computation in multiple electrocardiogram leads”, Archives of Cardiovascular Diseases, 109(12):679-688, Dec. 2016.
+  - \[4\] A. R. Hidalgo-Muñoz et al., “Spectral and spatiotemporal variability ECG parameters linked to catheter ablation outcome in persistent atrial fibrillation”, Computers in Biology and Medicine, 88:126-131, 2017.
+  - \[5\] L. Abdalah et al., “Tensor-based noninvasive atrial fibrillation complexity index for catheter ablation”, in: Proc. Computing in Cardiology, Rimini, Italy, Sep. 13-16, 2020.
+
+### Storage of digital data into synthetic DNA ###
+
+- Encadrant : [Marc Antonini](mailto:am@i3s.unice.fr).
+- Prérequis : Programming Skills in MATLAB and Python.
+
+Rapid technological advances and the increasing use of social media has caused a tremendous increase in the generation of digital data, a fact that imposes nowadays a great challenge for the field of digital data storage due to the short-term reliability of conventional storage devices. Hard disks, flash, tape or even optical storage have a durability of 5 to 20 years while running data centers also require huge amounts of energy. An alternative to hard drives is the use of DNA, which is life’s information-storage material, as a means of digital data storage. Recent works have proven that storing digital data into DNA is not only feasible but also very promising as the DNA's biological properties allow the storage of a great amount of information into an extraordinary small volume for centuries or even longer with no loss of information. One of the main drawbacks of DNA data storage is the high cost of DNA synthesis, thus, it is important to control this cost by optimally compressing the input data. We have developed an extended end-to-end storage workflow specifically designed for the efficient storage of images onto synthetic DNA and the feasibility of the process was tested in a wet-lab experiment.
+
+The main goal of this internship is the optimization of our encoding solution using machine learning techniques, increasing the speed of the processes while also allowing to handle large datasets.
+
+- Références :
+  - M. Dimopoulou, M. Antonini, P. Barbry, R. Appuswamy, “A biologically constrained solution for long-term storage of images onto synthetic”, EUSIPCO, 2019.
+  - M. Dimopoulou, M. Antonini, “Image storage in DNA using Vector Quantization”, EUSIPCO, 2020.
+  - M. Dimopoulou, E. Gil San Antonio, M. Antonini, “An efficient sequencing noise resistant mapping for the encoding of images onto synthetic DNA”, MMSP, 2020.
+
+[Version longue]({% include link-asset asset="Internship proposal 2021.pdf" %})
+
+### Quality evaluation of spike-based image compression using convolutional neural networks ###
+
+- Encadrant : [Marc Antonini](mailto:am@i3s.unice.fr).
+- Prérequis : Programming Skills in Python and/or MATLAB.
+
+Neurons are able to communicate each other by propagating the important and informative stimulus using electrical impulses which are also known as action potentials or spikes. A sequence of action potentials generated by a neuron is called spike train. Based on the Leaky Integrate-and-Fire (LIF) model it is possible to tune the sensitivity of neurons and as a consequence the amount of information which is transmitted by a spike train \[1\]. The LIF model was recently adopted by a novel architecture, the spike-based compression \[2,3\], that transforms a still-image into a dense code of spikes approximating the neuronal spike generation mechanism. This code might be used to reconstruct the original image with some distortion. By tuning the LIF parameters it is possible to reduce the number of bits (bitrate) required to store the input image. However, it is desired to find the best rate-distortion trade-off that satisfies the human visual perception. The human visual perception will be evaluated using Convolutional Neural Networks (CNNs). Assuming that a CNN has been trained to classify a given image dataset, we are interested in studying how the rate-distortion trade-off influences the accuracy of such a pre-trained neural network.
+
+The goal of the internship is to :
+
+1. compress natural images using spike-based compression and
+2. use these images to evaluate the compression rate where the ability of a pre-trained neural network to correctly classify the compressed image is lost.
+
+- Références :
+  - \[1\] W. Gerstner and W. Kistler, “Spiking neuron models: Single Neurons Populations Plasticity,” Cambridge University Press, 2002.
+  - \[2\] E. Doutsi, M. Antonini, P. Tsakalides, “An end-to-end spike-based image compression architecture,” Asilomar Conference, 2020.
+  - \[3\] E. Doutsi, L. Fillatre and M. Antonini, "Efficiency of the bio-inspired Leaky Integrate-and-Fire neuron for signal coding," 2019 27th European Signal Processing Conference (EUSIPCO), A Coruna, Spain, 2019, pp. 1-5.
+
+[Version longue]({% include link-asset asset="ScientificSummary-I3S-Antonini.pdf" %})
+
+### Extraction d’entités nommées géographiques et exploitation dans le cadre du Web de données ###
+
+- Encadrant : [Anne Toulet & Andon Tchechmedjiev](mailto:anne.toulet@cirad.fr,andon.tchechmedjiev@mines-ales.fr).
+- Mots-clés : Web sémantique, Web de données, extraction d’entités nommées, traitement automatique des langues, indexation, descripteurs géographiques.
+
+La science ouverte est un mouvement international qui cherche à rendre la recherche scientifique et les données qu'elle produit accessibles à tous. Dans cet objectif, les archives ouvertes – bases de données documentaires accessibles librement et gratuitement sur internet contenant des documents issus de la recherche scientifique – accentuent leurs efforts pour accroître l’accessibilité aux ressources dont elles disposent.
+
+L’objectif de ce stage est de permettre un accès et une interopérabilité accrus à des publications scientifiques proposées par une archive ouverte en adoptant des techniques d’indexation sémantique adossée à des référentiels terminologiques standards. Le recours aux techniques du Web sémantique et du traitement naturel des langues sera privilégié.
+
+Dans ce travail, nous nous intéresserons en particulier à la question de l’indexation par des mots-clés géographiques.
+
+[Version longue]({% include link-asset asset="SujetM2-Cirad-2021.pdf" %})
+
 ### Stages chez Amadeus ###
 
 - Contact : [Najeth Geuffroy](mailto:najeth.geuffroy@amadeus.com).
