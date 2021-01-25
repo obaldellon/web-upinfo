@@ -74,6 +74,8 @@ LTL, CTL, CTL* temporal logics, modal mu-calculus, etc. The purpose of
 this course is to study some of these logics and discover
 the importance of the theory of automata and games in computer logic.
 
+The course will be held in English.
+
 
 ### Discussed subjects ###
 
