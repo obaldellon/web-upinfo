@@ -20,7 +20,7 @@ marie:
   email: "marie.pelleau@univ-cotedazur.fr"
 elisabetta:
   name: "E. De Maria, MCF"
-  email: "elisabetta.de-maria@univ-cotedazur.fr"  
+  email: "elisabetta.de-maria@univ-cotedazur.fr"
 pierre:
   name: "P. Lezowski, PRAG"
   email: "pierre.lezowski@univ-cotedazur.fr"
@@ -108,4 +108,7 @@ yves:
 richard:
   name: "A. Richard, CR CNRS"
   email: "richard@i3s.unice.fr"
+martin:
+  name: "M. Avanzini, CR INRIA"
+  email: "martin.avanzini@inria.fr"
 # you can add more authors here

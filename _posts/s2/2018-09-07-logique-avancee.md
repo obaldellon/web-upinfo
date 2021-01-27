@@ -10,8 +10,7 @@ layout: syllabus
 #
 title: "Logique avancée"
 logo: "logo_blanc.png"
-teaser: "Ce cours invite à découvrir les liens étroits existants entre
-certains formalismes logiques, la théorie des jeux, et la théorie des automates."
+teaser: "Ce cours invite à découvrir les liens étroits existants entre certains formalismes logiques, la théorie des jeux, et la théorie des automates."
 
 # Une seule catégorie
 # Pour un syllabus, le semestre du cours : S1, S2, S3, S4.
@@ -22,12 +21,13 @@ categories:
 # Ajouter éventuellement un ou deux autres tags
 tags:
   - OPT
+  - EN
 # Les variables suivantes ne sont utiles que pour un syllabus.
 # Pour un post, supprimez-les.
 ects: 3
 schedule: "24h"
 website: "http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2021/AL"
-author: Martin Avanzini
+author: martin
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
@@ -40,7 +40,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Requirements ###
@@ -58,7 +58,7 @@ is needed for mini-projects.
 
 
 ### Course Material ###
-Course notes and corrected work sheets will be provided online. 
+Course notes and corrected work sheets will be provided online.
 
 ### Description ###
 
