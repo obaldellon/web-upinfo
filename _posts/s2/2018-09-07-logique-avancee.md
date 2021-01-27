@@ -26,8 +26,8 @@ tags:
 # Pour un post, supprimez-les.
 ects: 3
 schedule: "24h"
-website: "http://deptinfo.unice.fr/~elozes"
-author: etienne
+website: "http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2021/AL"
+author: Martin Avanzini
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
@@ -43,54 +43,52 @@ header:
   caption_url: https://unsplash.com/  
 ---
 
-### Pré-requis ###
+### Requirements ###
 
-Il est nécessaire d'avoir suivi un cours de logique ayant traité
-de la logique propositionnelle et du calcul des prédicats. Une familiarité
-avec les automates sur les mots finis est souhaitable (ceux-ci seront
-rappelés très brièvement). La maitrise d'un langage de programmation
-est nécessaire pour les mini-projets.
+It is necessary to have followed a course in logic having dealt with
+propositional logic and the calculus of predicates. Familiarity
+with automata on finite words is desirable (these will be
+recalled very briefly). Mastery of a programming language
+is needed for mini-projects.
 
-### Modalités de contrôle des connaissances ###
+### Grading ###
 
- - 1 mini-projet toutes les 3 semaines, à faire à la maison, revisitant les notions vues en cours (solveur de jeu, utilisation de Mona, etc)
- - 1 examen terminal
+  - mini-projects every 3 weeks, to be done at home, revisiting the concepts seen in class
+  - 1 final examination
 
 
-### Supports de cours ###
-Des notes de cours et des feuilles d'exercices corrigées seront mises
-à disposition.
+### Course Material ###
+Course notes and corrected work sheets will be provided online. 
 
 ### Description ###
 
-La correspondance entre les langages réguliers de mots finis
-et ceux décrits par la logique monadique du second ordre faible est
-le point de départ du cours. Cette correspondance
-s'étend ensuite aux mots infinis et à la logique
-monadique du second ordre, et porte alors le nom
-de théorème de Buechi-Elgot-Trakhtenbrot.
-Elle s'étend aussi aux langages d'arbres finis et infinis par le 
-de nouveaux modèles d'automates, 
-permettant d'automatiser complètement le raisonnement
-pour de nombreuses logiques utiles
-en vérification de programmes telles que l'arithmétique de Presburger,
-les logiques temporelles LTL, CTL, CTL*, le mu-calcul modal, etc. Le but du
-cours est d'étudier certaines de ces logiques et de découvrir
-l'importance de la théorie des automates et des jeux en logique informatique.
+Correspondence between regular finite word languages
+and those described by weak second-order monadic logic is
+the starting point of the course. This correspondence
+then extends to infinite words and monad second order logic.
+It also extends to the languages of finite and infinite trees,
+allowing to completely automate reasoning
+for many useful logics
+in checking programs such as Presburger arithmetic,
+LTL, CTL, CTL* temporal logics, modal mu-calculus, etc. The purpose of
+this course is to study some of these logics and discover
+the importance of the theory of automata and games in computer logic.
+
+The course will be held in English.
 
 
-### Thèmes abordés ###
+### Discussed subjects ###
 
- - logique monadique du second ordre
- - arithmétique de Presburger
- - automates alternants
- - automates sur les mots infinis
- - logique LTL
- - automates d'arbres
- - logique CTL*, mu-calcul modal
+  - second-order monadic logic
+  - Presburger arithmetic
+  - alternating automatons
+  - automata on infinite words
+  - LTL logic
+  - tree automata
+  - CTL* logic, modal mu-calculus
 
 
-### Références ###
+### References ###
 - Wolfgang Thomas *Languages, Automata, and Logic* [pdf](http://www.cs.cornell.edu/courses/cs6860/2010fa/Handouts/thomas.pdf)
 - The MONA project [web site](http://www.brics.dk/mona/)
-- Automatentheory, Spiele, und Logik [version allemande du cours](http://www.lsv.fr/~lozes/Enseignement/ASL/index.php)
+- Automatentheory, Spiele, und Logik [german version of course](http://www.lsv.fr/~lozes/Enseignement/ASL/index.php)
