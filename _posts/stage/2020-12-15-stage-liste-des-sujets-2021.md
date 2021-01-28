@@ -382,6 +382,20 @@ Dans ce travail, nous nous intéresserons en particulier à la question de l’i
 
 [Version longue]({% include link-asset asset="SujetM2-Cirad-2021.pdf" %})
 
+### Explication de preuves d’insatisfaisabilité ###
+
+- Encadrant : [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : C, C++
+
+Les solveurs SAT sont utilisés avec succès dans de nombreuses applications combinatoires et du monde réel. Il n’est maintenant pas rare de lire qu’une preuve mathématique implique des centaines de gigaoctets de traces de solveur SAT. L’ampleur de la preuve commence à constituer une véritable limite à l’approche globale. Ce projet propose de restructurer et de compresser les données que génèrent les solveurs SAT afin d’obtenir une meilleure compréhension de leur signification.
+Dans ce travail, nous proposons de rechercher des contraintes de haut niveau dans les preuves UNSAT. Dans un précédent travail nous avons étendu l’idée de \[1\] à un cas plus général afin de trouver et énumérer des contraintes de cardinalité.
+La deuxième étape dans ce projet est l’extraction dans l’ensemble des contraintes d’un ensemble de contraintes causant l’insatisfaisabilité du problème et de les reformuler afin d’obtenir une explication plus compréhensible par un humain.
+
+L’objectif de ce stage est d’étudier les algorithmes existants pour résoudre les MAX-CSP, permettant de trouver un ensemble de maximum de contraintes pouvant être satisfaisable, et les Minimal UNSAT Set (MUS), permettant de trouver les l’ensemble minimal de clauses insatisfaisables. Puis de les adapter afin de trouver cette fois-ci l’ensemble minimum de contraintes de cardinalité insatisfaisables. Finalement, des algorithmes de réécriture seront utilisés afin de reformuler les contraintes de l’ensemble minimum de contraintes insatisfaisables afin d’obtenir une meilleure compréhension des preuves SAT.
+
+- Références :
+  - \[1\] Armin Biere, Daniel Le Berre, Emmanuel Lonca, and Norbert Manthey, Detecting Cardi- nality Constraints in CNF. In Proceedings of SAT, 2014
+
 ### Stages chez Amadeus ###
 
 - Contact : [Najeth Geuffroy](mailto:najeth.geuffroy@amadeus.com).
