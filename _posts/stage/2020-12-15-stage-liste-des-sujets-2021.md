@@ -141,6 +141,10 @@ Ce stage peut être prolongé par une thèse CIFRE au sein de l'entreprise.
   - \[1\] Zihao Wang, Clair Vandersteen, Thomas Demarcy, Dan Gnansia, Charles Raffaelli, Nicolas Guevara, and Hervé Delingette.Deep Learning based Metal Artifacts Reduction in post-operative Cochlear Implant CT Imaging. In MICCAI 2019 - Shenzhen,China, pages 121-129, October 2019
   - \[2\] Huang, X., Wang, J., Tang, F., Zhong, T., Zhang, Y.: Metal artifact reduction on cervical CT images by deep residual learning. BioMedical Engineering OnLine 17(175) (November 2018)
   - \[3\] Zhang, Y., Yu, H.: Convolutional neural network based metal artifact reduction in X-ray computed tomography. IEEE Transactions on Medical Imaging 37(6), 1370–1381 (June 2018)
+  
+[Version française]({% include link-asset asset="MasterTrainee-2020-SITECH_fr.pdf" %})
+
+[Version anglaise]({% include link-asset asset="MasterTrainee-2020-SITECH_en.pdf" %})
 
 ### Deep and wide: on the incidence of basin geometry in (deep) learning energy functionals ###
 
