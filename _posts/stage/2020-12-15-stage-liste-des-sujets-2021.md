@@ -394,7 +394,19 @@ La deuxième étape dans ce projet est l’extraction dans l’ensemble des cont
 L’objectif de ce stage est d’étudier les algorithmes existants pour résoudre les MAX-CSP, permettant de trouver un ensemble de maximum de contraintes pouvant être satisfaisable, et les Minimal UNSAT Set (MUS), permettant de trouver les l’ensemble minimal de clauses insatisfaisables. Puis de les adapter afin de trouver cette fois-ci l’ensemble minimum de contraintes de cardinalité insatisfaisables. Finalement, des algorithmes de réécriture seront utilisés afin de reformuler les contraintes de l’ensemble minimum de contraintes insatisfaisables afin d’obtenir une meilleure compréhension des preuves SAT.
 
 - Références :
-  - \[1\] Armin Biere, Daniel Le Berre, Emmanuel Lonca, and Norbert Manthey, Detecting Cardi- nality Constraints in CNF. In Proceedings of SAT, 2014
+  - \[1\] Armin Biere, Daniel Le Berre, Emmanuel Lonca, and Norbert Manthey, Detecting Cardinality Constraints in CNF. In Proceedings of SAT, 2014
+
+### Reconnaissance de programmes par réseaux de neurones ###
+
+- Encadrant : [Sid Touati & Enrico Formenti](mailto:sid.touati@inria.fr,enrico.formenti@univ-cotedazur.fr)
+
+Un résultat fondamental en informatique (calculabilité) nous affirme que des problèmes indécidables existent, c’est-à-dire pour lesquels il n’existe aucun algorithme qui soit capable d’en fournir la solution. Pour un informaticien, cela n’est pas une bonne nouvelle. La situation est encore pire. En effet, le théorème de Rice nous dit que tous les problèmes sont indécidables sauf ceux qui sont triviaux (au sens de la calculabilité, bien sûr !).
+Un exemple classique de problème indécidable – et que nous allons étudier dans le cadre de ce stage – consiste à prendre deux programmes et se demander s’ils calculent la même chose.
+Que faire donc lorsqu’on veut s’attaquer à un problème indécidable? Il faut être pragmatique : Il faut accepter de faire des erreurs de temps en temps. Le programme qui essaye de résoudre un problème indécidable fonctionnerait bien pour certaines instances et calculerait un résultat incorrect pour d’autres. Il faudrait aussi veiller à que les cas des calculs incorrects soient aussi rares que possible.
+Ce qu’on vient d’écrire est donc un cadre d’application idéal des réseaux de neurones qui, par nature, calculent leurs résultats à une marge d’erreur près.
+
+Concrètement, dans ce stage nous voudrions construire un outil (grâce aux réseaux de neurones) qui devine ce que calcule un autre programme.
+Ce problème de reconnaissance automatique des programmes, bien qu’indécidable, reste un enjeu fondamental en informatique, dont les applications sont nombreuses : reverse engineering, compilation, analyse de sécurité de code, etc. Essayer de deviner si un programme calcule telle ou telle fonction précise est une question qui se pose en pratique. Des travaux de recherche existent et ont tenté de reconnaitre les programmes de manière algorithmique.
 
 ### Stages chez Amadeus ###
 
