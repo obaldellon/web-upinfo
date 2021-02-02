@@ -47,13 +47,15 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
 ### Calendrier ###
 
   - Mi-février 2020 : début des projets.
-  - 16 Juin 2020 à 20h00 : rendu du rapport sur moodle
-  - 17-19 juin 2020 : rendu de la présentation sur moodle
-  - 17-19 juin 2020 : soutenance finale sur discord.
+  - mi-juin 2021 : rendu du rapport sur moodle
+  - mi-juin 2021 : rendu de la présentation sur moodle
+  - mi-juin 2021 : soutenance finale.
 
 <!-- Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}). -->
 
-Les rendus sont à faire dans le cours [ECUE Projet disciplinaire INFO TER S2 - SMEFPR20](https://lms.univ-cotedazur.fr/course/view.php?id=12032) (onglet Rendus).
+Les rendus seront à faire dans le cours [ECUE Projet disciplinaire INFO TER S2 - SMEFPR20](https://lms.univ-cotedazur.fr/course/view.php?id=12032) (onglet Rendus).
+
+<!---
 Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription (cliquez pour voir).
 La date limite est stricte pour le rapport. Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance.
 
@@ -65,7 +67,7 @@ Nous alternerons les soutenances sur discord dans les salons vocaux 282 et TD06.
   - Les créneaux à la demi-heure (9h30, 10h30, etc) sont en 282.
 - Les membres du jury changent de salon à la fin de chaque soutenance.
 - Les informations importantes seront publiées dans le salon textuel général.
-
+-->
 
 ### Appel à sujets ###
 
@@ -76,7 +78,7 @@ Formez un groupe, consultez la liste des sujets ou contactez directement des pro
 
 ### Liste des sujets ###
 
-La liste des sujets est [ici]({% post_url /ter/2020-02-07-TER-S2-liste-des-sujets-2020 %}).
+La liste des sujets est [ici]({% post_url /ter/2021-01-19-TER-S2-liste-des-sujets-2021 %}).<br>
 Elle est mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
 
 Vous pouvez aussi consulter les sujets des années précédentes et essayer de contacter les encadrants qui les avaient déposés.

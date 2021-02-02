@@ -46,7 +46,11 @@ The courses will be followed by labs inside machine rooms under Linux.
 
 ### Exams ###
 
-One final exam (QCM) done on the machines
+The evaluation can follow two scenarios, depending on an agreement between the professor and the students:
+
+- scenario 1: a single final exam
+- scenario 2: three marks on the lab (50%) + one mark on the final exam (50%)
+
 
 ### Ressources ###
 
