@@ -30,7 +30,7 @@ Dans les nouvelles maquettes du Master Informatique figurent, au premier semestr
 - s'initier à la recherche scientifique ;
 - apprendre à travailler de façon autonome.
 
-Les projets commenceront le **15 octobre 2020** et se termineront par une soutenance finale. Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l’équivalent de 2 jours par semaine.
+Les projets commenceront le **15 octobre 2020** et se termineront par une soutenance finale. Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l’équivalent de 1 jour par semaine.
 
 ### Encadrement ###
 
@@ -51,7 +51,7 @@ Deux séances de suivi - auxquelles vous êtes bien sûr conviés - permettront 
 
 Si vous souhaitez proposer des sujets, il vous suffit de m'envoyer un mail avant le **6 octobre 2020** avec les informations suivantes :
 
-  - Titre du projet ; 
+  - Titre du projet ;
   - Nom et e-mail de l'encadrant ;
   - Méthodes, langages ou technologies envisagés ;
   - Sujet (15 lignes max).

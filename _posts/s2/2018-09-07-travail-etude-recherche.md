@@ -37,8 +37,8 @@ Les objectifs pédagogiques du TER sont les suivants :
   - apprendre à travailler seul ou en groupe et de façon autonome.
 
 Les projets commencent mi-février et se termineront par une soutenance mi-juin.
-Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l'équivalent de 2 jours par semaine (pendant que les étudiants alternants seront en entreprise les
-jeudis et vendredis).
+Pendant cette période, les étudiants non alternants, seuls ou en groupe (max 4 étudiants), travailleront sur leur projet l'équivalent de 1 jour par semaine (pendant que les étudiants alternants seront en entreprise les
+jeudis ou vendredis).
 Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez travailler en groupe.
 
 **International students can follow the TER and will defend their project in English. However, communications are in French.**
