@@ -46,14 +46,19 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
 
 ### Calendrier ###
 
-  - Mi-février 2020 : début des projets.
-  - mi-juin 2021 : rendu du rapport sur moodle
-  - mi-juin 2021 : rendu de la présentation sur moodle
-  - mi-juin 2021 : soutenance finale.
+  - mi-février 2021 : affectation aux sujets et début des projets.
+    - Vendredi 19 février 2021 : fin du bonus d'affectation de sujet (1pt).
+    - Lundi 1er mars 2021 : début du malus en cas d'absence de sujet (1pt / sem).
+  - ? avril 2021 : première réunion de suivi.
+  - ? mai 2021 : seconde réunion de suivi.
+  - m-juin 2021: rendu et évaluation des projets.
+    - ? juin 2021 : rendu du rapport sur moodle.
+    - ? juin 2021 : rendu de la présentation sur moodle.
+    - ? juin 2021 : soutenance finale.
 
 <!-- Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}). -->
 
-Les rendus seront à faire dans le cours [ECUE Projet disciplinaire INFO TER S2 - SMEFPR20](https://lms.univ-cotedazur.fr/course/view.php?id=12032) (onglet Rendus).
+Tous les rendus sont à faire dans le cours [SMEFN201 - ECUE TER Informatique S2](https://lms.univ-cotedazur.fr/course/view.php?id=14408) (onglet Rendus).
 
 <!---
 Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription (cliquez pour voir).

@@ -47,7 +47,7 @@ Encadrer techniquement un projet consistera à :
 
 Pour les universitaires, cet encadrement sera rémunéré 4h équivalent TD.
 
-En parallèle de l'encadrement technique, Arnaud Malapert pour le Master Informatique se chargera de suivre les étudiants afin que leur travail progresse régulièrement tout au long du semestre.
+En parallèle de l'encadrement technique, Arnaud Malapert se chargera de suivre les étudiants afin que leur travail progresse régulièrement tout au long du semestre.
 Deux séances de suivi - auxquelles vous êtes bien sûr conviés - permettront de faire le point avec les étudiants sur leur méthode de travail et leur avancement.
 
 ### Proposer un sujet ###
