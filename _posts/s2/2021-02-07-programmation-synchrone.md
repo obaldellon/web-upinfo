@@ -20,7 +20,7 @@ email: "frederic.mallet@univ-cotedazur.fr"
 #
 image:
   thumb: "header-syllabus-unsplash-thumb.jpg"
-  homepage: "header-syllabus-unsplash.jpg"
+  homepage: "header-synchrone.png"
 #  caption: "https://unsplash.com/"
   url: "https://unsplash.com/"
 header:
@@ -32,11 +32,17 @@ header:
 ### Description ###
 
 - programmation synchrone
-- Approches flots de données
-- Approches basées sur les états
-- Approches déclaratives
+  - Styles : Flots de données, états hiérarchiques, par contraintes ;
+  - Horloge logique et Horloge de Lamport
+  - Système multi-horloge
+- En pratique
+  - Compilation vers C
+  - Simulation (avec Luciole)
+  - Vérification (avec Lesar)
 - Temps logique vs. Temps Physique
 
 ### Modalités de contrôle des connaissances ###
 
-- Examen 
+- 1 TP noté - Lustre (25%)
+- 1 TP noté - BDD (25%)
+- 1 examen écrit (50%)
