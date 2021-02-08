@@ -32,7 +32,8 @@ header:
 
 - programmation synchrone
   - Styles : Flots de données, états hiérarchiques, par contraintes ;
-  - Horloge logique et Horloge de Lamport
+  - Lustre : type, analyse de causalité, tableaux, recursivité ;
+  - Horloge logique et Horloge de Lamport ;
   - Système multi-horloge
 - En pratique
   - Compilation vers C
