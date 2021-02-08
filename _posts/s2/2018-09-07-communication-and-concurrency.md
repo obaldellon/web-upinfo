@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "C. Di Giusto, MCF"
 title: "Communication and Concurrency"
 logo: "logo_blanc.png"
 teaser: "L’objectif du cours est d'introduire des formalismes mathématiques pour modéliser et raisonner sur les propriétés de systèmes parallèles."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "https://lms.univ-cotedazur.fr"
-email: "cinzia.di-giusto@unice.fr"
+author: cinzia
 #
 # Styling
 #

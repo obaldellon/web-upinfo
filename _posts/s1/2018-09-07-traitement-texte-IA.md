@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Cabrio, MCF"
 title: "Traitement automatique du texte en IA"
 logo: "logo_blanc.png"
 teaser: "En intelligence Artificielles (IA), le Traitement Automatique du Langage Naturel (TALN) est une discipline qui a pour objectif de modéliser, grâce à l'informatique, le langage qu'il soit écrit ou parlé. Les technologies TALN sont présentes, de manière grandissante, dans divers systèmes grands public (par ex. Google, IBM Watson, Facebook, Apple Siri)."
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "elena.cabrio@unice.fr"
+author: elena
 #
 # Styling
 #

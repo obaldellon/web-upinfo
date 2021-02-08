@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "P. Lezowski, PRAG"
 title: "Introduction à l'informatique par le web"
 logo: "logo_blanc-l.png"
 teaser: "Cours de découverte de la science informatique à travers de thématiques concrètes issues du web."
@@ -16,7 +15,7 @@ tags:
 ects: 6
 schedule: "54"
 website: "https://lms.univ-cotedazur.fr"
-email: "pierre.lezowski@univ-cotedazur.fr"
+author: pierre
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.

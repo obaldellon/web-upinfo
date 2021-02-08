@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "P. Lezowski, PRAG"
 title: "Bases de données"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif de ce cours est d'apprendre à créer et manipuler des bases de données relationnelles et de comprendre les problèmes qui y sont liés."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "pierre.lezowski@univ-cotedazur.fr"
+author: elisabetta
 #
 # Styling
 #

@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Kounalis, PR"
 title: "Algorithmique 1"
 logo: "logo_blanc-l.png"
 teaser: "Le but du cours est d'introduire l’étudiant à l’algorithmique,
@@ -15,7 +14,7 @@ tags:
 ects: 6
 schedule: "24h CM, 36h TD"
 # website: "#"
-email: "emmanuel.kounalis@univ-cotedazur.fr"
+author: emmanuel
 #
 # Styling
 #
@@ -49,8 +48,8 @@ en mettant l'accent sur les stratégies de conception d'un algorithme efficace.
  
 ###  Modalités de contrôle des connaissances ###
 
-- 2 CC à 30%
-- 1 CT à 40%
+- 1 CC à 50%
+- 1 CT à 50%
 
 ###  Ressources ###
 1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms /2008. 

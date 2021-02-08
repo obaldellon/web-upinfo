@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "P. Collet, PR"
 title: "Gestion de projet"
 logo: "logo_blanc.png"
 teaser: "Les notions clés abordées dans ce cours sont l’intégration continue et le déploiement automatique."
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "https://wiki.unice.fr/display/~collet/Projet+%28S2%29+-+2018-2019"
-email: "philippe.collet@unice.fr"
+author: philippect
 #
 # Styling
 #

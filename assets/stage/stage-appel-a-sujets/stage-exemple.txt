@@ -1,0 +1,16 @@
+### Titre du projet cool ###
+
+- Encadrant : [Prénom Nom](mailto:Prénom.Nom@univ-cotedazur.fr).
+- Mots-clés : Mot-clé1, Mot-clé2
+- Prérequis : Il n’y a aucun prérequis spécifique sinon une bonne connaissance dans les domaines fondamentaux de l’informatique comme l'algorithmique, la théorie des graphes...
+- Contexte :
+Résumé du projet, qu’il est trop cool ce projet
+
+- Objectif :
+L'objectif est de faire un truc machin chose
+
+- Références :
+  - M. Untel, Cet article super important, 2000
+  - M. Toutlemonde, Celui là aussi est bien, 2010
+
+[Verion longue](lien vers un pdf ou en pièce jointe du mail) 

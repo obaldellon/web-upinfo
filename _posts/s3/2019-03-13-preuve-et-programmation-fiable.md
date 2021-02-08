@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Preuve et programmation fiable"
-subheadline: "Y. Bertot, DR INRIA"
 logo: "logo_blanc.png"
 teaser: "L'objectif de ce cours est de décrire comment produire des programmes entièrement corrects vis-à-vis de spécifications logiques en utilisant le système de preuve Coq. "
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "https://team.inria.fr/marelle/en/proof-and-reliable-programming-using-coq/"
-email: "yves.bertot@inria.fr"
+author: yves
 #
 # Styling
 #

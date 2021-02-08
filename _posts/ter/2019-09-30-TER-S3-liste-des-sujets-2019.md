@@ -10,7 +10,7 @@ teaser: "Le TER (Travail d’Étude et de Recherche) est un stage sous la direct
 categories:
   - TER
 tags:
-  - NEWS
+  - S3
 #
 # Styling
 #
@@ -23,6 +23,8 @@ header:
 
 1. TOC
 {:toc}
+
+{% include numbered-headings main=3 %}
 
 ### Computing Tree-decompositions of Graphs ###
  - Nombre d’étudiants souhaités : 1
@@ -47,7 +49,7 @@ The ambitious objectives of the TER may be some of the following:
 [Version longue]({% include link-asset asset="TER_decomp19.pdf" %})
 
 
-### FPT algorithm for the interaction graph consistency problem ### 
+### FPT algorithm for the interaction graph consistency problem ###
  - Nombre d'étudiants souhaité : 2
  - Encadrant : [Adrien Richard](mailto:richard@i3s.unice.fr).
 
@@ -60,7 +62,7 @@ We recently proved that there is a FPT-algorithm for this decision problem. The 
 [Version longue]({% include link-asset asset="TER_M2_2019_2020.pdf" %})
 
 
-### Optimal planning of LoRa networks ### 
+### Optimal planning of LoRa networks ###
  - Nombre d'étudiants souhaité : 1
  - Encadrant : [Christelle Caillouet](mailto:christelle.caillouet@unice.fr).
  - Prérequis : Linear programming, Algorithmic, Wireless Networks
@@ -73,23 +75,23 @@ In order to maximize the LoRa network capacity, cross-layer optimization approac
 The guideline of the proposed project is the following :
  * Bibliographic analysis and understanding of papers \[1\] and \[2\]
  * Reflexion about parameters to consider to optimize LoRa network capacity
- * Development of a linear model or algorithm 
+ * Development of a linear model or algorithm
  * Implementation and analysis of obtained solutions
 
-Useful Information: 
+Useful Information:
  * \[1\] M. Cesana, A. Redondi, J. Ortin, "A Framework for Planning LoRaWAN Networks", IEEE PIMRC, Sep. 2018.
  * \[2\] D. Zorbas, G. Papadopoulos, P. Maille, N. Montavont, C. Douligeris, "Improving LoRa Network Capacity Using Multiple Spreading Factor Configurations", ICT 2018.
 
 This project can be followed by an internship.
 
 
-### Optimization of drones trajectory for optimal sensor coverage and data collection ### 
+### Optimization of drones trajectory for optimal sensor coverage and data collection ###
  - Nombre d'étudiants souhaité : 1
  - Encadrant : [Christelle Caillouet](mailto:christelle.caillouet@unice.fr).
  - Prérequis : Linear programming, Algorithmic, Wireless Networks
 
 Recent advances of technology have led to the development of flying drones that act as wireless base stations to track objects lying on the ground. This kind of robots (also called Unmanned Aerial Vehicles or UAVs) can be used in a variety of applications such as vehicle tracking, traffic management and fire detection.
-Deploying these Unmanned Aerial Vehicles to cover targets is a complex problem since each target should be covered, UAVs should form a connected backbone with a base station in order to collect and send information to the targets, while minimizing several parameters such that deployment cost, UAV's altitudes to ensure good communication quality, energy consumed, UAV's move, ... 
+Deploying these Unmanned Aerial Vehicles to cover targets is a complex problem since each target should be covered, UAVs should form a connected backbone with a base station in order to collect and send information to the targets, while minimizing several parameters such that deployment cost, UAV's altitudes to ensure good communication quality, energy consumed, UAV's move, ...
 
 The project direction is to provide an efficient and reliable drone placement and scheduling by adjusting their position ensuring the surveillance of all the targets among time.
 Theoreticaly, this problem is related to the set covering problem (and its dynamic version), and the 3D packing problem.
@@ -98,8 +100,8 @@ The guideline of the proposed project is the following :
  * Bibliographic analysis and understanding of papers \[1\] and \[2\]
  * Development of a linear model extending \[1\] with trajectory modelling and scheduling constraints
  * Implementation and analysis of obtained solutions
- 
-Useful Information: 
+
+Useful Information:
  * \[1\] C. Caillouet, F. Giroire, T. Razafindralambo, "Optimization of mobile sensor coverage with UAVs", in WiSARN@INFOCOM, Apr. 2018.
  * \[2\] L. Di Puglia Pugliese, F. Guerriero, D. Zorbas, T. Razafindralambo, "Modelling the mobile target covering problem using flying drones", Optimization Letters, Springer Verlag, volume 10(5), pages 1021--1052, June 2016.
 
@@ -114,7 +116,7 @@ During the course of Type Systems we will encounter a series of concepts and alg
 
 We will introduce basic concepts such as expressions and the untyped lambda-calculus. We then proceed with covering the simply typed lambda-calculus and a variety of features such as products, sums, records, variants, references, and exceptions. Then we will talk about more advance concepts such as type safety,  the fundamental mechanism of subtyping. Finally we tackle recursive and polymorphic types.
 
-The project consists in providing a concrete realization of these concepts and  algorithms as an [OCaml](https://ocaml.org) program as suggested and guided in \[1\]. 
+The project consists in providing a concrete realization of these concepts and  algorithms as an [OCaml](https://ocaml.org) program as suggested and guided in \[1\].
 
 - Références :
   - \[1\] Benjamin C. Pierce: Types and programming languages. MIT Press 2002, ISBN 978-0-262-16209-8, pp. I-XXI, 1-623
@@ -128,7 +130,7 @@ Communicating systems are a simple yet powerful model of message-passing program
 
 Nevertheless, several tools, like [SPIN](http://spinroot.com) or [CADP](https://cadp.inria.fr) were designed for the analysis of communicating systems and are commonly used to detect bugs in industrial software. The major limitation of these tools, however, is that they require communication buffers to be bounded a priori. In particular, these tools miss the bugs that happen for larger buffers than the ones they assumed during the analysis. To overcome this limitation, several theoretical foundations were proposed in the recent years.
 
-The goal of this PFE is to join and actively contribute to the development of an analyzer of communicating systems based on one of these theoretical foundations \[2\]. 
+The goal of this PFE is to join and actively contribute to the development of an analyzer of communicating systems based on one of these theoretical foundations \[2\].
 
 The analyzer will be developed reusing bricks of OCaml code written for two other well-documented analyzers, namely Scm and [McScm](https://svn.labri.fr/repos/acs/www/redmine/projects/mcscm/wiki.html).
 The exact task of the PFE student in this project will be determined depending on the experience with [OCaml](https://ocaml.org) programming.
@@ -139,8 +141,8 @@ The exact task of the PFE student in this project will be determined depending o
 
 
 <!--
-### Nom du projet ### 
- - Nombre d'étudiants souhaité : 
+### Nom du projet ###
+ - Nombre d'étudiants souhaité :
  - Encadrant : [Prénom Nom](mailto:prenom.nom@domaine.fr).
  - Prérequis :
 

@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "S. Julia, MCF"
 title: "Automates et langages"
 logo: "logo_blanc-l.png"
 teaser: "Introduction à la théorie des automates et des machines à états finis,
@@ -15,7 +14,7 @@ tags:
 ects: 6
 schedule: "18h cours + 24 TD + 12h TP"
 website: "http://deptinfo.unice.fr/%7ejulia/AL/"
-email: "sandrine.julia@univ-cotedazur.fr"
+author: sandrine
 #
 # Styling
 #

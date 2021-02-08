@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Parallelisme avancé"
-subheadline: "F. Huet, MCF"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-email: "fabrice.huet@univ-cotedazur.fr"
+author: fabrice
 #
 # Styling
 #

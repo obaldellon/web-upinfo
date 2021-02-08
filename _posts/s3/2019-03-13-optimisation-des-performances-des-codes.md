@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Optimisation des performances des codes"
-subheadline: "S. Touati, PR"
 logo: "logo_blanc.png"
 teaser: "Nous aborderons les techniques automatiques d'optimisation des performances des programmes qui s'exécutent directement sur les processeurs modernes. Les aspects d’interaction bas niveau entre logiciel et matériel sont étudiés."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 #website: ""
-email: "sid.touati@univ-cotedazur.fr"
+author: sid
 #
 # Styling
 #

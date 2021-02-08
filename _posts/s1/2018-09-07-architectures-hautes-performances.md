@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "S. Touati, PR"
 title: "Architectures de processeurs hautes performances"
 logo: "logo_blanc.png"
 teaser: "L’informatique est composée d’une partie logicielle et d’une
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "https://lms.univ-cotedazur.fr"
-email: "sid.touati@univ-cotedazur.fr"
+author: sid
 #
 # Styling
 #

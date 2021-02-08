@@ -4,7 +4,6 @@ layout: syllabus
 # Content
 #
 title: "Systèmes dynamiques finis"
-subheadline: "A. Richard, CR CNRS"
 logo: "logo_blanc.png"
 teaser: "In many branches of current science, graphs, and dynamic processes on these graphs, are considered. Finite Dynamical Systems - also called Automata Networks - allow for an unmistakable representation of such processes. They are, for example, classical models for the dynamics of biological networks (neural and gene networks), social networks (epidemic diffusion), or communication networks (network coding)."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "https://www.i3s.unice.fr/~richard/M2RIF20192020/index.html"
-email: "richard@i3s.unice.fr"
+author: richard
 #
 # Styling
 #

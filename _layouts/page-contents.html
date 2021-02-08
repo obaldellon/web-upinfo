@@ -1,0 +1,23 @@
+---
+layout: page-fullwidth
+---
+
+<div class="row">
+    <div class="medium-4 medium-push-8 columns">
+        <div class="panel radius" markdown="1">
+
+{% if page.table %}
+{{ page.table | append:" ###" | prepend:"### " | markdownify }}
+{% else %}
+{{  "### Contenu ###" | markdownify }}
+{% endif %}
+
+{% include toc html=content %}
+        </div>
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-8 medium-pull-4 columns" markdown="1">
+
+{{ content }}
+
+    </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

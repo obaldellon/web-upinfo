@@ -4,7 +4,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: ""
 title: "Concepts d'intelligence artificielle"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
@@ -16,8 +15,7 @@ tags:
  - OPT
 ects: 6
 schedule: "24h CM, 18h TD, 18h TP"
-website: ""
-email: ""
+author: jcregin
 #
 # Styling
 #
@@ -31,6 +29,9 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
+
+{% include alert alert="Alert:  
+    Ce syllabus n'est pas à jour." %}
 
 ### Description
 

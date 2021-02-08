@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "S. Touati, PR"
 title: "Advance OS"
 logo: "logo_blanc.png"
 teaser: "We will learn some internal concepts on operating systems and their kernels."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "https://lms.univ-cotedazur.fr"
-email: "sid.touati@univ-cotedazur.fr"
+author: sid
 #
 # Styling
 #
@@ -47,8 +46,13 @@ The courses will be followed by labs inside machine rooms under Linux.
 
 ### Exams ###
 
-One final exam (QCM) done on the machines
+The evaluation can follow two scenarios, depending on an agreement between the professor and the students:
+
+- scenario 1: a single final exam
+- scenario 2: three marks on the lab (50%) + one mark on the final exam (50%)
+
 
 ### Ressources ###
 
-All the material of the courses and labs will be available on our course server: [moodle](https://lms.univ-cotedazur.fr).
+All the material of the courses and labs will be available on our course server: [moodle](https://lms.univ-cotedazur.fr/course/view.php?id=14302).
+You must register to the course before the first lecture.

@@ -8,7 +8,11 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "Prénom Nom, MCF/PR"
+# Auteur du post ou du responsable cours
+# Les valeurs sont dans le fichier _data/authors.yml
+author: anonym
+# Vous pouvez mettre plusieurs auteurs :
+# author: "anonym, anonym"
 title: "Écrire un syllabus ou un post"
 # Vous pouvez changer le logo qui apparait dans l'entête
 # si vous ne souhaitez pas de logo :
@@ -36,7 +40,6 @@ tags:
 ects: 3
 schedule: "24h"
 website: "#"
-email: "firstname.lastname@univ-cotedazur.fr"
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
@@ -288,35 +291,35 @@ Here's a <q>short quotation</q> which is in the middle of a sentence.
 
 ## Alerts
 All `alert`s support markdown and their names are all lowercase, because they're used as CSS classes, for example TODO is `alert todo=`. The <q>TODO:</q> prefix is not automatically inserted, it's for name calling only here.
-{% include alert alert='Alert:  
+{% include alert alert="Alert:  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert warning='Warning: call out a caveat that\'s easy to trigger  
+{% include alert warning="Warning: call out a caveat that's easy to trigger  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert info='Info: supplementary information, for example links to further reading or documentation.  
+{% include alert info="Info: supplementary information, for example links to further reading or documentation.  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert tip='Tip: call out something non-trivial that could help.  
+{% include alert tip="Tip: call out something non-trivial that could help.  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert success='Success:  
+{% include alert success="Success:  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert text='Text:  
+{% include alert text="Text:  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert todo='TODO: reminder to myself that something needs to be done here  
+{% include alert todo="TODO: reminder to myself that something needs to be done here  
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
 
-{% include alert terminal='Terminal:<br/>
+{% include alert terminal="Terminal:<br/>
     This is like any normal markdown, even when used from non-markdown context:  
-    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>.' %}
+    **strong**, *em*, _em_, ***strong em***, <b>html bold</b>, `code`, <kbd>kbd</kbd>, <samp>samp</samp>, <ins>ins</ins>, <del>del</del>." %}
     

@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "N. Sauvage"
 title: "Entrepreneuriat"
 logo: "logo_blanc.png"
 teaser: "L’objectif de ce module est d’aborder les différents choix qui s’offrent à un créateur d’entreprise sous un <strong>aspect pratique</strong> et surtout en insistant sur les pièges à éviter."
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: ""
+author: nathalie
 #
 # Styling
 #

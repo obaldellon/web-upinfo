@@ -3,10 +3,9 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
 title: "Graphes et programmation dynamique"
 logo: "logo_blanc.png"
-teaser: " La théorie des graphes est une théorie informatique et mathématique. 
+teaser: " La théorie des graphes est une théorie informatique et mathématique.
 La théorie des graphes a de nombreuses applications dans tous les domaines liés à la notion de réseau (réseau social, réseau informatique, télécommunications, etc.) et dans bien d'autres domaines (par exemple génétique) tant le concept de graphe, à peu près équivalent à celui de relation binaire (à ne pas confondre donc avec graphe d'une fonction), est général."
 categories:
   - S1
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "arnaud.malapert@univ-cotedazur.fr"
+author: arnaud
 #
 # Styling
 #
@@ -27,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 Nous allons étudier des notions, problèmes, et algorithmes fondamentaux de la théorie des graphes.
@@ -40,7 +39,10 @@ Les diapositives du cours de théorie des graphes sont disponibles :
 [4 diapositives par page]({% include link-asset asset="graphes-4up.pdf" %}) ;
 [8 diapositives par page]({% include link-asset asset="graphes-8up.pdf" %}).
 
-Les diapositives du cours de programmation dynamique sont disponibles : [suite de Fibonacci](http://www.i3s.unice.fr/~malapert/R/pdf/14-fibonacci.pdf) ; [problème du sac-à-dos]({% include link-asset asset="progdyn.pdf" %}).
+Les diapositives du cours de programmation dynamique sont disponibles :
+[suite de Fibonacci](http://www.i3s.unice.fr/~malapert/R/pdf/14-fibonacci.pdf) ;
+[problème du sac-à-dos]({% include link-asset asset="progdyn.pdf" %}) ;
+[Merch Time !]({% include link-asset asset="merchTime.pdf" %}).
 
 Le plan des cours est le suivant :
 - Généralités et définitions sur les graphes.
@@ -50,7 +52,7 @@ Le plan des cours est le suivant :
 - Problèmes de plus courts chemins
 - Contrôle continu
 - Généralités et définitions sur la programmation dynamique.
-- Applications algorithmiques de la programmation dynamique. 
+- Applications algorithmiques de la programmation dynamique.
 
 ### Ressources ###
 
@@ -75,5 +77,6 @@ Le plan des cours est le suivant :
 Le contrôle des connaissances comprendra 2 épreuves écrites :
 
 - Contrôle Continu (2h)
-- Contrôle Terminal (2h)
+- Projet (modif Covid)
+- ~~Contrôle Terminal (2h)~~
 - Épreuve orale en seconde session

@@ -1,0 +1,28 @@
+
+{% if include.year == "L1" %}
+  {% assign s1="S1" %}
+  {% assign s2="S2" %}
+{% elsif include.year == "L2" %}
+  {% assign s1="S3" %}
+  {% assign s2="S4" %}
+{% elsif include.year == "L3" %}
+  {% assign s1="S5" %}
+  {% assign s2="S6" %}
+{% endif %}
+
+<h2 id="cours-proposés">Cours proposés</h2>
+
+<p>Lors de chaque semestre les étudiants doivent suivre des cours indispensables et des cours optionnels.
+Les cours sont dispensés en français.</p>
+
+<h3 id="au-semestre-1">Au semestre 1</h3>
+{%include accordion-posts category=include.year tag=s1 %}
+
+<h3 id="au-semestre-2">Au semestre 2</h3>
+{%include accordion-posts category=include.year tag=s2 %}
+
+<h2 id="parcours-recommandé">Parcours recommandé</h2>
+
+{% include liste-courses entry=s1 %}
+
+{% include liste-courses entry=s2 %}
