@@ -51,7 +51,7 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
     - Lundi 1er mars 2021 : début du malus en cas d'absence de sujet (1pt / sem).
   - ? avril 2021 : première réunion de suivi.
   - ? mai 2021 : seconde réunion de suivi.
-  - m-juin 2021: rendu et évaluation des projets.
+  - mi-juin 2021: rendu et évaluation des projets.
     - ? juin 2021 : rendu du rapport sur moodle.
     - ? juin 2021 : rendu de la présentation sur moodle.
     - ? juin 2021 : soutenance finale.
