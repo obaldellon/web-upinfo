@@ -221,3 +221,22 @@ Le ou les stagiaires, après une familiarisation avec le sujet et nos environnem
 - valider et documenter l’ensemble des outils ainsi assemblés, ainsi qu’une bibliothèque d’exemples.
 
 Details du projet [ici](https://www.dropbox.com/s/1a5e2fk9nhqfkjy/Sujet-Open-pNet-2021%20TER-IFI.pdf?dl=0)
+
+
+### Trading bot
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Florian Ecard](mailto:fecard@protonmail.com).
+- Méthodes, langages ou technologies envisagés : algorithmique, utilisation d'API via Python, gestion de webhook.
+
+Les crypto-monnaies apportent une technologie indéniablement novatrice et prometteuse. Elles entraînent également beaucoup d'investissements monétaires et de spéculations, le monde du trading s'est donc invité dans ce domaine.
+De nombreuses entreprises proposent désormais aux particuliers d'investir dans ce marché de manière automatique, via des "bots de trading". Les particuliers peuvent choisir de suivre les bots de l’entreprise ou créer les leurs. Ces bots sont cependant onéreux.
+
+Ce projet consiste à développer un bot abordable, permettant aux particuliers de créer leur propre bot de trading.  Il existe plusieurs manières de créer un bot de trading, voici les technologies qui seront utilisées pour ce projet :
+- TradingView : Plateforme montrant les graphiques de crypto-monnaies ou valeurs boursières en temps réél. Cette plateforme permet également de développer ses propres stratégies et de les tester par rapport à l'historique de la valeur, via le « pine script ».
+- Binance : Plateforme d'échange de crypto-monnaies. De l'argent factice sera utilisé pour simuler des transactions financières.
+
+Les missions des étudiants :
+- TradingView a la capacité d’envoyer des informations à une URL donnée, sous le format JSON. De plus, Binance utilise une API permettant d’effectuer des ordres d’achat/vente. Il conviendra donc de rechercher et comprendre leur fonctionnement respectif, en sachant que Binance supporte la gestion de ces APIs avec Python (mais pas que) et que TradingView communique ses données JSON grâce à des WebHooks.
+- En utilisant les informations recueillies jusqu’ici, il faudra créer une Preuve de Concept : créer un serveur qui agira en tant qu’intermédiaire entre TradingView et Binance. Ainsi, les ordres d’achat/vente générés par TradingView pourront être mis en place dans Binance, de façon automatique.
+- (Option sécurité – si le temps le permet) Binance utilise une API permettant d’effectuer des ordres d’achat/vente sur un portefeuille grâce à une clé API privée. Cette clé devant se situer sur le serveur Web créé lors de ce projet, il conviendra de rechercher les meilleures pratiques à mettre en œuvre afin de sécuriser ce serveur.
