@@ -50,3 +50,7 @@ header:
 ### Supports
 
 - Introduction à [lustre]({% include link-asset asset="c1-lustre.pdf" %})
+
+{% include link-asset asset="synchronous-bib.html" %}  
+
+{% bibliography --file synchronous %}
