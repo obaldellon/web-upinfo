@@ -17,13 +17,9 @@ author: frederic
 #
 # Styling
 #
-image:
-  thumb: "header-syllabus-unsplash-thumb.jpg"
-  homepage: "header-synchrone.png"
-#  caption: "https://unsplash.com/"
-  url: "https://unsplash.com/"
+logo: "logo.png"
 header:
-  image_fullwidth: "header-synchrone.png"
+  image_fullwidth: "header-synchronex9.png"
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
