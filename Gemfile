@@ -9,3 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-toc"
 end
 
+
+gem "jekyll-scholar", "~> 6.8"
