@@ -158,9 +158,9 @@ This project explores procedural generation of static traffic intersections invo
 5. (Optional) Visualise regions of the intersection and the user / agent flows expected for the regions
 
 Références bibliographiques :
-\[1\] Wu, H., Ashmead, D. H., Adams, H., & Bodenheimer, B. (2018). Using Virtual Reality to Assess the Street Crossing Behavior of Pedestrians with Simulated Macular Degeneration at a Roundabout. Frontiers in ICT, 5, 27.
-\[2\] Liapis, A., Yannakakis, G. N., & Togelius, J. (2013). Sentient sketchbook: computer-assisted game level authoring.
-\[3\] Wang, K., Lin, Y. A., Weissmann, B., Savva, M., Chang, A. X., & Ritchie, D. (2019). Planit: Planning and instantiating indoor scenes with relation graph and spatial prior networks. ACM Transactions on Graphics (TOG), 38(4), 1-15.
+- \[1\] Wu, H., Ashmead, D. H., Adams, H., & Bodenheimer, B. (2018). Using Virtual Reality to Assess the Street Crossing Behavior of Pedestrians with Simulated Macular Degeneration at a Roundabout. Frontiers in ICT, 5, 27.
+- \[2\] Liapis, A., Yannakakis, G. N., & Togelius, J. (2013). Sentient sketchbook: computer-assisted game level authoring.
+- \[3\] Wang, K., Lin, Y. A., Weissmann, B., Savva, M., Chang, A. X., & Ritchie, D. (2019). Planit: Planning and instantiating indoor scenes with relation graph and spatial prior networks. ACM Transactions on Graphics (TOG), 38(4), 1-15.
 
 
 ### Comparaison des performances de codes de calculs scientifiques C++ versus Java
@@ -209,7 +209,7 @@ L’étudiant devra se familiariser avec les différents aspects comme ceci:
 
 
 - Nombre d'étudiants souhaité : 3 ou 4.
-- Encadrant : [Eric Madelaine](mailto:eric.madelaine@inria.fr), INRIA.
+- Encadrant : [Eric Madelaine](mailto:eric.madelaine@inria.fr).
 - Co-encadrante : Rabea Ameur-Boulifa, Telecom Paris.
 - Méthodes, langages ou technologies envisagés : développement en environment Java et MDE, methodes de gestion de code et de projets, outils de tests et de déploiement.
 
@@ -240,3 +240,72 @@ Les missions des étudiants :
 - TradingView a la capacité d’envoyer des informations à une URL donnée, sous le format JSON. De plus, Binance utilise une API permettant d’effectuer des ordres d’achat/vente. Il conviendra donc de rechercher et comprendre leur fonctionnement respectif, en sachant que Binance supporte la gestion de ces APIs avec Python (mais pas que) et que TradingView communique ses données JSON grâce à des WebHooks.
 - En utilisant les informations recueillies jusqu’ici, il faudra créer une Preuve de Concept : créer un serveur qui agira en tant qu’intermédiaire entre TradingView et Binance. Ainsi, les ordres d’achat/vente générés par TradingView pourront être mis en place dans Binance, de façon automatique.
 - (Option sécurité – si le temps le permet) Binance utilise une API permettant d’effectuer des ordres d’achat/vente sur un portefeuille grâce à une clé API privée. Cette clé devant se situer sur le serveur Web créé lors de ce projet, il conviendra de rechercher les meilleures pratiques à mettre en œuvre afin de sécuriser ce serveur.
+
+
+### Outils logiciels pour la visualisation de données.
+
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Eric Madelaine](mailto:eric.madelaine@inria.fr).
+- Co-encadrante : Rabea Ameur-Boulifa, Telecom Paris.
+- Méthodes, langages ou technologies envisagés : IHM et interfaces graphiques Java, Web sémantique, interfaces web sémantique / bases de données.
+
+[Speleograph](speleograph.free.fr) est un logiciel destiné à la visualisation de données de capteurs de mesures physiques, initialement dans le domaine de l’étude de débit des rivières souterraines, ou plus généralement la corrélation et la visualisation de données de capteurs.
+Nous souhaitons améliorer Speleograph, en particulier pour des usages pédagogiques, dans le contexte du projet [Edumed]( http://edumed.unice.fr/fr )
+
+Plus généralement, nous voulons pouvoir utiliser depuis Speleograph des données disponibles dans des bases de données sur le web, à travers des requêtes de type web sémantique du genre « trouvez-moi les données de hauteur d’eau souterraines des cavités de tel secteur, entre 2019 et 2020 ». Les vocabulaires nécessaires à décrire ces données, et leurs métadonnées, sont en cours de définition par le projet Karstlink.
+
+
+Le ou les stagiaires, après une familiarisation avec le sujet, devront réaliser un ou plusieurs des objectifs suivants :
+- Mettre en place de nouvelles fonctionnalités pour le logiciel Spéléograph, en particulier pour répondre aux besoins spécifiques des enseignants et des élèves dans le cadre d’Edumed.
+- Ajouter à Speleograph un module d’accès à des ressources de type « séries de données de capteurs physiques ».
+- Participer à la définition des ontologies « données de capteurs physiques » dans le cadre de Karstlink.
+
+Plus de détails [ici](https://www.dropbox.com/s/k1qi4jqocs65bpc/Sujet-Edumed-2021%20TER-IFI.pdf?dl=0).
+
+### Escape Game mobile – Sensibilisation à la cybersécurité
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Florian Ecard](mailto:fecard@protonmail.com).
+- Méthodes, langages ou technologies envisagés : réflexions, puzzles, création de contenu numérique et site web.
+
+L’Escape Game est un jeu immersif en plein essor ces dernières années. Il s’agit pour un groupe de personnes de résoudre des énigmes en groupe de manière ludique et en un temps défini.
+
+D’autre part, les menaces cyber ont grandement évolué ces dernières années et les victimes de cyber-attaques sont devenues nombreuses, notamment en utilisant des attaques de « phishing ». Cette attaque vise une personne physique dans l’objectif d’accéder au système informatique de la victime. Il est donc important pour une entreprise de former tout son personnel à la cybersécurité, pour se protéger au mieux des attaques cyber.
+
+Pour ce projet, ces deux constats sont mis en commun et seront utilisés pour créer une escape game transportable dans une entreprise. Celle-ci contiendra des challenges de cybersécurité à résoudre en équipe.  Au-delà d’être une activité team-bulding, ces challenges d'équipe permettent de sensibiliser les joueurs à la cybersécurité.
+
+Voici quelques exemples de challenges qui pourraient être construits :
+- La recomposition de codes à partir de papiers jetés, donnant accès à l'ordinateur.
+- Identifier un fichier caché, ou une information dans l’ordinateur à disposition, en se rendant sur le site web de l'escape game.
+- « Pick locker » un cadenas en utilisant la notice trouvée grâce à un challenge précédent.
+
+Les possibilités sont nombreuses et les étudiants devront utiliser toutes leurs ressources créatives et techniques pour fournir une escape game portable et semi-numérique à la fin du semestre.
+Le rôle des étudiants :
+- Rechercher différents types de challenges pouvant être mis en place, ayant les propriétés suivantes :
+  - En rapport avec la cybersécurité ;
+  - Ludique ;
+  - La solution doit pouvoir fournir un indice pour un autre challenge.
+- Une fois les challenges identifiés, il faudra mettre au point un « puzzle flow » afin de lier tous les challenges entre eux et proposer plusieurs méthodes d’arriver à la fin.
+- Une fois la recherche théorique terminée, il conviendra de réaliser les challenges identifiés.
+- Enfin, le scénario dans lequel les joueurs seront plongés devra être élaboré.
+
+
+### Designing 3D stimuli for neuroscientific models of human vision
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Hui-Yin Wu & Bruno Cessac](mailto:hui-yin.wu@inria.fr,bruno.cessac@inria.fr).
+- Méthodes, langages ou technologies envisagés :Unity (C#). Basic knowledge of 3D environments and neuroscience is appreciated but not required.
+
+Research towards establishing neuroscientific models of human visual pathway help us answer questions about how human vision works, such as how the retina anticipates motion \[1\], with wide applications towards the design of ocular prothesis and simulating the effects of human visual pathologies. The validation of these models relies on presenting the model with varied stimuli, and comparing the output to experimental findings in biology. Currently, most of the stimuli used consist either of simple animated 2D shapes \[2\], which can lack realism, or real image and video data \[3\], which are not fully customisable. Here, 3D environments offer the opportunity to create stimuli that is more complex, varied, and fully controlled.
+
+This project explores procedural generation of 3D stimuli for neuroscientific models. It involves an introductory step and generating three categories of stimuli:
+    0. Introductory: Survey existing stimuli that is used and familiarise with Unity through basic tutorials
+    1. Basic stimuli: Generate stimuli that show geometric shapes with consistent 2D movement trajectories in front of a fixed camera
+    2. Anticipation: Generate a corridor environment with objects that have consistent 3D trajectories
+    3. Surprise: For the same corridor environment, design object animations that have unpredictable motions or sudden appearances
+
+References:
+- \[1\] Souihel, S., & Cessac, B. (2021). On the potential role of lateral connectivity in retinal anticipation. The Journal of Mathematical Neuroscience, 11(1), 1-60.
+- \[2\] Peirce, J. W. (2009). Generating stimuli for neuroscience using PsychoPy. Frontiers in neuroinformatics, 2, 10.
+- \[3\] Sonkusare, S., Breakspear, M., & Guo, C. (2019). Naturalistic stimuli in neuroscience: critically acclaimed. Trends in cognitive sciences, 23(8), 699-714.
