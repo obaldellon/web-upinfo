@@ -158,9 +158,9 @@ This project explores procedural generation of static traffic intersections invo
 5. (Optional) Visualise regions of the intersection and the user / agent flows expected for the regions
 
 Références bibliographiques :
-\[1\] Wu, H., Ashmead, D. H., Adams, H., & Bodenheimer, B. (2018). Using Virtual Reality to Assess the Street Crossing Behavior of Pedestrians with Simulated Macular Degeneration at a Roundabout. Frontiers in ICT, 5, 27.
-\[2\] Liapis, A., Yannakakis, G. N., & Togelius, J. (2013). Sentient sketchbook: computer-assisted game level authoring.
-\[3\] Wang, K., Lin, Y. A., Weissmann, B., Savva, M., Chang, A. X., & Ritchie, D. (2019). Planit: Planning and instantiating indoor scenes with relation graph and spatial prior networks. ACM Transactions on Graphics (TOG), 38(4), 1-15.
+- \[1\] Wu, H., Ashmead, D. H., Adams, H., & Bodenheimer, B. (2018). Using Virtual Reality to Assess the Street Crossing Behavior of Pedestrians with Simulated Macular Degeneration at a Roundabout. Frontiers in ICT, 5, 27.
+- \[2\] Liapis, A., Yannakakis, G. N., & Togelius, J. (2013). Sentient sketchbook: computer-assisted game level authoring.
+- \[3\] Wang, K., Lin, Y. A., Weissmann, B., Savva, M., Chang, A. X., & Ritchie, D. (2019). Planit: Planning and instantiating indoor scenes with relation graph and spatial prior networks. ACM Transactions on Graphics (TOG), 38(4), 1-15.
 
 
 ### Comparaison des performances de codes de calculs scientifiques C++ versus Java
@@ -209,7 +209,7 @@ L’étudiant devra se familiariser avec les différents aspects comme ceci:
 
 
 - Nombre d'étudiants souhaité : 3 ou 4.
-- Encadrant : [Eric Madelaine](mailto:eric.madelaine@inria.fr), INRIA.
+- Encadrant : [Eric Madelaine](mailto:eric.madelaine@inria.fr).
 - Co-encadrante : Rabea Ameur-Boulifa, Telecom Paris.
 - Méthodes, langages ou technologies envisagés : développement en environment Java et MDE, methodes de gestion de code et de projets, outils de tests et de déploiement.
 
@@ -240,3 +240,172 @@ Les missions des étudiants :
 - TradingView a la capacité d’envoyer des informations à une URL donnée, sous le format JSON. De plus, Binance utilise une API permettant d’effectuer des ordres d’achat/vente. Il conviendra donc de rechercher et comprendre leur fonctionnement respectif, en sachant que Binance supporte la gestion de ces APIs avec Python (mais pas que) et que TradingView communique ses données JSON grâce à des WebHooks.
 - En utilisant les informations recueillies jusqu’ici, il faudra créer une Preuve de Concept : créer un serveur qui agira en tant qu’intermédiaire entre TradingView et Binance. Ainsi, les ordres d’achat/vente générés par TradingView pourront être mis en place dans Binance, de façon automatique.
 - (Option sécurité – si le temps le permet) Binance utilise une API permettant d’effectuer des ordres d’achat/vente sur un portefeuille grâce à une clé API privée. Cette clé devant se situer sur le serveur Web créé lors de ce projet, il conviendra de rechercher les meilleures pratiques à mettre en œuvre afin de sécuriser ce serveur.
+
+
+### Outils logiciels pour la visualisation de données.
+
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Eric Madelaine](mailto:eric.madelaine@inria.fr).
+- Co-encadrante : Rabea Ameur-Boulifa, Telecom Paris.
+- Méthodes, langages ou technologies envisagés : IHM et interfaces graphiques Java, Web sémantique, interfaces web sémantique / bases de données.
+
+[Speleograph](speleograph.free.fr) est un logiciel destiné à la visualisation de données de capteurs de mesures physiques, initialement dans le domaine de l’étude de débit des rivières souterraines, ou plus généralement la corrélation et la visualisation de données de capteurs.
+Nous souhaitons améliorer Speleograph, en particulier pour des usages pédagogiques, dans le contexte du projet [Edumed]( http://edumed.unice.fr/fr )
+
+Plus généralement, nous voulons pouvoir utiliser depuis Speleograph des données disponibles dans des bases de données sur le web, à travers des requêtes de type web sémantique du genre « trouvez-moi les données de hauteur d’eau souterraines des cavités de tel secteur, entre 2019 et 2020 ». Les vocabulaires nécessaires à décrire ces données, et leurs métadonnées, sont en cours de définition par le projet Karstlink.
+
+
+Le ou les stagiaires, après une familiarisation avec le sujet, devront réaliser un ou plusieurs des objectifs suivants :
+- Mettre en place de nouvelles fonctionnalités pour le logiciel Spéléograph, en particulier pour répondre aux besoins spécifiques des enseignants et des élèves dans le cadre d’Edumed.
+- Ajouter à Speleograph un module d’accès à des ressources de type « séries de données de capteurs physiques ».
+- Participer à la définition des ontologies « données de capteurs physiques » dans le cadre de Karstlink.
+
+Plus de détails [ici](https://www.dropbox.com/s/k1qi4jqocs65bpc/Sujet-Edumed-2021%20TER-IFI.pdf?dl=0).
+
+### Escape Game mobile – Sensibilisation à la cybersécurité
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Florian Ecard](mailto:fecard@protonmail.com).
+- Méthodes, langages ou technologies envisagés : réflexions, puzzles, création de contenu numérique et site web.
+
+L’Escape Game est un jeu immersif en plein essor ces dernières années. Il s’agit pour un groupe de personnes de résoudre des énigmes en groupe de manière ludique et en un temps défini.
+
+D’autre part, les menaces cyber ont grandement évolué ces dernières années et les victimes de cyber-attaques sont devenues nombreuses, notamment en utilisant des attaques de « phishing ». Cette attaque vise une personne physique dans l’objectif d’accéder au système informatique de la victime. Il est donc important pour une entreprise de former tout son personnel à la cybersécurité, pour se protéger au mieux des attaques cyber.
+
+Pour ce projet, ces deux constats sont mis en commun et seront utilisés pour créer une escape game transportable dans une entreprise. Celle-ci contiendra des challenges de cybersécurité à résoudre en équipe.  Au-delà d’être une activité team-bulding, ces challenges d'équipe permettent de sensibiliser les joueurs à la cybersécurité.
+
+Voici quelques exemples de challenges qui pourraient être construits :
+- La recomposition de codes à partir de papiers jetés, donnant accès à l'ordinateur.
+- Identifier un fichier caché, ou une information dans l’ordinateur à disposition, en se rendant sur le site web de l'escape game.
+- « Pick locker » un cadenas en utilisant la notice trouvée grâce à un challenge précédent.
+
+Les possibilités sont nombreuses et les étudiants devront utiliser toutes leurs ressources créatives et techniques pour fournir une escape game portable et semi-numérique à la fin du semestre.
+Le rôle des étudiants :
+- Rechercher différents types de challenges pouvant être mis en place, ayant les propriétés suivantes :
+  - En rapport avec la cybersécurité ;
+  - Ludique ;
+  - La solution doit pouvoir fournir un indice pour un autre challenge.
+- Une fois les challenges identifiés, il faudra mettre au point un « puzzle flow » afin de lier tous les challenges entre eux et proposer plusieurs méthodes d’arriver à la fin.
+- Une fois la recherche théorique terminée, il conviendra de réaliser les challenges identifiés.
+- Enfin, le scénario dans lequel les joueurs seront plongés devra être élaboré.
+
+
+### Designing 3D stimuli for neuroscientific models of human vision
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Hui-Yin Wu & Bruno Cessac](mailto:hui-yin.wu@inria.fr,bruno.cessac@inria.fr).
+- Méthodes, langages ou technologies envisagés : Unity (C#). Basic knowledge of 3D environments and neuroscience is appreciated but not required.
+
+Research towards establishing neuroscientific models of human visual pathway help us answer questions about how human vision works, such as how the retina anticipates motion \[1\], with wide applications towards the design of ocular prothesis and simulating the effects of human visual pathologies. The validation of these models relies on presenting the model with varied stimuli, and comparing the output to experimental findings in biology. Currently, most of the stimuli used consist either of simple animated 2D shapes \[2\], which can lack realism, or real image and video data \[3\], which are not fully customisable. Here, 3D environments offer the opportunity to create stimuli that is more complex, varied, and fully controlled.
+
+This project explores procedural generation of 3D stimuli for neuroscientific models. It involves an introductory step and generating three categories of stimuli:
+    0. Introductory: Survey existing stimuli that is used and familiarise with Unity through basic tutorials
+    1. Basic stimuli: Generate stimuli that show geometric shapes with consistent 2D movement trajectories in front of a fixed camera
+    2. Anticipation: Generate a corridor environment with objects that have consistent 3D trajectories
+    3. Surprise: For the same corridor environment, design object animations that have unpredictable motions or sudden appearances
+
+References:
+- \[1\] Souihel, S., & Cessac, B. (2021). On the potential role of lateral connectivity in retinal anticipation. The Journal of Mathematical Neuroscience, 11(1), 1-60.
+- \[2\] Peirce, J. W. (2009). Generating stimuli for neuroscience using PsychoPy. Frontiers in neuroinformatics, 2, 10.
+- \[3\] Sonkusare, S., Breakspear, M., & Guo, C. (2019). Naturalistic stimuli in neuroscience: critically acclaimed. Trends in cognitive sciences, 23(8), 699-714.
+
+
+
+### Surveillance de personnes agées isolées
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Gilles Menez](mailto:gilles.menez@univ-cotedazur.fr).
+- Méthodes, langages ou technologies envisagés : MonkeyC, ConnectIQ, Js, Mondodb, [Garmin Developer Ecosystem](https://forums.garmin.com/developer/garmin-developer-virtual-conference-2020/?_ga=2.125379400.354347918.1612956736-2024010928.1612956736)
+
+L'idée est de mettre en place un service d'aide à la surveillance de personnes agées, isolées, etc.
+La "difficulté" majeure du sujet est de "brancher" correctement ces personnes au réseau.
+Ce sujet vise à utiliser les produits et le [framework Garmin](https://forums.garmin.com/developer/garmin-developer-virtual-conference-2020/?_ga=2.125379400.354347918.1612956736-2024010928.1612956736) pour instrumenter les personnes.
+Une fois l'instrumentation réalisée, il faudra réfléchir aux paramètres de surveillance et de notifications.
+
+### Cours à distance
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Gilles Menez](mailto:gilles.menez@univ-cotedazur.fr).
+- Méthodes, langages ou technologies envisagés : à déterminer.
+
+Faire une plateforme de cours "live" à distance qui repose sur une approche la moins centralisée possible : [peer-to-peer vs cloud meetings](https://help.daily.co/en/articles/1189715-peer-to-peer-vs-cloud-meetings-bandwidth-privacy-and-architecture) ?
+
+On peut essayer tout ce qui permettra de ne pas réinventer la roue (voir [ici](https://habr.com/en/post/513348/)).
+Mais il faudrait que cet outil soit vraiment typé "education" et pas soumis à une régulation autoritaire ou privative
+
+### Broken Things
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Gilles Menez](mailto:gilles.menez@univ-cotedazur.fr).
+- Méthodes, langages ou technologies envisagés : à déterminer.
+
+Il s'agit d'aborder la détection de panne dans un réseau d'objets.
+On reprendra par exemple la configuration du réseau d'éoliennes offshores.
+Cette détection devra essayer de s'opérer en "edge computing"  !
+
+### Développement d'un outil de conception d'IHM réparties sur plusieurs dispositifs
+
+- Nombre d'étudiants souhaité : 1.
+- Encadrant : [Philippe Renevier Gonin](Philippe.Renevier@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : Java, Angular, RDF, SPARQL, docker, etc.
+
+Le TER consiste de travailler sur un des projets de l’équipe Sparks-I3S du laboratoire I3S.
+C'est dans le cadre du projet [NOMOS](https://nomos.i3s.unice.fr/), au tour de la conception d'IHM réparties sur plusieurs dispositifs, par exemple des jeux de plateau.
+Le but du projet Sparks-I3S est d’aider les concepteurs d’application de jeu à faire les bons choix pour la répartition des tâches sur les dispositifs grâce à un arbre des tâches ainsi qu’au type de données.
+Cette application aide donc à proposer et guider pour une répartition des tâches sur les différents dispositifs, à limiter le nombre de changement de dispositifs (améliorer la transition entre les dispositifs) et enfin à éviter qu’un dispositif soit surchargé.
+
+Les objectifs du TER, qui se base sur une version existante de l'application de conception, sont multiples :
+- améliorer l'architecture du code (refactoring des services, mises à jour des framework, déploiement dans docker, mise en place d'une plateforme d'intégration continue)
+- implémenter des règles de conceptions identifiées dans les travaux de l'équipe, règles pour l'instant très partiellement implémentées et écrites en dur
+- implémenter la notion de territoire sous-jacente aux travaux de recherche
+- ajouter des visualisations des répartitions des tâches dans ces territoires
+
+Une collaboration sera établie avec un étudiant de MIAGE qui travaille sur le projet, l'utilisation de github pourra permettre de bien répartir le travail.
+
+### Le problème de trouver *k* plus courts chemins
+
+- Nombre d'étudiants souhaité : 1.
+- Encadrant : [David Coudert et Ali Al Zoobi](mailto:david.coudert@inria.fr,ali.al-zoobi@inria.fr)
+- Méthodes, langages ou technologies envisagés : algorithmes; graphes; programmation linéaires; langages Python ou C++.
+
+Le problème de trouver *k* plus courts chemins entre deux sommets dans un graphe dirigé et pondéré (dans les poids sont positives) est un problème fondamental de la théorie des graphes.
+Ce problème consiste à trouver un plus court chemin, puis un deuxième plus court, etc. jusqu’au *k*-ème plus court, de sorte que la longueur de tout chemin non sélectionné soit supérieure ou égale à la longueur des *k* chemins sélectionnés.
+
+Dans le cas où le problème consiste à calculer *k* plus courts chemins simples (kSSP), Yen \[3\] a proposé l’algorithme ayant la meilleure complexité théorique connue actuellement qui est de
+O(kn(m + n log n)). Depuis, ce problème a été largement étudié du point de vue de l’ingénierie algorithmique et des améliorations significatives ont été réalisées  \[1, 2 \].
+L’objectif de ce stage est d’étendre l’étude du problème kSSP au cas où les arcs ont un poids arbitraire et en particulier au cas où le graphe peut contenir des cycles de poids négatifs.
+Dans ce cas, le problème de trouver un plus court chemin simple (sans cycle) est déjà NP-complet.
+L’objectif de ce stage est de proposer des méthodes pour résoudre efficacement le problème kSSP avec poids négatifs en s’inspirant des méthodes proposées pour le cas avec poids positifs.
+
+Références :
+- \[1\] Ali Al Zoobi, David Coudert, and Nicolas Nisse. Space and Time Trade-Off for the *k* Shortest
+Simple Paths Problem. In SEA 2020 - 18th International Symposium on Experimental Algorithms, volume 160 of Leibniz International Proceedings in Informatics (LIPIcs), page 13, Catania, Italy, June 2020. Schloss Dagstuhl–Leibniz-Zentrum f ́’ur Informatik.
+- \[2\] Denis Kurz and Petra Mutzel. A sidetrack-based algorithm for finding the *k* shortest simple paths in a directed graph. arXiv preprint arXiv:1601.02867, 2016.
+- \[3\] Jin Y. Yen. Finding the *k* shortest loopless paths in a network. Management Science, 17(11):712–716, 1971.
+
+### Analyse de sentiments dans des bulletins et des lettres de motivation
+
+- Nombre d'étudiants souhaité : 1.
+- Encadrant : [Christel Dartigues-Pallez](Christel.DARTIGUES-PALLEZ@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés :
+
+Les recherches effectuées ces dernières années notamment dans le cadre de l’apprentissage supervisé ont montré qu’il était possible d’extraire des connaissances pertinentes à partir d’un ensemble de données représentatives d’un problème.
+Dans le même temps, l’augmentation au fil des ans de l’offre de formation universitaire et l’arrivée massive de candidats aux portes de l’université pose l’épineux problème de l’orientation des candidats.
+Une des problématiques cachées derrière cette orientation correspond à la pertinence de cette orientation et à la personnalisation/individualisation des parcours à l’entrée de l’université.
+Dans cette optique, ce projet s’intéresse à trouver une adéquation entre les données qui caractérisent les candidats aux formations du supérieur (notes des candidats et de la classes, lycée d’origine, etc.) et les notes obtenues par ces mêmes candidats lors de leur première année à l’université.
+Une thèse CIFRE avec la société Zébrys a débuté en septembre 2020. Ce stage viendrait en soutient de la thèse et porterait sur l’analyse des sentiments des appréciations et des lettres de motivation. L’idée de ce projet est d’étudier différents algorithmes utilisés en analyse des sentiments afin de voir lequel est le plus efficace avec le jeu de données dont nous disposons.
+
+Références bibliographiques :
+
+- Caroline Langlet (2018). Analyse des sentiments dans les conversations humain-agent Vers un modèle des goûts de l’utilisateur. Traitement du texte et du document. Télécom ParisTech, 2018.
+- Perikos, I. and Hatzilygeroudis, I. (2013). Recognizing emotion presence in natural language sentences. In International Conference on Engineering Applications of Neural Networks, pages 30–39. Springer.
+- Neviarouskaya, A., Prendinger, H., and Ishizuka, M. (2010a). Emoheart : Conveying emotions in second life based on affect sensing from text. Adv. in Hum.-Comp. Int., 2010.
+- Ekman, P. (1999). Basic emotions, Handbook of cognition and emotion (pp. 45±60). Chichester, UK : Wiley.
+- Martin, J. R. and White, P. R. (2005). The Language of Evaluation. Appraisal in English. Macmillan Basingstoke, London and New York.
+- Zhang, L. (2012a). Automatic opinion analysis : issue of intensity and negation in a newspaper corpus. Theses, Université de Caen.
+- Valitutti, R. (2004). Wordnet-affect : an affective extension of wordnet. In In Proceedings of the 4th International Conference on Language Resources and Evaluation, pages 1083–1086.
+- Shaikh, M., Prendinger, H., and Ishizuka, M. (2009). A linguistic interpretation of the occ emotion model for affect sensing from text. In Affective Information Processing, pages 378–382. Springer London.
+- Whitelaw, C., Garg, N., and Argamon, S. (2005). Using appraisal taxonomies for sentiment analysis. Proceedings of CIKM-05, the ACM SIGIR Conference on Information and Knowledge Management.
+- Bloom, K., Garg, N., and Argamon, S. (2007). Extracting appraisal expressions. HLT-NAACL, pages 165–192.
+- Taboada, M., Brooke, J., Tofiloski, M., Voll, K., and Stede, M. (2011). Lexicon-based methods for sentiment analysis. Computational linguistics, 37(2) :267–307.
