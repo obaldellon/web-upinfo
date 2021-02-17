@@ -52,6 +52,10 @@ plugins:
     - jekyll-paginate
     - jekyll-scholar
 
+scholar:
+  style: acm-siggraph
+  bibliography_template: bib
+
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
