@@ -388,7 +388,7 @@ Simple Paths Problem. In SEA 2020 - 18th International Symposium on Experimental
 
 - Nombre d'étudiants souhaité : 1.
 - Encadrant : [Christel Dartigues-Pallez](Christel.DARTIGUES-PALLEZ@univ-cotedazur.fr)
-- Méthodes, langages ou technologies envisagés :
+- Méthodes, langages ou technologies envisagés : ?
 
 Les recherches effectuées ces dernières années notamment dans le cadre de l’apprentissage supervisé ont montré qu’il était possible d’extraire des connaissances pertinentes à partir d’un ensemble de données représentatives d’un problème.
 Dans le même temps, l’augmentation au fil des ans de l’offre de formation universitaire et l’arrivée massive de candidats aux portes de l’université pose l’épineux problème de l’orientation des candidats.
@@ -409,3 +409,77 @@ Références bibliographiques :
 - Whitelaw, C., Garg, N., and Argamon, S. (2005). Using appraisal taxonomies for sentiment analysis. Proceedings of CIKM-05, the ACM SIGIR Conference on Information and Knowledge Management.
 - Bloom, K., Garg, N., and Argamon, S. (2007). Extracting appraisal expressions. HLT-NAACL, pages 165–192.
 - Taboada, M., Brooke, J., Tofiloski, M., Voll, K., and Stede, M. (2011). Lexicon-based methods for sentiment analysis. Computational linguistics, 37(2) :267–307.
+
+
+### Reinforcement learning et planification de chemins
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : langages Python et C++ ; cours de Neural Networks and Learning. Une connaissance des techniques d’impression 3D ainsi que des ressources mises à disposition par notre université (faclab) seront sans doute un atout majeur.
+
+
+Les réseaux de neurones sont désormais utilisées dans des multiples applications et sont Aujourd’hui en plein essor dans le domaine de la robotique. De plus, nous savons que n’importe quelle fonction peut être approximée par la fonction de mise à jour d’un réseaux de neurones.
+Nous allons exploiter cela pour chercher à planifier un comportement optimal (dans un certain sens) pour notre robot afin qu’il exécute une certaine tache.
+Le robot en question est le Allbot 4 pattes VR408 de Velleman qui comme son nom le dit, possède quatre pattes, chacune ayant deux degrés de liberté. Nous allons y ajouter aussi un senseur de type sonar pour mesurer la distance entre le robot et les obstacles qu’il peut rencontrer sur son chemin. Le but du TER est d’utiliser la modélisation décrite dans l’article \[1\] pour apprendre au robot à marcher dans une certaine direction.
+Ensuite il faudra chercher à comparer cette technique avec celle proposée par Google dans \[2\].
+
+
+References :
+- \[1\] Kurtland Chua, Roberto Calandra, Rowan McAllister and Sergey Levine. Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, 2018. [arxiv](https://arxiv.org/pdf/1805.12114.pdf)
+- \[2\] Sehoon Ha, Peng Xu, Zhenyu Tan, Sergey Levine, and Jie Tan. Learning to Walk in the Real World with Minimal Human Effort, nov 2020. [arxiv](https://arxiv.org/pdf/2002).
+08550.pdf
+- \[3\] [Sonar Robot (multiple HC-SR04)](https://macduino.blogspot.fr/2015/05/sonar-robot-multiple-hc-sr04.html)
+
+
+### Génération de texte pour résumer des études clinique
+
+- Nombre d'étudiants souhaité : 1 ou 2.
+- Encadrant : [Enrico Formenti](mailto:elena.cabrio@univ-cotedazur.fr)
+
+
+Ces dernières années, le domaine de la e-santé a vu un intérêt croissant pour la définition de systèmes intelligents ayant le but d’accompagner les cliniciens dans leurs tâches et leurs activités quotidiennes. D’ailleurs, cela inclut de nouveaux systèmes pour le domaine de la médecine basée sur les preuves. Ce dernier repose sur le principe de l’évaluation critique des preuves médicales et de la combinaison de ces preuves de haute qualité avec l’expérience clinique individuelle du praticien par rapport à la situation d’un patient pour obtenir le meilleur résultat possible. La plupart des systèmes intelligents proposés visent soit à extraire des informations sur la qualité des preuves issues des essais cliniques, de directives cliniques ou des dossiers de santé électroniques, soit à aider dans les processus de prise de décision, sur la base de cadres de raisonnement. Dans le cadre des travaux de recherche de notre équipe, nous avons implémenté des méthodes d’analyse d’arguments pour extraire et classifier les composants d’argumentation (c’est-à-dire les preuves et les conclusions d’un essai clinique) et leurs relations (c’est-à-dire le support et l’attaque). Un cadre de fouille d’arguments est proposé et amélioré pour intégrer des informations supplémentaires inspirées par les cadres biomédicaux courants pour l’analyse des essais cliniques. Ces extensions comprennent la détection des éléments PICO et un module d’analyse des résultats pour identifier et classer les effets (c’est- à-dire améliorés, augmentés, diminués, pas de différence, pas d’occurrence) d’une intervention sur le résultat de l’essai. Dans ce contexte, un jeu de données, composé de 660 résumés d’essais cliniques dans la base de données MEDLINE, a été annoté, en résultant dans le construction d’un jeu de données étiquetées qui inclut 4198 composants d’argumentation, 2601 relations d’argumentation et 3351 résultats d’intervention sur cinq maladies différentes (néoplasme, glaucome, hépatite, diabète, hypertension). Diverses approches d’apprentissage automatique et profond allant des SVM aux architectures récentes basées sur les réseaux de neurones ont été expérimentées pour accomplir automatiquement ces taches.
+
+En s'appuyant sur cette base de donnée annotée (avec les structures argumentaires et les effets d’une intervention sur le résultat de l’essai, disponible [ici](https://gitlab.com/tomaye/ecai2020-transformer_based_am), le but du projet TER est de générer des résumés des essais cliniques. Plus spécifiquement, en entrée on aura un texte argumentatif ou un ensemble de textes sur le même sujet clinique, et en sortie on attend un résumé sous la forme d'un texte court, d'un ensemble de points clés, ou similaire. Pour ce faire, il est exigé de choisir et de créer une représentation textuelle spécifique parmi de nombreuses représentations potentielles. Les principales étapes consisteront dans i) la planification des textes qu'on souhaite générer: la sélection du contenu, l'organisation de la structure discursive des phrases et la planification des phrases; ii) l'agrégation du contenu des phrases (faire des choix lexicaux, construire des expressions de référence, etc.). On appliquera des méthodes de composition (génération d'un texte en sélectionnant et en arrangeant des fragments de texte existants), qui peuvent être apprises et encodés dans des modèles statistiques, par exemple dans des modèles linguistiques. Parmi les principaux défis il y a la grammaticalité et la cohérence du texte généré. En fonction de l'avancement du TER, on pourra basculer une approche plus abstractive pour la génération des résumés (c'est a dire, avec une reformulation des arguments par des mots nouveaux ou des paraphrases).
+
+
+
+### Génération de moniteur Scade à partir de scénario de safety pour le véhicule autonome
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Frederic Mallet & Amar Bouali](mailto:frederic.mallet@univ-cotedazur.fr,amar.bouali@inria.fr)
+- Méthodes, langages ou technologies envisagés : Outils de génération de code, Langages Java, C, Scade, Model-Based Design
+
+Le sujet se place dans le contexte du projet PSPC Région ADAVEC en partenariat avec Renault Software Factory. Il s'agit de partir de quelques scénarios de sûreté, discutés avec les partenaires industriels du projet, ces scénarios sont capturés sur la forme de diagrammes de séquences temporisés. Les propriétés temporelles et causales décrites par ces scénarios doivent être traduites dans un langage formel non ambigu qui peut être utilisé pour un traitement automatique. Le langage envisagé est CCSL ou sa variante à états MoCCML. Ce langage intermédiaire est utilisé pour l'analyse formelle et sert de base pour la génération de moniteurs écrit en Scade qui doivent être intégrés avec le code Scade (le système) pour en valider le comportement. Ils s'intègrent plus généralement aux outils de simulation d'Ansys (dont Scade est un morceau) pour simuler l'environnement dans lequel évoluent les véhicules autonomes à concevoir.
+
+Attendus du TER :
+- Étudier le processus de génération de moniteurs Scade à partir du langage CCSL (voir [ici](https://hal.inria.fr/inria-00416654) et [là](https://hal.inria.fr/inria-00458847)) et l'implémenter ;
+- Étudier les scénarios de safety du projet ADAVEC, les capturer de façon semi-formelle (pour les ingénieurs) et formelle (pour les outils de validation et vérification) ;
+- Adapter le générateur de code CCSL pour l'intégrer aux outils de simulation d'ANSYS : capturer les stimulis, calculer les actions, déclencher les effets (en boucle de rétroaction) ;
+
+
+### Jeu de plateau - Rummikub Chiffres
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Philippe Renevier](mailto: philippe.renevier@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : Java, Maven.
+
+Le but du projet est de réaliser le jeu de plateau physique (Rummikub Chiffres) multi-joueurs en ligne ou contre une IA.
+L'intention est de mettre en application les enseignements du semestre dernier en java, (avec doker, travis, de l'intégration continue, etc ...) et en rajoutant au jeu, une interface graphique, ainsi qu'une mise en ligne du jeu et différents niveaux d'IA.
+
+
+### Simulateur réseau pour l’apprentissage par renforcement
+
+- Nombre d'étudiants souhaité : 3 ou 4.
+- Encadrant : [Ramon Aparicio](mailto:ramon.aparicio-pardo@univ-cotedazur.fr).
+- Méthodes, langages ou technologies envisagés : un langage oriente objet, idéalement C++, mais des connaissances en java sont suffisantes ; des notions des réseaux (et leurs protocoles) ; des notions des simulations informatiques, notamment des simulations à évènements discrets.
+
+
+Dans l’apprentissage par renforcement, le processus d’entrainement est guidé par des interactions avec un environnement. La mécanique est simple. Pendant l’entrainement, l’algorithme d’apprentissage prend une décision qui est envoyé à l’environnement. Celui, à son tour, traite la décision, en modifiant l’état interne de l’environnement et en fournissant à l’algorithme une évaluation de la qualité de la décision (une récompense). L’environnement pourrait être un système réel (un bras robotique) ou une simulation de ce système (une simulation d’un bras robotique).
+Dans le cadre de ce TER, l’environnement ciblé est un réseau d’ordinateurs qui s’envoient des paquets. Comme on n’est pas propriétaires d’un réseau d’ordinateurs de taille national, on est forcé à faire appel à la simulation.
+L’objectif du présent TER est concevoir un simulateur réseau de paquets qui pourra être utilisé comme environnement pour l’apprentissage par renforcement. La plateforme et bibliothèque pressentie pour cette tâche est le simulateur OMNeT++, qui est programmé en C++ mais qui dispose d’une environnent visuel de programmation assez intuitive.
+Le simulateur doit être capable de faire le suivant à minima :
+1. Prendre en entrée une topologie de réseaux (un graph) pour placer et connecter des routeurs IPréseaux, par exemple, en utilisant les fichiers des graphes de ce [site](http://sndlib.zib.de).
+2. Prendre en entrée une matrice de trafic qui contrôle l’intensité de la génération des paquets entre une source *i* et une destination *j* selon la valeur t(i,j) de la matrice. Encore une fois, ces données peuvent être extraits de ce [site](http://sndlib.zib.de).
+3. Implémenter le trafic comme du trafic UDP.
+4. Permettre de reconfigurer les tableaux de routage IP des routeurs à partir des instructions extérieures au simulateur (il faudra une interface).
+5. Donner en sortie des statistiques sur l’état du réseau, notamment nombre des paquets UDPs stockées dans les buffers des interfaces de sortie des routeurs de réseaux et délais moyens d’attente dans ces buffers.
