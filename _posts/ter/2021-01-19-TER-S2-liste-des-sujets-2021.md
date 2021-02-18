@@ -79,7 +79,7 @@ Plus de détails [ici]({% include link-asset asset="ter03.pdf" %}).
 ### Génération automatique de tournoi de tennis
 
 - Nombre d’étudiants souhaités : 3-4.
-- Encadrant : [Arnaud Malapert et Philippe Renevier](mailto:arnaud.malapert@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr)
+- Encadrant : [Arnaud Malapert & Philippe Renevier](mailto:arnaud.malapert@univ-cotedazur.fr,philippe.renevier@univ-cotedazur.fr)
 - Méthodes, langages ou technologies envisagés : à déterminer.
 
 L'objectif de ce travail est de créer un démonstrateur pour une méthode de génération automatique de tournoi de tennis amateur basé sur la programmation linéaire et implémenté grâce à la suite [IBM ILOG CPLEX Optimization Studio](https://www.ibm.com/fr-fr/products/ilog-cplex-optimization-studio).
@@ -107,7 +107,7 @@ Specifically, the project involves the following steps:
 2. provide easy point-and-click functions to modify or add annotations
 3. for multi-frame features, the tool should, given an annotated feature at a start and end frame, perform interpolations for intermediate frames.
 
-References:
+Références:
 - \[1\] Kipp, M., von Hollen, L., Hrstka, M.C., Zamponi, F. (2014) Single-Person and Multi-Party 3D Visualizations for Nonverbal Communication Analysis. In: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC), ELDA, Paris.
 - \[2\] Merabti, B., Wu, H. Y., Sanokho, C. B., Galvane, Q., Lino, C., & Christie, M. (2015, May). Insight: An annotation tool and format for film analysis.
 - \[3\] [VLC media player](https://www.videolan.org/index.fr.html)
@@ -129,7 +129,7 @@ Setting out from the OpenPose project, the project involves four steps:
     3. Evaluation: comparing the results of the new model to existing pose detection models on a test dataset
 
 
-References:
+Références:
 - \[1\] Hidalgo, G., Raaj, Y., Idrees, H., Xiang, D., Joo, H., Simon, T., & Sheikh, Y. (2019). Single-network whole-body pose estimation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 6982-6991).
 - \[2\] Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. (2018). OpenPose: realtime multi-person 2D pose estimation using Part Affinity Fields. arXiv preprint arXiv:1812.08008.
 - \[3\] Papandreou, G., Zhu, T., Chen, L. C., Gidaris, S., Tompson, J., & Murphy, K. (2018). Personlab: Person pose estimation and instance segmentation with a bottom-up, part-based, geometric embedding model. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 269-286).
@@ -305,7 +305,7 @@ This project explores procedural generation of 3D stimuli for neuroscientific mo
     2. Anticipation: Generate a corridor environment with objects that have consistent 3D trajectories
     3. Surprise: For the same corridor environment, design object animations that have unpredictable motions or sudden appearances
 
-References:
+Références:
 - \[1\] Souihel, S., & Cessac, B. (2021). On the potential role of lateral connectivity in retinal anticipation. The Journal of Mathematical Neuroscience, 11(1), 1-60.
 - \[2\] Peirce, J. W. (2009). Generating stimuli for neuroscience using PsychoPy. Frontiers in neuroinformatics, 2, 10.
 - \[3\] Sonkusare, S., Breakspear, M., & Guo, C. (2019). Naturalistic stimuli in neuroscience: critically acclaimed. Trends in cognitive sciences, 23(8), 699-714.
@@ -424,7 +424,7 @@ Le robot en question est le Allbot 4 pattes VR408 de Velleman qui comme son nom 
 Ensuite il faudra chercher à comparer cette technique avec celle proposée par Google dans \[2\].
 
 
-References :
+Références :
 - \[1\] Kurtland Chua, Roberto Calandra, Rowan McAllister and Sergey Levine. Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, 2018. [arxiv](https://arxiv.org/pdf/1805.12114.pdf)
 - \[2\] Sehoon Ha, Peng Xu, Zhenyu Tan, Sergey Levine, and Jie Tan. Learning to Walk in the Real World with Minimal Human Effort, nov 2020. [arxiv](https://arxiv.org/pdf/2002).
 08550.pdf
@@ -476,6 +476,7 @@ L'intention est de mettre en application les enseignements du semestre dernier e
 
 Dans l’apprentissage par renforcement, le processus d’entrainement est guidé par des interactions avec un environnement. La mécanique est simple. Pendant l’entrainement, l’algorithme d’apprentissage prend une décision qui est envoyé à l’environnement. Celui, à son tour, traite la décision, en modifiant l’état interne de l’environnement et en fournissant à l’algorithme une évaluation de la qualité de la décision (une récompense). L’environnement pourrait être un système réel (un bras robotique) ou une simulation de ce système (une simulation d’un bras robotique).
 Dans le cadre de ce TER, l’environnement ciblé est un réseau d’ordinateurs qui s’envoient des paquets. Comme on n’est pas propriétaires d’un réseau d’ordinateurs de taille national, on est forcé à faire appel à la simulation.
+
 L’objectif du présent TER est concevoir un simulateur réseau de paquets qui pourra être utilisé comme environnement pour l’apprentissage par renforcement. La plateforme et bibliothèque pressentie pour cette tâche est le simulateur OMNeT++, qui est programmé en C++ mais qui dispose d’une environnent visuel de programmation assez intuitive.
 Le simulateur doit être capable de faire le suivant à minima :
 1. Prendre en entrée une topologie de réseaux (un graph) pour placer et connecter des routeurs IPréseaux, par exemple, en utilisant les fichiers des graphes de ce [site](http://sndlib.zib.de).
@@ -483,3 +484,70 @@ Le simulateur doit être capable de faire le suivant à minima :
 3. Implémenter le trafic comme du trafic UDP.
 4. Permettre de reconfigurer les tableaux de routage IP des routeurs à partir des instructions extérieures au simulateur (il faudra une interface).
 5. Donner en sortie des statistiques sur l’état du réseau, notamment nombre des paquets UDPs stockées dans les buffers des interfaces de sortie des routeurs de réseaux et délais moyens d’attente dans ces buffers.
+
+
+### Étude de défaillances en cascade dans les réseaux multi-couches
+
+- Nombre d’étudiants souhaité : 1 ou 2.
+- Encadrant : [Laurent Tichit](laurent.tichit@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : Algorithmique des graphes, partitionnement, Python/NetworkX.
+
+La défaillance en cascade apparaît dans le contexte de réseaux électriques interconnectés, où la défaillance d'un composant peut endommager, de proche en proche, l'ensemble du réseau. De telles cascades peuvent également être observées dans les réseaux biologiques. Par exemple, la cascade ischémique causée par le manque d'oxygène dans un neurone peut entraîner rapidement des lésions cérébrales telles que l'œdème. Ainsi, modéliser ce phénomène dans un formalisme cohérent est utile pour comprendre les conséquences d'un tel processus.
+
+La dernière décennie, un cadre mathématique général pour les réseaux interconnectés a été créé par S. V. Buldyrev et al. \[1\]. Il définit le processus de défaillance en cascade dans un graphe général. Un tel modèle peut répondre à plusieurs questions concernant la robustesse du réseau sous certaines défaillances et confirmer la stabilité du réseau.
+L'étude de l'impact de la défaillance de certaines classes de gènes (gènes essentiels, gènes cancéreux...) sur la stabilité finale des réseaux est très pertinente pour déterminer si le rôle central du gène conduit à d'énormes conséquences en cas de défaillance.
+
+On peut également imaginer comparer, pour différents nœuds, la cascade de nœuds défaillants jusqu'à la convergence du processus, afin de déterminer une mesure de proximité entre nœuds défaillants. Une telle mesure utilisée pour comparer l'impact de différents nœuds défaillants n'est, à notre connaissance, toujours pas définie.
+Nous pourrons fournir à l'étudiant différents types de réseaux pouvant être utilisés pour tester le processus de défaillance en cascade. Nous pourrions finalement comparer la mesure de proximité entre nœuds obtenue par l'analyse du processus de défaillance en cascade aux résultats donnés par une autre méthode précédemment développée dans l'équipe.
+Ainsi, le TER vise 1) à comprendre l'algorithme de défaillance en cascade développé par S. V. Buldyrev, J. Gao et al \[1, 2\]~; 2) à étudier la bibliographie sur les défaillances en cascade en biologie et les méthodes de partitionnement basées sur celle-ci~; 3) à compléter une implémentation Python existante ou à en créer une nouvelle afin de déterminer la mesure de proximité entre les nœuds et identifier des communautés induites par le processus de défaillance en cascade~; générer un ensemble de défaillances en cascade sur un réseau pour définir une mesure de proximité entre les nœuds ~; 4) Comparer les résultats à ceux provenant d'autres méthodes.
+
+Références :
+ - \[1\] S. V. Buldyrev et al, Catastrophic cascade of failures in interdependent networks, Nature, Vol.464 (2010)
+ - \[2\] J. Gao et al, Networks formed from interdependent networks, Nature Physics, Vol.8 (2012)
+
+### Mise en oeuvre d'une plate-forme IoT dans l'Ubiquarium
+
+- Nombre d’étudiants souhaité : 1 ou 2.
+- Encadrants : [Stéphane Lavirotte & Jean-Yves Tigli](mailto:stephane@lavirotte.com,Jean-Yves.tigli@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés: IoT, Smart Devices, Ambiant Intelligence, IoT Architecture, Protocoles
+
+
+Dans le cadre du CPER (Contrat de Plan Etat Région), nous avons obtenu un financement pour du matériel IoT qui vient compléter l'équipement déjà présent dans la salle Ubiquarium \[1\]. C'est l'occasion d'intégrer dans un même éco-système de nombreux objets connectés de tous types: prises et éclairages commandées, capteurs environementaux, caméras, téléviseurs et écrans connectés, vidéos projecteurs, projets d'étudiants, etc.
+
+Ces équipements hétérogènes utilisent différents protocoles: Zigbee, ZWave, KNX, WiFi, BLE, DLNA, ... Afin de permettre la gestion et le développement d'applications IoT/Intelligence Ambiante, il est important d'adopter une architecture adaptée \[2\], \[3\]. Nous parlerons alors de plateforme IoT permettant de collecter, de superviser mais aussi et surtout d'agir sur une flotte d'objets connectés. Dans le cadre d'un projet de fin d'étude (PFE) de Master 2 IAM, des étudiants ont réalisé une étude sur les meilleures solutions pour le déploiement de plateforme IoT pour notre cas d'étude.
+
+Dans le cadre de ce projet, le travail attendu est le suivant:
+
+- En partant des résultats obtenus par les étudiants de M2, le groupe devra étudier la solution retenue pour le déploiement d'une plateforme IoT dans l'Ubiquarium.
+- Dans un deuxième temps, la solution devra être déployée et configurée et les différents connectés et intégré à celle-ci (configuration logicielle et réseau).
+- La plateforme IoT devra aussi intégrer les outils nécessaires pour la collecte et l'archivage des données issues des capteurs ou envoyées aux actionneurs (type base de données de séries temporelles: ex. InfluxDB, avec les outils de visualisation adaptés, ex. grafana).
+- Enfin, mettre en oeuvre des application(s) de démonstration mettant en oeuvre cette infrastuture.
+- Une attention toute particulière devra être portée à la mise en place de tests pour vérifier qu'à tout moment le système complet n'est pas victime de régression ou d'indisponibilité au cours des différentes évolutions dans le cadre d'une approche DevOps pour l'IoT \[4\].
+
+Références :
+- \[1\] Ubiquarium: http://www.ubiquarium.fr/
+- \[2\] IoT Architectures: https://www.avsystem.com/blog/what-is-iot-architecture/
+- \[3\] A. Taivalsaari and T. Mikkonen, "A Taxonomy of IoT Client Architectures," in IEEE Software, vol. 35, no. 3, pp. 83-88, May/June 2018, doi: 10.1109/MS.2018.2141019.
+- \[4\] ENACT: Development, Operation, and Quality Assurance of Trustworthy Smart IoT Systems, https://enact-project.eu/
+
+
+### Recherche des *k* meilleures solutions en programmation par contraintes
+
+- Nombre d’étudiants souhaités : 1-2.
+- Encadrant : [Arnaud Malapert & Jean-Charles Régin](mailto:arnaud.malapert@univ-cotedazur.fr)
+- Méthodes, langages ou technologies envisagés : programmation par contraintes ; Choco Solver ; Java.
+
+Ce travail porte sur la résolution des problèmes d'optimisation combinatoire avec la programmation par contraintes.
+Un énoncé classique pose la question de trouver la meilleure solution à un problème au regard d'une fonction économique permettant d'évaluer chaque solution.
+En pratique, les utilisateurs se contentent rarement d'une unique solution, et recherchent plusieurs solutions différentes, optimales ou quasi-optimales.
+En effet, le problème résolu n'est généralement qu'une approximation du problème réel.
+Les utilisateurs comparent ensuite ces solutions selon des critères autres que ceux utilisés pour la résolution.
+
+En programmation par contraintes, ces problèmes sont résolus en définissant un espace de recherche contenant les solutions du problème.
+Cette espace est ensuite explorée par une méthode, généralement basée sur une recherche arborescente, qui est spécialisée pour la recherche d'une seule des meilleures solutions.
+
+L'objectif de ce TER est de d'étudier et définir des méthodes pour une recherche efficace des *k* meilleures solutions.
+
+Référence:
+ - Francesca Rossi, Peter van Beek, and Toby Walsh. 2006. [Handbook of Constraint Programming](https://www.sciencedirect.com/bookseries/foundations-of-artificial-intelligence/vol/2/suppl/C) (Foundations of Artificial Intelligence). Elsevier Science Inc., USA.
+ - [Choco Solver](https://choco-solver.org/)
