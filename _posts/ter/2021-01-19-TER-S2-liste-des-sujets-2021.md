@@ -551,3 +551,29 @@ L'objectif de ce TER est de d'étudier et définir des méthodes pour une recher
 Référence:
  - Francesca Rossi, Peter van Beek, and Toby Walsh. 2006. [Handbook of Constraint Programming](https://www.sciencedirect.com/bookseries/foundations-of-artificial-intelligence/vol/2/suppl/C) (Foundations of Artificial Intelligence). Elsevier Science Inc., USA.
  - [Choco Solver](https://choco-solver.org/)
+
+
+
+### Joueurs automatiques de trois pour dix
+
+- Nombre d’étudiants souhaités : 3-4.
+- Encadrant : [Pierre Crescenzo](mailto:pierre.crescenzo@univ-cotedazur.fr)
+
+
+Ce projet consiste à programmer un jeu nommé Trois pour dix.
+Ce jeu est difficile. Non pas qu'il soit très difficile de jouer ou de gagner des points, mais il est complexe de compter les points et de se souvenir de toutes les combinaisons qui ont déjà marqué un point.
+L'ordinateur est donc ici bienvenu.
+
+Les règles du jeu sont les suivantes.
+Le plateau de jeu est constitué d'un damier carré de n (3 ≤ n ≤ 20) cases de côté, la taille est choisie par les joueurs en début de partie.
+Il y a deux joueurs. Le premier choisit un chiffre c (1 ≤ c ≤ 8) et le place dans une des cases vides.
+Le second fait de même et ainsi de suite ...
+Le but est pour chaque joueur, à la fin du jeu, quand le plateau est plein, d'avoir fait le maximum de lignes de trois cases consécutives dont le total fait 10.
+À chaque fois qu'un joueur joue, il faut déterminer le nombre de groupes de trois cases consécutives, comprenant celle qui vient d'être jouée, dont le total fait 10 et compter un point pour ce joueur par groupe ainsi détecté.
+Il est évidemment possible de placer un chiffre qui permet de gagner plus d'un point (s'il permet, en même temps, de faire plusieurs groupes de trois cases consécutives totalisant 10).
+Mais attention : au cours d'une partie, chaque case peut être utilisée quatre fois au plus pour faire un point : horizontalement, verticalement, en diagonale montante et en diagonale descendante.
+Elle ne peut pas être utilisée deux fois dans la même direction !
+
+A partir du projet réalisé lors du premier semestre, il faudra essayer d’implémenter de nouvelles intelligences artificielles utilisant de vrais algorithmes (deep learning ou autre).
+Comme au premier semestre, le but n’est pas de développer le jeu en lui-même, c’est un des objectifs et non un but.
+Le but est de créer une ou plusieurs intelligences artificielles ayant différentes stratégies et surtout différents algorithmes.
