@@ -14,6 +14,7 @@ tags:
 #
 # Styling
 #
+logo: ""
 image:
   header: "header-merci.jpg"
   thumb: "hashcode-hash.jpg"
@@ -49,8 +50,6 @@ Le juge de la compétition est resté ouvert jusqu’au 10 mars afin de permettr
 
 Un tableau récapitulatif [des résultats](https://docs.google.com/spreadsheets/d/1meQdSTC-HcDhRSE_vyAfYG0UUrWyJs6v4KUt7yidDr0/edit?usp=sharing) est disponible.
 
-
 ## Remerciements ##
 
 Nous remercions chaleureusement toute l’équipe du CRIPS pour la mise à disposition des locaux, le département informatique, et en particulier son directeur Serge Miranda et sa secrétaire Brigitte Bloise pour leur soutien et le buffet, DS4H, qui a annoncé l’événement et donner des lots pour les participants, et JobOpportunIT pour le ravitaillement :).
-
