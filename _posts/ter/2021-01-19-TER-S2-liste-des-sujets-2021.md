@@ -434,7 +434,7 @@ Références :
 ### Génération de texte pour résumer des études clinique
 
 - Nombre d'étudiants souhaité : 1 ou 2.
-- Encadrant : [Elena Cabrio](mailto:elena.cabrio@univ-cotedazur.fr)
+- Encadrante : [Elena Cabrio](mailto:elena.cabrio@univ-cotedazur.fr)
 
 
 Ces dernières années, le domaine de la e-santé a vu un intérêt croissant pour la définition de systèmes intelligents ayant le but d’accompagner les cliniciens dans leurs tâches et leurs activités quotidiennes. D’ailleurs, cela inclut de nouveaux systèmes pour le domaine de la médecine basée sur les preuves. Ce dernier repose sur le principe de l’évaluation critique des preuves médicales et de la combinaison de ces preuves de haute qualité avec l’expérience clinique individuelle du praticien par rapport à la situation d’un patient pour obtenir le meilleur résultat possible. La plupart des systèmes intelligents proposés visent soit à extraire des informations sur la qualité des preuves issues des essais cliniques, de directives cliniques ou des dossiers de santé électroniques, soit à aider dans les processus de prise de décision, sur la base de cadres de raisonnement. Dans le cadre des travaux de recherche de notre équipe, nous avons implémenté des méthodes d’analyse d’arguments pour extraire et classifier les composants d’argumentation (c’est-à-dire les preuves et les conclusions d’un essai clinique) et leurs relations (c’est-à-dire le support et l’attaque). Un cadre de fouille d’arguments est proposé et amélioré pour intégrer des informations supplémentaires inspirées par les cadres biomédicaux courants pour l’analyse des essais cliniques. Ces extensions comprennent la détection des éléments PICO et un module d’analyse des résultats pour identifier et classer les effets (c’est- à-dire améliorés, augmentés, diminués, pas de différence, pas d’occurrence) d’une intervention sur le résultat de l’essai. Dans ce contexte, un jeu de données, composé de 660 résumés d’essais cliniques dans la base de données MEDLINE, a été annoté, en résultant dans le construction d’un jeu de données étiquetées qui inclut 4198 composants d’argumentation, 2601 relations d’argumentation et 3351 résultats d’intervention sur cinq maladies différentes (néoplasme, glaucome, hépatite, diabète, hypertension). Diverses approches d’apprentissage automatique et profond allant des SVM aux architectures récentes basées sur les réseaux de neurones ont été expérimentées pour accomplir automatiquement ces taches.
@@ -559,7 +559,6 @@ Référence:
 - Nombre d’étudiants souhaités : 3-4.
 - Encadrant : [Pierre Crescenzo](mailto:pierre.crescenzo@univ-cotedazur.fr)
 
-
 Ce projet consiste à programmer un jeu nommé Trois pour dix.
 Ce jeu est difficile. Non pas qu'il soit très difficile de jouer ou de gagner des points, mais il est complexe de compter les points et de se souvenir de toutes les combinaisons qui ont déjà marqué un point.
 L'ordinateur est donc ici bienvenu.
@@ -577,3 +576,34 @@ Elle ne peut pas être utilisée deux fois dans la même direction !
 A partir du projet réalisé lors du premier semestre, il faudra essayer d’implémenter de nouvelles intelligences artificielles utilisant de vrais algorithmes (deep learning ou autre).
 Comme au premier semestre, le but n’est pas de développer le jeu en lui-même, c’est un des objectifs et non un but.
 Le but est de créer une ou plusieurs intelligences artificielles ayant différentes stratégies et surtout différents algorithmes.
+
+
+### Jeu-Quizz multi-joueurs
+
+
+- Nombre d’étudiants souhaités : 3-4.
+- Encadrant : [Philippe Renevier Gonin](Philippe.Renevier@univ-cotedazur.fr)
+
+Il s'agit de développer une application web d'un jeu de quizz rapide et multi-joueurs dont une partie se déroule en 2 phases :
+1. Phase de sélection : c'est-à-dire que le but des participants est de récolter le plus de points possibles en répondant aux questions. Plus une personne répond vite plus le nombre de point sera élevé. Au bout de n questions (par exemple 10), les m meilleurs (par exemple le top 10%) passent dans la 2e. Les personnes éliminées assistent en tant que spectateurs à la fin du jeu.
+2. Phase d’élimination directe : le but consiste à ce que les joueurs survivent le plus longtemps possible. Une réponse fausse signifie une élimination et la personne éliminée rejoint les spectateurs. La partie se termine s’il ne reste plus qu’une seule personne en jeu ou quand toutes les personnes sont éliminées (toutes ont eu faux à la dernière question posées) ou au bout de q questions (par exemple 10) : dans ce cas, le classement se fait en fonction des points cumulés sur les deux phases.
+
+Chaque question du quizz aura une durée de temps limitée (par exemple 5 secondes) et 4 choix de réponses.
+Il y a mode de jeu :
+- Le mode 100% à distance.
+- Le mode en présentiel (type kahoot).
+
+Le niveau de difficulté devra être géré, soit par indication via les sources de questions, soit par la fréquence d’apparition des questions et par le pourcentage de bonnes réponses. La notion de thèmes et sous thèmes, par exemple musique – pop, rock, rock alternatif, métal, rap, etc., doit être géré. Ceci se fait en collaboration avec le sujet « Générateur de questions à partir d’une grande base de données musicale ».
+
+
+### Générateur de questions à partir d’une grande base de données musicale
+
+- Nombre d’étudiants souhaités : 1-2.
+- Encadrants : [Elena Cabrio & Michel Buffa](mailto:elena.cabrio@univ-cotedazur.fr,michel.buffa@univ-cotedazur.fr)
+
+En lien avec le sujet « Jeu-Quizz multi-joueurs », il s’agit d’exploiter les résultats du projet ANR Wasabi, porté par Michel Buffa. Une base de données de millions de titres est disponible, certains étant marqués comme « classique » (dans le sens incontournable). Il y a beaucoup d’informations liées à chaque morceau, en provenance de différentes sources, telles deezer, wikipédia, youtube, etc.
+Jusqu’à présent, l’exploitation de la base de données s’est faite dans un cadre « artistique », en s’adressant par exemple à des écoles de musique pour travailler un morceau ou un genre musical. Il semble pertinent d’explorer d’autres utilisations d’une telle disponibilité de connaissances.
+
+Le sujet consiste à générer des questions (type quizz), avec non seulement avec une question, une réponse, mais aussi avec de fausses réponses plus ou moins crédibles, de gérer des métadonnées pour organiser les questions en thématique (ex : les chansons) / sous-thématique (ex : la pop, le rap, etc.), voire en thèmes très précis comme un artiste (ex : « Jeff Porcaro ») ou « l’évocation de l’Afrique dans les chansons du XXe siècle ». Une difficulté inhérente doit être proposée, en fonction de la confidentialité ou de la célébrité des morceaux/artistes, en fonction de l’âge des personnes interrogées (une personne de 45+ ans a plus de chance de connaitre « Jeff Porcaro » qu’une personne de moins de 25), des goûts des personnes (une personne aimant le rock des années 80/90 a plus de chance de connaitre « Jeff Porcaro » qu’une personne écoutant exclusivement du rap ou du reggae), de la proximité et de la crédibilité des fausses réponses  via à vis de la bonne réponse, etc.
+
+Différentes techniques seront mises en œuvre : type « template » pour générer des questions pour des sources présentant la même structuration, en s’inpirant de l’existant (par exemple le défi QALD /  [MusicBrainz](https://musicbrainz.org/)), en empruntant des techniques de traitement automatique du langage (TAL), etc.
