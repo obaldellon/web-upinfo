@@ -47,11 +47,13 @@
   url: "#"
   side: left
   dropdown:
-  #- title: "Projets"
-  #  url: "#"
-  #- title: "Stage"
-  #  url: "#"
-  - title: "UCAnCode"
+  - title: "Bourses"
+    url: "/etus/bourses/"
+  - title: "Stages"
+    url: "/etus/stages/"
+  - title: "Double diplômes"
+    url: "/etus/double-diplomes/"
+  - title: "UCAnCODE"
     url: "/etus/ucancode/"
   - title: "Fablab"
     url: "/etus/fablab/"
