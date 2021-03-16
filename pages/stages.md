@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Vie étudiante"
-title: "Opportunités de stages"
-teaser: "Parcours <i>Informatique et interactions</i>."
+title: "Stages"
+teaser: "Les étudiants en Informatique de l’Université Côte d’Azur peuvent effectuer des stages de recherche ou professionnalisant. Certains stages obligatoires sont intégrés au cursus, mais il est aussi possible d'effectuer des stages hors cursus."
 
 header:
     image_fullwidth: "header-laptop-unsplash.jpg"
@@ -12,8 +12,12 @@ header:
 permalink: "/etus/stages/"
 ---
 
-### Présentation du Stage ###
+Les étudiants du Master Informatique doivent effectuer un stage obligatoire lors de leurs quatrième (et dernier) semestre.
+Il n'y a pas de stage obligatoire en Licence Informatique.
 
-### Listes des sujets ###
+Il est aussi possible d'effectuer un stage hors cursus sous réserve de trouver une offre.
+Ce sont souvent des stages d'initiation à la recherche.
+
+### Derniers posts ###
 
 {: .t10 } {% include list-posts-nonav category='stage' %}
