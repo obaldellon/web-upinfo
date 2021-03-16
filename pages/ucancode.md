@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Concours de Programmation"
+title: "UCAnCODE : concours de programmation"
 logo: ""
-subheadline: "UCAnCODE"
+subheadline: "Vie étudiante"
 teaser: "Vous voulez réviser vos examens, gagner de l'expérience en programmation, ou vous êtes simplement curieux, nous organisons et participons à des concours et hackathons. Ces événements sont ouvert à tous (de la L1 au M2) ! Pour vous motiver encore plus, nous essayons toujours de négocier des bonus avec vos professeurs."
 header:
    image_fullwidth: "Bandeau_Web_Ucancode.png"
@@ -11,8 +11,7 @@ permalink: "/etus/ucancode/"
 ---
 
 
-Rejoignez-nous sur **facebook** : [UCAnCODE](https://www.facebook.com/ConcoursUCAnCode/).
-Rejoignez-nous sur **moodle** : [cours UCAnCODE](https://lms.unice.fr/course/view.php?id=8151).
+Rejoignez-nous sur **facebook** : [UCAnCODE](https://www.facebook.com/ConcoursUCAnCode/).<br/>
 Contactez-nous par **courriel** : [ucancode@i3s.unice.fr](mailto:ucancode@i3s.unice.fr).
 
 Nous présentons les diverses activités proposées par le département d'informatique autour des concours de programmation.
@@ -66,7 +65,8 @@ Ces activités sont aussi au programme et au contrôle continu de plusieurs cour
 
 | Concours      | Date          | #étus |
 |---------------|---------------|-------|
-| Coding Battle | Ocotbre 2020  | 40    |
+| HashCode      | Février 2021  | 8     |
+| Coding Battle | Octobre 2020  | 40    |
 | HashCode      | Février 2019  | 79    |
 | UCAnCODE      | Décembre 2018 | 199   |
 | UCAnCODE      | Avril 2018    | 148   |
