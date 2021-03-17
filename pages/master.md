@@ -8,13 +8,13 @@ header:
 permalink: "/programme/master/"
 ---
 
-## Présentation
+### Présentation
 Le Master Informatique forme à la conception et au développement des systèmes informatiques des cadres de l’industrie et de la recherche. En suivant le Master, les étudiants deviennent capables de s’adapter et d’anticiper les continuelles évolutions technologiques grâce à une maîtrise des fondements théoriques de l’informatique et des différents concepts et outils mis en œuvre dans les systèmes informatiques d’aujourd’hui.
 
 Le Master Informatique peut être suivi en formation initiale, contrat d'apprentissage, formation continue, formation permanente, ou contrat de professionnalisation.
 Consulter la page [consacrée à l'alternance](../alternance/) pour plus d'informations.
 
-### Objectifs ###
+### Objectifs
 
 Les compétences développées sont les suivantes :
 
@@ -25,18 +25,21 @@ Les compétences développées sont les suivantes :
  - Assurer une veille technologique. Analyser et comparer de manière critique plusieurs solutions pour un même problème.
  - Affiner une orientation professionnelle et concrétiser son projet professionnel à travers des stages en entreprise ou en laboratoire.
 
-### Programme et contenu ###
+### Programme et contenu
 
 Cette formation apprend aux étudiants à connaître et comprendre les concepts et les principes fondamentaux de l’informatique. Ils maîtrisent les liens entre les différents aspects de l’informatique, ce qui leur permet de transposer les méthodes et techniques d’un aspect à l’autre afin de concevoir, mettre en oeuvre et intégrer des applications.
 À l'issue du Master, un étudiant sait gérer des projets informatiques de grande échelle, incluant les normes de qualité permettant de concevoir leur architecture et leur intégration et évolution dans des systèmes préexistants.
 
-## Première année ##
+#### Première année ##
 
-En première année, le Master Informatique propose trois parcours :
+En première année, le Master Informatique propose deux parcours.
 
-- **Informatique (et interactions)** : c'est le master informatique principal proposé aux étudiants. Les enseignements se déroulent sur le site des lucioles.
-- **Computer Science** : c'est la version internationale du master informatique pour les étudiants non francophones. Les enseignements sont dispensés sur le site des lucioles.
-- [Data Sciences (EIT Digital)](http://unice.fr/polytechnice/fr/formation/masters/master-informatique) : c'est un master européen du programme [EIT Digital](https://www.eitdigital.eu/) centré sur l'entrepreunariat et la technologie numérique. Les enseignements se déroulent sur le site des lucioles et des templiers. *Ce parcours n'est pas décrit sur ce site.*
+##### Parcours Informatique
+
+C'est le master informatique local proposé aux étudiants et décrit sur ce site.
+Les enseignements sont dispensés francais et en anglais sur le site des lucioles.
+Il est possible de suivre une version internationale pour les étudiants non francophones.
+Le parcours est ouvert [en alternance]({{ "/programme/alternance"  | absolute_url }}).
 
 Les parcours Informatique et Computer Science se déroulent sur 2 semestres.
 Lors de chaque semestre, les étudiants doivent suivre des cours obligatoires et des cours optionnels.
@@ -46,24 +49,33 @@ Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque se
 - [Semestre 1]({{ "/programme/semestre1"  | absolute_url }}).
 - [Semestre 2]({{ "/programme/semestre2"  | absolute_url }}).
 
+##### Parcours Data Sciences (EIT Digital)
+Le parcours [Data Sciences (EIT Digital)](http://unice.fr/polytechnice/fr/formation/masters/master-informatique) fait partie d'un master européen du programme [EIT Digital](https://www.eitdigital.eu/) centré sur l'entrepreunariat et la technologie numérique.
+Les enseignements se déroulent sur le site des lucioles et des templiers.
+<br/>
+*Ce parcours n'est pas décrit sur ce site.*
 
 
-## Seconde année ##
+#### Seconde année
 
-En seconde année, le Master Informatique propose deux parcours :
- - **Informatique et interactions** : c'est la suite des parcours Informatique et Computer Science. Les enseignements se déroulent sur le site des lucioles.
- - [Ingénierie](http://unice.fr/polytechnice/fr/formation/masters/master-informatique) : c'est le master en commun avec l'école d'ingénieur polytech Sophia. Les enseignements se déroulent sur le site des templiers. *Ce parcours n'est pas décrit sur ce site.*
+En seconde année, le Master Informatique propose deux parcours.
 
-Le parcours Informatique et interactions se déroule sur 2 semestres.
-Lors du premier semestre, les étudiants doivent suivre des cours obligatoires et des cours optionnels.
-Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas).
-Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
+##### Parcours Informatique et interactions
 
-Lors du deuxième semestre, les étudiants doivent réaliser une stage de fin d'études en entreprise ou en laboratoire d'une durée comprise entre 4 mois et 6 mois  ([vos droits](https://www.service-public.fr/particuliers/vosdroits/F16734)).
-Une gratification minimale doit être versée. Le montant minimum versé pour chaque heure de présence effective est de 3,90 €.
+Ce parcours orienté recherche est la suite du Parcours Informatique et se déroule sur 2 semestres.
 
-- [Semestre 3]({{ "/programme/semestre3"  | absolute_url }}).
-- Semestre 4 : Stage étudiant en milieu professionnel.
+- [Semestre 3]({{ "/programme/semestre3"  | absolute_url }}) : les étudiants doivent suivre des cours obligatoires et des cours optionnels. Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas). Cela dépend principalement de la présence d'étudiants non francophones dans le cours. Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
+- [Semestre 4 (stage)]({{ "/programme/stage"  | absolute_url }}) : les étudiants doivent réaliser un stage de fin d'études en entreprise ou en laboratoire d'une durée comprise entre 4 mois et 6 mois.
+
+
+##### Parcours Ingénierie
+
+ Le parcours [Ingénierie](http://unice.fr/polytechnice/fr/formation/masters/master-informatique) est le master en commun avec l'école d'ingénieur polytech Sophia.
+ Les enseignements se déroulent sur le site des templiers.
+ Le parcours est ouvert en alternance.
+ <br/>
+ *Ce parcours n'est pas décrit sur ce site.*
+
 
 ### Validation ###
 
