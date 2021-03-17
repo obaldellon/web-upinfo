@@ -84,3 +84,9 @@ La ou les notes obtenues sur les UE surnumaires pourront figurer sur le supplém
 En pratique, la scolarité vous enverra un courriel à propos de ces notes surnuméraires en vous proposant de
  - les conserver, l’UE et les notes obtenues figureront dans votre complément au diplôme. Vous pourrez les faire valoir au cours de votre carrière universitaire ou professionnelle, tout au long de votre vie. *Le responsable du master  déconseille de conserver les notes inférieures à 10.*
  - les supprimer, l’UE et les notes seront supprimées définitivement. L’Inscription pédagogique sera également supprimée. Plus aucun justificatif concernant ces UE ne pourra vous être délivré.
+
+#### Passage du M1 au M2 Informatique ####
+
+Règlementairement, en cas de succès en M1, l’accès en seconde année de master de la même mention est de droit (loi du 23 décembre 2016 relative à la sélection en master). En revanche, le jury d’année de M1, par délégation du Président de l’Université (via l’arrêté de désignation du jury), est souverain pour  décider de l’accès à l’une des spécialités de la mention, au regard des résultats de l’étudiant, de ses vœux d’orientation et de la capacité dans chaque parcours.
+
+En d’autres termes, en cas de réussite de l’étudiant en M1, l’Université est obligée de garantir l’accès en M2 de la même mention mais il revient au Président/Jury de décider in fine, du parcours sur lequel pourra s’inscrire l’étudiant. Le jury peut également décider que l’étudiant peut s’inscrire dans tous les parcours et laisser in fine le choix à l’étudiant. Il ne s’agit pas de sélection mais d’orientation.
