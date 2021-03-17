@@ -12,11 +12,14 @@ header:
 permalink: "/etus/stages/"
 ---
 
-Les étudiants du Master Informatique doivent effectuer un stage obligatoire lors de leurs quatrième (et dernier) semestre.
+Les étudiants du Master Informatique doivent effectuer un stage obligatoire lors de leur [quatrième (et dernier) semestre]({% link pages/stage.md %}).
 Il n'y a pas de stage obligatoire en Licence Informatique.
 
 Il est aussi possible d'effectuer un stage hors cursus sous réserve de trouver une offre.
 Ce sont souvent des stages d'initiation à la recherche.
+
+Dans tous les cas, vous devez [déclarer une convention de stage]({% post_url stage/2020-12-15-convention-stage %}).
+.
 
 ### Derniers posts ###
 
