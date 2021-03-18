@@ -52,7 +52,6 @@ Students who complete this course successfully will be able to:
 - evaluate the results of a learning algorithm
 and compare them to those of other approaches.
 
-
 ## The lectures ##
 
 **Lecture 1:** the fundamentals of Input/Output systems. This a standard way of studying and explaining evolving systems which react according to their inputs. In particular, we will focus on additive systems.
@@ -77,7 +76,9 @@ Optimizing hyperparameters by grid search. The confusion matrix explained. ROC c
 
 **Lecture 8:** introduction to deep learning. What is deep in 'deep learning'. Convolutional neural networks. Recurrent neural networks. Limits and perspectives of deep learning.
 
+
 ## Suggested books and materials ##
+
 No strict need for books,
 the slides of each lecture will be available
 online. However, students are invited to
@@ -95,11 +96,13 @@ More material will be distributed during the lectures. In particular, all the sl
 For a better experience, you are invited to bring your personal laptop, if possible.
 In this way, you'll have a good installation for developing your project.
 
+
 ## Course grading ##
 During the practice sessions (programming) there will be one or two assignments. The average mark of them will provide a mark *T*.
 Another mark *P* will come from a project assignment which will be given and explained in Lecture 5. The overall grading is obtained by the formula *(T+3P)/4* where *P* and *T* are in the range \[0,20\].
 
 ## Requests for instructor feedback ##
+
 Sometimes the notions or exercises given are a little bit cumbersome or hard to understand. Whenever this happens, students are invited to apply the following algorithm:
 1. try hard for some (finite) time;
 2. if Step 1. fails, then ask your class mates;
