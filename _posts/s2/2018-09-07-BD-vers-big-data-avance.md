@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "S. Miranda, PR"
 title: "BD vers Big Data avancé"
 logo: "logo_blanc.png"
 teaser: "This concept-based course on BIG DATA MANAGEMENT is self-contained including seminars to summarize prerequesites."
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "miranda.serge@gmail.com"
+author: serge
 #
 # Styling
 #

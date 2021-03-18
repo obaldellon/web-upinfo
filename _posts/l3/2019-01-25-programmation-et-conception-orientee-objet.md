@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J. Provillard, MCF"
 title: "Programmation et conception orientée objet"
 logo: "logo_blanc-l.png"
 teaser: "Il s'agit d'un cours de Programmation Orientée Objet qui se base sur le langage Java."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "48h"
 # website: "#"
-email: "julien.provillard@univ-cotedazur.fr"
+author: julien
 #
 # Styling
 #

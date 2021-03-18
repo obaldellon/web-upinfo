@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Tettamanzi, PR"
 title: "Logic for AI"
 logo: "logo_blanc.png"
 teaser: "Logic plays an important role in areas of computer science as diverse as software engineering (specification and verification), programming languages (semantics, logic programming), and artificial intelligence (knowledge representation and reasoning)."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "andrea.tettamanzi@unice.fr"
+author: andrea
 #
 # Styling
 #

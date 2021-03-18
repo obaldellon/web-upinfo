@@ -15,45 +15,45 @@ format: syllabus
 </div><!-- /.row -->
 {% endif %}
 
-
 <div class="row t30">
 	<div class="medium-12 columns">
-		<article>
-			<header>
-				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-				<h1>{{ page.title }}</h1>
+	    <article>
+                {% assign authors = page.author | split: ", " %}
+                <!--  <\!-- Output author details if some exist. -\-> -->
+		<header>
+                    <p class="subheadline">
+                        {%if page.subheadline %}{{ page.subheadline }}
+                            {% if page.author %} 
+                                &ndash; 
+                                {% if forloop.index == 1 %}
+                                    {{ site.data.authors[author].name }}
+                                {% else %}
+                                    &amp; {{ site.data.authors[author].name }}
+                                {% endif %}
+                            {% endif %}
+                        {% elsif page.author %}
+                            {% for author in authors %}
+                                {% if forloop.index == 1 %}
+                                    {{ site.data.authors[author].name }}
+                                {% else %}
+                                    &amp; {{ site.data.authors[author].name }}
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                    </p>
+		    <h1>{{ page.title }}</h1>
 			</header>
-            
+
 			{% if page.teaser %}
 			<p class="teaser">
 				{{ page.teaser }}
 			</p>
 			{% endif %}
-            <div id="page-meta" class="t30">
-			  <p>
-				   <!--  <\!-- Look the author details up from the site config. -\-> -->
-				   <!--  {% assign author = site.data.authors[page.author] %} -->
-				   <!--  <\!-- Output author details if some exist. -\-> -->
-				   <!--  {% if author %} -->
-				   <!--  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="{{ author.uri }}" target="_blank"> {{ author.name }}</a></span> -->
-				   <!-- </span> -->
-				   <!-- {% endif %} -->
-                   {% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
+                        {% if page.show_meta == true %}
+                        {% include _meta_information_syllabus.html authorinfo=authors %}
+			{% endif %}
 
-				   {% if page.ects %}<span class="icon-check pr20"> {{ page.ects }} ECTS{% endif %}</span>
-                   {% if page.schedule %}<span class="icon-calendar pr20"> {{ page.schedule }}{% endif %}</span>
-
-				<!-- <br /> -->
-				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
-
-                {% if page.website %}<span class="icon-home pr20"><a href="{{ page.website }}" target="_blank"> Site web</a>{% endif %}</span>
-                {% if page.email %}<span class="icon-mail pr20"><a href="mailto:{{ page.email }}" target="_blank"> {{ page.email }}</a>{% endif %}</span>
-			</p>
-
-			</div><!--  /.page-meta -->
 			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
-
-

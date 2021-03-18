@@ -3,8 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Type Theory"
-subheadline: "C. Di Giusto, MCF"
+title: "Type Systems"
 logo: "logo_blanc.png"
 teaser: "The aim of the course is to introduce a family of formal methods to reason about programs. We will focus on type systems that are useful for statically prove the absence of some bad program behaviours."
 categories:
@@ -14,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website:
-email: "cinzia.di-giusto@univ-cotedazur.fr"
+author: cinzia
 #
 # Styling
 #
@@ -31,3 +30,8 @@ header:
 ###  Cours ###
 
 We will introduce the main concepts on simple, recursive, and polymorphic types. We will also cover an introduction to the typed lambda calculus and subtyping.
+
+
+###  Resources ###
+- Moodle pages
+- Types and Programming Languages. Benjamin Pierce. MIT Press 2002

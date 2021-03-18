@@ -19,7 +19,7 @@ email: "Maia.HAUTIER@univ-cotedazur.fr"
 #
 image:
   thumb: "thumb-coach-insertion.png"
-  hheader: "thumb-coach-insertion.png"
+  header: "thumb-coach-insertion.png"
   homepage: "thumb-coach-insertion.png"
 header:
   image_fullwidth: "header-coach-insertion.png"

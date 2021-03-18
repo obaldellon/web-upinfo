@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "C. Di Giusto, MCF"
 title: "Bases de l'informatique"
 logo: "logo_blanc-l.png"
 teaser: "Introduction à l'informatique"
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "cinzia.di-giusto@univ-cotedazur.fr"
+author: cinzia
 #
 # Styling
 #
@@ -35,9 +34,9 @@ header:
 
 Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal), et comprend:
 
-- 9 séances de cours
+- 8 séances de cours
 - 16 séances de TD (2 par semaine)
-- un partiel
+- deux partiels
 
 
 ###  Cours ###
@@ -47,27 +46,23 @@ Le cour a pour objectif de introduire les concepts fondamentaux de l'informatiqu
 Plus précisément on parlera de:
 - Histoire de l'informatique :
 Panorama des personnes marquantes et leurs contributions
-- L'informatique et le codage de l'information :
-Codage des nombres et des caractères, changement de base, conversion des formats des nombres
 - L'informatique et la logique :
-Algèbre de Boole, circuits logiques, tables de vérité.
-- L'informatique: algorithmique et programmation :
-Bases de l'algorithmique (séquence d'instructions, tests, boucles), introduction au principe de recurrence
-- L'informatique et les automates :
-Modélisation de systèmes "automatiques" avec des automates à états finis et machines de Turing.
+    - Bases de l'algorithmique (séquence d'instructions, tests), 
+    - Introduction au principe de recurrence
+    - Logique propositionnelle: tables de vérité, formes normales, méthode de résolution
+
 
 
 ###  Modalités de contrôle des connaissances ###
  - 1 contrôle à mi parcours 50%
- - 1 examen final 50%
+ - 1 contrôle final 50%
+ - 1 examen terminal qui peut remplacer les 2 contrôles (100%)
 
 
 
 ###  Ressources ###
-Logica
-Libri di storia
-automi
-linguaggi prog
+- Pages Moodle 
+- Logique pour l'informatique : introduction à la déduction automatique : cours et exercices, licence d'informatique. Serenella Cerrito. Vuibert 2008
 
 
 

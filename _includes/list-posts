@@ -34,6 +34,15 @@
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
 
 
+  {% elsif category and tag %}
+
+    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
+      {% if post.tags contains tag %}
+        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
+      {% endif %}
+    {% endfor %}
+      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
+
   {% elsif category %}
 
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}

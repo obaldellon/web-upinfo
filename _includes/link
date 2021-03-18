@@ -1,6 +1,6 @@
 {% comment %}
 *   
-*   This include lets you retrieve the path to a post in the 'divers' folder.
+*   This include lets you retrieve the path to a post in the `folder` folder.
 *   
 *   The `page` paramater usually is a filename.  
 *

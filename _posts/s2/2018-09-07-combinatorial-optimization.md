@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J.-C. Régin, PR"
 title: "Combinatorial Optimization"
 logo: "logo_blanc.png"
 teaser: "This course presents greedy algorithms, decision diagrams, and markov models"
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "jcregin@gmail.com"
+author: jcregin
 #
 # Styling
 #

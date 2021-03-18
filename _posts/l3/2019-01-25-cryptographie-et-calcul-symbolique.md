@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "B. Martin, PR"
 title: "Cryptographie et calcul symbolique"
 logo: "logo_blanc-l.png"
 teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne alliée à celle du calcul formel"
@@ -15,7 +14,7 @@ tags:
 ects: 6
 schedule: "18h cours + 12h TD + 24h TP"
 # website: "#"
-email: "bruno.martin@univ-cotedazur.fr"
+author: bruno
 #
 # Styling
 #

@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J.-C. Régin, PR"
 title: "Advanced programming"
 logo: "logo_blanc.png"
 teaser: "This course focuses on advanced concepts in programming and their implementation. Effective code writing will be considered. Concepts like dynamic linking, memory management, low level function call will be studied."
@@ -16,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "jcregin@gmail.com"
+author: jcregin
 #
 # Styling
 #
@@ -28,9 +27,8 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 
 ### Modalités de contrôle des connaissances ###
-

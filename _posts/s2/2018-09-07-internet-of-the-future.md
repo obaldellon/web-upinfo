@@ -3,10 +3,9 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "R. Aparicio, MCF"
-title: "Internet of the future"
+title: "(N/A) Internet of the future"
 logo: "logo_blanc.png"
-teaser: "This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
+teaser: "<strong>This course is not available in 2020-2021.</strong> </br>This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
 categories:
   - S2
 tags:
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www.i3s.unice.fr/~raparicio/teaching/IoF/"
-email: "ramon.aparicio-pardo@unice.fr"
+author: ramon
 #
 # Styling
 #
@@ -27,25 +26,25 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
-Classical networking paradigms and architectures are becoming outdated very quickly because of the evolution of users’ habits and technological development. Thus, this course aims to bridge the gap between the basics presented in a classical " Introduction to Networking " course and the novel technologies and protocols deployed in Internet nowadays. 
+Classical networking paradigms and architectures are becoming outdated very quickly because of the evolution of users’ habits and technological development. Thus, this course aims to bridge the gap between the basics presented in a classical " Introduction to Networking " course and the novel technologies and protocols deployed in Internet nowadays.
 
 A previous background on networking basics is expected to follow the course. Students not fulfilling such requirement are strongly recommended to follow the course “Computer Networks” in the 1st semester.
 
-## Lectures 
+## Lectures
 ### Part 1: Ramon Aparicio
-* Session 1.	INTRODUCTION 
+* Session 1.	INTRODUCTION
     * Presentation of  new technologies, paradigms and protocols.
 * Session 2.	NETWORK SOFTWARISATION: SDN & NFV
     * SDN/NFV paradigm vs traditional network control based on material architecture.
 * Session 3.	CONTENT DISTRIBUTION NETWORKS (CDN)
-    * Content Distribution Networks (CDN) vs traditional ISP reactive caching 
+    * Content Distribution Networks (CDN) vs traditional ISP reactive caching
 * Session 4.	VIDEO STREAMING
-    * Progressive video streaming, adaptive video streaming, DASH 
-        
-### Part 2: Chadi Barakat    
+    * Progressive video streaming, adaptive video streaming, DASH
+
+### Part 2: Chadi Barakat
 * Session 5.	REAL TIME I
     * UDP and real time, delay and jitter control
 * Session 6.	REAL TIME II
@@ -54,8 +53,8 @@ A previous background on networking basics is expected to follow the course. Stu
     * Host Mobility and Fixed Network, Mobile IP
 * Session 8.	WIRELESS MOBILITY
     * Host and Router Mobility, Ad hoc routing
-     
-## Teaching materials ##      
+
+## Teaching materials ##
 
 - Access only granted by password: http://www.i3s.unice.fr/~raparicio/teaching/IoF/
 
@@ -72,8 +71,7 @@ A previous background on networking basics is expected to follow the course. Stu
 
 - ONLY 2-hour written exam (French Univ. jargon: 2nd session = examen écrit de 2h)
 
-## Lecturers ## 
+## Lecturers ##
 
-- Ramon Aparicio Pardo (Module coordinator): http://www.i3s.unice.fr/~raparicio/ 
+- Ramon Aparicio Pardo (Module coordinator): http://www.i3s.unice.fr/~raparicio/
 - Chadi Barakat : https://team.inria.fr/diana/team-members/chadi/
-

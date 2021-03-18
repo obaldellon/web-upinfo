@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "A. Malapert, MCF"
 title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
 teaser: "Ce projet complète le projet de développement. L'objectif est de comprendre, formaliser, analyser, et répondre aux besoins du logiciel en termes de structures de données, d'algorithmes, d'aide à la décision, ou même d'intelligence artificielle."
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h"
 # website: "#"
-email: "arnaud.malapert@univ-cotedazur.fr"
+author: marie
 #
 # Styling
 #
@@ -26,14 +25,12 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
-
 
 Il n'y a ni prérequis, ni cours magistraux.
 Les problématiques abordées seront toutefois liées à d'autres cours.
 
- 
 Les TDs servent à suivre et à encadrer les équipes d'étudiants dans la réalisation du projet.
  - Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
  - Définir et formaliser un ou plusieurs problèmes à résoudre dans un contexte agile.
@@ -44,44 +41,40 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 ### Modalités de contrôle des connaissances ###
 
- - Rapport (30%)
- - Soutenance orale (70%) 
- - Pas de 2nde session.
+- Rapport (30%)
+- Soutenance orale (70%)
+- Pas de 2nde session.
 
-**Le rapport et la soutenance sont en anglais.**
-
+- **Le rapport et la soutenance sont en anglais.**
 - Les spécifications de la règle du jeu et des IA doivent être déposées sur github avant les vacances de Noël.
-- Le rapport doit être déposé la veille de la soutenance (23/01/20) avant midi sur github.
-- La soutenance doit être déposée avant le début des soutenances (24/01/20).
+- Le rapport doit être déposé la veille de la soutenance avant midi sur github.
+- La soutenance doit être déposée avant le début des soutenances.
 
 #### Soutenance ####
 
-- **Les soutenances auront lieu le vendredi 24 janvier 2020.**
+- **Les soutenances auront lieu le lundi 18 janvier 2021.**
+
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéo-projecteur et un de vos ordinateurs pour la démonstration.
 - La soutenance présente les éléments saillants (importants) du rapport.
 - La soutenance est suivie d'une séance de questions d'une dizaine de minutes.
 
-**Le jury comprend des personnes extérieures aux projets.**  
+**Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
-L'ordre de passage est donné ci-dessous. 
+L'ordre de passage est donné ci-dessous.
 
-| Horaire | Groupe              | Étudiants                                                             |
-|---------|---------------------|-----------------------------------------------------------------------|
-| 08h00   | Pastis-Projet-2019  | Yorick Deroche, Thibaut Depond, Fabrice Simon, Mael Giese             |
-| 08h25   | Projet-2019         | Maxime Samak, Romain Michelucci, Nina Singlan, Camille Bonnin         |
-| 08h50   | Conquistadores      | Sébastien Desideri                                                    |
-| 09h15   | Jibaro              | Adam Bond, Hassan Mazyad, Ilyes Benzaid                               |
-| 09h40   | PAUSE               |                                                                       |
-| 10h00   | Groupe42            | Florian Régin, Kevin Alessandro                                       |
-| 10h25   | TeamRocket          | Rémi Janin, Allan Pajany Carpin Caoundin, Elhadj Mamadou Foula Diallo |
-| 10h50   | Puerto2019          | Remy Munier, Alexandre Denos, Jrad Yassine, Otmane Rahim              |
-| 11h15   | PAUSE               |                                                                       |
-| 11h30   | ACSA                | Sabri Hallaci, Alexandre Bonlarron, Corentin Fossati                  |
-| 11h55   | Poussière d'étoiles | Amine Bentellis, Mohamed Amine Romdhane, Théo Tracol                  |
-| 12h20   | Rhum                | Aymeric Picard-Marchetto, Arnaud Arbona, Thomas Portet                |
-
+| Horaire | Équipe     | Étudiants                                                                             |
+|---------|------------|---------------------------------------------------------------------------------------|
+| 9h00    | Mocanigaya | Morgane Govone, Gaetan Jacquet, Cassandre Maire, Nicolas Saint Jean                   |
+| 9h45    | Teamrocket |  Vincent Laubry, Samuele Marino, Maya Medjad, Mohummad Zaid Burkutally                |
+| 10h30   | **PAUSE**                                                                                          |
+| 11h00   | Utopia     | Aymen Baroudi, Tom Donnadieu, Filipe Gomes Silva, Erdal Toprak                        |
+| 11h45   | Top4-1     | Arnaud Barbe, Yasmine Benfredj, Yassine Chouchane, Sébastien Marro                    |
+| 12h30   | **PAUSE**                                                                                          |
+| 14h00   | Aventure   | Ralph El Chalfoun, Jérémy Hirth Daumas, Nabil Yacoub, Rémi Yacoub                     |
+| 14h45   | Vamos      | Ossama Ashraf, Kevin Levy, Nicolas Zimmer                                             |
+| 15h30   | Lamac      | Meryem Boufalah, Loïc Filippi, Anastasiia Kozlova, Alessandro Pepegna, Chaeyeon Shim  |
 
 #### Rapport ####
 
@@ -94,7 +87,21 @@ Le rapport doit expliquer :
 - Quelles sont les performances de votre IA ambitieuse : vs random, vs "robot" de PD/GL, vs IA garantie, contre elle-même ? Expliquez votre méthode et vos résultats.
 - Tirer un bilan sur vos approches et vos développements d'IA : les résultats sont-ils conformes à ce que vous attendiez ? À ce qui existe par ailleurs ?
 
+Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-03-charte-graphique %}) un modèle de rapport en LaTeX.
 
+### Calendrier ###
+
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ZDh1dXRiaDUwcGI0aDJlZG9xNjdhY2s1aXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+
+### Supports ###
+
+  - Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA.pdf" %})
+  - [Les règles de 7 wonders]({% include link-asset asset="7wonders-regles.pdf" %})
+  - [Le descriptif des effets]({% include link-asset asset="7wonders-effets.pdf" %})
+  - [Les cartes et les chaînages]({% include link-asset asset="7wonders-cartes-chainages.pdf" %})
+  - [Les merveilles]({% include link-asset asset="merveilles.pdf" %}) [(images)]({% include link-asset asset="wonderboards.zip" %})
+
+<!--
 ### Quelques réflexions sur le jeu Puerto Rico ###
 
 Vous trouverez ci-dessous un diagramme de dépendances sous la forme d'un arbre pour produire des marchandises.
@@ -103,14 +110,16 @@ On peut aussi prendre en considération les avantages octroyés par certains bâ
 
 ![Diagramme de production de marchandises avec Puerto Rico]({% include link-asset asset="puerto-rico-marchandises.png" %}){:class="img-responsive" style="width: 100%;"}
 
-Il est judicieux de considérer que chaque sommet a un état : 
+Il est judicieux de considérer que chaque sommet a un état :
 - **Atteint** : le prérequis est rempli, par exemple un bâtiment est construit.
 - **Possible** : le prérequis n'est pas rempli, mais peut être atteint, par exemple un bâtiment n'est pas construit, mais est disponible.
 - **Inatteignable** : le prérequis ne peut plus être rempli, par exemple un bâtiment n'est pas construit et n'est plus disponible.
 
 
 
-Ce diagramme permet de répondre à différentes questions : 
+Ce diagramme permet de répondre à différentes questions :
  - Est-il encore possible de produire X unités de marchandise ?
  - Qu'est-ce qui manque pour produire X unités de marchandise ? Quel est le coût en doublons et côlons ?
  - Combien d'étapes sont nécessaires pour produire X unités de marchandise ?
+
+-->

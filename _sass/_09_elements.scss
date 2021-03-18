@@ -98,10 +98,7 @@
     border-color: scale-color($grey-2, $lightness: -14%);
     color: $grey-12;
   }
-
-  &.tip {
-    @include alert-style($info-color);
-  }
+  
   &.todo {
     @include alert-style($todo-color);
     text-shadow: none;
@@ -199,4 +196,17 @@ img.lazy {
     -o-transition: opacity 0.7s;
     transition: opacity 0.7s;
     opacity: 1;
+}
+
+*:target:not([id^='fn:']):not([id^='fnref:']) {
+
+  &::before {
+    content: " ";
+    width: 0;
+    height: 0;
+
+    display: block;
+    padding-top: 50px;
+    margin-top: -50px;
+  }
 }

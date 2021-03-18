@@ -26,13 +26,14 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #212529;		// dark turquoise
-$ci-2: rgb(0, 133, 163);		// turquoise
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #0085a3;     // green
-$ci-7: #0df;     // green
+$ci-1: #212529;	    // dark blue
+$ci-2: #0085a3;	    // dark turquoise
+$ci-3: #531cb3;	    // purple
+$ci-4: #E27A3F;	    // orange
+$ci-5: #DF4949;	    // red
+$ci-6: #0085a3;     // same as ci-2
+$ci-7: #00ddff;     // turquoise
+$ci-8: #00ac4c;     // green
 
 
 
@@ -40,12 +41,13 @@ $ci-7: #0df;     // green
 ------------------------------------------------------------------- */
 
 $primary-color: $ci-2;
-$secondary-color: $ci-6;
+$secondary-color: $ci-2;
 $alert-color: $ci-5;
 $todo-color: $ci-2;
-$success-color: #00ac4c;
+$success-color: $ci-8;
 $warning-color: $ci-4;
 $info-color: $ci-6;
+$tip-color: $ci-3;
 
 
 

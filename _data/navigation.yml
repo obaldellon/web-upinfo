@@ -4,7 +4,7 @@
 - title: Accueil
   url: "/"
   side: left
-  
+
 - title: "Master"
   url: "/programme/master/"
   side: left
@@ -19,8 +19,8 @@
     url: "/programme/semestre2/"
   - title: "Semestre 3"
     url: "/programme/semestre3/"
-  - title: "Semestre 4"
-    url: "#"
+  - title: "Stage"
+    url: "/programme/stage/"
   - title: "Liste des cours"
     url: "/programme/liste/"
 
@@ -42,22 +42,24 @@
 - title: "Campus"
   url: "/campus/"
   side: left
-  
+
 - title: "Étudiants"
   url: "#"
   side: left
   dropdown:
-  #- title: "Projets"
-  #  url: "#"
-  #- title: "Stage"
-  #  url: "#"
-  - title: "UCAnCode"
-    url: "/etus/ucancode/"    
+  - title: "Bourses"
+    url: "/etus/bourses/"
+  - title: "Stages"
+    url: "/etus/stages/"
+  - title: "Double diplômes"
+    url: "/etus/double-diplomes/"
+  - title: "UCAnCODE"
+    url: "/etus/ucancode/"
   - title: "Fablab"
     url: "/etus/fablab/"
   - title: "Insertion"
-    url: "/etus/insertion/"    
-    
+    url: "/etus/insertion/"
+
 - title: Blog
   url: "/blog/"
   side: left
@@ -66,7 +68,7 @@
     url: "/blog/archive/"
 
 - title: "Candidater"
-  url: "http://univ-cotedazur.fr/education/training?SMFOR18"    
+  url: "https://univ-cotedazur.fr/offre-de-formation/master-informatique-1"
   side: left
 
 #
@@ -89,4 +91,3 @@
 - title: "Contact"
   url: "/contact/"
   side: right
-

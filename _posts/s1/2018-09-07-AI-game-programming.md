@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "J.-C. Régin, PR"
 title: "AI game programming"
 logo: "logo_blanc.png"
 teaser: "This course presents different techniques to program games for one or two players. For two-player games, only full information games will be considered."
@@ -16,7 +15,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "jcregin@gmail.com"
+author: jcregin
 #
 # Styling
 #

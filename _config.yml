@@ -13,15 +13,20 @@ title: "Master Informatique"
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Aspects techniques et fondamentaux des systèmes informatiques"
 
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former les informaticiens de demain."
 # Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former des informaticiens aptes à s'adapter à l'évolution rapide des technologies de l'information.
+
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+credits: '<p>Based on <a href="http://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive</a> by <a href="http://phlow.de/" target="_blank">Phlow</a>.</p>'
+
 # Main author of the website
 # See > authors.yml
 author: arnaud
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://i3s.unice.fr'
+url: 'https://www.i3s.unice.fr'
 baseurl: '/master-info'
 
 # This is for the editing function in _/includes/improve_content
@@ -35,16 +40,21 @@ improve_content: ""
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://i3s.unice.fr/master-info/images/'
+urlimg: 'https://www.i3s.unice.fr/master-info/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-# Gems
-plugins_dir:
+# Plugins
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-scholar
+
+scholar:
+  style: acm-siggraph
+  bibliography_template: bib
 
 
 #       ____              _             __  _
@@ -113,8 +123,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-    - Makefile   
-    - vendor    
+    - vendor
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -256,8 +265,8 @@ socialmedia:
 #
 
 sass:
-    sass_dir: _sass
-    style: :compressed
+    sass_dir : _sass
+    style    : :compressed
 
 
 #       ___                __      __  _
@@ -269,7 +278,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id: 
+# google_analytics_tracking_id:
 
 
 
@@ -305,7 +314,7 @@ sass:
 
 asciidoctor-enabled: false
 asciidoctor:
-  description: testtewtetrue
+  description: 
   attributes:
     source-highlighter: coderay
     coderay-css: style

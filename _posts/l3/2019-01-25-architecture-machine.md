@@ -3,10 +3,9 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "S. Touati, PR"
 title: "Architecture machine"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours présente de façon approfondie les différentes composants des architectures d'ordinateurs, depuis les portes logiques jusqu'au niveau du processeur. Nous apprendrons comment concevoir un processer simple, et comment le programmer au niveau assembleur et binaire. Nous montrerons aussi comment des décisions architecturales peuvent influencer sur les performances."
+teaser: "Ce cours présente de façon approfondie les différentes composants des architectures d'ordinateurs, depuis les portes logiques jusqu'au niveau du processeur. Nous apprendrons comment concevoir un processeur simple, et comment le programmer au niveau assembleur et binaire. Nous montrerons aussi comment des décisions architecturales peuvent influencer sur les performances."
 categories:
   - L3
 tags:
@@ -15,7 +14,7 @@ tags:
 ects: 6
 schedule: "20h cours + 20h TD + 20h TP"
 # website: "#"
-email: "sid.touati@univ-cotedazur.fr"
+author: sid
 #
 # Styling
 #
@@ -27,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Pré-requis conseillés

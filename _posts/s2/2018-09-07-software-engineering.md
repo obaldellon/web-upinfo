@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "F. Mallet, PR"
 title: "Software Engineering"
 logo: "logo_blanc.png"
 teaser: "This course is about learning several techniques to help be more efficient in Software Engineering. The Programming Language is Java."
@@ -15,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-email: "Frederic.Mallet@univ-cotedazur.fr"
+author: frederic
 #
 # Styling
 #

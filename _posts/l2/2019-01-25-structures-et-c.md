@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "M. Pelleau, MCF/J.-C. Regin, PR"
 title: "Structures de données et programmation C "
 logo: "logo_blanc-l.png"
 teaser: "Ce cours a pour objectif d'introduire les structures de données les plus classiques en s'appuyant sur le langage de programmation bas niveau C."
@@ -14,7 +13,8 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-email: "marie.pelleau@univ-cotedazur.fr, jean-charles.regin@univ-cotedazur.fr"
+
+author: marie
 #
 # Styling
 #
@@ -29,14 +29,14 @@ header:
 #  caption_url: https://unsplash.com/  
 ---
 
-{% include alert info="Info : Épreuve de rattrapage.  
+<!--{% include alert info="Info : Épreuve de rattrapage.  
     L'épreuve de rattrapage (2ème chance) est prévue le 16 juin de 13h à 15h.
     Les consignes de cette épreuve seront données sur moodle dans l'onglet [Épreuve de rattrapage](https://lms.univ-cotedazur.fr/mod/assign/view.php?id=109382).
     Il vous est fortement conseiller de suivre le [tutoriel](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=1), et de faire les exercices de l'onglet [C](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=3) du cours [UCANCODE](https://lms.univ-cotedazur.fr/course/view.php?id=14552)."
-%}
+%}-->
 
 ###  Description ###
-Ce cours est diviser en deux sous-modules :
+Ce cours est divisé en deux sous-modules :
 1. Structures de données
 2. Programmation C
 
@@ -55,13 +55,18 @@ Pour chaque structure de données on considérera les algorithmes de manipulatio
 Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appuyant sur les structures de données vues seront détaillés, comme les algorithmes de tris par fusion ou par tas, l’algorithme de codage MP3... Afin de faciliter l'enseignement, un langage de description des algorithmes, proche d'un langage naturel, sera introduit et servira pendant les TDs. Pour chacun des algorithmes étudiés, nous analyserons la complexité algorithmique afin de déterminer les performances théoriques.
 
 ###### Supports de cours
-- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})
-- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})
-- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})
+
+- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})	
+- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})	
+- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})	
 - [CM 4]({% include link-asset asset="4-Listes_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Listes_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Listes_x2+notes.pdf" %})
-- [CM 5]({% include link-asset asset="5-Listes.pdf" %})
+- [CM 5]({% include link-asset asset="5-Listes_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="5-Listes_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="5-Listes_x2+notes.pdf" %})
+
 - [TD1]({% include link-asset asset="TD1.pdf" %}), [TD2]({% include link-asset asset="TD2.pdf" %}), [TD3]({% include link-asset asset="TD3.pdf" %}), [TD4]({% include link-asset asset="TD4.pdf" %}), [TD5]({% include link-asset asset="TD5.pdf" %}), [TD6]({% include link-asset asset="TD6.pdf" %})
-- [Contrôle continu]({% include link-asset asset="interro2019.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="Correction-CC.pdf" %})
+
+- [Contrôle continu de 2019]({% include link-asset asset="interro2019.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="Correction-CC2019.pdf" %})
+- [Contrôle continu de 2020]({% include link-asset asset="interro2020.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="interro2020-corrige.pdf" %})
+- [Examen terminal de 2019]({% include link-asset asset="exam2019.pdf" %})
 
 ####  Programmation C ####
 
@@ -76,14 +81,18 @@ Ce cours est divisé en 5 grandes parties :
 5. Nombre variable de paramètres, et fichiers
 
 ###### Supports de cours
-  - Le [Cours]({% include link-asset asset="LangageC.pdf" %}). Il ne faut pas hésiter à venir le consulter régulièrement car il change souvent.
-  - [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})
-  - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
-  - Le [QCM de 2010]({% include link-asset asset="interrogation1.pdf" %}) (contrôle continu) et avec [les solutions]({% include link-asset asset="interrogation1sol.pdf" %})
-  - Le [deuxième contrôle de 2011]({% include link-asset asset="interro.pdf" %}), ce document contient les réponses aux questions
-  - [L'énoncé du Projet de 2011]({% include link-asset asset="Projet.pdf" %})
 
-**Le projet de C** est désormais en ligne [sur la page moodle du cours UCAnCode](https://lms.univ-cotedazur.fr/course/view.php?id=14552). Dans l'onglet `C` du cours `UCAnCode` vous trouverez le projet et deux widgets pour tester votre code de _myWC_ et _multiple de 3_.
+Les supports de cours seront mis au fur et à mesure.
+
+- [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
+- [CM 2]({% include link-asset asset="2-Tableaux_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-Tableaux_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-Tableaux_x2+notes.pdf" %})
+- [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
+- [CM 4]({% include link-asset asset="4-Fichiers_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Fichiers_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Fichiers_x2+notes.pdf" %})
+
+- [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})	
+- Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
+
+- [Examen terminal de 2018]({% include link-asset asset="examen2018-final.pdf" %})
 
 ###  Calendrier ###
 - Les 6 premières séances sont dédiées aux Structures de données.

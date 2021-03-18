@@ -3,7 +3,6 @@ layout: syllabus
 #
 # Content
 #
-subheadline: "E. Kounalis, PR"
 title: "Algorithmique 2"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
@@ -14,7 +13,7 @@ tags:
 ects: 6
 schedule: "24h CM + 36h TD"
 # website: "#"
-email: "emmanuel.kounalis@univ-cotedazur.fr"
+author: emmanuel
 #
 # Styling
 #
