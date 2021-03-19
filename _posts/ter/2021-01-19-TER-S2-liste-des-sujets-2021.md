@@ -134,7 +134,7 @@ Références:
 - \[1\] Hidalgo, G., Raaj, Y., Idrees, H., Xiang, D., Joo, H., Simon, T., & Sheikh, Y. (2019). Single-network whole-body pose estimation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 6982-6991).
 - \[2\] Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. (2018). OpenPose: realtime multi-person 2D pose estimation using Part Affinity Fields. arXiv preprint arXiv:1812.08008.
 - \[3\] Papandreou, G., Zhu, T., Chen, L. C., Gidaris, S., Tompson, J., & Murphy, K. (2018). Personlab: Person pose estimation and instance segmentation with a bottom-up, part-based, geometric embedding model. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 269-286).
-- \[4\] [Coco Dense Pose dataset](https://cocodataset.org/#densepose-2020)
+- \[4\] [Coco Dense Pose dataset](https://cocodataset.org/)
 - \[5\] [MPII Human pose dataset](http://human-pose.mpi-inf.mpg.de/#overview)
 - \[6\] [CMU Panoptic dataset](http://domedb.perception.cs.cmu.edu/)
 
@@ -251,7 +251,7 @@ Les missions des étudiants :
 - Co-encadrante : Rabea Ameur-Boulifa, Telecom Paris.
 - Méthodes, langages ou technologies envisagés : IHM et interfaces graphiques Java, Web sémantique, interfaces web sémantique / bases de données.
 
-[Speleograph](speleograph.free.fr) est un logiciel destiné à la visualisation de données de capteurs de mesures physiques, initialement dans le domaine de l’étude de débit des rivières souterraines, ou plus généralement la corrélation et la visualisation de données de capteurs.
+[Speleograph](http://speleograph.free.fr/) est un logiciel destiné à la visualisation de données de capteurs de mesures physiques, initialement dans le domaine de l’étude de débit des rivières souterraines, ou plus généralement la corrélation et la visualisation de données de capteurs.
 Nous souhaitons améliorer Speleograph, en particulier pour des usages pédagogiques, dans le contexte du projet [Edumed]( http://edumed.unice.fr/fr )
 
 Plus généralement, nous voulons pouvoir utiliser depuis Speleograph des données disponibles dans des bases de données sur le web, à travers des requêtes de type web sémantique du genre « trouvez-moi les données de hauteur d’eau souterraines des cavités de tel secteur, entre 2019 et 2020 ». Les vocabulaires nécessaires à décrire ces données, et leurs métadonnées, sont en cours de définition par le projet Karstlink.
@@ -348,7 +348,7 @@ Cette détection devra essayer de s'opérer en "edge computing"  !
 ### Développement d'un outil de conception d'IHM réparties sur plusieurs dispositifs
 
 - Nombre d'étudiants souhaité : 1.
-- Encadrant : [Philippe Renevier Gonin](Philippe.Renevier@univ-cotedazur.fr)
+- Encadrant : [Philippe Renevier Gonin](mailto:Philippe.Renevier@univ-cotedazur.fr)
 - Méthodes, langages ou technologies envisagés : Java, Angular, RDF, SPARQL, docker, etc.
 
 Le TER consiste de travailler sur un des projets de l’équipe Sparks-I3S du laboratoire I3S.
@@ -388,7 +388,7 @@ Simple Paths Problem. In SEA 2020 - 18th International Symposium on Experimental
 ### Analyse de sentiments dans des bulletins et des lettres de motivation
 
 - Nombre d'étudiants souhaité : 1.
-- Encadrant : [Christel Dartigues-Pallez](Christel.DARTIGUES-PALLEZ@univ-cotedazur.fr)
+- Encadrant : [Christel Dartigues-Pallez](mailto:christel.dartigues-pallez@univ-cotedazur.fr)
 - Méthodes, langages ou technologies envisagés : ?
 
 Les recherches effectuées ces dernières années notamment dans le cadre de l’apprentissage supervisé ont montré qu’il était possible d’extraire des connaissances pertinentes à partir d’un ensemble de données représentatives d’un problème.
@@ -490,7 +490,7 @@ Le simulateur doit être capable de faire le suivant à minima :
 ### Étude de défaillances en cascade dans les réseaux multi-couches
 
 - Nombre d’étudiants souhaité : 1 ou 2.
-- Encadrant : [Laurent Tichit](laurent.tichit@univ-cotedazur.fr)
+- Encadrant : [Laurent Tichit](mailto:laurent.tichit@univ-cotedazur.fr)
 - Méthodes, langages ou technologies envisagés : Algorithmique des graphes, partitionnement, Python/NetworkX.
 
 La défaillance en cascade apparaît dans le contexte de réseaux électriques interconnectés, où la défaillance d'un composant peut endommager, de proche en proche, l'ensemble du réseau. De telles cascades peuvent également être observées dans les réseaux biologiques. Par exemple, la cascade ischémique causée par le manque d'oxygène dans un neurone peut entraîner rapidement des lésions cérébrales telles que l'œdème. Ainsi, modéliser ce phénomène dans un formalisme cohérent est utile pour comprendre les conséquences d'un tel processus.

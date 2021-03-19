@@ -20,7 +20,7 @@ En général, les étudiants participent en équipe et doivent résoudre un maxi
 Les étudiants soumettent leur programme à un juge (automatique), qui accepte ou refuse la soumission.
 Certains concours se déroulent uniquement en présentiel, d'autres uniquement en ligne, ou un savant mélange des deux.
 
-Le plus prestigieux concours est probablement l'[ACM-ICPC](https://icpc.baylor.edu/) dont les origines remontent aux années 70 et dont les dernières éditions ont réuni plus de 50000 étudiants de 3000 universités.
+Le plus prestigieux concours est probablement l'[ICPC](https://icpc.global/) dont les origines remontent aux années 70 et dont les dernières éditions ont réuni plus de 50000 étudiants de 3000 universités.
 Ces concours sont très répandus et organisés par de nombreux acteurs : universités, conférences, entreprises, associations, ou même cabinet de recrutement.
 En informatique, on retrouve fréquemment les exercices posés dans ces concours dans les entretiens d'embauche d'entreprises, comme les géants du web (GAFA - Google/Apple/Facebook/Amazon).
 

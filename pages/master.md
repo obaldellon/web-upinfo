@@ -39,15 +39,15 @@ En première année, le Master Informatique propose deux parcours.
 C'est le master informatique local proposé aux étudiants et décrit sur ce site.
 Les enseignements sont dispensés francais et en anglais sur le site des lucioles.
 Il est possible de suivre une version internationale pour les étudiants non francophones.
-Le parcours est ouvert [en alternance]({{ "/programme/alternance"  | absolute_url }}).
+Le parcours est ouvert [en alternance]({{ "/programme/alternance/"  | absolute_url }}).
 
 Les parcours Informatique et Computer Science se déroulent sur 2 semestres.
 Lors de chaque semestre, les étudiants doivent suivre des cours obligatoires et des cours optionnels.
 Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas).
 Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
 
-- [Semestre 1]({{ "/programme/semestre1"  | absolute_url }}).
-- [Semestre 2]({{ "/programme/semestre2"  | absolute_url }}).
+- [Semestre 1]({{ "/programme/semestre1/"  | absolute_url }}).
+- [Semestre 2]({{ "/programme/semestre2/"  | absolute_url }}).
 
 ##### Parcours Data Sciences (EIT Digital)
 Le parcours [Data Sciences (EIT Digital)](http://unice.fr/polytechnice/fr/formation/masters/master-informatique) fait partie d'un master européen du programme [EIT Digital](https://www.eitdigital.eu/) centré sur l'entrepreunariat et la technologie numérique.
@@ -64,8 +64,8 @@ En seconde année, le Master Informatique propose deux parcours.
 
 Ce parcours orienté recherche est la suite du Parcours Informatique et se déroule sur 2 semestres.
 
-- [Semestre 3]({{ "/programme/semestre3"  | absolute_url }}) : les étudiants doivent suivre des cours obligatoires et des cours optionnels. Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas). Cela dépend principalement de la présence d'étudiants non francophones dans le cours. Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
-- [Semestre 4 (stage)]({{ "/programme/stage"  | absolute_url }}) : les étudiants doivent réaliser un stage de fin d'études en entreprise ou en laboratoire d'une durée comprise entre 4 mois et 6 mois.
+- [Semestre 3]({{ "/programme/semestre3/"  | absolute_url }}) : les étudiants doivent suivre des cours obligatoires et des cours optionnels. Les cours sont dispensés en français ou en anglais (la mention EN est précisée dans ce cas). Cela dépend principalement de la présence d'étudiants non francophones dans le cours. Chaque étudiant doit suivre environ 200h d’enseignement présentiel chaque semestre. Les cours sont organisés par demi-journée de 3h.
+- [Semestre 4 (stage)]({{ "/programme/stage/"  | absolute_url }}) : les étudiants doivent réaliser un stage de fin d'études en entreprise ou en laboratoire d'une durée comprise entre 4 mois et 6 mois.
 
 
 ##### Parcours Ingénierie

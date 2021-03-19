@@ -43,6 +43,6 @@ Quelle que soit votre origine, nombre d'entre vous choisissent de rester sur la 
 
 ### Niveau de rémunération ###
 Le niveau de rémunération est un salaire mensuel net avec primes alors que les écoles d'ingenieurs donnent généralement le salaire brut annuel.
-À titre de comparaison, les habitants de Provence-Alpes-Côte d'Azur gagnent en moyenne 2466 € nets par mois, soit 29597 € nets par an et les moins de 26 ans gagnent en moyenne 1700 € nets par mois ([source](http://www.journaldunet.com/business/salaire/provence-alpes-cote-d-azur/region-93)).
+À titre de comparaison, les habitants de Provence-Alpes-Côte d'Azur gagnent en moyenne 2466 € nets par mois, soit 29597 € nets par an et les moins de 26 ans gagnent en moyenne 1700 € nets par mois ([source](https://www.journaldunet.com/business/salaire/provence-alpes-cote-d-azur/region-93)).
 
 ![Niveau de rémunération]({% include link-asset asset="insertion-salaires.png" %} "Niveau de rémunération")
