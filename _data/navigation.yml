@@ -75,7 +75,7 @@
 #   Navigation to the right -> side: right
 #
 - title: "EdT"
-  url: "/edt/m1"
+  url: "/edt/m1/"
   side: right
   dropdown:
   - title: "M1"
