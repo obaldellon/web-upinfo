@@ -9,7 +9,7 @@ header:
    caption: "Photo by Марьян Блан | @marjanblan on Unsplash"
    caption_url: "https://unsplash.com/photos/6bXvYyAYVrE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"
 
-permalink: "/etus/double-diplomes/"
+permalink: "/etus/doubles-diplomes/"
 ---
 
 ### Licence Mathématiques-Informatique ###
