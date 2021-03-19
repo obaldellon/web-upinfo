@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-contents
 subheadline: "Licence et Master Informatique"
 title: "Double diplômes"
 teaser: "Ce billet présente plusieurs doubles diplômes offerts à l'Université Côte d'Azur, la double licence Mathématiques-Informatique et les double masters avec des universités italiennes (Milan et Varese) proposés dans le parcours Informatique et Interactions."

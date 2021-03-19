@@ -19,7 +19,15 @@ Il est aussi possible d'effectuer un stage hors cursus sous réserve de trouver 
 Ce sont souvent des stages d'initiation à la recherche.
 
 Dans tous les cas, vous devez [déclarer une convention de stage]({% post_url stage/2020-12-15-convention-stage %}).
-.
+
+### Bourses de stage I3S  ###
+
+Référence : [site I3S](https://www.i3s.unice.fr/)
+
+Le laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S) finance des stages d'initiation à la recherche.
+Le dispositif concerne principalement les étudiants de Master, mais peut être étendu à la Licence.
+
+Ces bourses ne sont pas automatiques et il faut que votre encadrant de stage fasse une demande de subvention. Pour cela préparer un CV et une lettre de motivation afin de pouvoir argumenter cette demande.
 
 ### Derniers posts ###
 

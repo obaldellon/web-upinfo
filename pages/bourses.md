@@ -35,8 +35,10 @@ Référence : [site DS4H](https://ds4h.univ-cotedazur.eu/education/masters/excel
 
 L'Ecole Universitaire de Recherche Digital Systems for Humans (DS4H) propose des bourses d'excellence aux étudiants internationaux.
 
+<!--
 ### Bourses de stage I3S  ###
 Référence : [site I3S](https://www.i3s.unice.fr/)
 
 Le laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S) finance des stages d'initiation à la recherche.
 Le dispositif concerne principalement les étudiants de Master, mais peut être étendu à la Licence.
+-->

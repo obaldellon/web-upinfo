@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page-contents
 show_meta: false
 title: "Alternance au Master Informatique"
 subheadline: "Formation par apprentissage et par contrat de professionnalisation"
@@ -12,7 +12,7 @@ permalink: "/programme/alternance/"
 
 ### Informations Spécifiques par année universitaire ###
 
-Les informations concernant l'année 2019-2020 sont sur la page [alternance/2019-2020]({% post_url /alternance/2019-09-16-alternance-2019-2020 %})
+{: .t10 } {% include list-posts-nonav category='Alternance' %}
 
 ### Présentation Générale ###
 
@@ -107,7 +107,3 @@ Pour le semestre 4, les documents suivants contiennent les indications pour le r
 Le questionnaire du livret reprend la fiche suivante, <strong>à n'utiliser qu'en cas de problème avec le livret en ligne</strong> :
   * [fiche d'évaluation par l'entreprise semestre 1 ou 3](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQJS7avOUbBOth7GfovO3lABR_NGoK6qMxvG0VMI35EvdQ?e=aLi76T)
   * [fiche d'évaluation par l'entreprise semestre 2 ou 4](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EZeb_Jr3Xd9LlyYZVjwodmAB5i2x_N9vR8KkRrD4LDWYVw?e=pJEmPe)
-
-
-### Derniers posts
-{: .t60 } {% include list-posts category='Alternance' %}
