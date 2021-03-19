@@ -7,7 +7,7 @@ subheadline: "Apprentissage"
 title: "Forum de l'Alternance 2019"
 teaser: " Venez participer au Forum de l'Alternance organisé par la MIAGE, le MBDS, et le Master Informatique pour favoriser les échanges entre les entreprises et les étudiants le mardi 19 mars 2019 de 14h00 à 17h30 sur le site des Lucioles."
 categories:
-  - divers
+  - alternance
 tags:
   - NEWS
 website: "#"
@@ -33,7 +33,3 @@ Vous êtes attendus nombreux dès 14h00 avec vos CV pour des entretiens job dati
 
 <center>Campus SophiaTech - Site des Lucioles</center>
 <center>1645 route des Lucioles - 06410 Biot</center>
-
-
-
-

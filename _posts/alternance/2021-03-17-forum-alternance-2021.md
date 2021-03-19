@@ -7,7 +7,7 @@ subheadline: "Alternance"
 title: "Forum de l'Alternance 2021"
 teaser: " Venez participer au Forum virtuel de l'Alternance MIAGE - INFO organisé pour favoriser les échanges entre les entreprises et les étudiants le mardi 30 mars 2021 de 14h00 à 18h00."
 categories:
-  - divers
+  - alternance
 tags:
   - NEWS
 website: "#"
@@ -26,7 +26,7 @@ header:
 En plus de l'information sur les différents parcours de formation, les entreprises sont invitées à venir rencontrer leurs futurs salariés en entretiens de recrutement speed-meeting en vue de les intégrer en tant qu’alternant Master 1 ou Master 2 pour l'année universitaire 2021-2022. Le forum est aussi l'occasion d'établir un premier contact pour les futurs stagiaires de Master 2.
 
 Vous pouvez dorénavant vous inscrire sur la plateforme : [Forum Alternance MIAGE Info](https://forum-alternance-miage-info-uca.en-virtuel.fr/2021/).<br/>
-**Pour l'inscription c'est avec votre adresse @etu.univ-cotedazur.fr**
+**Pour l'inscription, c'est avec votre adresse @etu.univ-cotedazur.fr**
 
 Le jour J, une fois connecté, vous pourrez vous visiter les stands des entreprises et vous inscrire sur les listes d'attente afin de passer des entretiens.
 
