@@ -79,9 +79,9 @@
   side: right
   dropdown:
   - title: "M1"
-    url: "/edt/m1"
+    url: "/edt/m1/"
   - title: "M2"
-    url: "/edt/m2"
+    url: "/edt/m2/"
 
 
 - title: "Search"
