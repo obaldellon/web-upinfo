@@ -10,9 +10,9 @@ header:
 permalink: "/programme/alternance/"
 ---
 
-### Informations Spécifiques par année universitaire ###
+### Informations spécifiques par année universitaire ###
 
-{: .t10 } {% include list-posts-nonav category='Alternance' %}
+{: .t10 } {% include list-posts-nonav category='alternance' tag="YEARLY"%}
 
 ### Présentation Générale ###
 
@@ -44,13 +44,13 @@ En 1<sup>re</sup>  année, les étudiants en alternance suivent les mêmes cours
 
 En 2<sup>e</sup> année, les étudiants doivent choisir entre 2 parcours :
   - hébergé par Polytech Nice Sophia, [le parcours Ingénierie](http://unice.fr/polytechnice/fr/formation/informatique/specialite_si5).
-  - [le parcours Informatique et Interactions, dont les informations sont sur ce même site]({{ site.baseurl }}/).
+  - le parcours Informatique et Interactions, dont les informations sont sur ici-même.
 
 Le 3<sup>e</sup> semestre du parcours Informatique et Interactions est semblable aux deux premiers, avec néanmoins moins de cours obligatoires : les étudiants doivent choisir 8 cours et réaliser leur alternance (en lieu et place d'un projet pour la formation initiale).
 
 Le 4<sup>e</sup> semestre du parcours Informatique et Interactions est intégralement en entreprise.
 
-Le planning général des semestres 1, 2 et 3 est le suivant : 3 semaines en temps université puis alternance 3 jours université et 2 jours en entreprise. Les semestres impairs sont généralement sur la période mi-septembre / mi-janvier, le  semestre 2 sur la période février - mi juin pour la fin des cours. Le reste du temps, les étudiants sont en entreprise. Les calendriers prévisionnels pour chaque année sont sur [les pages "Emploi du Temps"](../../edt)
+Le planning général des semestres 1, 2 et 3 est le suivant : 3 semaines en temps université puis alternance 3 jours université et 2 jours en entreprise. Les semestres impairs sont généralement sur la période mi-septembre / mi-janvier, le  semestre 2 sur la période février - mi juin pour la fin des cours. Le reste du temps, les étudiants sont en entreprise. Les calendriers prévisionnels pour chaque année sont sur les pages "Emploi du Temps" accessibles depuis la navigation.
 
 À la fin de chaque semestre, l'alternant doit remettre un rapport et présenter le déroulement de l'alternance en entreprise. Une note de tuteur académique, qui suit l'alternant durant l'année avec notamment une visite en entreprise par semestre, compte pour 50% qui englobe à la fois le travail réalisé et le rapport. La note de soutenance compte pour 25%. Une note entreprise, basée sur une fiche d'évaluation, compte pour 25%.
 
@@ -62,20 +62,20 @@ Il y a également des échanges par courriel ou téléphone, ou lors de réunion
 
 Un livret d'alternance numérique est mis en place : [site du livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
 
-### Semestre 1 : fiche d'évaluation, rapport et soutenance ###
+### Fiches d'évaluation, rapports et soutenances ###
 
-L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
+À chaque semestre, l'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
+
+La page de garde des rapport doit suivre le [modèle](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ea17s5mJDT9Hohp2OWsJFDIBH4ikPrltk0WwgIcRGFlrlg?e=8Ano4o) imposé.
+
+#### S1 : parcours Informatique ####
 
 Pour le semestre 1, les documents ci-dessous contiennent les indications pour le rapport et la soutenance, tous les deux en anglais :
 
 - [Consignes pour le rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EW3aeGRiB0RFmqvtFXRdfQcBAEIpm56OPzm7HXgHl1wy7A?e=XiRdrk)
 - [Consignes pour la soutenance intermédiaire](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ec3dGZNgy9pMtje0263ZB3wBKbyTW0dmP0dK4xj7AKW1WQ?e=abWbfe)
-- [Page de garde du rapport](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ea17s5mJDT9Hohp2OWsJFDIBH4ikPrltk0WwgIcRGFlrlg?e=8Ano4o)
 
-
-### Semestre 2 : fiche d'évaluation, rapport et soutenance ###
-
-L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
+#### S2 : parcours Informatique ####
 
 Pour le semestre 2, les documents suivants contiennent les indications pour le rapport et la soutenance :
 
@@ -83,9 +83,7 @@ Pour le semestre 2, les documents suivants contiennent les indications pour le r
 - [Consignes pour la soutenance de fin d'année](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/EQFdRwZ4OEBDlYMQr2Dsg7sB8_9weCv6G3C1FQJLCUtb_A?e=iYJJP4)
 
 
-### Semestre 3 Informatique et Interactions : fiche d'évaluation, rapport et soutenance ###
-
-L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
+#### S3 : parcours Informatique et Interactions ####
 
 Pour le semestre 3, les documents suivants contiennent les indications pour le rapport et la soutenance :
 
@@ -93,14 +91,9 @@ Pour le semestre 3, les documents suivants contiennent les indications pour le r
 - [Consignes pour la soutenance intermédiaire](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ec3dGZNgy9pMtje0263ZB3wBKbyTW0dmP0dK4xj7AKW1WQ?e=abWbfe)
 
 
-### Semestre 4 Informatique et Interactions : fiche d'évaluation, rapport et soutenance ###
+#### S4 : parcours Informatique et Interactions ####
 
-L'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
-
-Pour le semestre 4, les documents suivants contiennent les indications pour le rapport et la soutenance :
-
-- Consignes pour le rapport : se reporter aux consignes de rédaction du Master Thesis communes avec les étudiant.e.s en formation initiale.
-- Consignes pour la soutenance de fin d'année : se reporter aux consignes de soutenance communes avec les étudiant.e.s en formation initiale.
+Pour le semestre 4, il faut suivre les consignes pour le rapport et la soutenance du [stage]({{ "/programme/stage/"  | absolute_url }}) des étudiant.e.s en formation initiale.
 
 ### Pour archive, en cas de panne du livret d'alternance en ligne ###
 

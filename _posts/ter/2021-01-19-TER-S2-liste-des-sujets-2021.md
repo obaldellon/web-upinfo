@@ -427,7 +427,7 @@ Ensuite il faudra chercher à comparer cette technique avec celle proposée par 
 
 Références :
 - \[1\] Kurtland Chua, Roberto Calandra, Rowan McAllister and Sergey Levine. Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, 2018. [arxiv](https://arxiv.org/pdf/1805.12114.pdf)
-- \[2\] Sehoon Ha, Peng Xu, Zhenyu Tan, Sergey Levine, and Jie Tan. Learning to Walk in the Real World with Minimal Human Effort, nov 2020. [arxiv](https://arxiv.org/pdf/2002).
+- \[2\] Sehoon Ha, Peng Xu, Zhenyu Tan, Sergey Levine, and Jie Tan. Learning to Walk in the Real World with Minimal Human Effort, nov 2020.
 08550.pdf
 - \[3\] [Sonar Robot (multiple HC-SR04)](https://macduino.blogspot.fr/2015/05/sonar-robot-multiple-hc-sr04.html)
 
@@ -583,7 +583,7 @@ Le but est de créer une ou plusieurs intelligences artificielles ayant différe
 
 
 - Nombre d’étudiants souhaités : 3-4.
-- Encadrant : [Philippe Renevier Gonin](Philippe.Renevier@univ-cotedazur.fr)
+- Encadrant : [Philippe Renevier Gonin](mailto:philippe.renevier@univ-cotedazur.fr)
 
 Il s'agit de développer une application web d'un jeu de quizz rapide et multi-joueurs dont une partie se déroule en 2 phases :
 1. Phase de sélection : c'est-à-dire que le but des participants est de récolter le plus de points possibles en répondant aux questions. Plus une personne répond vite plus le nombre de point sera élevé. Au bout de n questions (par exemple 10), les m meilleurs (par exemple le top 10%) passent dans la 2e. Les personnes éliminées assistent en tant que spectateurs à la fin du jeu.
