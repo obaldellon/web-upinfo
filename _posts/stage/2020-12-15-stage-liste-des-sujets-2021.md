@@ -208,7 +208,7 @@ On the one hand, the enumeration of local minima is a central topic for which ef
 
 A key difficulty in dealing with high dimensional energy landscapes is that the number of critical points (local minima, saddle points of all indices) is generally exponential in the dimension. Fortunately, such landscapes exhibit a remarkable hierarchical structure and can be simplified using topological persistence \[6, 7\]. Therefore, locating local minima and the associated saddle points before simplifying those which are spurious i.e. non persistent is clearly sub-optimal.
 
-The goal of this internship will be to develop a novel strategy, using insights on the geometry of energy landscapes, to avoid these spurious steps. The methods will be implemented in (advanced/generic) C++ in the Structural Bioinformatics Library, see [http://sbl.inria.fr](http://sbl.inria.fr).
+The goal of this internship will be to develop a novel strategy, using insights on the geometry of energy landscapes, to avoid these spurious steps. The methods will be implemented in (advanced/generic) C++ in the Structural Bioinformatics Library, see [https://sbl.inria.fr](https://sbl.inria.fr).
 
 - Références :
   - \[1\] Andreas Pedersen, Sigurdur F Hafstein, and Hannes Jo ́nsson. Efficient sampling of saddle points with the minimum-mode following method. SIAM Journal on Scientific Computing, 33(2):633–652, 2011.
@@ -246,7 +246,7 @@ devra contenir une preuve que le programme produit une trajectoire lorsque
 c'est possible et que cette trajectoire ne contient pas de collision.
 
 - Références :
-  - Y. Bertot, P. Castéran: [Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions. Springer. 2004.](http://www.labri.fr/perso/casteran/CoqArt/)
+  - Y. Bertot, P. Castéran: [Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions. Springer. 2004.](https://www.labri.fr/perso/casteran/CoqArt/)
   - J.-C. Latombe: Robot Motion Planning. Kluwer Academic Publishers. 1991.
   - S. M. Lavalle: [Planning Algorithms.  Cambridge University Press. 2006.](http://planning.cs.uiuc.edu/)
   - A. Mahboubi, E. Tassi: [Mathematical Components.  To appear.](https://math-comp.github.io/mcb/)
