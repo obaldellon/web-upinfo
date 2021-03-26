@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Alternance"
 title: "Forum de l'Alternance 2021"
-teaser: " Venez participer au Forum virtuel de l'Alternance MIAGE - INFO organisé pour favoriser les échanges entre les entreprises et les étudiants le mardi 30 mars 2021 de 14h00 à 18h00."
+teaser: " Venez participer au Forum virtuel de l'Alternance MIAGE - INFO organisé pour favoriser les échanges entre les entreprises et les étudiants le mardi 30 mars 2021 de 13h à 18h."
 categories:
   - alternance
 tags:
@@ -36,4 +36,4 @@ Vous pouvez voir dès maintenant les entreprises dont l'inscription est finalis�
 Vous pourrez également filtrer les entreprises en fonction des profils recherchés (Licence 3, Master 1 & 2 MIAGE, Master informatique).
 Cela vous permettra de ne passer des entretiens qu'auprès d'entreprises qui cherchent votre spécialité et/ou niveau universitaire.
 
-Vous êtes attendus nombreux dès 14h00 pour des entretiens job dating.
+Vous êtes attendus nombreux dès 13h00 pour des entretiens job dating.
