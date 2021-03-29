@@ -36,4 +36,4 @@ Vous pouvez voir dès maintenant les entreprises dont l'inscription est finalis�
 Vous pourrez également filtrer les entreprises en fonction des profils recherchés (Licence 3, Master 1 & 2 MIAGE, Master informatique).
 Cela vous permettra de ne passer des entretiens qu'auprès d'entreprises qui cherchent votre spécialité et/ou niveau universitaire.
 
-Vous êtes attendus nombreux dès 13h00 pour des entretiens job dating.
+Vous êtes attendus nombreux dès 13h pour des entretiens job dating.
