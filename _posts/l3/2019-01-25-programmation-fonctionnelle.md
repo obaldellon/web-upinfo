@@ -12,7 +12,7 @@ tags:
   - S5
 ects: 6
 schedule: "18h cours + 18h TD + 18h TP"
-website: "http://deptinfo.unice.fr/~elozes/PF"
+website: "https://www.i3s.unice.fr/~elozes/enseignement/PF/"
 author: etienne
 #
 # Styling
