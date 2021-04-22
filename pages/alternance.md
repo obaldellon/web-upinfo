@@ -59,7 +59,9 @@ Le planning général des semestres 1, 2 et 3 est le suivant : 3 semaines en tem
 
 ### Visite en Entreprise ###
 
-À chaque semestre, le tuteur ou la tutrice académique effectue une visite en entreprise. L'étudiant se charge [d'imprimer et de pré-remplir le PV de visite](https://unice-my.sharepoint.com/:b:/g/personal/philippe_renevier_unice_fr/EVYdlsR0kptIrDZ644f5oRkBdmJMWg9ATcG19VSrmVIngg?e=WaKurg).
+À chaque semestre, le tuteur ou la tutrice académique effectue une visite en entreprise. L'étudiant se charge d'imprimer et de pré-remplir le PV de visite
+  - [Procès verbal au format pdf - 177ko](https://unice-my.sharepoint.com/:b:/g/personal/philippe_renevier_unice_fr/EQTr4dKQ2HpOhonLMeXq2joBqpke7AYReLRUPLfjlUlcQQ?e=oaRqS9)
+  - [ancienne version du PV](https://unice-my.sharepoint.com/:b:/g/personal/philippe_renevier_unice_fr/EVYdlsR0kptIrDZ644f5oRkBdmJMWg9ATcG19VSrmVIngg?e=WaKurg).
 
 Il y a également des échanges par courriel ou téléphone, ou lors de réunion d'information, notamment pour la prise de contact et le suivi tout au long du semestre.
 
