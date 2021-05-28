@@ -49,20 +49,25 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
   - mi-février 2021 : affectation aux sujets et début des projets.
     - Vendredi 19 février 2021 : fin du bonus d'affectation de sujet (1pt).
     - Lundi 1er mars 2021 : début du malus en cas d'absence de sujet (1pt / sem).
-  - ? avril 2021 : première réunion de suivi.
-  - ? mai 2021 : seconde réunion de suivi.
   - mi-juin 2021: rendu et évaluation des projets.
-    - ? juin 2021 : rendu du rapport sur moodle.
-    - ? juin 2021 : rendu de la présentation sur moodle.
-    - ? juin 2021 : soutenance finale.
+    - Mercredi 16 juin 2021 : rendu du rapport sur moodle (INFO).
+    - Jeudi 17 juin 2021 : soutenance finale (INFO).
+    - Mardi 22 juin 2021 : rendu du rapport sur moodle (MIAGE).
+    - Mercredi 23 juin 2021 : soutenance finale (MIAGE).
+
+
+Tous les rendus sont à faire dans le cours [SMEFN201 - ECUE TER Informatique S2](https://lms.univ-cotedazur.fr/course/view.php?id=14408) (onglet Rendus).
+Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription (cliquez pour voir).
+La date limite est stricte pour le rapport.
+Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance.
+
+**Le planning détaillé des soutenances est [ici](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRIjky1rWRIQQNCN3zOJzSj4tknRX6_vkz0I1WUPfZvXGWyvf9rVDTxfMeLgzHes9VYT-pGgYYaQA1/pubhtml?gid=316413472&single=true).**
+
 
 <!-- Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}). -->
 
-Tous les rendus sont à faire dans le cours [SMEFN201 - ECUE TER Informatique S2](https://lms.univ-cotedazur.fr/course/view.php?id=14408) (onglet Rendus).
 
 <!---
-Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription (cliquez pour voir).
-La date limite est stricte pour le rapport. Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance.
 
 Le planning des soutenances est [ici]({% include link-asset asset="TER-M1I-S2-2019-2020-Soutenances.pdf" %}).
 Nous alternerons les soutenances sur discord dans les salons vocaux 282 et TD06.
