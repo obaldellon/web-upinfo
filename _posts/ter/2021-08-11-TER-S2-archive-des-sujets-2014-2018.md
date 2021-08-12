@@ -28,9 +28,6 @@ header:
 
 N'hésitez pas à consulter aussi les sujets des autres accessibles en bas de la [page principale du TER]({% post_url /s2/2018-09-07-travail-etude-recherche %})
 
-
-`sed -n -e 's/\[\[[^\/]*\/\(.*\)\]\[\(.*\)\]\]/[\2]({% include link-asset asset="2015\/\1" %})/p' ter15.org`
-
 ### Liste des sujets en 2018
 
  1. [Single cell clustering with sparse feature selection]({% include link-asset asset="2018/ter01.pdf" %})
