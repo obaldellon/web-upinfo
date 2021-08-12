@@ -198,13 +198,5 @@ Si vous pensez que c\'est injuste, posez la question à votre encadrant ou au ju
 ### Listes des sujets des années précédentes ###
 
 {: .t10 } {% include list-posts-nonav category='TER' tag='S2' %}
--   [Liste des sujets 2017-2018](http://www.i3s.unice.fr/~malapert/ter18.html)
--   [Liste des sujets 2016-2017](http://www.i3s.unice.fr/~malapert/ter17.html)
--   [Liste des sujets 2015-2016](http://www.i3s.unice.fr/~malapert/ter16.html)
--   [Liste des sujets 2014-2015](http://www.i3s.unice.fr/~malapert/ter15.html)
--   [Liste des sujets 2013-2014](http://www.i3s.unice.fr/~malapert/ter14.html)
 -   [Liste des sujets 2012-2013]({% include link-asset asset="liste-des-sujets-12-13.zip" %})
 -   [Liste des sujets 2011-2012]({% include link-asset asset="liste-des-sujets-11-12.pdf" %})
--   [Liste des sujets 2010-2011](http://deptinfo.unice.fr/~huet/M1INFO/10-11/TER/)
--   [Liste des sujets 2009-2010](http://deptinfo.unice.fr/~huet/M1INFO/08-09/TER/)
--   [Liste des sujets 2008-2009](http://deptinfo.unice.fr/~huet/M1INFO/07-08/TER/)

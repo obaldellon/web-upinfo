@@ -71,8 +71,8 @@ sudo ln -s /opt/ibm/ILOG/CPLEX_Studio128/opl/oplide/oplide .
 La manipulation précédente ne marche pour les outils en ligne de commande (`oplrun` et `oplrunjava`) à cause d&rsquo;une sombre histoire de [`LD_LIBRARY_PATH`](http://users.skynet.be/Yves.Delhaye/unix/Cours/Notes/node93.html). Il faudra refaire la même chose pour `oplrunjava`.
 ```sh
 #!/bin/sh
-export LD_LIBRARY_PATH=/opt/ibm/ILOG/CPLEX_Studio128/opl/bin/x86-64_linux:$LIBRARY_PATH_LD
-/opt/ibm/ILOG/CPLEX_Studio128/opl/bin/x86-64_linux/oplrun
+export LD_LIBRARY_PATH=/opt/ibm/ILOG/CPLEX_Studio128/opl/bin/x86-64_linux:$LD_LIBRARY_PATH
+/opt/ibm/ILOG/CPLEX_Studio128/opl/bin/x86-64_linux/oplrun $*
 ```
 - Modification d&rsquo;oplide.ini.
 Par défaut, l&rsquo;IDE insère votre nom d&rsquo;utilisateur dans les fichiers de modèle et de données. Pour changer ce comportement, ajouter la ligne `-Duser.name=<mon nom>` dans `/opt/ibm/ILOG/CPLEX_Studio128/opl/oplide/oplide.ini`

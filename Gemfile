@@ -11,3 +11,5 @@ end
 
 
 gem "jekyll-scholar", "~> 6.8"
+
+gem "webrick", "~> 1.7"
