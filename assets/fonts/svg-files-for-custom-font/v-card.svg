@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Archive"
+   x="0px"
+   y="0px"
+   viewBox="0 0 20 20"
+   enable-background="new 0 0 20 20"
+   xml:space="preserve"
+   sodipodi:docname="v-card.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
+   id="metadata8829"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs8827" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1387"
+   id="namedview8825"
+   showgrid="false"
+   inkscape:zoom="33.35"
+   inkscape:cx="10"
+   inkscape:cy="10"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Archive" />
+<path
+   d="m 19,3 c 0.56,0 1,0.44 1,1 v 12 c 0,0.56 -0.44,1 -1,1 H 1 C 0.44,17 0,16.56 0,16 V 4 C 0,3.44 0.44,3 1,3 Z m -6,4 v 1 h 4 V 7 Z m -2,7.8 V 5 H 2 v 9.76 C 2.12,14.68 2.26,14.58 2.48,14.5 3.66,14 5.44,13.24 5.44,12.32 5.44,11.78 5.08,11.96 4.92,10.94 4.84,10.52 4.54,10.94 4.46,9.98 4.46,9.6 4.64,9.5 4.64,9.5 4.64,9.5 4.56,8.94 4.52,8.52 4.5,8.16 4.64,7.5 5.2,7.08 5.88,6.6 6.16,5.94 7.4,6 6.84,6.3 6.96,6.22 7.14,6.42 8.2,6.72 8.46,8.06 8.42,8.52 8.38,8.94 8.3,9.5 8.3,9.5 c 0,0 0.18,0.1 0.18,0.48 -0.06,0.96 -0.38,0.54 -0.46,0.96 -0.14,1.02 -0.5,0.84 -0.5,1.38 0,0.92 1.78,1.68 2.96,2.18 0.22,0.1 0.4,0.2 0.52,0.3 z M 18,11 v -1 h -5 v 1 z"
+   id="path8822"
+   style="stroke-width:0.02" />
+</svg>
