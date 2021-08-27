@@ -111,4 +111,7 @@ richard:
 martin:
   name: "M. Avanzini, CR INRIA"
   email: "martin.avanzini@inria.fr"
+laurent:
+  name: "L. Tichit, MCF"
+  email: "laurent.tichit@univ-cotedazur.fr"
 # you can add more authors here
