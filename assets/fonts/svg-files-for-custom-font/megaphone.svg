@@ -1,44 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Archive"
-   x="0px"
-   y="0px"
-   viewBox="0 0 20 20"
-   enable-background="new 0 0 20 20"
-   xml:space="preserve"
-   sodipodi:docname="megaphone.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
-   id="metadata5409"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs5407" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="2560"
-   inkscape:window-height="1387"
-   id="namedview5405"
-   showgrid="false"
-   inkscape:zoom="33.35"
-   inkscape:cx="10"
-   inkscape:cy="10"
-   inkscape:window-x="0"
-   inkscape:window-y="25"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Archive" />
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="megaphone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
 <path
    d="m 18.028239,6.6937347 q 1.287103,3.062416 1.486825,5.7253853 0.199723,2.66297 -0.865465,3.106799 -0.62136,0.266297 -1.353677,-0.06657 -0.732316,-0.332872 -1.442442,-0.887657 -0.710125,-0.554786 -2.19695,-0.909848 -1.486825,-0.355063 -3.306522,-0.177532 -0.6213594,0.08877 -0.9320392,0.421637 -0.3106799,0.332872 -0.1331485,0.821083 0.4882112,1.242719 1.0208047,2.396673 0.08877,0.221914 0.532595,0.488211 0.443828,0.266297 0.532594,0.443829 0.310679,0.754508 -0.488212,1.020805 Q 9.7730315,19.564761 8.6190777,19.964207 7.9533351,20.186121 7.4207411,19.032167 6.7106157,17.345619 6.1336388,16.1029 6.0004903,15.836603 5.3791305,15.725646 4.7577708,15.614689 4.3583253,15.037712 3.6925827,15.259626 3.5150513,15.348391 2.7605431,15.614689 1.8728863,15.082094 0.98522959,14.5495 0.67454973,13.750609 0.29729561,13.040484 0.56359263,11.997487 0.82988966,10.954491 1.5178236,10.643811 4.3139424,9.4898577 6.2445959,8.2471377 q 1.9306534,-1.242719 2.7517359,-2.285716 0.8210825,-1.042996 1.3092932,-2.04161 0.488212,-0.998614 0.554786,-1.730931 0.06657,-0.732317 0.332871,-1.30929401 0.266297,-0.576977 0.798891,-0.798891 1.065188,-0.443828 2.884885,1.55340001 1.819696,1.997227 3.151181,5.059643 z M 17.40688,13.35116 q 0.177531,-0.08877 0.221914,-0.843274 0.04438,-0.754508 -0.244106,-2.174759 Q 17.0962,8.9128767 16.47484,7.4926257 15.85348,6.0279927 14.988015,4.7630817 14.12255,3.4981707 13.50119,2.8990017 q -0.62136,-0.599168 -0.798891,-0.510402 -0.177532,0.08877 -0.221914,0.932039 -0.04438,0.843274 0.221914,2.330099 0.266297,1.486825 0.887657,2.951459 0.621359,1.4646333 1.509016,2.6407783 0.887657,1.176145 1.509016,1.686548 0.62136,0.510402 0.798892,0.421637 z"
    id="path5402"

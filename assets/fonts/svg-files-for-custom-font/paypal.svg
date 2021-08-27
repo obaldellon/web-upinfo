@@ -1,44 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Archive"
-   x="0px"
-   y="0px"
-   viewBox="0 0 20 20"
-   enable-background="new 0 0 20 20"
-   xml:space="preserve"
-   sodipodi:docname="paypal.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
-   id="metadata6549"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs6547" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="2560"
-   inkscape:window-height="1387"
-   id="namedview6545"
-   showgrid="false"
-   inkscape:zoom="33.35"
-   inkscape:cx="10"
-   inkscape:cy="10"
-   inkscape:window-x="0"
-   inkscape:window-y="25"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Archive" />
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Paypal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
 <path
    d="m 7.6768752,10.755556 c -0.84445,0 -1.53334,0.6 -1.66667,1.422222 l -0.95556,5.6 h -3.06666 c -0.33334,0 -0.57778,-0.288889 -0.53334,-0.622222 l 1.4,-9.088889 1.13334,-7.311111 C 4.0546452,0.311111 4.4324252,0 4.8768752,0 h 6.2888898 c 1.97777,0 3.62222,0.622222 4.57777,1.688889 0.31111,0.377778 0.53334,0.688889 0.66667,1.022222 0.15556,0.355556 0.24444,0.733333 0.24444,1.155556 0,0.08889 0,0.177777 0,0.333333 -0.0222,0.2 -0.0444,0.422222 -0.0667,0.688889 -0.0222,0.111111 -0.0444,0.222222 -0.0667,0.355555 -0.73333,3.711112 -3,5.511112 -6.9999998,5.511112 z M 17.787985,5.644444 c 0.77778,0.911112 0.91111,2.2 0.62222,3.733334 -0.73333,3.711111 -3.2,5 -6.37778,5 h -0.48889 c -0.37777,0 -0.71111,0.288889 -0.77777,0.666666 l -0.0222,0.222223 -0.62222,3.911111 -0.0444,0.155555 C 10.032425,19.711111 9.6990952,20 9.2990952,20 h -3.22222 l 1.22222,-7.622222 c 0.0444,-0.177778 0.2,-0.311111 0.37778,-0.311111 h 1.84444 c 4.5333298,0 7.3777798,-2.222223 8.2666698,-6.422223 z"
    id="path6542"
