@@ -21,5 +21,5 @@ permalink: "/contact/"
 
 #### Pour communiquer entre nous ####
 
-<span class="icon-discord pr10"></span>[Discord de la Licence](https://discord.com/invite/mjtRTSb)<br/>
-<span class="icon-discord pr10"></span>[Discord du Master](https://discord.com/invite/YJAcCW4)
+<span class="iconfont pr10">&#xf113;</span>[Discord de la Licence](https://discord.com/invite/mjtRTSb)<br/>
+<span class="iconfont pr10">&#xf113;</span>[Discord du Master](https://discord.com/invite/YJAcCW4)
