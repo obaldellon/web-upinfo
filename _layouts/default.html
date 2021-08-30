@@ -9,10 +9,12 @@ layout: compress
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
 	{% include _navigation.html %}
-	{% endunless %}
+    {% endunless %}
 
-	{% include _masthead.html %}
-	{{ content }}
+    <div class="content">
+        {% include _masthead.html %}
+        {{ content }}
+    </div>
 
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}
