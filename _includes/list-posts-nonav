@@ -22,27 +22,30 @@
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
+{% assign posts = NULL %}
+
+{% if category == NULL and tag == NULL %}
+    {% assign posts = site.posts %}
+{% elsif category and tag == NULL %}
+    {% assign posts = site.categories.[category] %}
+{% elsif category == NULL and tag %}
+    {% assign posts = site.tags.[tag] %}
+{% endif %}
+
 <ul style="margin-bottom:0">
-  {% if category and tag %}
+  {% if posts %}
+
+    {% for post in posts %}
+      {% include list-posts-item post = post %}
+    {% endfor %}
+
+  {% else %}
 
     {% for post in site.categories.[category] %}
       {% if post.tags contains tag %}
-        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
+        {% include list-posts-item post = post %}
       {% endif %}  
     {% endfor %}
-  
-  {% elsif category %}
-
-    {% for post in site.categories.[category] %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
-    {% endfor %}
-
-  {% elsif tag %}
-
-    {% for post in site.tags.[tag] %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
-    {% endfor %}
-
   {% endif %}
 </ul>
 

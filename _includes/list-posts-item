@@ -1,0 +1,3 @@
+{% assign post = include.post %}
+
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>

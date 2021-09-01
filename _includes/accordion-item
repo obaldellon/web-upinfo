@@ -1,0 +1,23 @@
+    {% assign post = include.post %}
+    {% assign counter = include.counter %}
+
+    {% assign authors = post.author | split: ", " %}
+    {% assign names = "" %}
+
+    {% for author in authors %}
+        {% if site.data.authors[author].name %}
+            {% if names == "" %}
+                {% assign names = site.data.authors[author].name %}
+            {% else %}
+                {% assign names = names | append:", " | append:site.data.authors[author].name %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+    <dd class="accordion-navigation">
+        <a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}{% if names != "" %} › {{ names }}{% endif %}</a>
+        <div id="panel{{ counter }}" class="content">
+        {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+        </div>
+    </dd>

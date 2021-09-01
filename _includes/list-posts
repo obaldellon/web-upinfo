@@ -24,39 +24,34 @@
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
+{% assign posts = NULL %}
+
+{% if category == NULL and tag == NULL %}
+    {% assign posts = site.posts %}
+{% elsif category and tag == NULL %}
+    {% assign posts = site.categories.[category] %}
+{% elsif category == NULL and tag %}
+    {% assign posts = site.tags.[tag] %}
+{% endif %}
+
 <ul class="side-nav">
 
-  {% if category == NULL and tag == NULL %}
+  {% if posts %}
 
-    {% for post in site.posts limit:include.entries offset:include.offset %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong> {% if post.subheadline %} &middot; {{ post.subheadline }} {% endif %}</a></li>
+    {% for post in posts limit:include.entries offset:include.offset %}
+      {% include list-posts-item post = post %}
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
 
-
-  {% elsif category and tag %}
+  {% else %}
 
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
       {% if post.tags contains tag %}
-        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
+        {% include list-posts-item post = post %}
       {% endif %}
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
-
-  {% elsif category %}
-
-    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
-    {% endfor %}
-      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
-
-
-  {% elsif tag %}
-
-    {% for post in site.tags.[tag] limit:include.entries %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title }}</strong>{% if post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a></li>
-    {% endfor %}
-
+    
   {% endif %}
 </ul>
 
