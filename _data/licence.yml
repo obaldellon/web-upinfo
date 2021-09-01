@@ -4,8 +4,8 @@ S1:
     - title: Bases de l'informatique
       info: true
     - title: "Mathématiques S1 : Fondements 1"
-    - title: "Mathématiques : complément 1"
-    - title: "Electronique S1 : Électronique numérique, bases"
+    - title: "Mathématiques S1 : Approfondissements 1"
+    - title: "Electronique S1 : Électronique numérique - Bases"
     - title: UE transversale
       uet: true
 
@@ -19,8 +19,8 @@ S2:
     - title: "Mathématiques S2 : Fondements 2"
     - title: L'une des UE non disciplinaire suivantes
       options:
-        - title: "Mathématiques S2 : compléments 2"
-        - title: "Mathématiques S2 : Méthodes math approche discrète"
+        - title: "Mathématiques S2 : Approfondissements 2"
+        - title: "Mathématiques S2 : Methodes Maths-Approche discrète"
         - title: "Électronique S2 : Électronique analogique"
     - title: UE transversale
       uet: true
@@ -37,8 +37,8 @@ S3:
     - title: L'une des UE non disciplinaires suivantes
       options:
         - title: "Mathématique S3 : Fondements S3"
-        - title: "Mathématique S3 : Structures algébriques"
-        - title: "Mathématique S3 : Méthodes mathématiques, approche géométrique"
+        - title: "Mathématique S3 : Methodes - approche géometrique"
+        - title: "Mathématique S3 : Methodes - mathématiques et ingénierie"
         - title: Programmation en R
         - title: Introduction à l’intelligence artificielle
 
