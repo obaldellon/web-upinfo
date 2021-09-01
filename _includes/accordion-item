@@ -4,6 +4,14 @@
     {% assign authors = post.author | split: ", " %}
     {% assign names = "" %}
 
+    {% assign read_more = site.data.language.read_more %}
+    {% assign read = site.data.language.read %}
+
+    {% if post.language == "en" or post.tags contains "EN" %}
+        {% assign read_more = site.data.language_en.read_more %}
+        {% assign read = site.data.language_en.read %}
+    {% endif %}
+
     {% for author in authors %}
         {% if site.data.authors[author].name %}
             {% if names == "" %}
@@ -18,6 +26,6 @@
         <a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong>{% if post.subheadline %} › {{ post.subheadline }}{% endif %}{% if names != "" %} › {{ names }}{% endif %}</a>
         <div id="panel{{ counter }}" class="content">
         {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ read }} {{ post.title | escape_once }}"><strong>{{ read_more }}</strong></a><br><br>
         </div>
     </dd>
