@@ -1,0 +1,35 @@
+{% comment %}
+*   
+*   This include lets you disaply the calendar, agenda, and timetable 
+*   
+*   The two parameters are URL.  
+*
+*   Example: {% include page-edt calendar="https://my-calendar.com" agenda="https://my-agenda.com" %}
+*   
+{% endcomment %}
+## Academic calendar
+
+The [academic calendar]({{ include.calendar }}) (in French) describes the weeks of lectures/holidays and exams for both full time and apprentices students. Generally: 
+ - **for full time-students** : lectures take place from Monday to Friday; 
+ - **for apprentices** : lectures take place from Monday to Wednesday and Thursdays and Fridays are devoted to the company.
+
+Exceptionally, some lectures can take place with a different schedule, than the one described above.
+
+## Agenda and timetable
+
+In the calendar below you can find events and the schedule of your lectures:
+It could be necessary to **refresh the page or clean the cache** to see the last version  (Ctrl + F5 or Ctrl + Maj + R for Firefox)
+
+
+
+## Lectures
+
+ - Lectures take place: 
+   - in the morning from 9h15 to 12h30 and 
+   - in the afternoon from  14h00 à 17h15.
+ 
+ <iframe src="{{ include.agenda }}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
+Below you can find a more readable version of the schedule.
