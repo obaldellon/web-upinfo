@@ -65,7 +65,6 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 - [TD1]({% include link-asset asset="TD1.pdf" %}), [TD2]({% include link-asset asset="TD2.pdf" %}), [TD3]({% include link-asset asset="TD3.pdf" %}), [TD4]({% include link-asset asset="TD4.pdf" %}), [TD5]({% include link-asset asset="TD5.pdf" %}), [TD6]({% include link-asset asset="TD6.pdf" %})
 
 - [Contrôle continu de 2019]({% include link-asset asset="interro2019.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="Correction-CC2019.pdf" %})
-- [Contrôle continu de 2020]({% include link-asset asset="interro2020.pdf" %}), ainsi qu'une [correction]({% include link-asset asset="interro2020-corrige.pdf" %})
 - [Examen terminal de 2019]({% include link-asset asset="exam2019.pdf" %})
 
 ####  Programmation C ####
