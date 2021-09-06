@@ -7,9 +7,16 @@
     {% assign read_more = site.data.language.read_more %}
     {% assign read = site.data.language.read %}
 
-    {% if post.language == "en" or post.tags contains "EN" %}
-        {% assign read_more = site.data.language_en.read_more %}
-        {% assign read = site.data.language_en.read %}
+    {% if post.language %}
+        {% if post.language == "en" %}
+            {% assign read_more = site.data.language_en.read_more %}
+            {% assign read = site.data.language_en.read %}
+        {% endif %}
+    {% else %}
+        {% if post.tags contains "EN" %}
+            {% assign read_more = site.data.language_en.read_more %}
+            {% assign read = site.data.language_en.read %}
+        {% endif %}
     {% endif %}
 
     {% for author in authors %}

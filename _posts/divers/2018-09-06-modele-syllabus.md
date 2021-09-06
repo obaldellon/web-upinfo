@@ -40,6 +40,10 @@ tags:
 ects: 3
 schedule: "24h"
 website: "#"
+# Vous pouvez définir le language du syllabus/post
+# Cela changera le champ lang dans le html, de plus cela détermine le texte afficher dans les listes (Lire plus ou Read more)
+# Par défaut le language est fr, le language est modifié pour en si le tag EN est présent
+language: fr
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.

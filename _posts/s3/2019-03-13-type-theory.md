@@ -14,6 +14,7 @@ ects: 3
 schedule: "24h"
 # website:
 author: cinzia
+language: en
 #
 # Styling
 #

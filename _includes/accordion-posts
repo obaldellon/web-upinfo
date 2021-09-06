@@ -5,11 +5,11 @@
 *    › category
 *    › tag
 *   
-*   Example for Category: {% include table-posts category='design' %}
+*   Example for Category: {% include accordion-posts category='design' %}
 *   
-*   Example for Tag: {% include table-posts tag='terminal' %}
+*   Example for Tag: {% include accordion-posts tag='terminal' %}
 *
-*   Example for both: {% include table-posts category='design' tag='terminal' %}
+*   Example for both: {% include accordion-posts category='design' tag='terminal' %}
 *   
 *   
 *   This loop works like this:

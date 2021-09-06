@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Combinatorial Optimization"
 logo: "logo_blanc.png"
-teaser: "This course presents greedy algorithms, decision diagrams, and markov models"
+teaser: "This course presents greedy algorithms, decision diagrams, and markov models."
 categories:
   - S2
 tags:
