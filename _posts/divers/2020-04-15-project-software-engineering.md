@@ -11,6 +11,7 @@ categories:
 tags:
   - NEWS
   - Fablab
+language: en
 # website: "https://lms.univ-cotedazur.fr/course/view.php?id=11739"
 # email: "#"
 #
