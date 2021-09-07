@@ -26,7 +26,7 @@ header:
 
 {% include numbered-headings main=3 %}
 
-## Stack overflow: exploitation des failles de sécurité dans les programmes bugués ###
+### Stack overflow: exploitation des failles de sécurité dans les programmes bugués ###
 
 - Encadrant : [Sid Touati](mailto:Sid.Touati@inria.fr), [site web](http://www-sop.inria.fr/members/Sid.Touati/).
 
