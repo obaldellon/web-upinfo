@@ -112,6 +112,99 @@ Ce stage a pour objectif d’évaluer les performances de quelques applications 
 - Références :
   - \[1\] https://www.Rust-lang.org/fr/learn
 
+
+### Un nouvel outil pour faciliter la programmation sous Node-Red (par transformation de modèles) ###
+
+- Encadrant : Gaëtan Rey (Gaetan.REY@univ-cotedazur.fr)  / Jean-Yves Tigli (Jean-Yves.TIGLI@univ-cotedazur.fr)
+
+- Mots-clés : Node-Red, IoT, Projet OCTOPUS
+
+Le développement de l'IoT ainsi que les approches web, cloud et services poussent une nouvelle forme de développement informatique où créer une application ne consiste plus à écrire le code de celle-ci mais plus à connecter entre eux différents services. En ce sens, on retrouve dans ces nouvelles approches d'utilisations des services les mêmes concepts que ceux développés dans les approches à composants que l'on retrouve dans nombre de plateformes logicielles en particulier pour de la programmation graphique. Le projet OCTOPUS en partenariat avec le CEA, EDF R&D, Scalian et d'autres entreprises consiste à mettre en œuvre ce type plateforme pour assurer la continuité des services des travailleurs mobiles en fonction du contexte (c'est-à-dire en fonction de leur environnement physique et social, de leurs activités et des équipements présents).  
+
+Le modèle d'assemblage de composants (Bean) aujourd'hui utilisé dans la plateforme OCTOPUS est plus expressif mais pas directement implémentable sur des cibles web, plus populaires basées sur les concepts de nœuds et de flux comme Node-Red.  
+
+L'objectif de ce projet est donc de doter des plateformes comme Node-Red basées sur des flux, d'outils de programmation graphique de plus haut niveau basés sur des Beans. 
+
+Dans le cadre de ce projet, le travail attendu est le suivant : 
+
+·                    Etudier et comprendre l'intérêt des outils permettant de décrire de transformations de modèles 
+
+·                    Développer l'outil de génération de flux Node-Red à partir d'un modèle d'assemblage de Beans. 
+
+·                    Travailler avec les encadreurs sur un/des scénario(s) mettant en évidence les contributions et l'intérêt des nouveaux outils proposés et déjà disponibles. 
+
+·                    Mettre en œuvre ce scénario à l'aide du nouvel outil over Node-RED 
+
+
+Si les résultats sont prometteur, une poursuite en stage de ce projet pourrait être envisagé dans le cadre du projet OCTOPUS.
+
+ 
+
+- Références :
+
+  - [1] https://nodered.org/
+
+ 
+
+### Développement d'un raisonneur pour l'autoadaptation d'applications en IoT ###
+
+- Encadrant : Gaëtan Rey (Gaetan.REY@univ-cotedazur.fr)  / Jean-Yves Tigli (Jean-Yves.TIGLI@univ-cotedazur.fr)
+
+- Mots-clés : IoT, autoadaptation, Projet OCTOPUS
+
+Le développement de l'IoT ainsi que les approches web, cloud et services poussent une nouvelle forme de développement informatique où créer une application ne consiste plus à écrire le code de celle-ci mais plus à connecter entre eux différents services. En ce sens, on retrouve dans ces nouvelles approches d'utilisations des services les mêmes concepts que ceux développés dans les approches à composants que l'on retrouve dans nombre de plateformes logicielles. 
+
+Dans le cadre de ses travaux sur la continuité des services des travailleurs mobiles malgré l'évolution du contexte, le groupe de recherche en intelligence ambiante de l'équipe SPARKS du laboratoire I3S s'intéresse à cette nouvelle forme de développement et en particulier à des processus automatiques de création d'application en fonction de règles générique d'adaptation. 
+
+Nous souhaitons mettre en œuvre un raisonneur générique permettant de prendre en charge d'une part des règles d'adaptation particulières spécifiées lors de nos travaux antérieurs et nommées Aspect d'Assemblage (AA) et d'autres par des descriptions de services utilisables qui se présentent sous la forme de contrat logiciel de type SSDP ou WoT-TD (Web of Thing – Thing Description).  
+
+Le raisonneur ainsi développé pourra être intégré dans un des démonstrateurs de projet OCTOPUS. Ce projet OCTOPUS financé par la BPI et en partenariat avec le CEA, EDF R&D, Scalian et d'autres entreprises consiste en la concrétisation du plusieurs années de recherche effectuée au sein du groupe de recherche en intelligence ambiante de l'équipe SPARKS du laboratoire I3S. 
+
+Dans le cadre de ce projet, le travail attendu est le suivant : 
+
+·                    Etudier et comprendre l'intérêt des outils proposés dans le projet pour adresser les problématiques de la continuité de service et en particulier architecture de la plateforme. 
+
+·                    Développer le raisonneur pour la mise en place d'un AA. 
+
+·                    Enrichir le raisonneur pour qu'il la superposition des différentes productions dû à l'utilisation de différents AA. 
+
+·                    Travailler avec les encadreurs sur un/des scénario(s) mettant en évidence les contributions et l'intérêt des outils proposés et déjà disponibles. 
+
+·                    Mettre en œuvre ce scénario. 
+
+
+Si les résultats sont prometteur, une poursuite en stage de ce projet pourrait être envisagé dans le cadre du projet OCTOPUS.
+
+ 
+### Développement d'un assistant multistandards de gestion dynamique de services ###
+
+- Encadrant : Gaëtan Rey (Gaetan.REY@univ-cotedazur.fr)  / Jean-Yves Tigli (Jean-Yves.TIGLI@univ-cotedazur.fr)
+
+- Mots-clés : REST, OpenHab, UPnP, IoT, Projet OCTOPUS
+
+Aujourd'hui avec le développement important de l'IoT, de plus en plus de protocoles de communication différents sont utilisés. Pour pallier ce problème de la grande variété des protocoles de communication, une des tendances actuelles est de ne plus concevoir des applications qui pilotent directement les dispositifs mais de passer par des Gateway qui fournissent un protocole de plus haut-niveau d'abstraction. Cependant, malgré cette réduction des protocoles il en existe encore de nombreux à prendre en compte. 
+
+Plus important encore que leur nombre, ces protocoles, même ceux de haut niveau, n'offrent pas obligatoirement l'ensemble de fonctionnalités attendues pour gérer convenablement les dispositifs de l'IoT. En effet, si l'adressage et la liaison sont assurés par tous, la présentation d'un véritable contrat de description de services est plus rare et peu de protocoles offrent des fonctionnalités de gestion de la découverte de services, de la gestion de la disparition ... La gestion du cycle de vie des services et dispositifs est le parent pauvre des protocoles de l'IoT. 
+
+Nous souhaitons mettre en œuvre un assistant générique permettant de prendre en charge différent standards, d'étendre ceux-ci avec les fonctionnalités manquantes mais nécessaires à une gestion correcte des dispositifs de l'IoT.  
+
+L'assistant ainsi développé pourra être intégré dans un des démonstrateurs de projet OCTOPUS. Ce projet OCTOPUS financé par la BPI et en partenariat avec le CEA, EDF R&D, Scalian et d'autres entreprises consiste en la mise en œuvre d'une plateforme qui assure la continuité des services des travailleurs mobiles en fonction du contexte. Ce projet est la concrétisation de plusieurs années de recherche effectuée au sein du groupe de recherche en intelligence ambiante de l'équipe SPARKS du laboratoire I3S. 
+
+Dans le cadre de ce projet, le travail attendu est le suivant : 
+
+·                    Identifier le format du contrat pivot qui sera fourni par l'assistant en s'appuyant sur les standards actuels (SSDP, WoT, ...). 
+
+·                    Développer assistant permettant de fournir un contrat précédemment identifié pour le protocole REST, pour la Gateway OpenHab et le protocole UPnP. 
+
+·                    Enrichir l'assistant pour qu'il assure les fonctionnalités manquantes des protocoles précédemment implémentés. 
+
+·                    Travailler avec les encadreurs sur un/des scénario(s) mettant en évidence les contributions et l'intérêt des outils proposés et déjà disponibles. 
+
+·                    Mettre en œuvre ce scénario. 
+
+
+Si les résultats sont prometteur, une poursuite en stage de ce projet pourrait être envisagé dans le cadre du projet OCTOPUS.
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
