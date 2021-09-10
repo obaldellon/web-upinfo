@@ -49,7 +49,7 @@ Deux séances de suivi - auxquelles vous êtes bien sûr conviés - permettront 
 
 ### Proposer un sujet ###
 
-Si vous souhaitez proposer des sujets, il vous suffit de d'envoyer un mail à [Marie Pelleau](mailto:marie.pellea@univ-cotedazur.fr) avant le **1er octobre 2021** avec les informations suivantes en **respectant le format suivant** (un modèle est disponible [ici]({% include link folder="assets/ter" page="modele_sujet_TER.md" %})) :
+Si vous souhaitez proposer des sujets, il vous suffit de d'envoyer un mail à [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) avant le **1er octobre 2021** avec les informations suivantes en **respectant le format suivant** (un modèle est disponible [ici]({% include link folder="assets/ter" page="modele_sujet_TER.md" %})) :
 
 ```markdown
 {% include_relative modele_sujet_TER.md %}
