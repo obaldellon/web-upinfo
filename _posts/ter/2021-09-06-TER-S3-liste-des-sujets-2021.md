@@ -142,7 +142,7 @@ Si les résultats sont prometteur, une poursuite en stage de ce projet pourrait 
 
 - Références :
 
-  - [1] https://nodered.org/
+  - \[1\] https://nodered.org/
 
  
 
@@ -204,6 +204,25 @@ Dans le cadre de ce projet, le travail attendu est le suivant :
 
 
 Si les résultats sont prometteur, une poursuite en stage de ce projet pourrait être envisagé dans le cadre du projet OCTOPUS.
+
+### Parcoursup en Rust ###
+
+- Encadrant : [LOZES Etienne](etienne.lozes@univ-cotedazur.fr) [site web](http://i3s.unice.fr/~elozes)
+- Mots-clés : Mariages stables, programmation multicoeur
+- Prérequis : Des notions de programmation impérative et de parallélisme, envie d'apprendre de nouveaux langages
+
+<!-- Résumé du projet (15 lignes max) -->
+Le but du TER est de concevoir et implémenter une version parallèle de l'algorithme des mariages stables dans le langage Rust.
+
+<!— Précisez si une suite est possible -->
+**Il sera possible de poursuivre sur la thématique de la programmation concurrente dans le cadre d'un stage de recherche au laboratoire I3S, en axant sur la preuve de programme**.
+
+- Références :
+
+1. l'article de Gale et Shapley : https://doi.org/10.2307/2312726
+2. des  notes de cours *en français* (traduites en anglais par la suite) et *tapées à la machine* (un an avant la naissance de TeX d'un cours de Donald Knuth sur les mariages stables : https://www-cs-faculty.stanford.edu/~knuth/mariages-stables.pdf
+3. billet de blog et vidéo de vulgarisation scientifique sur l'algorithme de Gale-Shapley : https://sciencetonnante.wordpress.com/2020/01/09/parcoursup/, https://youtu.be/dO1pLi2Dedw 
+4. leçon inaugurale de Claire Mathieu au collège de France, où il est question d'APB, et, pour approfondir le sujet, son autre leçon sur la théorie algorithmique des jeux : https://www.college-de-france.fr/site/claire-mathieu/inaugural-lecture-2017-11-16-18h00.htm, https://www.college-de-france.fr/site/claire-mathieu/course-2017-12-12-10h00.htm
 
 <!--
 ### Nom du projet ###
