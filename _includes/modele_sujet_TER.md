@@ -1,1 +1,0 @@
-assets/ter/modele_sujet_TER.md
