@@ -37,7 +37,7 @@ L'année dernière, le but était de réaliser une bande Led similaire à [celle
 
 ### Autres sujets ###
 
-La liste d'autres sujets est disponible [ici]({% post_url /ter/2020-09-08-TER-S3-liste-des-sujets-2020 %}).
+La liste d'autres sujets est disponible [ici]({% post_url /ter/2021-09-06-TER-S3-liste-des-sujets-2021 %}).
 Elle sera mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
 
 ### Évaluation du TER ###
@@ -85,6 +85,7 @@ Voici quelques conseils :
 - Pendant la séance de questions, ne coupez pas la parole au jury ou à vos camarades. Vos réponses doivent être concises.
 - Préparez soigneusement une éventuelle démonstration. Vous pouvez même l\'enregistrer au format avi.
 
+<!--
 L'ordre de passage est donné ci-dessous.
 
 | Horaire | Étudiant                 | Sujet                                                                                                                        |
@@ -98,6 +99,7 @@ L'ordre de passage est donné ci-dessous.
 | 14h00   | Thomas Portet            | Apprentissage de la dynamicité des stratégies de recherche                                                                   |
 | 14h45   | Florian Regin            | New modelization of the universal faring engine with constraint programming                                                  |
 | 15h30   | Alexandre Bonlarron      | Refactorisation de codes de génération automatique de phrases standardisées permettant des tests de lecture à grande échelle |
+-->
 
 ### Listes des sujets des années précédentes ###
 

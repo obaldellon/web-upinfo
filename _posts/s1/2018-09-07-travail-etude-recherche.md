@@ -32,10 +32,11 @@ Il n'y a ni prérequis, ni cours magistraux.
 Les problématiques abordées seront toutefois liées à d'autres cours.
 
 Les TDs servent à suivre et à encadrer les équipes d'étudiants dans la réalisation du projet.
- - Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
- - Définir et formaliser un ou plusieurs problèmes à résoudre dans un contexte agile.
- - Déterminer les techniques de résolution et les implémenter correctement.
- - Évaluer rigoureusement les performances en termes de qualité et d'efficacité.
+
+- Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
+- Définir et formaliser un ou plusieurs problèmes à résoudre dans un contexte agile.
+- Déterminer les techniques de résolution et les implémenter correctement.
+- Évaluer rigoureusement les performances en termes de qualité et d'efficacité.
 
 Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes choisis.
 
@@ -52,7 +53,9 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 #### Soutenance ####
 
-- **Les soutenances auront lieu le lundi 18 janvier 2021.**
+<!-- - **Les soutenances auront lieu le lundi 18 janvier 2021.** -->
+
+- La date des soutenances n'est pas encore connue.
 
 - La durée d'une soutenance est de 12 minutes plus 3 minutes de démo.
 - La soutenance se déroule avec un vidéo-projecteur et un de vos ordinateurs pour la démonstration.
@@ -62,7 +65,7 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 **Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
-L'ordre de passage est donné ci-dessous.
+<!-- L'ordre de passage est donné ci-dessous.
 
 | Horaire | Équipe     | Étudiants                                                                             |
 |---------|------------|---------------------------------------------------------------------------------------|
@@ -75,6 +78,7 @@ L'ordre de passage est donné ci-dessous.
 | 14h00   | Aventure   | Ralph El Chalfoun, Jérémy Hirth Daumas, Nabil Yacoub, Rémi Yacoub                     |
 | 14h45   | Vamos      | Ossama Ashraf, Kevin Levy, Nicolas Zimmer                                             |
 | 15h30   | Lamac      | Meryem Boufalah, Loïc Filippi, Anastasiia Kozlova, Alessandro Pepegna, Chaeyeon Shim  |
+-->
 
 #### Rapport ####
 
@@ -93,13 +97,15 @@ Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-
 
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ZDh1dXRiaDUwcGI0aDJlZG9xNjdhY2s1aXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
+<!-- 
 ### Supports ###
 
-  - Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA.pdf" %})
-  - [Les règles de 7 wonders]({% include link-asset asset="7wonders-regles.pdf" %})
-  - [Le descriptif des effets]({% include link-asset asset="7wonders-effets.pdf" %})
-  - [Les cartes et les chaînages]({% include link-asset asset="7wonders-cartes-chainages.pdf" %})
-  - [Les merveilles]({% include link-asset asset="merveilles.pdf" %}) [(images)]({% include link-asset asset="wonderboards.zip" %})
+- Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA.pdf" %}) 
+- [Les règles de 7 wonders]({% include link-asset asset="7wonders-regles.pdf" %})
+- [Le descriptif des effets]({% include link-asset asset="7wonders-effets.pdf" %})
+- [Les cartes et les chaînages]({% include link-asset asset="7wonders-cartes-chainages.pdf" %})
+- [Les merveilles]({% include link-asset asset="merveilles.pdf" %}) [(images)]({% include link-asset asset="wonderboards.zip" %})
+-->
 
 <!--
 ### Quelques réflexions sur le jeu Puerto Rico ###
