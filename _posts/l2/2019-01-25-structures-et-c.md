@@ -50,7 +50,7 @@ Ce cours est divisé en deux sous-modules :
 - [Steve Malalel](mailto:steve.malalel@etu.unice.fr) (chargé de TD)
 
 - [Amaya Nogales](mailto:amaya.nogales-gomez@i3s.unice.fr) (chargée de TP)
-- [Jérémie Marquès](mailto:jrv.marques@gmail.com) (chargé de TP)
+- [Jérémie Marquès](mailto:mailto:jmarques@unice.fr) (chargé de TP)
 - [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
 
 #### Structures de données ####
