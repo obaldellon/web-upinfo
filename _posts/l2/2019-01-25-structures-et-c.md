@@ -47,10 +47,12 @@ Ce cours est divisé en deux sous-modules :
 - [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr)
 
 - [Loic Germerie Guizouarn](mailto:loic.germerie-guizouarn@etu.univ-cotedazur.fr) (chargé de TD et de TP)
-- [Steve Malalel](mailto:steve.malalel@etu.unice.fr) (chargé de TD)
+- [Victor Jung](mailto:victor.jung@etu.univ-cotedazur.fr) (chargé de TD)
+- [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD)
 
+- [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (chargé de TP)
 - [Amaya Nogales Gomez](mailto:amaya.nogales-gomez@i3s.unice.fr) (chargée de TP)
-- [Jérémie Marquès](mailto:mailto:jmarques@unice.fr) (chargé de TP)
+- [Jérémie Marquès](mailto:jmarques@univ-cotedazur.fr) (chargé de TP)
 - [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
 
 #### Structures de données ####
