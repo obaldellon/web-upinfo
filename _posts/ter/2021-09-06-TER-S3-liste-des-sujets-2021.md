@@ -224,6 +224,35 @@ Le but du TER est de concevoir et implémenter une version parallèle de l'algor
 3. billet de blog et vidéo de vulgarisation scientifique sur l'algorithme de Gale-Shapley : https://sciencetonnante.wordpress.com/2020/01/09/parcoursup/, https://youtu.be/dO1pLi2Dedw 
 4. leçon inaugurale de Claire Mathieu au collège de France, où il est question d'APB, et, pour approfondir le sujet, son autre leçon sur la théorie algorithmique des jeux : https://www.college-de-france.fr/site/claire-mathieu/inaugural-lecture-2017-11-16-18h00.htm, https://www.college-de-france.fr/site/claire-mathieu/course-2017-12-12-10h00.htm
 
+
+### Optimisation d’une application de chirurgie assistée par ordinateur, avec casque de réalité augmentée.
+
+Type de projet : () recherche      ( X ) développement
+
+Résumé du projet (300 mots max) : 
+
+Les casques de réalité augmentée ou mixte tels que l’Hololens de Microsoft permettent d'afficher dans le champ de vision des utilisateurs des objets virtuels complexes, statiques ou animés, totalement intégrés dans l'environnement réel. Ces casques sont de plus en plus utilisés dans de multiples domaines : jeux, médecine, chimie, éducation etc. 
+
+Dans le domaine de la médecine, de telles casques sont maintenant utilisés pour faire de la chirurgie assistée. Durant un acte opératoire, des informations sont affichées dans le casque du praticien en temps réel pour lui faciliter les manipulations. 
+  
+Au sein de notre équipe nous avons commencé à développer un moteur permettant de détecter automatiquement des plaies (à l’aide d’un réseau de neurones). Connecté à un casque de Réalité augmentée, ce système permet d’afficher dans le champ de vision de la personne portant le casque le contour d’une plaie si celle-ci est présente. 
+
+L’objectif de ce TER sera de réduire le temps nécessaire entre capture des images via le casque, détection de la plaie par le moteur, et affichage du résultat dans le casque. Ceci nécessitera notamment de faire évoluer le script python qui gère à la fois le moteur d’inférence, et la transmission des images entre le casque et le PC où le moteur tourne.
+
+
+Mots-clés (5 mots qui caractérisent la thématique et le scope du projet) : 
+
+Réalité mixte, réseau de neurones, python, hololens.
+
+Références bibliographiques :
+
+\[1\] Hololens : https://www.microsoft.com/en-us/search?q=hololens
+\[2\] RCNN : https://github.com/matterport/Mask_RCNN
+
+Nom et affiliation de l'encadrant : Fréderic Payan, Laboratoire I3S, Sophia Antipolis, Université Côte d'Azur.
+
+Coordonnées (mail et téléphone) : Frederic.PAYAN@univ-cotedazur.fr
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
