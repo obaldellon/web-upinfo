@@ -34,7 +34,7 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 
 ### Instructors ###
 
-  Arnaud Malapert, Gilles Menez, Marie Pelleau.
+  Arnaud Malapert, Marie Pelleau.
 
 ### Schedule ###
 
@@ -70,48 +70,36 @@ You can practice on the platforms Sphere Engine and spoj below.
 
 First, you must masterize the [tutorial]({% post_url ucancode/2019-07-22-tutoriel %}).
 
-Try out one of the problems from the coding battle [Le Shaker in 2019](https://51364960.widgets.sphere-engine.com/lp?hash=rCg1hF4dZ1).
-
 ### Grading ###
 
-The [moodle course](https://lms.univ-cotedazur.fr/course/view.php?id=14293) is used for group selection and the grading book.
-You should be already registered. Anyway, you could self register by clicking on the link.
+The [moodle course](https://lms.univ-cotedazur.fr/course/view.php?id=1288) is used for group selection, drop boxes, and the grading book.
+You could self register by clicking on the link if you are not already registered.
 
-Coding Battle Oral (40%) - October 28, 2020
-: Each student present a solution one of the problems given at the [Coding Battle](https://le-shaker.com/la-coding-battle-2/). Pair work is allowed for problem solving, but the oral is into individual.
+Coding Battle (10%) - October 20, 2021
+: A grade is assigned depending on your ranking at the [Coding Battle](https://le-shaker.com/). Pair work is allowed.
 
-Homework with Sphere Engine (20%) - Released on November 19, 2020
+Coding Battle Oral (40%) - October 25, 2021
+: Each student presents a solution to one of the problems given at the [Coding Battle](https://le-shaker.com/la-coding-battle-2/). Pair work is allowed for problem solving, but the oral is into individual.
+{% comment %}
+Homework with Sphere Engine (20%) - Released on November 19, 2021
 : One problem, prepared at home is submitted during the last lab under teacher supervision. Pair work is allowed.
+{% endcomment %}
 
-Final Exam with Sphere Engine (40%) - January 2020
+Final Exam with Sphere Engine (50%) - November 2021
 : There are two problems to solve in the labs within 3 hours. Pair work is not allowed.
 
 
 #### Coding Battle Oral ####
 
 You must present your solution to one of the three most difficult problems of the coding battle.
-Note that problems and solutions have been published [here](https://github.com/INSAlgo/coding-battle2020) by the organizers.
-We have re-created the judges so that you can easily continue working on the problems.
-Some judges have been split in two because of the maximum number of test cases allowed on Sphere Engine.
+ - On Thursday, October 21, we will announce which problem you will be asked about.
+ - On Monday, October 25, you will submit your final solution in moodle before 8:00 AM.
+ - Then, the oral of 20 minutes (in English or French) will be organized in three parts as follows:
+     - Algorithmic (7 min): it must include an example of the algorithm execution without any reference to the code.
+     - Code (3 min): it describes the implementation choices of your final submission and evaluates its performance.
+     - Questions (10 min) about the algorithmic and the code: you can use a whiteboard for answering.
 
-- d) Damaged ticket: [Judge 1](https://51364960.widgets.sphere-engine.com/lp?hash=zOwV7ZMzmH); [Judge 2](https://51364960.widgets.sphere-engine.com/lp?hash=UqhO9RCUPp).
-- e) Cursed Bingo: [Judge 1](https://51364960.widgets.sphere-engine.com/lp?hash=Oi45s0Gdr2).
-- f) Merch time: [Judge 1](https://51364960.widgets.sphere-engine.com/lp?hash=aznKyxJx3U); [Judge 2](https://51364960.widgets.sphere-engine.com/lp?hash=cFTGeWvA20).
-
-Let us remark that the statement of the problem f has an error: it indicates that the expected answers are POSSIBLE/IMPOSSIBLE whereas the test cases contain the answers OUI/NON.
-
-Before Monday, October 26, you must select a time slot for your examination on the [moodle course](https://lms.univ-cotedazur.fr/course/view.php?id=14293) as well as your two-persons team if needed.
-
-On Monday, October 26, we will announce which problem you will be asked about.
-Your task is to present your own solution to this problem.
-Your solution should differ from the public solutions: language; architecture; algorithms; data structures; input/output; any optimization; etc.
-
-On Wednesday, October 28, you will submit your final solution to the judge(s) fifteen minutes before your examination using your official email (etu-univ-cotedazur.fr).
-Then, the oral of 20 minutes (in English or French) will be organized in three parts as follows:
-- Algorithmic presentation (7 min): your presentation must include an example of the algorithm execution; it must not make any reference to the code.
-- Code presentation (3 min): describe the implementation choices of your final submission; compare its performance to the public solutions.
-- Questions (10 min) about the algorithmic and the code: you can use a whiteboard for answering.
-
+{% comment %}
 #### Homework ####
 
 You must submit your solution on sphere engine and moodle before December 6, 2020. <br/>
@@ -119,6 +107,7 @@ A short presentation about the homework followed by a Q&A session on Thusrday is
 
  - [Problem presentation]({% include link-asset asset="presentation-VQIMG.pdf" %}).
  - [Problem widget](https://51364960.widgets.sphere-engine.com/lp?hash=Q6bYwJljy7).
+{% endcomment %}
 
 ### Resources
 
