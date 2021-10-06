@@ -207,14 +207,14 @@ Si les résultats sont prometteur, une poursuite en stage de ce projet pourrait 
 
 ### Parcoursup en Rust ###
 
-- Encadrant : [LOZES Etienne](etienne.lozes@univ-cotedazur.fr) [site web](http://i3s.unice.fr/~elozes)
+- Encadrant : [LOZES Etienne](etienne.lozes@univ-cotedazur.fr), [site web](http://i3s.unice.fr/~elozes)
 - Mots-clés : Mariages stables, programmation multicoeur
 - Prérequis : Des notions de programmation impérative et de parallélisme, envie d'apprendre de nouveaux langages
 
 <!-- Résumé du projet (15 lignes max) -->
 Le but du TER est de concevoir et implémenter une version parallèle de l'algorithme des mariages stables dans le langage Rust.
 
-<!— Précisez si une suite est possible -->
+<!-- Précisez si une suite est possible -->
 **Il sera possible de poursuivre sur la thématique de la programmation concurrente dans le cadre d'un stage de recherche au laboratoire I3S, en axant sur la preuve de programme**.
 
 - Références :
