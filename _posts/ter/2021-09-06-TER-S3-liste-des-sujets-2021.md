@@ -253,6 +253,27 @@ Nom et affiliation de l'encadrant : Fréderic Payan, Laboratoire I3S, Sophia Ant
 
 Coordonnées (mail et téléphone) : Frederic.PAYAN@univ-cotedazur.fr
 
+
+<!-- Ceci est un commentaire -->
+### Artificial Intelligence and Computer Vision Internship ###
+
+- Encadrant : [Wafa Belhajali & Anis Meftah & Marc Antonini](mailto:belhajali@cintoo.com,meftah@cintoo.com,antonini@cintoo.com). [site web](www.cintoo.com) 
+- Mots-clés : Artificial Intelligence, Computer Vision, Deep Learning, Point Cloud, Instance Segmentation, Python, Tensorflow ...
+- Prérequis : Knowledge of ML/DL general concepts, Knowledge of Computer Vision is appreciated, Good Python development skills (Tensorflow is an added value).
+
+Cintoo designs and develops an innovative cloud platform to manage 3D Reality Data for organizations in the AEC (Architecture, Engineering & Construction) and BIM (Building Information Modeling) industries. The Cintoo platform relies on efficient data compression algorithms created in-house, that reduce the storage and transfer times of highly accurate 3D data captured from reality (photogrammetry or laser scanning). Cintoo is a fast-moving, well-funded startup with a very high potential.
+Cintoo is currently working to grow up again her services with evolving features like assets management using Artificial Intelligence. In this context, we are offering an internship to assist our R&D team in one of the hottest IT area of the moment. In details, we are looking for a motivated student, passionate with Deep Learning and Computer Vision, to work on innovative and state of the art solutions for 2D/3D scene understanding. The successful applicant will be working within a very talented and multi-disciplinary R&D team. He/she will assist our AI expert engineer, participate in the elaboration of our solutions and learn a lot of AI and Computer Vision issues.
+
+
+**Notice that this offer could be renewed into 6 months internship.**
+
+
+- Références :
+  - \[1\] Qi, C. R., Chen, X., Litany, O., & Guibas, L. J. (2020). Imvotenet: Boosting 3d object detection in point clouds with image votes. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 4404-4413).
+  - \[2\] Birodkar, V., Lu, Z., Li, S., Rathod, V., & Huang, J. (2021). The surprising impact of mask-head architecture on novel class segmentation. arXiv preprint arXiv:2104.00613.
+  - \[3\] Najibi, M., Lai, G., Kundu, A., Lu, Z., Rathod, V., Funkhouser, T., ... & Fathi, A. (2020). Dops: Learning to detect 3d objects and predict their 3d shapes. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11913-11922).
+  - \[4\] Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning on point sets in a metric space. arXiv preprint arXiv:1706.02413.
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
