@@ -81,9 +81,10 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 
 - [TD1]({% include link-asset asset="TD1.pdf" %}), [TD2]({% include link-asset asset="TD2.pdf" %}), [TD3]({% include link-asset asset="TD3.pdf" %}), [TD4]({% include link-asset asset="TD4.pdf" %}), [TD5]({% include link-asset asset="TD5.pdf" %}), [TD6]({% include link-asset asset="TD6.pdf" %})
 
-- [Contrôle continu de 2019]({% include link-asset asset="interro2019.pdf" %})
-- [Contrôle continu de 2020]({% include link-asset asset="interro2020.pdf" %})
-- [Examen terminal de 2019]({% include link-asset asset="exam2019.pdf" %})
+- [Contrôle continu de 2019]({% include link-asset asset="interro_sdd_2019.pdf" %})
+- [Contrôle continu de 2020]({% include link-asset asset="interro_sdd_2020.pdf" %})
+- [Examen terminal de 2019]({% include link-asset asset="examen_sdd_2019.pdf" %})
+- [Examen terminal de 2020]({% include link-asset asset="examen_sdd_2020.pdf" %})
 
 #### Programmation C ####
 
@@ -110,7 +111,8 @@ Les supports de cours seront mis au fur et à mesure.
 - [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})	
 - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
 
-- [Examen terminal de 2018]({% include link-asset asset="examen2018-final.pdf" %})
+- [Examen terminal de 2018]({% include link-asset asset="examen_c_2018.pdf" %})
+- [Examen terminal de 2020]({% include link-asset asset="examen_c_2020.pdf" %})
 
 ### Calendrier ###
 
