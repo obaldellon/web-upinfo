@@ -47,7 +47,7 @@ Les diapositives du cours seront mises à jour au fur et à mesure des cours.
  - [HashCode 2018 - Recherche Locale]({% include link-asset asset="2-Recherche-Locale_HashCode2018_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale_HashCode2018_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale_HashCode2018_x2+notes.pdf" %})
  - [Programmation par Contraintes]({% include link-asset asset="3-Programmation-Par-Contraintes.pdf" %})
 
- [HASHCODE2018](https://51364960.widgets.sphere-engine.com/lp?hash=gspLj7aOPT)
+ [HASHCODE2018](https://51364960.widgets.sphere-engine.com/lp?hash=CcUuvLVUQG)
 
 
 ### Contenu des années précédentes ###
