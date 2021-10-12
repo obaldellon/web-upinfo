@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Modélisation Avancée PPC/PL"
 logo: "logo_blanc.png"
-teaser: "We introduce some scheduling problems, algorithms and general methods (linear and constraint programming)."
+teaser: "We introduce some combinatorial problems, algorithms and general methods such as linear and constraint programming."
 categories:
   - S3
 tags:
@@ -27,6 +27,39 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
+
+
+
+
+
+### Lectures
+
+We learn basics of constraint programming using the [choco solver](https://choco-solver.org/).
+
+1. Introduction to constraint programming
+2. Modeling puzzle: the famous n-queens problem
+3. Modeling puzzle: cryptarithm
+4. Designing custom constraints and search for the n-queens problem
+5. Modeling a project scheduling problem
+6. Final Exam
+7. Modeling a university timetabling problem (project)
+
+
+### Resources
+
+ - The shared github repository.
+ - Lectures 1-4: Choco tutorials; [my old CP course]({% include link-asset asset="cours-ppc.pdf" %}) (sorry in French).
+ - Lectures 5: chapter 10 entitled [Project Management with PERT/CPM](https://thalis.math.upatras.gr/~tsantas/DownLoadFiles/Hillier&Lieberman_7th-edition_Chapter10.pdf) from the book *Introduction to operations Research* written by Hillier and Lieberman ; see also archive 2019-2020.
+ - Lectures 6: the problem specification and state-of-the-art are part of the project.
+
+### Grading
+
+ - **Labs (20%)**: publishing corrections for two labs; github; pair work.
+ - **Project (40%)**: github; team work.
+ - **Final Exam (40%)**: modeling two simple problems on your computer within 3 hours; email; individual work.
+
+
+## Archive 2020-2021
 
 ### Lesson 1: Project Management
 
