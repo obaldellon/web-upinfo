@@ -274,6 +274,61 @@ Cintoo is currently working to grow up again her services with evolving features
   - \[3\] Najibi, M., Lai, G., Kundu, A., Lu, Z., Rathod, V., Funkhouser, T., ... & Fathi, A. (2020). Dops: Learning to detect 3d objects and predict their 3d shapes. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 11913-11922).
   - \[4\] Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning on point sets in a metric space. arXiv preprint arXiv:1706.02413.
 
+### Algorithmes pour l’extraction de cycles des réseaux d’automates synchrones ###
+
+Un réseaux d’automate consiste en un ensemble (fini) d’automates finis. Dans
+le mode de mis à jour synchrone, tout automate se met à jour en parallèle
+en prenant en compte leur propre état et celui des automates de leur voisinage
+selon une fonction qui est propre à chaque automate. L’ensemble des fonctions
+locales induit une fonction globale qui décrit l’évolution du réseau dans le temps.
+
+Le problème est que dans la quasi totalité des cas la fonction globale est définie
+de manière ‘parcimonieuse’ et ceci empêche une lecture explicite de la dynamique
+du réseau. Si d’un coté nous savons que la dynamique est de type ultimement
+périodique, nous ne savons ni la longueur des cycles ni leur nombre sinon en 
+passant par des simulations explicite plutôt couteuses du point de vue
+calculatoire ce qui rend le modèle peu exploitable dans la pratique. 
+
+Le but du TER est d’étudier les algorithmes existants, de les comparer pour ensuite
+les intégrer dans un logiciel de visualisation qui est en cours de développement
+dans l’équipe MDSC de l'I3S.
+
+Les étapes du travail seront les suivantes :
+1) étude de l’état de l’art
+2) écriture d’un générateur de réseaux Booléens
+3) programmation des algorithmes trouvés en littérature
+4) recherche d’améliorations possibles et paramétrisation
+5) tests comparatifs (en utilisant le générateur du point 2) 
+6) intégration de l’algorithme dans le logiciel de visualisation
+
+Le langage de programmation utilisé sera Python ou Java.
+
+### Automates cellulaires et courbes elliptiques ###
+
+Les automates cellulaires sont très utilisés dans les méthodes de cryptographie
+‘rapides’ ie. des situations dans lesquelles le niveau de sécurité demandé n’est
+pas trop élevé et on a la nécessité d’avoir un système de cryptage rapide comme
+c’est le cas, par exemple, des streaming de données des jeux vidéo en temps réel.
+
+D’autre part, les courbes elliptiques elles ont fait leur épreuves et permettent de
+concevoir des niveau de cryptage très élevés avec des temps de calcul raisonnables.
+
+L’objectif de ce travail de TER est d’explorer comment marier ces deux notions
+(automates cellulaires et courbes elliptiques). L’idée est que l’orbite de d’une
+courbe elliptique forme un groupe abelian fini (sous certaines conditions) et
+que plusieurs résultats récents étudient le comportement des automates cellulaires
+sur des groupes abéliens finis.
+
+Voici les étapes prevues pour ce TER :
+1) étude des notions importantes sur la dynamique des automates cellulaires (AC)
+2) état de l’art sur les AC et crypto
+3) étude des notions de base sur les courbes elliptiques
+4) étude du comportement des groupes issus des courbes elliptiques dans les AC
+
+Il n’est pas demandé d’avoir ni des prérequis sur les AC ni des prérequis sur les
+courbes elliptiques. Il est juste demandé d’avoir quelques notions de base sur la
+théorie des groupes finis.
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
