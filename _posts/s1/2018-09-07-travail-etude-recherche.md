@@ -97,6 +97,11 @@ Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-
 
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ZDh1dXRiaDUwcGI0aDJlZG9xNjdhY2s1aXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
+### Supports ###
+
+- Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA-Seasons.pdf" %}) 
+- [Les règles de Seasons]({% include link-asset asset="Seasons_regles.pdf" %})
+
 <!-- 
 ### Supports ###
 
