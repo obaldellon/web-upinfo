@@ -104,7 +104,7 @@ Ce cours est divisé en 5 grandes parties :
 Les supports de cours seront mis au fur et à mesure.
 
 - [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
-- [CM 2]({% include link-asset asset="2-Tableaux_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-Tableaux_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-Tableaux_x2+notes.pdf" %})
+- [CM 2]({% include link-asset asset="2-Type_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-Type_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-Type_x2+notes.pdf" %})
 - [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
 - [CM 4]({% include link-asset asset="4-Fichiers_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Fichiers_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Fichiers_x2+notes.pdf" %})
 
