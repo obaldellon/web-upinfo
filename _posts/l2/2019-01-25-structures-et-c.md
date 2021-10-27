@@ -52,7 +52,7 @@ Ce cours est divisé en deux sous-modules :
 
 - [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (chargé de TP)
 - [Amaya Nogales Gomez](mailto:amaya.nogales-gomez@i3s.unice.fr) (chargée de TP)
-- [Jérémie Marquès](mailto:jmarques@univ-cotedazur.fr) (chargé de TP)
+- [Jérémie Marquès](mailto:jeremie.marques@univ-cotedazur.fr) (chargé de TP)
 - [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
 
 #### Structures de données ####
