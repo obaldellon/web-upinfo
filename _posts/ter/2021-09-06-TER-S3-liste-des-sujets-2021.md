@@ -267,7 +267,6 @@ Cintoo is currently working to grow up again her services with evolving features
 
 **Notice that this offer could be renewed into 6 months internship.**
 
-
 - Références :
   - \[1\] Qi, C. R., Chen, X., Litany, O., & Guibas, L. J. (2020). Imvotenet: Boosting 3d object detection in point clouds with image votes. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 4404-4413).
   - \[2\] Birodkar, V., Lu, Z., Li, S., Rathod, V., & Huang, J. (2021). The surprising impact of mask-head architecture on novel class segmentation. arXiv preprint arXiv:2104.00613.
@@ -328,6 +327,25 @@ Voici les étapes prevues pour ce TER :
 Il n’est pas demandé d’avoir ni des prérequis sur les AC ni des prérequis sur les
 courbes elliptiques. Il est juste demandé d’avoir quelques notions de base sur la
 théorie des groupes finis.
+
+### Layout segmentation and classification of visual style elements in newspapers ###
+
+ - Encadrants : [Hui-Yin Wu & Pierre Kornprobst](mailto:hui-yin.wu@inria.fr,pierre.kornprobst@inria.fr).
+
+Notre projet vise à rendre plus accessible la presse écrite aux malvoyants, tout en conservant la ligne éditoriale. Ceci implique de devoir reorganiser le contenu du journal ce qui impacte l'esthétique visuelle des pages. Le problème est que cette esthétique joue un role fondamental dans le processus de lecture et qu'il est donc crucial de savoir la préserver. En effet, il a été montré qu'une approche visuelle cohérente et attrayante renforce l'impact et la compréhension du contenu et de l'histoire lue. C'est donc cette notion d'esthétique que nous voulons mieux comprendre et savoir quantifier. Autrement dit, étant donné une page de journal, peut-on automatiquement lui associer une (des) mesure(s) qui caractérise(nt) l'esthétique de son organisation ? Disposer de telles mesures nous permettrait de faire des choix sur la production de différents modèles de conception.
+
+Les objectifs de ce TER sont :
+1. d'explorer les différentes propriétés qui définissent l'esthétique perçue des journaux imprimés \[GG2017\],
+2. d'étudier comment ces propriétés peuvent être formalisées pour quantifier l'esthétique \[K2012,NTB2003\], et
+3. de les implémenter et de les tester sur un ensemble de pages de journaux préalablement segmentées \[WCK2020\].
+
+ - Références :
+   - \[GG2017\] C. Gautier and D. Gautier. Design, typography etc.: A Handbook, Niggli, 2017.
+   - \[K2012\] I.-M Kivela. Aesthetic measures for automated magazine layout on tablet devices, Master thesis, Aalto University, Finland, 2012.
+   - \[NTB2003\] D.C.L. Ngo, L.S. Teo, and J.G. Byrne. Modeling interface aesthetics, Information Sciences, 152:25-46, 2003.
+   - \[WCK2020\] H.-Y. Wu, A. Calabrese, and P. Kornprobst, Towards Accessible News Reading Design in Virtual Reality for Low Vision, Inria Research Report, RR-9298, 2020.
+
+[Sujet]({% include link-asset asset="Sujet_ter.pdf" %})
 
 <!--
 ### Nom du projet ###
