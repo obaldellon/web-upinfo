@@ -27,7 +27,7 @@ Sur cette page vous trouverez :
 
 ## Modèle de rapport
 
-[Modèle de rapport]({% include link-asset asset="rapport.zip" %}) en LaTeX.
+[Modèle de rapport]({% include link-asset asset="rapport.zip" %}) en LaTeX, contenant des consignes, des conseils et des exemples. Mis à jour le 22 novembre 2021.
 
 ## Logos
 
