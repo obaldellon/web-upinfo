@@ -13,7 +13,7 @@ tags:
 ects: 6
 # schedule: "24h"
 # website: "http://www.i3s.unice.fr/~malapert/org/teaching/ter.html"
-author: arnaud
+author:
 #
 # Styling
 #
