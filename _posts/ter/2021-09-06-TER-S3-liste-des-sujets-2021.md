@@ -347,6 +347,10 @@ Les objectifs de ce TER sont :
 
 [Sujet]({% include link-asset asset="Sujet_ter.pdf" %})
 
+### Racines de matrices booléennes ###
+
+[Sujet]({% include link-asset asset="EF_TER_Bool_Mat_roots.pdf" %})
+
 <!--
 ### Nom du projet ###
  - Nombre d'étudiants souhaité :
