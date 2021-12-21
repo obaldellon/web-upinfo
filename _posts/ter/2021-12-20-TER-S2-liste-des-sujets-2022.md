@@ -51,8 +51,8 @@ Dans le cas d'ensembles ordonnés, une solution pour compresser l'information es
 
 - Références :
   {%- include ref liste="
-   * Codage par plages ([page Wikipedia](https://fr.wikipedia.org/wiki/Codage_par_plages))
-   * Codage de Huffman ([page Wikipedia](https://fr.wikipedia.org/wiki/Codage_de_Huffman))
-   * Stream VByte: Faster Byte-Oriented Integer Compression -- Daniel Lemire, Nathan Kurz, Christoph Rupp ([pdf](https://arxiv.org/abs/1709.08990))
-   * Decoding billions of integers per second through vectorization -- Daniel Lemire, Leonid Boytsovn ([pdf](https://arxiv.org/abs/1209.2137))" %}
+   -* Codage par plages ([page Wikipedia](https://fr.wikipedia.org/wiki/Codage_par_plages))
+   -* Codage de Huffman ([page Wikipedia](https://fr.wikipedia.org/wiki/Codage_de_Huffman))
+   -* Stream VByte: Faster Byte-Oriented Integer Compression -- Daniel Lemire, Nathan Kurz, Christoph Rupp ([pdf](https://arxiv.org/abs/1709.08990))
+   -* Decoding billions of integers per second through vectorization -- Daniel Lemire, Leonid Boytsovn ([pdf](https://arxiv.org/abs/1209.2137))" %}
 

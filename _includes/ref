@@ -1,4 +1,4 @@
-{%- assign refs = include.liste | split: "*" %}
+{%- assign refs = include.liste | split: "-*" %}
 <div class="references" style="margin-top:-1.25rem">
   <ol>
     {% for ref in refs %}
