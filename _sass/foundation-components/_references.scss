@@ -1,0 +1,11 @@
+
+div.references ol {list-style: none; counter-reset: li}
+div.references ol li::before {
+  content: '['counter(li)']';
+  display: inline-block; 
+  width: 1em; 
+  margin-right: 0.5em; 
+  text-align: right; 
+  direction: rtl
+}
+div.references ol li {counter-increment: li}

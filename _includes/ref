@@ -1,0 +1,11 @@
+{%- assign refs = include.liste | split: "*" %}
+<div class="references" style="margin-top:-1.25rem">
+  <ol>
+    {% for ref in refs %}
+      {% assign entry = ref | strip %}
+      {% if entry.size > 0 %}
+      <li> {{ entry | strip | markdownify | remove: "<p>" | remove: "</p>" }} </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</div>
