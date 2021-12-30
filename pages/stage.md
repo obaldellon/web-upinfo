@@ -17,7 +17,7 @@ Le stage se déroulera dans la période 1er mars au 31 août. Le stage peut s'ef
 
 ### Appel à sujets ###
 
-L'appel à sujets est [ici]({% post_url /stage/2020-12-15-stage-appel-a-sujets %}).
+L'appel à sujets est [ici]({% post_url /stage/2021-12-29-stage-liste-des-sujets-2022 %}).
 
 ### Choisir un sujet ###
 

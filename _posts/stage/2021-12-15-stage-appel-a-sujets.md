@@ -29,7 +29,7 @@ Cette année nous avons huit étudiants.
 
 ### Proposer un sujet ###
 
-Si vous désirez proposer un sujet, il suffit de remplir une fiche décrivant le sujet **avant le 23 Janvier 2022** et de l'envoyer par [mail](mailto:jcregin@gmail.com). Vous trouverez des fiches d'exemple en différents formats ([.txt]({% include link-asset asset="stage-exemple.txt" %}), [.rtf]({% include link-asset asset="stage-exemple.rtf" %})). Les sujets seront publiés sur cette [page]({% post_url /stage/2020-12-15-stage-liste-des-sujets-2021 %}).
+Si vous désirez proposer un sujet, il suffit de remplir une fiche décrivant le sujet **avant le 23 Janvier 2022** et de l'envoyer par [mail](mailto:enrico.formenti@univ-cotedazur.fr). Vous trouverez des fiches d'exemple en différents formats ([.txt]({% include link-asset asset="stage-exemple.txt" %}), [.rtf]({% include link-asset asset="stage-exemple.rtf" %})). Les sujets seront publiés sur cette [page]({% post_url /stage/2021-12-29-stage-liste-des-sujets-2022 %}).
 
 Les étudiants auront jusqu'au 1er février pour choisir un sujet.
 
