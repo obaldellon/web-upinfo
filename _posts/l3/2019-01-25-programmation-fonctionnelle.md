@@ -13,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h cours + 18h TD + 18h TP"
 website: "https://www.i3s.unice.fr/~elozes/enseignement/PF/"
-author: etienne
+author: Etienne Lozes
 #
 # Styling
 #
@@ -30,7 +30,7 @@ header:
 
 ### Public ###
 
-Ce cours est destiné au L2 math-info et au L3 info.
+Ce cours est destiné aux L2 math-info et aux L3 info.
 
 ###  Contenu ###
 
@@ -38,11 +38,21 @@ Ce cours est destiné au L2 math-info et au L3 info.
 2. Fonctions d'ordre superieur, polymorphisme.
 3. Mutation et style imperatif.
 4. Modules et foncteurs. Structures de données.
-5. Programmation orientée objets.
-6. Paresse, flots.
+5. Paresse, flots.
+6. Programmation multicoeur
 
 ### Contrôle des connaissances ###
 
 - 1/3 Partiel
 - 1/3 Projet
 - 1/3 Examen terminal
+
+### Projets des dernières années
+
+- [librairie de dessin "à la Racket"](https://www.i3s.unice.fr/~elozes/enseignement/Archives/2019_2020/PF/projet/sujet-projet.html)
+- [Pacman](https://www.i3s.unice.fr/~elozes/enseignement/Archives/2020_2021/PF/sujet-projet.pdf)
+- [Parcoursup](https://www.i3s.unice.fr/~elozes/enseignement/PF/sujet-projet-pf-2021.html)
+
+### Pour en savoir plus
+
+[https://www.i3s.unice.fr/~elozes/enseignement/PF/](https://www.i3s.unice.fr/~elozes/enseignement/PF/)
