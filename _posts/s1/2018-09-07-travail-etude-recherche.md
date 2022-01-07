@@ -53,7 +53,7 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 
 #### Soutenance ####
 
-<!-- - **Les soutenances auront lieu le lundi 18 janvier 2021.** -->
+- **Les soutenances auront lieu le mardi 25 janvier 2021.**
 
 - La date des soutenances n'est pas encore connue.
 
