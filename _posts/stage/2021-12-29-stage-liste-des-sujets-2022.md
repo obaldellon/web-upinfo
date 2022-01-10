@@ -29,11 +29,7 @@ header:
 
 ### Reconnaissance de programmes par réseaux de neurones de graphes ###
 
-<<<<<<< Updated upstream
 - Encadrants : [Sid Touati](http://www-sop.inria.fr/members/Sid.Touati/) et [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr).
-=======
-- Encadrants : [Sid Touati et Enrico Formenti](mailto:sid.touati@inria.fr,enrico.formenti@univ-cotedazur.fr).
->>>>>>> Stashed changes
 
 - Motivation et contexte : Un résultat fondamental en informatique (calculabilité) nous affirme que des problèmes indécidables existent, c’est-à-dire pour lesquels il n’existe aucun algorithme qui soit capable d’en fournir la solution. Pour un informaticien, cela n’est pas une bonne nouvelle. La situation est encore pire. En effet, le théorème de Rice nous dit que tous les problèmes sont indécidables sauf ceux qui sont triviaux (au sens de la calculabilité).
 Un exemple classique de problème indécidable – et que nous allons étudier dans le cadre de ce stage – consiste à prendre deux programmes et se demander s’ils calculent la même chose.
