@@ -49,7 +49,7 @@ Ce problème de reconnaissance automatique des programmes, bien qu’indécidabl
 
 - Références :
   - \[1\] Samy Bengio, Hanna M. Wallach, Hugo Larochelle, Kristen Grauman, Nicolò Cesa-Bianchi, and Roman Garnett, editors. Advances in Neural nformation Processing Systems 31 : Annual Conference on Neural In- formation Processing Systems 2018, NeurIPS 2018, December 3-8, 2018, Montréal, Canada, 2018.
-  - \[2\] Xinyun Chen, Chang Liu, and Dawn Song. Tree-to-tree neural networks for program translation. In Bengio et al. [1], pages 2552–2562.
+  - \[2\] Xinyun Chen, Chang Liu, and Dawn Song. Tree-to-tree neural networks for program translation. In Bengio et al. \[1\], pages 2552–2562.
   - \[3\] D. S. Katz, J. Ruchti, and E. Schulte. Using recurrent neural networks for decompilation. In 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER), pages 346–356, 2018.
   - \[4\] Muhan Zhang. Pytorch dgcnn. https://github.com/muhanzhang/ pytorch_DGCNN, 2021. Code accessed : 2021-09-04.
   - \[5\] Muhan Zhang, Zhicheng Cui, Marion Neumann, and Yixin Chen. An end-to-end deep learning architecture for graph classification. In AAAI, 2018.
@@ -58,7 +58,7 @@ Ce problème de reconnaissance automatique des programmes, bien qu’indécidabl
 ### FAIRisation des données de projets issus de collaboration avec ChemBioFrance ###
 
 - Encadrants : [Kiet Tran](mailto:kiet.tran@enscm.fr) et [Stéphane Bourg](Stephane.BOURG@cnrs.fr)
-- Description du sujet : ChemBioFrance [CBF] est une Infrastructure de recherche [IR] inscrite sur la feuille de route nationale des IR en 2018 et dont la mission est de fournir une offre intégrée de services pour la découverte et l'utilisation de petites molécules pour comprendre et soigner le vivant (sondes biologiques et candidats médicaments). Dans ce contexte, elle s’appuie sur une unité support CNRS, localisée à Montpelier, qui assure la gestion opérationnelle de la chimiothèque nationale, et de réseaux des plateformes de criblage, de chémoinformatique et d’ADME-Tox (accueil et conseil aux utilisateurs, gestion du système d'information, gestion juridique des projets, animation des réseaux et communication).
+- Description du sujet : ChemBioFrance \[CBF\] est une Infrastructure de recherche \[IR\] inscrite sur la feuille de route nationale des IR en 2018 et dont la mission est de fournir une offre intégrée de services pour la découverte et l'utilisation de petites molécules pour comprendre et soigner le vivant (sondes biologiques et candidats médicaments). Dans ce contexte, elle s’appuie sur une unité support CNRS, localisée à Montpelier, qui assure la gestion opérationnelle de la chimiothèque nationale, et de réseaux des plateformes de criblage, de chémoinformatique et d’ADME-Tox (accueil et conseil aux utilisateurs, gestion du système d'information, gestion juridique des projets, animation des réseaux et communication).
 Dans le contexte des données ouvertes, toutes les données des projets issus de collaborations scientifiques avec ChemBioFrance et financés par des fonds publics seront rendues après embargo, facilement accessibles et réutilisables par toutes les communautés scientifiques (chimistes, biologistes, chémoinformaticiens et pharmacologues). Les utilisateurs du système d’information de CBF pourront alors extraire des informations pour des modélisations, réanalyses et annotations diverses au fil des développement des molécules.
 Les plateformes de l’IR génèrent environ 10 To/an de données (imageries, structures chimiques, modélisation de protéines et molécules, criblages virtuels, données expérimentales de criblage, annotation chémoinformatiques).
 
@@ -95,7 +95,7 @@ For example, many applications in chemistry manipulate the surface of molecules.
 - Goal of this project:
 We aim during this student project to
   - develop an efficient algorithm (in Python) to generate the point-based surface of molecules;
-  - To reach this objective, the student will have to study the different existing solutions, notably nsc [1] and EDTSurf [2].
+  - To reach this objective, the student will have to study the different existing solutions, notably nsc \[1\] and EDTSurf \[2\].
 
 - Bibliography
   - \[1\] F. Eisenhaber, P. Lijnzaad, P. Argos, C. Sander, M. Scharf, J. Comput. Chem. 1995, 16, 273–284.
@@ -128,3 +128,19 @@ une lettre de motivation et les derniers relevés de notes.
 - Références :
    - \[1\] R. Nassif, S. Vlaski, C. Richard, J. Chen, and A. H. Sayed, “Multitask Learning over Graphs,” IEEE Signal Processing Magazine, vol. 37, no. 3, pp. 14–25, 2020.
    - \[2\] B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. Y. Arcas. “Communication-efficient learning of deep networks from decentralized data”. In Proc. Int. Conf. Artif. Intell. Stat., vol. 54, pp. 1273–1282, 2017.
+
+### Autoencoder networks in healthcare for cancers and Covid-19 ###
+
+- Advisors: [Michel Barlaud](mailto:barlaud@unice.fr) and [Thierry Pourcher](mailto:Thierry.POURCHER@univ-cotedazur.fr)
+- Description:
+
+Machine learning for healthcare is an emerging topic that benefits unique local expertise. Mathematicians, biologists, and clinicians are working on joint innovative projects in healthcare. Our goals are new tools for diagnostic, prognostic and theragnostic of several cancers and Covid-19 aiming personalized medicine. Our approaches are based on metabolomics analyses using mass spectrometry. The main issue is to develop new deep learning methods for high- dimensional metabolomic data of limited patient numbers in order to obtain accurate predictive capability.
+Variational autoencoder (VAE) have found widespread applications to learn latent distribution for high-dimensional datas. However classical VAEs assume gaussian distributions which results in a poor approximation of the latent distribution. I3S team has recently developed efficient new encoder method relaxing the Gaussian assumption \[1\]. Our new method involves a new nonparametric supervised autoencoder \[1, 2\].
+The Master project aims to adapt our new autoencoder for selecting metabolomic signatures and improving accuracy in diagnostic, prognostic and theragnostic of several cancers as well as Covid-19. The student will provide a python code and compare with previous approaches. The student will work both with I3S Laboratory and TIRO laboratory.
+- Skills:
+  - Background in Machine learning and Deep Learning (DNN, Autoencoders...)
+  - Coding skills in Python, Pytorch and Latex
+  - Fluent English
+- Bibliography
+  - \[1\] M. Barlaud and F. Guyard. Learning a sparse non-parametric supervised autoencoder ICASSP 2021 Toronto Canada.
+  - \[2\] P. Pognonec, A. Gustovic, Z. Djabari, T. Pourcher and M. Barlaud. Mitotic index determination on live cells from label-free acquired quantitative phase images using a supervised autoencoder. In press in IEEE Trans on Computational Biology and bioinformatics.
