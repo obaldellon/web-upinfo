@@ -11,7 +11,7 @@ categories:
   - TER
 tags:
   - S2
-#  - NEWS
+  - NEWS
 #
 # Styling
 #
@@ -47,7 +47,6 @@ La première représentation est plus compacte mais beaucoup moins précise. En 
 La seconde représentation est beaucoup moins compacte cependant elle est beaucoup plus précise.
 
 Dans le cas d'ensembles ordonnés, une solution pour compresser l'information est d'effectuer des différences puis d'utiliser un codage tel que le codage par plages \[1\] ou le codage de Huffman \[2\]. Par exemple, prenons l'ensemble {1, 2, 3, 4, 5, 6, 7, 8, 10}, le premier élément est conservé, puis pour les autres on effectue la différence entre lui-même et l'élément précédent. On obtient donc 1 1 1 1 1 1 1 1 2, huit 1 et un 2. En utilisant le codage par plages on peut représenter cet ensemble par 8112. D'autres codages plus récents seront considérés \[3,4\].
-
 
 - Références :
   {%- include ref liste="

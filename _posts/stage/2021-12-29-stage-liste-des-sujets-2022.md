@@ -29,7 +29,11 @@ header:
 
 ### Reconnaissance de programmes par réseaux de neurones de graphes ###
 
+<<<<<<< Updated upstream
 - Encadrants : [Sid Touati](http://www-sop.inria.fr/members/Sid.Touati/) et [Enrico Formenti](mailto:enrico.formenti@univ-cotedazur.fr).
+=======
+- Encadrants : [Sid Touati et Enrico Formenti](mailto:sid.touati@inria.fr,enrico.formenti@univ-cotedazur.fr).
+>>>>>>> Stashed changes
 
 - Motivation et contexte : Un résultat fondamental en informatique (calculabilité) nous affirme que des problèmes indécidables existent, c’est-à-dire pour lesquels il n’existe aucun algorithme qui soit capable d’en fournir la solution. Pour un informaticien, cela n’est pas une bonne nouvelle. La situation est encore pire. En effet, le théorème de Rice nous dit que tous les problèmes sont indécidables sauf ceux qui sont triviaux (au sens de la calculabilité).
 Un exemple classique de problème indécidable – et que nous allons étudier dans le cadre de ce stage – consiste à prendre deux programmes et se demander s’ils calculent la même chose.
@@ -57,7 +61,7 @@ Ce problème de reconnaissance automatique des programmes, bien qu’indécidabl
 
 ### FAIRisation des données de projets issus de collaboration avec ChemBioFrance ###
 
-- Encadrants : [Kiet Tran](mailto:kiet.tran@enscm.fr) et [Stéphane Bourg](Stephane.BOURG@cnrs.fr)
+- Encadrants : [Kiet Tran et Stéphane Bourg](mailto:kiet.tran@enscm.fr,Stephane.BOURG@cnrs.fr)
 - Description du sujet : ChemBioFrance (CBF) est une Infrastructure de recherche (IR) inscrite sur la feuille de route nationale des IR en 2018 et dont la mission est de fournir une offre intégrée de services pour la découverte et l'utilisation de petites molécules pour comprendre et soigner le vivant (sondes biologiques et candidats médicaments). Dans ce contexte, elle s’appuie sur une unité support CNRS, localisée à Montpelier, qui assure la gestion opérationnelle de la chimiothèque nationale, et de réseaux des plateformes de criblage, de chémoinformatique et d’ADME-Tox (accueil et conseil aux utilisateurs, gestion du système d'information, gestion juridique des projets, animation des réseaux et communication).
 Dans le contexte des données ouvertes, toutes les données des projets issus de collaborations scientifiques avec ChemBioFrance et financés par des fonds publics seront rendues après embargo, facilement accessibles et réutilisables par toutes les communautés scientifiques (chimistes, biologistes, chémoinformaticiens et pharmacologues). Les utilisateurs du système d’information de CBF pourront alors extraire des informations pour des modélisations, réanalyses et annotations diverses au fil des développement des molécules.
 Les plateformes de l’IR génèrent environ 10 To/an de données (imageries, structures chimiques, modélisation de protéines et molécules, criblages virtuels, données expérimentales de criblage, annotation chémoinformatiques).
@@ -82,7 +86,7 @@ Il/elle implémentera la base de données et l’alimentera, en la rendant acces
 
 ### Developing a method to generate 3D point cloud of molecules ###
 
-- Supervisor and Contact : [F. Payan](mailto:frederic.payan@univ-cotedazur.fr), in collaboration with [D. Douguet](mailto:douguet@ipmc.cnrs.fr)
+- Supervisor and Contact : [F. Payan, in collaboration with D. Douguet](mailto:frederic.payan@univ-cotedazur.fr,douguet@ipmc.cnrs.fr)
 
 - Keywords: 3D point clouds - surface modeling – 3D graphs – molecule
 - Context: 3D Point clouds (or 3D points sets) are a widespread representation in many domains well known by large audience: robotics, 3D reconstruction, games, autonomous navigation, and so on. A little-known fact is that such 3D representations can be also relevant in chemistry.
@@ -103,7 +107,7 @@ We aim during this student project to
 
 ### Optimisation décentralisée sur graphes ###
 
-- Encadrants : [Roula Nassif](mailto:roula.nassif@i3s.unice.fr) et [Marc Antonini](mailto:am@i3s.unice.fr)
+- Encadrants : [Roula Nassif et Marc Antonini](mailto:roula.nassif@i3s.unice.fr,am@i3s.unice.fr)
 - Thématique de recherche : Le projet de recherche fait partie du vaste théme de l’optimisation
 décentralisée sur graphes. Il reconnaît notamment la capacité croissante de nombreuses technologies
 émergentes à collecter des données de manière décentralisée et continue. Il reconnaît également que
