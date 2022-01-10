@@ -3,7 +3,7 @@ layout: edt-fullwidth
 title: "Schedule"
 subheadline: "Master 1 Informatique"
 teaser: "This page contains the academic calcendar and schedule of the  <i>Computer Science</i> program."
-tablelink: "https://docs.google.com/document/d/e/2PACX-1vQTBTwgAFJRadoGiBMO876iy-8sCtc-_L5Tg5CshHG7zGlr55_nc1XBjyePxi4u1p9V5kQRMoXP6Qrb/pub?embedded=true"
+tablelink: "https://docs.google.com/document/d/e/2PACX-1vS1kuORJRP7DK2Y2fWEMTdEWxi3sBVDABWEXuSAiQBjo_leIZPFvSCx9p-ijO4Y5PvTl5eUykPb7CRw/pub?embedded=true"
 permalink: "/edt/m1/"
 #
 # Styling
