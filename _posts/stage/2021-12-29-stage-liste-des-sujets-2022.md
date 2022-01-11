@@ -57,13 +57,9 @@ Ce problème de reconnaissance automatique des programmes, bien qu’indécidabl
 
 ### FAIRisation des données de projets issus de collaboration avec ChemBioFrance ###
 
-<<<<<<< Updated upstream
 - Encadrants : [Kiet Tran et Stéphane Bourg](mailto:kiet.tran@enscm.fr,Stephane.BOURG@cnrs.fr)
 - Description du sujet : ChemBioFrance (CBF) est une Infrastructure de recherche (IR) inscrite sur la feuille de route nationale des IR en 2018 et dont la mission est de fournir une offre intégrée de services pour la découverte et l'utilisation de petites molécules pour comprendre et soigner le vivant (sondes biologiques et candidats médicaments). Dans ce contexte, elle s’appuie sur une unité support CNRS, localisée à Montpelier, qui assure la gestion opérationnelle de la chimiothèque nationale, et de réseaux des plateformes de criblage, de chémoinformatique et d’ADME-Tox (accueil et conseil aux utilisateurs, gestion du système d'information, gestion juridique des projets, animation des réseaux et communication).
-=======
-- Encadrants : [Kiet Tran](mailto:kiet.tran@enscm.fr) et [Stéphane Bourg](mailto:Stephane.BOURG@cnrs.fr)
-- Description du sujet : ChemBioFrance \[CBF\] est une Infrastructure de recherche \[IR\] inscrite sur la feuille de route nationale des IR en 2018 et dont la mission est de fournir une offre intégrée de services pour la découverte et l'utilisation de petites molécules pour comprendre et soigner le vivant (sondes biologiques et candidats médicaments). Dans ce contexte, elle s’appuie sur une unité support CNRS, localisée à Montpelier, qui assure la gestion opérationnelle de la chimiothèque nationale, et de réseaux des plateformes de criblage, de chémoinformatique et d’ADME-Tox (accueil et conseil aux utilisateurs, gestion du système d'information, gestion juridique des projets, animation des réseaux et communication).
->>>>>>> Stashed changes
+
 Dans le contexte des données ouvertes, toutes les données des projets issus de collaborations scientifiques avec ChemBioFrance et financés par des fonds publics seront rendues après embargo, facilement accessibles et réutilisables par toutes les communautés scientifiques (chimistes, biologistes, chémoinformaticiens et pharmacologues). Les utilisateurs du système d’information de CBF pourront alors extraire des informations pour des modélisations, réanalyses et annotations diverses au fil des développement des molécules.
 Les plateformes de l’IR génèrent environ 10 To/an de données (imageries, structures chimiques, modélisation de protéines et molécules, criblages virtuels, données expérimentales de criblage, annotation chémoinformatiques).
 
