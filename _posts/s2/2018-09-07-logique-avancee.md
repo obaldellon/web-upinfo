@@ -27,7 +27,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2021/AL"
-author: martin
+author: etienne
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
