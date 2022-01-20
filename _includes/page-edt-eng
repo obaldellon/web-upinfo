@@ -33,5 +33,8 @@ It could be necessary to **refresh the page or clean the cache** to see the last
 
 
 
+ <iframe src="{{ include.exams }}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 The schedule for the second semester is now available, if it is not specified lectures take place in room TD06. 
 

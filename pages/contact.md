@@ -14,15 +14,16 @@ permalink: "/contact/"
 - [Virginie Valot](mailto:virginie.valot@univ-cotedazur.fr) : assistante administrative et pédagogique de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
 - [Laetitia Infantino](mailto:laetitia.infantino@univ-cotedazur.fr) : assistante administrative et pédagogique du département d’informatique.
 
-#### Pour toute information pédagogique en licence ####
+#### Pour toute information pédagogique -- licence ####
 
 - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
 
-{% comment %}
+#### Pour toute information pédagogique -- master  ####
 
-- [master-info@i3s.unice.fr](mailto:master-info@i3s.unice.fr).
+- [master-info@i3s.unice.fr](mailto:master-info@i3s.unice.fr)
+- [Cinzia Di Giusto](mailto:master-info@i3s.unice.fr) : coordinatrice M1.
+- [Enrico Formenti](mailto:master-info@i3s.unice.fr) : coordinateur M2.
 
-{% endcomment %}
 
 #### Pour communiquer entre nous ####
 
