@@ -114,4 +114,10 @@ laurent:
 amaya:
   name: "A. Nogales Gómez, ASSOC. PROF"
   email: "amaya.nogales-gomez@univ-cotedazur.fr"
+pascal:
+  name: "P. Urso, MCF"
+  email: "Pascal.urso@univ-cotedazur.fr"
+gabriel:
+  name: "G. Mopolo"
+  email: "gabriel.mopolo@gmail.com"
 # you can add more authors here

@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "https://wiki.unice.fr/display/~collet/Projet+%28S2%29+-+2018-2019"
-author: philippect
+author: pascal
 #
 # Styling
 #

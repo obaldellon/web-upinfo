@@ -10,7 +10,7 @@ layout: syllabus
 #
 title: "Logique avancée"
 logo: "logo_blanc.png"
-teaser: "Ce cours invite à découvrir les liens étroits existants entre certains formalismes logiques, la théorie des jeux, et la théorie des automates."
+teaser: "With this lecture we invite you to discover some close links between logic and automata."
 
 # Une seule catégorie
 # Pour un syllabus, le semestre du cours : S1, S2, S3, S4.
@@ -27,7 +27,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2021/AL"
-author: martin
+author: martin, etienne
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
@@ -51,44 +51,57 @@ with automata on finite words is desirable (these will be
 recalled very briefly). Mastery of a programming language
 is needed for mini-projects.
 
+One half of the lecture will be in english, the other half will be either in english or in french, on request.
+
 ### Grading ###
 
-  - mini-projects every 3 weeks, to be done at home, revisiting the concepts seen in class
-  - 1 final examination
-
+  - mini-project on regular expressions matching: 1/4
+  - mini-project on automata learning: 1/4
+  - final examination: 1/2
 
 ### Course Material ###
-Course notes and corrected work sheets will be provided online.
+Course notes and corrected exercise sheets will be provided online.
 
 ### Description ###
 
-Correspondence between regular finite word languages
-and those described by weak second-order monadic logic is
-the starting point of the course. This correspondence
-then extends to infinite words and monad second order logic.
+In the early 60s, Büchi, Elgot and Trakhtenbrot formulated a correspondence 
+between regular finite word languages
+and those described by weak second-order monadic logic.
+Beside the nice mathematical
+theory, this correspondence has several applications. An example
+of application is a family of decision procedures for some logical formalisms
+that are particularly useful for system specifications.
+Another example is a method to synthesize 
+a constant space algorithm from a problem
+specification.
+
+The Büchi-Elgot-Trakhtenbrot correspondence
+extends to infinite words and monadic second order logic.
 It also extends to the languages of finite and infinite trees,
 allowing to completely automate reasoning
 for many useful logics
 in checking programs such as Presburger arithmetic,
-LTL, CTL, CTL* temporal logics, modal mu-calculus, etc. The purpose of
-this course is to study some of these logics and discover
-the importance of the theory of automata and games in computer logic.
+LTL, CTL, CTL* temporal logics, modal mu-calculus, etc. 
 
-The course will be held in English.
-
+The purpose of
+this course is to discover some of the simplest of these correspondences 
+between automata and logics in a rather practical approach. Along with
+the nice theory, you will experiment concretely with the MONA tool and you 
+will have to work out two rather guided programming assignments, one of 
+which deals with Dana Angluin L* algorithm for automata learning.
 
 ### Discussed subjects ###
-
-  - second-order monadic logic
+  - automata learning
+  - automata synthesis
+  - monadic second-order logic
   - Presburger arithmetic
-  - alternating automatons
   - automata on infinite words
-  - LTL logic
+  - linear-time temporal logic
   - tree automata
-  - CTL* logic, modal mu-calculus
 
 
 ### References ###
 - Wolfgang Thomas *Languages, Automata, and Logic* [pdf](http://www.cs.cornell.edu/courses/cs6860/2010fa/Handouts/thomas.pdf)
 - The MONA project [web site](http://www.brics.dk/mona/)
 - Automatentheory, Spiele, und Logik [german version of course](http://www.lsv.fr/~lozes/Enseignement/ASL/index.php)
+- [Learning Regular Sets from Queries and Counterexamples](https://people.eecs.berkeley.edu/~dawnsong/teaching/s10/papers/angluin87.pdf)
