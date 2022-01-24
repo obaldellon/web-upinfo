@@ -32,6 +32,10 @@ header:
 Nous allons étudier des notions, problèmes, et algorithmes fondamentaux de la théorie des graphes.
 La programmation dynamique, une méthode algorithmique pour résoudre des problèmes d'optimisation, sera introduite grâce aux graphes, avant d'être appliquée à d'autres problèmes classiques.
 
+### Calendrier ###
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showTitle=0&showTabs=0&mode=AGENDA&showPrint=0&showCalendars=0&src=bDh2NWFwcGRzYjNpZTdramJzb28xaDJhNzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986CB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ### Contenu ###
 
 Les diapositives du cours de théorie des graphes sont disponibles :
@@ -77,6 +81,5 @@ Le plan des cours est le suivant :
 Le contrôle des connaissances comprendra 2 épreuves écrites :
 
 - Contrôle Continu (2h)
-- Projet (modif Covid)
-- ~~Contrôle Terminal (2h)~~
+- Contrôle Terminal (2h)
 - Épreuve orale en seconde session

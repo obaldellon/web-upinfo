@@ -8,7 +8,7 @@ teaser: "Ce cours a pour objectif de montrer comment des probl√®mes de la vie r√
 categories:
   - MIAGE
 # tags:
-ects: 0
+ects: 6
 schedule: "69h"
 # website: "#"
 author: arnaud
