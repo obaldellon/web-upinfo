@@ -61,7 +61,7 @@ Normalement, vous êtes déjà inscrits. Sinon, le cours est en auto-inscription
 La date limite est stricte pour le rapport.
 Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance.
 
-**Le planning détaillé des soutenances est [ici](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRIjky1rWRIQQNCN3zOJzSj4tknRX6_vkz0I1WUPfZvXGWyvf9rVDTxfMeLgzHes9VYT-pGgYYaQA1/pubhtml?gid=316413472&single=true).**
+<!--  **Le planning détaillé des soutenances est [ici](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRIjky1rWRIQQNCN3zOJzSj4tknRX6_vkz0I1WUPfZvXGWyvf9rVDTxfMeLgzHes9VYT-pGgYYaQA1/pubhtml?gid=316413472&single=true).**  -->
 
 
 <!-- Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}). -->
@@ -88,7 +88,7 @@ Formez un groupe, consultez la liste des sujets ou contactez directement des pro
 
 ### Liste des sujets ###
 
-La liste des sujets est [ici]({% post_url /ter/2021-01-19-TER-S2-liste-des-sujets-2021 %}).<br>
+La liste des sujets est [ici]({% post_url /ter/2022-01-07-TER-S2-liste-des-sujets-2022 %}).<br>
 Elle est mise à jour au fur et à mesure de la réception des sujets. Consultez-la régulièrement.
 
 Vous pouvez aussi consulter les sujets des années précédentes et essayer de contacter les encadrants qui les avaient déposés.
