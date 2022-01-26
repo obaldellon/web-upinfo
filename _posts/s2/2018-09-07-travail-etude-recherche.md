@@ -46,14 +46,15 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
 
 ### Calendrier ###
 
-  - mi-février 2021 : affectation aux sujets et début des projets.
-    - Vendredi 19 février 2021 : fin du bonus d'affectation de sujet (1pt).
-    - Lundi 1er mars 2021 : début du malus en cas d'absence de sujet (1pt / sem).
+  - mi-février 2022 : affectation aux sujets et début des projets.
+    - Vendredi 18 février 2022 : fin du bonus d'affectation de sujet (1pt).
+    - Mardi 1er mars 2021 : début du malus en cas d'absence de sujet (1pt / sem).
   - mi-juin 2021: rendu et évaluation des projets.
-    - Mercredi 16 juin 2021 : rendu du rapport sur moodle (INFO).
+  
+<!-- - Mercredi 16 juin 2021 : rendu du rapport sur moodle (INFO).
     - Jeudi 17 juin 2021 : soutenance finale (INFO).
     - Mardi 22 juin 2021 : rendu du rapport sur moodle (MIAGE).
-    - Mercredi 23 juin 2021 : soutenance finale (MIAGE).
+    - Mercredi 23 juin 2021 : soutenance finale (MIAGE). -->
 
 
 Tous les rendus sont à faire dans le cours [SMEFN201 - ECUE TER Informatique S2](https://lms.univ-cotedazur.fr/course/view.php?id=14408) (onglet Rendus).
@@ -100,7 +101,7 @@ Tout d'abord, vous devez contacter l'encadrant et obtenir son accord pour vous e
 Ensuite, vous m'envoyer un courriel contenant le titre du sujet et les membres de votre groupe.
 Tous les membres du groupe ainsi que l'encadrant doivent être destinataire de ce courriel.
 
-Les étudiants sans sujet auront un point en moins par semaine de retard à partir de la date du début de malus (voir [calendrier](#calendrier)).
+Les étudiants sans sujet auront un point en moins par semaine de retard à partir de la date du début de malus (voir le calendrier ci-dessus).
 
 ### Évaluation du TER ###
 
@@ -137,7 +138,7 @@ De plus vous trouverez sur la page de la [charte graphique]({% post_url /divers/
 1.  Introduction
     -   Présentation du groupe
     -   Présentation du sujet
-2.  État de l\'art
+2.  État de l'art
 3.  Travail effectué
 4.  Gestion de projet
 5.  Conclusion
@@ -145,15 +146,15 @@ De plus vous trouverez sur la page de la [charte graphique]({% post_url /divers/
 
 
 Lors de la rédaction du rapport, vous pouvez supposer que le relecteur a globalement le même niveau que vous en informatique.
-Mais c\'est une erreur de supposer qu\'il connaît le sujet de votre TER.
+Mais c'est une erreur de supposer qu'il connaît le sujet de votre TER.
 Il faut donc présenter le contexte général, les technologies utilisées.
-C\'est l\'état de l\'art.
+C'est l'état de l'art.
 
-Dans la partie travail effectué, vous devez présentés les choix technologiques que vous avez été amenés à effectuer, décrire d\'éventuels logiciels que vous avez écrits, présenter des algorithmes...
-Encore une fois, tout choix doit être justifié. Si la décision vient de l\'encadrant, ce n\'est pas une décision, mais une contrainte, et doit être présenté comme tel.
+Dans la partie travail effectué, vous devez présentés les choix technologiques que vous avez été amenés à effectuer, décrire d'éventuels logiciels que vous avez écrits, présenter des algorithmes...
+Encore une fois, tout choix doit être justifié. Si la décision vient de l'encadrant, ce n'est pas une décision, mais une contrainte, et doit être présenté comme tel.
 La justification doit être rationnelle.
 
-Dans la section \"Gestion de Projet\", vous devrez présenter tout ce qui a permis, au sens large, de faire fonctionner votre équipe.
+Dans la section "Gestion de Projet", vous devrez présenter tout ce qui a permis, au sens large, de faire fonctionner votre équipe.
 Le travail effectué par chacun des membres du groupe devra être détaillé.
 Si vous avez été amené à utiliser des logiciels de gestion de source (CVS, SVN, GIT, ...) ou des outils de test, vous pouvez les présenter ici (ou en 3 si vous préférez).
 
@@ -161,29 +162,29 @@ La conclusion résume les tâches effectuées, les taches restant à faire, les 
 
 #### Soutenance orale ####
 
-La soutenance orale en français dure 15 minutes, suivie d\'une séance de questions (5 minutes).
+La soutenance orale en français dure 15 minutes, suivie d'une séance de questions (5 minutes).
 Le temps de parole doit être réparti équitablement entre les membres du groupe.
 Lors de cette soutenance, vous devez présenter le travail effectué lors du TER. Le plan de la présentation suit globalement celui du rapport.
 **La présentation devra être déposée au format PDF dans une boîte de dépôt sur Moodle.**
 
 Voici quelques conseils :
 -   La soutenance sert à convaincre le jury que vous êtes des informaticiens
--   Ne prenez la parole que lorsqu\'on vous la donne. Attendez le signal du jury pour commencer, dites bonjour, présentez-vous.
+-   Ne prenez la parole que lorsqu'on vous la donne. Attendez le signal du jury pour commencer, dites bonjour, présentez-vous.
 -   Répétez votre présentation avant, ne dépassez pas le timing. Il vaut mieux faire moins que trop.
--   Chaque transparent ne doit contenir qu\'**une** information importante. Pour chaque transparent, demandez-vous quel est le message que vous voulez faire passer. Si vous n\'en trouvez pas, le transparent ne sert à rien.
+-   Chaque transparent ne doit contenir qu'**une** information importante. Pour chaque transparent, demandez-vous quel est le message que vous voulez faire passer. Si vous n'en trouvez pas, le transparent ne sert à rien.
 -   Numérotez vos transparents sous la forme n/total pour que le jury sache où vous en êtes de votre présentation.
 -   Pendant la séance de questions, ne coupez pas la parole au jury ou à vos camarades. Vos réponses doivent être concises.
--   Préparez soigneusement une éventuelle démonstration. Vous pouvez même l\'enregistrer au format avi.
+-   Préparez soigneusement une éventuelle démonstration. Vous pouvez même l'enregistrer au format avi.
 
 
 ### Problèmes et solutions ###
 
 
-##### Le sujet final ne correspond pas à celui proposé par l\'encadrant initialement #####
+##### Le sujet final ne correspond pas à celui proposé par l'encadrant initialement #####
 
 
-Ce n\'est pas grave si les changements ont été faits en accord avec
-l\'encadrant, mais ceux-ci devront être justifiés.
+Ce n'est pas grave si les changements ont été faits en accord avec
+l'encadrant, mais ceux-ci devront être justifiés.
 
 ##### Un des membres du groupe ne travaille pas #####
 
@@ -192,8 +193,8 @@ Soit vous ne dites rien et vous assumez la note globale.
 
 ##### Les membres du groupe ont des notes différentes #####
 
-C\'est voulu. La distinction peut se faire sur l\'oral ou sur demande de l\'encadrant.
-Si vous pensez que c\'est injuste, posez la question à votre encadrant ou au jury.
+C'est voulu. La distinction peut se faire sur l'oral ou sur demande de l'encadrant.
+Si vous pensez que c'est injuste, posez la question à votre encadrant ou au jury.
 
 ### Listes des sujets des années précédentes ###
 
