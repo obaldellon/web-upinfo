@@ -88,6 +88,7 @@ des enseignants et des élèves dans le cadre d’Edumed.
 ### Création de 2 applications web – CMS et Framework ###
 
 - Encadrant: [Florian Fecard](mailto:fecard@protonmail.com)
+- Sujet ``ingénierie'' pour 2-3 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -129,6 +130,7 @@ Le rôle du/des étudiants :
 ### Création d’une interface frontend - bot de trading customisable  ###
 
 - Encadrant: [Florian Fecard](mailto:fecard@protonmail.com)
+- Sujet ``ingénierie'' pour 2-3 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -165,6 +167,7 @@ Le projet consiste à développer la partie frontend d’un bot abordable, perme
 ### Refonte de l’architecture d’un site Web ###
 
 - Encadrant: [Florian Fecard](mailto:fecard@protonmail.com)
+- Sujet ``ingénierie'' pour 2-3 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -198,6 +201,7 @@ Le rôle des étudiants sera de séparer distinctement le backend du frontend, e
 ### Développement d'un gestionnaire de cycles de vie de services pour l'IoT ###
 
 - Encadrant: [Rey Gaëtan](mailto:Gaetan.Rey@univ-cotedazur.fr)
+- Sujet ``ingénierie'' pour 1-2 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -224,6 +228,7 @@ Dans le cadre de ce projet, le travail attendu est le suivant :
 ### Développement d'un générateur de flow Node-Red pour l'IoT ###
 
 - Encadrant: [Rey Gaëtan](mailto:Gaetan.Rey@univ-cotedazur.fr)
+- Sujet ``ingénierie'' pour 1-2 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -340,6 +345,7 @@ At the end of the project, the candidate might be offered an internship. This pr
 ### Ontologie pour décrire les types de publications scientifiques  ###
 
 - Encadrant: [Marco Winckler](mailto:Marco.Winckler@univ-cotedazur.fr)
+- Sujet "recherche appliquée" pour 2-4 étudiants,
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -361,6 +367,7 @@ Ce travail s'effectuera dans l'équipe WIMMICS commune à I3S/INRIA, et vient en
 ### Outil pour exploration d'une base de connaissance musicale ###
 
 - Encadrant: [Michel Buffa](mailto:michel.buffa@univ-cotedazur.fr)
+- Sujet "recherche appliquée" pour 2-4 étudiants,
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -379,6 +386,7 @@ Ce travail s'effectuera dans l'équipe WIMMICS commune à I3S/INRIA, et vient en
 ### Cross compilation C++/Rust/Web assembly, écriture d'un logiciel hôte pour des plugins WebAudio écrits en WebAssembly ###
 
 - Encadrant: [Michel Buffa](mailto:michel.buffa@univ-cotedazur.fr)
+- Sujet "recherche appliquée" pour 2-4 étudiants,
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -408,6 +416,7 @@ Ce travail s'effectuera dans l'équipe WIMMICS commune à I3S/INRIA.
 ### Ecriture d'une application "multi-effets audio à base de plugins de type WebAudio Modules 2.0" ###
 
 - Encadrant: [Michel Buffa](mailto:michel.buffa@univ-cotedazur.fr)
+- Sujet "recherche appliquée" pour 2-4 étudiants,
 
 #### Méthodes, langages ou technologies envisagés ####
 {:.no_toc}
@@ -474,3 +483,48 @@ Ce TER contient deux volets:
 1. Écrire une librairie de codes de calculs matriciels en JAVA et en C++ (ces codes peuvent être récupérés sur le net), puis comparer les performances entre les deux langages.
 2. Optimiser les performances des deux codes en utilisant les options de compilation du compilateur pour C++ et les options de Java.
 3. Comparer les avantages et les inconvénients entre C++ et Java dans notre contexte.
+
+### Métriques de variabilité : des calculs à la visualisation ###
+
+- Encadrant: [Mireille Blay](mailto:Mireille.BLAY@univ-cotedazur.fr)
+
+#### Méthode ####
+{:.no_toc}
+
+Analyse du sujet, conception d'une architecture élémentaire pour supporter le développement en mode itératif, mise en oeuvre séquentielle des différentes fonctionnalités.
+
+#### Technologies ####
+{:.no_toc}
+
+Le choix de la technologie et du langage font partie du projet.
+Cependant, les pré-requis sont : accès à la plateforme d'évaluation des métrics sur le web, ajout « facile » de nouveaux éléments (composant d'analyse et visualisation), sensibilisation à la complexité des calculs.  Un dépôt GitHub sera utilisé et si possible une intégration continue sera mise en place.`
+
+#### Sujet ####
+{:.no_toc}
+
+La nécessité de produire des logiciels dans les délais et les budgets impartis, tout en pouvant les adapter à des contextes différents, conduit à mettre en place différents mécanismes pour maîtriser la variabilité des logiciels, notamment par des technologies de lignes de produits. Dans ce projet, nous nous intéresserons aux métriques qui permettent d'évaluer une ligne de produits (eg. nombre de features, cf. article ci-joint \[1\]) et à d'autres métriques pour mesurer par exemple la « couverture » des produits construits.
+
+Dans ce projet, nous vous proposons donc de construire les premières briques d'un « SonarQube » pour lignes de produits logiciels. Il s'agit de comprendre le formalisme des feature models dont on peut trouver des implémentations en JS \[2\] ou en Java \[3\], d'implémenter les métriques choisies ensemble et de les visualiser. Puis de réitérer le processus sur différentes métriques. Le cadre d'application sera à minima l'évaluation d'une ligne dont les produits sont des workflows de machine learning.
+
+1. S. El-Sharkawy, N. Yamagishi-Eichler, and K. Schmid, "Metrics for analyzing variability and its implementation in software product lines: A systematic literature review," Information and Software Technology, vol. 106. Elsevier, pp. 1–30, Feb. 01, 2019, doi: 10.1016/j.infsof.2018.08.015.
+2. [https://github.com/ekuiter/feature-configurator](https://github.com/ekuiter/feature-configurator)
+3. [https://github.com/FeatureIDE/FeatureIDE](https://github.com/FeatureIDE/FeatureIDE)
+
+### Human motion capture using RGBD cameras  ###
+
+- Encadrants: [Andrew Comport](mailto:Andrew.Comport@cnrs.fr) et Arnab Dey
+
+#### Méthodes, langages ou technologies envisagés ####
+{:.no_toc}
+
+Python, C++, knowledge about camera calibration, and computer vision. Knowledge about deep learning methods can be a plus.
+
+#### Sujet ####
+{:.no_toc}
+
+Human volumetric capture is a long-standing topic in computer vision. Although high-quality results can be achieved using sophisticated off-line systems, real-time human volumetric capture of complex scenarios, especially using lightweight setups. So our objective is to capture dense human motion using a network for RGBD(Azure kinect) cameras in real time. The objectives include RGBD camera calibration, multiple RGBD camera synchronization, dense capturing of the scene, point cloud generation, 3D registration, 3D mesh generation, dataset generation, and applying deep learning models for different applications. 
+
+References: 
+
+- [https://dl.acm.org/doi/abs/10.1145/3130800.3130801](https://dl.acm.org/doi/abs/10.1145/3130800.3130801)
+- [https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Function4D_Real-Time_Human_Volumetric_Capture_From_Very_Sparse_Consumer_RGBD_CVPR_2021_paper.html](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Function4D_Real-Time_Human_Volumetric_Capture_From_Very_Sparse_Consumer_RGBD_CVPR_2021_paper.html)
