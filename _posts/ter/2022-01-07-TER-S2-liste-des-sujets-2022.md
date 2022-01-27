@@ -595,7 +595,7 @@ The subject of this project is to study how the approach can be generalized to J
 
 The work will combine :
 
-- studying the state of the art of the current approach \[1,2,3,4,5,6,7,8\] and related work around JavaScript [9,10], as well as the state of practice on implementation mechanisms in the language \[11,12\],
+- studying the state of the art of the current approach \[1,2,3,4,5,6,7,8\] and related work around JavaScript \[9,10\], as well as the state of practice on implementation mechanisms in the language \[11,12\],
 - incrementally proposing and formalizing identification mechanisms for symmetries in JavaScript/TypeScript.
 - experimentally validating the mechanisms by automatic mining in open-source code repositories (e.g. on GitHub).
 
@@ -609,7 +609,7 @@ References:
 [https://hal.archives-ouvertes.fr/hal-02908531](https://hal.archives-ouvertes.fr/hal-02908531)
 5. Varicity demo site [https://deathstar3.github.io/varicity-demo/](https://deathstar3.github.io/varicity-demo/)
 6. Johann Mortara, Philippe Collet, Anne-Marie Dery-Pinna. Visualization of Object-Oriented Variability Implementations as Cities. 9th IEEE Working Conference on Software Visualization (VISSOFT 2021), Sep 2021, Luxembourg [https://hal.archives-ouvertes.fr/hal-03312487](https://hal.archives-ouvertes.fr/hal-03312487)
-7. Liping Zhao. 2008. Patterns, symmetry, and symmetry breaking.Commun. ACM51, 3 (2008), 40–46.[66]
+7. Liping Zhao. 2008. Patterns, symmetry, and symmetry breaking.Commun. ACM51, 3 (2008), 40–46.\[66\]
 8. Liping Zhao and James Coplien. 2003. Understanding symmetry in object-oriented languages.Journal of Object Technology2, 5 (2003), 123–134.
 9. Santos, Alcemir Rodrigues, Ivan do Carmo Machado, and Eduardo Santana de Almeida. "RiPLE-HC: javascript systems meets spl composition." Proceedings of the 20th International Systems and Software Product Line Conference. 2016.
 10. Hanam, Quinn, Fernando S. de M. Brito, and Ali Mesbah. "Discovering bug patterns in JavaScript." Proceedings of the 2016 24th ACM SIGSOFT international symposium on foundations of software engineering. 2016.
