@@ -144,7 +144,7 @@ Les crypto-monnaies apportent une technologie indéniablement novatrice et prome
 
 Le projet consiste à développer la partie frontend d’un bot abordable, permettant ainsi aux particuliers de créer leur propre bot de trading via une interface intuitive. Pour ce TER, les étudiants créeront un dashboard dynamique en Vue.js, permettant à un utilisateur de faire son propre bot, basé sur des indicateurs mathématiques choisis par ce dernier.
 
-##### Les missions du / des étudiants :#####
+##### Les missions du / des étudiants : #####
 {:.no_toc}
 
 - Créer un dashboard contenant un menu déroulant, permettant d’ajouter des blocs. Chacun de ces blocs représentera :
@@ -484,7 +484,7 @@ Ce TER contient deux volets:
 2. Optimiser les performances des deux codes en utilisant les options de compilation du compilateur pour C++ et les options de Java.
 3. Comparer les avantages et les inconvénients entre C++ et Java dans notre contexte.
 
-### Métriques de variabilité : des calculs à la visualisation ###
+### Métriques de variabilité :  des calculs à la visualisation ###
 
 - Encadrant: [Mireille Blay](mailto:Mireille.BLAY@univ-cotedazur.fr)
 
@@ -528,3 +528,120 @@ References:
 
 - [https://dl.acm.org/doi/abs/10.1145/3130800.3130801](https://dl.acm.org/doi/abs/10.1145/3130800.3130801)
 - [https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Function4D_Real-Time_Human_Volumetric_Capture_From_Very_Sparse_Consumer_RGBD_CVPR_2021_paper.html](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Function4D_Real-Time_Human_Volumetric_Capture_From_Very_Sparse_Consumer_RGBD_CVPR_2021_paper.html)
+
+### Création d'une application pour la visualisation en 2D de la similarité entre structures chimiques  ###
+
+- Encadrant: [Fabrice Camilleri](mailto:fabrice.camilleri.ext@bayer.com,camilleri@i3s.unice.fr), à contacter avec les deux mails suivants:  
+	- fabrice.camilleri.ext@bayer.com 
+	- camilleri@i3s.unice.fr
+- Sujet "ingénierie" pour 1-2 étudiants.
+
+#### Méthodes, langages ou technologies envisagés ####
+{:.no_toc}
+
+- Languages: Pythons / HTML / CSS / JavaScript (React) / UML (pour la documentation) 
+- Python package: Flask, Pandas, Matplotlib
+- Autre : Github
+
+#### Sujet ####
+{:.no_toc}
+
+Dans le contexte de la création et les tests de petites molécules (médicaments, produits phytosanitaires), il est utile de visualiser la similarité entre les structures chimiques des molécules. Cette similarité est importante car elle peut renseigner sur les propriétés biologiques d'une molécule. Par exemple, si la molécule A est proche structurellement de la molécule B, on peut émettre l'hypothèse que les 2 molécules ont les mêmes propriétés biologiques.
+
+Le but de ce projet et de créer une application qui permettra de visualiser sur un graphique en 2D la proximité ou l'éloignement structurel d'une liste de molécule donnée en entrée.
+  
+**Le code pour le calcul des coordonnées x et y des molécules à partir de leurs représentations informatiques sera fourni.**
+
+Le projet consistera dans un premier temps à créer une application avec :
+
+- un front-end pour:
+	- Renseigner un chemin où se trouve un fichier csv contenant la liste des molécules
+et leurs représentations informatiques.
+	- Configurer une liste de paramètres pour le calcul des coordonnées x et y du
+graphique (dropdown, radio button, ...).
+	- Valider la saisie de l'utilisateur.
+	- Afficher des erreurs (venant du front-end ou retournées par le back-end).
+	- Afficher un graphique en utilisant les coordonnées x et y envoyées par le back-
+end.
+- un back-end pour:
+	- Valider ce qui a été envoyé par le front-end
+	- Appeler la fonction qui calcule les coordonnées x et y
+	- Retourner les erreurs au front-end
+	- Retourner les coordonnées x et y au front-end
+	
+Si le temps le permet, d'autres fonctionnalités pourront être rajoutées (ajout d'une base de données par exemple).
+Le projet se déroulera de façon itérative ('Scrum' like) : on commencera par quelque chose de très simple, et on rajoutera des fonctionnalités à chaque itération.
+
+### Automatic Identification of variability implementations in JavaScript ###
+
+- Encadrants: [Philippe Collet](mailto:philippe.collet@univ-cotedazur.fr) et 
+[Johann Mortara](mailto:johann.mortara@univ-cotedazur.fr)
+- Sujet "recherche" pour 1 étudiant.
+
+#### Méthodes, langages ou technologies envisagés ####
+{:.no_toc}
+
+- Javascript
+- parsing Javascript in Javascript
+- Graph database (Neo4J)
+- Reverse engineering large codebase
+
+#### Sujet ####
+{:.no_toc}
+
+Variability is the capacity of a software system to be customized and adapted according to its context of usage \[1\]. In the context of ongoing projects called symfinder \[2,3,4\] and Varicity \[5,6\], automatic identification and visualization have been defined and experimentally validated over object-oriented systems developed in Java and C++. The approach relies on the notion of symmetry in variability implementation mechanisms (inheritance, overloading, software patterns), which can be identified inside the code and its structure \[7,8\].
+
+The subject of this project is to study how the approach can be generalized to Javascript and TypeScript.
+
+The work will combine :
+
+- studying the state of the art of the current approach \[1,2,3,4,5,6,7,8\] and related work around JavaScript [9,10], as well as the state of practice on implementation mechanisms in the language \[11,12\],
+- incrementally proposing and formalizing identification mechanisms for symmetries in JavaScript/TypeScript.
+- experimentally validating the mechanisms by automatic mining in open-source code repositories (e.g. on GitHub).
+
+References:
+
+1.	Mikael Svahnberg, Jilles Van Gurp, and Jan Bosch. 2005. A taxonomy of variability realization techniques.Software: Practice and Experience 35, 8 (2005), 705–754
+2. Symfinder demo site https://deathstar3.github.io/symfinder-demo/
+3. Xhevahire Tërnava, Johann Mortara, and Philippe Collet. 2019. Identifying and Visualizing Variability in Object-Oriented Variability-Rich Systems. In 23rd International Systems and Software Product Line Conference - Volume A (SPLC ’19), September 9–13, 2019, Paris, France. ACM, New York, NY, USA, 13 pages. [https://doi.org/10.1145/3336294.3336311](https://doi.org/10.1145/3336294.3336311)
+[https://hal.archives-ouvertes.fr/hal-02339296](https://hal.archives-ouvertes.fr/hal-02339296)
+4.  Johann Mortara, Philippe Collet, and Xhevahire Tërnava. 2020. Identifying and Mapping Implemented Variabilities in Java and C++ Systems using symfinder. In 24th International Systems and Software Product Line Conference (SPLC ’20), October 19–23, 2020, Montréal, Canada. ACM, New York, NY, USA, 4 pages.
+[https://hal.archives-ouvertes.fr/hal-02908531](https://hal.archives-ouvertes.fr/hal-02908531)
+5. Varicity demo site [https://deathstar3.github.io/varicity-demo/](https://deathstar3.github.io/varicity-demo/)
+6. Johann Mortara, Philippe Collet, Anne-Marie Dery-Pinna. Visualization of Object-Oriented Variability Implementations as Cities. 9th IEEE Working Conference on Software Visualization (VISSOFT 2021), Sep 2021, Luxembourg [https://hal.archives-ouvertes.fr/hal-03312487](https://hal.archives-ouvertes.fr/hal-03312487)
+7. Liping Zhao. 2008. Patterns, symmetry, and symmetry breaking.Commun. ACM51, 3 (2008), 40–46.[66]
+8. Liping Zhao and James Coplien. 2003. Understanding symmetry in object-oriented languages.Journal of Object Technology2, 5 (2003), 123–134.
+9. Santos, Alcemir Rodrigues, Ivan do Carmo Machado, and Eduardo Santana de Almeida. "RiPLE-HC: javascript systems meets spl composition." Proceedings of the 20th International Systems and Software Product Line Conference. 2016.
+10. Hanam, Quinn, Fernando S. de M. Brito, and Ali Mesbah. "Discovering bug patterns in JavaScript." Proceedings of the 2016 24th ACM SIGSOFT international symposium on foundations of software engineering. 2016.
+11. Shi Chuan - The JavaScript Patterns Collection. [https://shichuan.github.io/javascript-patterns/](https://shichuan.github.io/javascript-patterns/)
+12. Addy Osmani - Learning JavaScript Design Patterns. [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### Visualisation de graphes sur un tore ###
+
+- Encadrants:  [Enrico Formenti](mailto:enrico.formenti@i3s.unice.fr) et 
+[François Doré](mailto:dore@i3s.unice.fr)
+- Sujet "recherche" pour 1-2 étudiants.
+
+#### Sujet ####
+{:.no_toc}
+
+ Les graphes faisant partie intégrante du paysage informatique, il est bien évidemment crucial de savoir les représenter au mieux pour pouvoir donner sens aux informations latentes. Une certaine classe d'algorithmes, dits à "modèles de forces" \[1\], permettent d'obtenir des visualisations satisfaisantes pour des graphes quelconques en un temps d'exécution raisonnable, notamment au niveau du nombre de croisement d'arêtes.
+ 
+Par intuition, il est privilégié dans la très grande majorité des cas de les dessiner sur un plan, cependant nous pouvons nous demander ce que cela donnerait de les visualiser sur d'autres surfaces, comme un tore \[2\] (La topologie particulière du tore étant émulée par le fait que les arêtes sortant de l'écran réapparaisent de l'autre coté). Cette nouvelle considération peut apporter sur le papier de meilleurs résultats en termes de croisement d'arêtes mais au prix d'une complexité plus grande, en donnant aux arêtes plusieurs possibilités pour être affichées.
+
+Ce projet portera autant sur un aspect pratique, en implémentant un outil de visualisation rudimentaire, que sur un aspect théorique, en cherchant certaines propriétés ou certains mécanismes qui permettent de privilégier certaines positions d'arêtes par rapport à d'autres. Le language privilégié pour la conception de l'outil sera le python.
+
+**Mots-clés :** Graphes, Algorithmique, Topologie, Modèles de Forces
+
+Since graphs are an integral part of the computer science landscape, it is obviously crucial to know how to represent them as well as possible in order to bring information to the latent data. A certain class of algorithms, known as "force-directed layouts" \[1\], allow to obtain good visualizations for generic graphs in a reasonable execution time, especially for the number of edge crossings.
+
+By intuition, it is preferred in the vast majority of cases to draw them on a plane, however we can ask ourselves what it would be like to visualise them on other surfaces, such as a torus \[2\] (the particular topology of the torus being emulated by the fact that the edges leaving the screen reappear on the other side). This new consideration can bring theoretically better results in terms of crossing edges but at the cost of a greater complexity, by densifying the number of possibilities to display the edges.
+
+This project will focus as much on a practical aspect, by implementing a rudimentary visualization tool, as on a theoretical aspect, by looking for some properties or mechanisms that allow to privilege some edge positions over others. The preferred language for the design of the tool will be Python.
+
+**Keywords :** Graph, Algorithmic, Topology, Force-directed layouts
+
+References:
+
+1.	[https://en.wikipedia.org/wiki/Force-directed_graph_drawing](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
+2. Drawing graphs on the Torus, Ars Combinatoria, (Kocay, William and Neilson, Daniel and Szypowski, Ryan), 2001
