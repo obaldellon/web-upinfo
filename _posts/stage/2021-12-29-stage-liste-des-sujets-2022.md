@@ -257,7 +257,7 @@ The candidate will apply by sending ASAP an email to map@unice.fr, luigi.liquori
 
 
 ### Agents conversationnels pour assister les médecins dans l’élaboration de diagnostiques médicaux ###
-- Encadrantes : [Cathy Escazut et Célia Pereira]{mailto:cathy.escazut@univ-cotedazur.fr,celia.da-costa-pereira@univ-cotedazur.fr}
+- Encadrantes : [Cathy Escazut et Célia Pereira](mailto:cathy.escazut@univ-cotedazur.fr,celia.da-costa-pereira@univ-cotedazur.fr)
 - Mots-clés : Système multi-agents, Apprentissage, Aide à la décision, Intelligence Artificielle
 
 #### Objectifs du stage ####
