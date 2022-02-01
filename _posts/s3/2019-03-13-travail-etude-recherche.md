@@ -80,7 +80,7 @@ Voici quelques conseils :
 - La soutenance sert à convaincre le jury que vous êtes des informaticiens
 - Ne prenez la parole que lorsqu'on vous la donne. Attendez le signal du jury pour commencer, dites bonjour, présentez-vous.
 - Répétez votre présentation avant, ne dépassez pas le timing. Il vaut mieux faire moins que trop.
-- Chaque transparent ne doit contenir qu'**une** information importante. Pour chaque transparent, demandez-vous quel est le message que vous voulez faire passer. Si vous n\'en trouvez pas, le transparent ne sert à rien.
+- Chaque transparent ne doit contenir qu'**une** information importante. Pour chaque transparent, demandez-vous quel est le message que vous voulez faire passer. Si vous n'en trouvez pas, le transparent ne sert à rien.
 - Numérotez vos transparents sous la forme `n/total` pour que le jury sache où vous en êtes de votre présentation.
 - Pendant la séance de questions, ne coupez pas la parole au jury ou à vos camarades. Vos réponses doivent être concises.
 - Préparez soigneusement une éventuelle démonstration. Vous pouvez même l'enregistrer au format avi.
