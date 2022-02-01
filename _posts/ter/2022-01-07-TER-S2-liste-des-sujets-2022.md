@@ -144,7 +144,7 @@ Les crypto-monnaies apportent une technologie indéniablement novatrice et prome
 
 Le projet consiste à développer la partie frontend d’un bot abordable, permettant ainsi aux particuliers de créer leur propre bot de trading via une interface intuitive. Pour ce TER, les étudiants créeront un dashboard dynamique en Vue.js, permettant à un utilisateur de faire son propre bot, basé sur des indicateurs mathématiques choisis par ce dernier.
 
-##### Les missions du / des étudiants : #####
+##### Les missions du / des étudiants :#####
 {:.no_toc}
 
 - Créer un dashboard contenant un menu déroulant, permettant d’ajouter des blocs. Chacun de ces blocs représentera :
@@ -645,3 +645,95 @@ References:
 
 1.	[https://en.wikipedia.org/wiki/Force-directed_graph_drawing](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
 2. Drawing graphs on the Torus, Ars Combinatoria, (Kocay, William and Neilson, Daniel and Szypowski, Ryan), 2001
+
+###  Les femmes en politique victimes de misogynie? Twitter comme objet d’étude de ce phénomène ###
+
+- Encadrants: 
+	- [Anaïs Ollagnier](mailto:anais.ollagnier@inria.fr) (INRIA, I3S, équipe WIMMICS)
+	- Elena Cabrio (MCF, Inria, I3S, équipe WIMMICS) 
+	- Serena Villata (CR, CNRS, I3S, équipe WIMMICS) 
+- Sujet "recherche"
+
+#### Sujet ####
+{:.no_toc}
+
+Outre l'échange d'informations, les réseaux sociaux sont un médium idéal pour permettre aux utilisateurs de véhiculer librement leurs idées et leurs opinions. La mise à disposition d’un tel espace public de libre expression a donné lieu à de nombreuses dérives. Qualifiés de comportements abusifs l’ensemble des usages inappropriés relevés sur les réseaux sociaux revêt de multiples formes telles que le harcèlement, les menaces, la diffamation ou encore l’intimidation, ayant toutes visées à avilir les individus ou groupes ciblés. De récents rapport résultant d'enquêtes menées à la fois par des institutions gouvernementales publiques mais également de chercheurs issus de différentes communautés scientifiques pointent l’importance d’endiguer ce phénomène au vu des répercussions néfastes sur les victimes<sup>[1](https://www.coe.int/en/web/freedom-expression/hate-speech)</sup> (Council of Enrope, 2018).
+
+Au vu du flux important de messages postés sur ces réseaux, la nécessité d’automatiser la capture et l’identification de ces comportements abusifs est devenue une préoccupation majeure. Dans ce contexte, les communautés de traitement automatique des langues et d’apprentissage automatique se sont penchés sur cette problématique. Bien que les récentes avancées dans chacun de ces domaines ont permis de révéler des résultats prometteurs, cette tâche reste un challenge (Siegel, 2020;Schmidt et al., 2017). En effet, en plus de devoir faire face à la variété des différents types de cyber agressions, le traitement des données issues des réseaux sociaux implique la gestion particulière de données non structurées et bruitées.
+
+Dans le cadre de ce projet nous souhaiterions analyser les manifestations misogynes au sein du réseau Twitter, et plus particulièrement étudier la prépondérance de ce phénomène dans la sphère publique politique. Dans cette perspective, il sera demandé à l'étudiant(e) de collecter et préparer un jeu de données à partir de l’interrogation de l’API Twitter. Il conviendra ensuite de parvenir à la mise en place d’un outil d'identification automatique des messages impliquant des comportements abusifs et plus particulièrement de ceux ayant trait à des manifestations misogynes.
+
+Le travail d’implémentation sera réalisé en Python et impliquera l’utilisation de techniques issues du traitement automatique des langues et de l'apprentissage automatique. 
+
+**Références Bibliographiques :**
+
+1. Council of Europe. (2018). Hate speech. Council of Europe.
+2. Siegel, A. A. (2020). Online hate speech. Social Media and Democracy: The State of the
+Field, Prospects for Reform, 56-88.
+3. Schmidt, A., & Wiegand, M. (2017, April). A survey on hate speech detection using natural language processing. In Proceedings of the fifth international workshop on natural language processing for social media (pp. 1-10).
+
+###  Quel climat quant à la communication des politiques face à la pandémie: étude des flux Twitter lors des allocutions présidentielles ###
+
+- Encadrants: 
+	- [Anaïs Ollagnier](mailto:anais.ollagnier@inria.fr) (INRIA, I3S, équipe WIMMICS)
+	- Elena Cabrio (MCF, Inria, I3S, équipe WIMMICS) 
+	- Serena Villata (CR, CNRS, I3S, équipe WIMMICS) 
+- Sujet "recherche"
+
+#### Sujet ####
+{:.no_toc}
+
+Depuis quelques années les réseaux sociaux sont devenus l’un des dispositifs de communication privilégiés par les acteurs politiques. Par leur biais, les actions engagées par ces derniers sont multiples: communiquer auprès des citoyens, mobiliser les soutiens, organiser et rationaliser le « travail » militant, inciter à la participation du public, mettre en scène leur capacité de mobilisation et leur proximité aux électeurs, etc. Les citoyens sont également à même par ces canaux d’exprimer leurs ressentis et leurs opinions quant aux actualités politiques. L’analyse de l’ensemble de ces informations s’est avérée précieuse afin d’étudier les tendances mais également les préoccupations des citoyens (Glavaš et al., 2019).
+
+Parmi les activités liées à la fouille de texte, l’analyse de sentiment a été fortement plébiscitée dans l’étude des réseaux sociaux. Par son biais, il est notamment possible d’évaluer l’orientation émotionnelle d’un énoncé (positif, négatif ou neutre), son intensité (extrêmement positif, faiblement négatif, etc.) mais également la valeur sémantique des lexies qui le compose en termes d’émotions primaires (joie, peur, colère, etc.) (Yue et al., 2019). Dans ce contexte, nous souhaiterions étudier pour ce projet le ressenti des citoyens en réponse aux allocutions tenues lors de la pandémie de coronavirus. Dans un premier temps, il sera demandé à l’étudiant(e) de collecter un corpus de tweets postés suite aux allocutions présidentielles. Dans un second temps, il conviendra d’établir un module permettant d’évaluer la teneur émotionnelle de ces messages.
+
+Le travail d’implémentation sera réalisé en Python et impliquera l’utilisation de techniques issues du traitement automatique des langues et de l'apprentissage automatique.
+
+**Références Bibliographiques :**
+
+1. Glavaš, Goran, Federico Nanni, and Simone Paolo Ponzetto. "Computational analysis of political texts: Bridging research efforts across communities." Proceedings of the 57th annual meeting of the association for computational linguistics: Tutorial abstracts. 2019.
+2. Yue, L., Chen, W., Li, X., Zuo, W., & Yin, M. (2019). A survey of sentiment analysis in social media. Knowledge and Information Systems, 60(2), 617-663.
+
+###  An investigation of the effect of the camera parameters on the generalization of deep learning for computer vision ###
+
+- Encadrant: [Andrew Comport](mailto:Andrew.Comport@cnrs.fr) 
+
+#### Sujet ####
+{:.no_toc}
+
+Deep learning models have shown impressive performance in several tasks and different domains \[2,5,6,7\].
+
+Empirical results show that these models do not only interpolate training examples but are also capable of extrapolating to examples that were not modeled by the training dataset \[1\].
+
+This generalization capability is what actually makes these models useful for practical applications. However, the generalization capability is directly proportional to the number of training examples \[1,3,8\].
+
+Achieving generalization or low test error requires large labeled data sets, which is both labor intensive and expensive. Several techniques have been proposed to solve this shortfall to achieve better extrapolation:
+
+Data augmentation seeks to help the model learn feature invariance to rotation, scale, and illumination \[3,4\].Moreover, self-supervised learning techinques such as domain adaptation, where a large unlabled dataset is used to learn features that better represent the image \[9,10,11,12\].
+
+In this project, we propose to study the effect of camera parameters on generalization. Unlike ImageNet dataset, the camera parameters of widely used datasets such as Cityscapes, KITTI, BDD are minimal. Therefore, it is questionable whether the training on these datasets will generalize to other camera parameters.
+
+The main research areas of this project can be broken down into several parts:
+
+
+- State of the art of camera parameters techniques for deep leraning models.
+- Testing the generalization of a model with fixed camera parameters without adapting the test examples with training camera parameters.
+- Test the generalization of a model with fixed camera parameters using adaptation of the test camera parameters to training camera parameters.
+- Propose a new data augmentation of the camera parameters
+- Propose free camera architecture
+
+References:
+
+1. Goodfellow, I., Bengio, Y., & Courville, A. (n.d.). Deep Learning.
+2. He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2016-Decem, 770–778. [https://doi.org/10.1109/CVPR.2016.90](https://doi.org/10.1109/CVPR.2016.90)
+3. Volpi, R., Duchi, J., Namkoong, H., Murino, V., Sener, O., & Savarese, S. (2018). Generalizing to unseen domains via adversarial data augmentation. Advances in Neural Information Processing Systems, 2018-Decem, 5334–5344.
+4. Huang, S. W., Lin, C. T., Chen, S. P., Wu, Y. Y., Hsu, P. H., & Lai, S. H. (2018). AugGAN: Cross domain adaptation with GAN-based data augmentation. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11213 LNCS, 731–744. [https://doi.org/10.1007/978-3-030-01240-3_44](https://doi.org/10.1007/978-3-030-01240-3_44)
+5. Bochkovskiy, A., Wang, C.-Y., & Liao, H.-Y. M. (2020). YOLOv4: Optimal Speed and Accuracy of Object Detection. [http://arxiv.org/abs/2004.10934](http://arxiv.org/abs/2004.10934)
+6. Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., & Ng, R. (2020). NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12346 LNCS, 405–421. [https://doi.org/10.1007/978-3-030-58452-8_24](https://doi.org/10.1007/978-3-030-58452-8_24)
+7. He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2020). Mask R-CNN. IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(2), 386–397. [https://doi.org/10.1109/TPAMI.2018.2844175](https://doi.org/10.1109/TPAMI.2018.2844175)
+8. Zoph, B., Ghiasi, G., Lin, T. Y., Cui, Y., Liu, H., Cubuk, E. D., & Le, Q. V. (2020). Rethinking pre-training and self-training. Advances in Neural Information Processing Systems, 2020-Decem. [http://arxiv.org/abs/2006.06882](http://arxiv.org/abs/2006.06882)
+9. Volpi, R., Morerio, P., Savarese, S., & Murino, V. (2018). Adversarial Feature Augmentation for Unsupervised Domain Adaptation. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 5495–5504. [https://doi.org/10.1109/CVPR.2018.00576](https://doi.org/10.1109/CVPR.2018.00576)
+10. Sankaranarayanan, S., Balaji, Y., Jain, A., Lim, S. N., & Chellappa, R. (2018). Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 3752–3761. [https://doi.org/10.1109/CVPR.2018.00395](https://doi.org/10.1109/CVPR.2018.00395)
+11. Tang, H., Chen, K., & Jia, K. (2020). Unsupervised domain adaptation via structurally regularized deep clustering. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 8722–8732. [https://doi.org/10.1109/CVPR42600.2020.00875](https://doi.org/10.1109/CVPR42600.2020.00875)
+12. Yang, Y., & Soatto, S. (2020). FDA: Fourier domain adaptation for semantic segmentation. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 4084–4094. [https://doi.org/10.1109/CVPR42600.2020.00414](https://doi.org/10.1109/CVPR42600.2020.00414)
+
