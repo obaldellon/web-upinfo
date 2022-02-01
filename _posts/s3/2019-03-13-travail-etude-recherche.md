@@ -71,19 +71,19 @@ De plus vous trouverez sur la page de la [charte graphique]({% post_url /divers/
 
 #### Soutenance orale ####
 
-La soutenance orale en français dure 15 minutes, suivie d\'une séance de questions (5 minutes).
+La soutenance orale en français dure 15 minutes, suivie d'une séance de questions (5 minutes).
 Le temps de parole doit être réparti équitablement entre les membres du groupe.
 Lors de cette soutenance, vous devez présenter le travail effectué lors du TER. Le plan de la présentation suit globalement celui du rapport.
 
 Voici quelques conseils :
 
 - La soutenance sert à convaincre le jury que vous êtes des informaticiens
-- Ne prenez la parole que lorsqu\'on vous la donne. Attendez le signal du jury pour commencer, dites bonjour, présentez-vous.
+- Ne prenez la parole que lorsqu'on vous la donne. Attendez le signal du jury pour commencer, dites bonjour, présentez-vous.
 - Répétez votre présentation avant, ne dépassez pas le timing. Il vaut mieux faire moins que trop.
-- Chaque transparent ne doit contenir qu\'**une** information importante. Pour chaque transparent, demandez-vous quel est le message que vous voulez faire passer. Si vous n\'en trouvez pas, le transparent ne sert à rien.
-- Numérotez vos transparents sous la forme n/total pour que le jury sache où vous en êtes de votre présentation.
+- Chaque transparent ne doit contenir qu'**une** information importante. Pour chaque transparent, demandez-vous quel est le message que vous voulez faire passer. Si vous n\'en trouvez pas, le transparent ne sert à rien.
+- Numérotez vos transparents sous la forme `n/total` pour que le jury sache où vous en êtes de votre présentation.
 - Pendant la séance de questions, ne coupez pas la parole au jury ou à vos camarades. Vos réponses doivent être concises.
-- Préparez soigneusement une éventuelle démonstration. Vous pouvez même l\'enregistrer au format avi.
+- Préparez soigneusement une éventuelle démonstration. Vous pouvez même l'enregistrer au format avi.
 
 <!--
 L'ordre de passage est donné ci-dessous.
