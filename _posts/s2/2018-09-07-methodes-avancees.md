@@ -43,7 +43,6 @@ Les travaux pratiques sont réalisés avec la suite [IBM Ilog optimization studi
  - Les diapositives du cours sont [ici]({% include link-asset asset="proglin.pdf" %}).
  - un petit [guide d'installation d'IBM Ilog optimization studio]({% post_url divers/2019-07-23-installation-cplex-studio %}).
  - Le [Cahier d'exercices](https://www.enseignement.polytechnique.fr/profs/informatique/Leo.Liberti/teaching/isic/isc610a-08/) du cours de Recherche Operationnelle du professeur Léo Liberti. Merci à lui pour le partage.
- - D'autres exercices sont publiés [ici](http://www.i3s.unice.fr/~malapert/org/teaching/proglin.html) au fil de l'eau.
 
 ### Modalités de contrôle des connaissances ###
  - À déterminer -- 2 TP Notés ou 1 Partiel ou 1 Projet (50%)
