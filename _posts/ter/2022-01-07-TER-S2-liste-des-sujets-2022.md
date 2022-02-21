@@ -87,7 +87,7 @@ des enseignants et des élèves dans le cadre d’Edumed.
 
 ### Création de 2 applications web – CMS et Framework ###
 
-- Encadrant: [Florian Fecard](mailto:fecard@protonmail.com)
+- Encadrant: [Florian Ecard](mailto:fecard@protonmail.com)
 - Sujet ``ingénierie'' pour 2-3 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
@@ -129,7 +129,7 @@ Le rôle du/des étudiants :
 
 ### Création d’une interface frontend - bot de trading customisable  ###
 
-- Encadrant: [Florian Fecard](mailto:fecard@protonmail.com)
+- Encadrant: [Florian Ecard](mailto:fecard@protonmail.com)
 - Sujet ``ingénierie'' pour 2-3 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
@@ -166,7 +166,7 @@ Le projet consiste à développer la partie frontend d’un bot abordable, perme
 
 ### Refonte de l’architecture d’un site Web ###
 
-- Encadrant: [Florian Fecard](mailto:fecard@protonmail.com)
+- Encadrant: [Florian Ecard](mailto:fecard@protonmail.com)
 - Sujet ``ingénierie'' pour 2-3 étudiants.
 
 #### Méthodes, langages ou technologies envisagés ####
@@ -736,4 +736,26 @@ References:
 10. Sankaranarayanan, S., Balaji, Y., Jain, A., Lim, S. N., & Chellappa, R. (2018). Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 3752–3761. [https://doi.org/10.1109/CVPR.2018.00395](https://doi.org/10.1109/CVPR.2018.00395)
 11. Tang, H., Chen, K., & Jia, K. (2020). Unsupervised domain adaptation via structurally regularized deep clustering. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 8722–8732. [https://doi.org/10.1109/CVPR42600.2020.00875](https://doi.org/10.1109/CVPR42600.2020.00875)
 12. Yang, Y., & Soatto, S. (2020). FDA: Fourier domain adaptation for semantic segmentation. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 4084–4094. [https://doi.org/10.1109/CVPR42600.2020.00414](https://doi.org/10.1109/CVPR42600.2020.00414)
+
+###  comparison of L* and NL* algorithm ###
+
+- Encadrants: 
+	- [Cinzia Di Giusto](mailto:cinzia.di-giusto@unice.fr) 
+	- [Etienne Lozes](mailto:etienne.lozes@univ-cotedazur.fr)
+- Sujet "recherche"
+
+#### Sujet ####
+{:.no_toc}
+
+Angluin's L* algorithm \[1\] is a famous algorithm for learning deterministic finite state automata from membership and equivalence queries.
+
+Bollig et al NL* \[2\] algorithm is a variant of this algorithm, where the automaton that is learned may be non deterministic, and therefore exponentially more succinct.
+
+The goal of this TER is to understand the theory behind these two algorithms, and if the time permits, to implement them and compare them.
+
+References:
+
+1. [https://people.eecs.berkeley.edu/~dawnsong/teaching/s10/papers/angluin87.pdf](https://people.eecs.berkeley.edu/~dawnsong/teaching/s10/papers/angluin87.pdf)
+2. [https://www.labri.fr/perso/anca/Games/Bib/angluin-nfa-bollig.pdf](https://www.labri.fr/perso/anca/Games/Bib/angluin-nfa-bollig.pdf)
+
 
