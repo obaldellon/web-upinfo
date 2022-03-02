@@ -20,7 +20,7 @@ Ces activités concernent l'évaluation des compétences en programmation à tra
 
 De nombreux concours de programmation existent à travers le monde pour mettre en pratique les connaissances en algorithmique et programmation des étudiants et se confronter à d'autres.
 En général, les étudiants participent en équipe et doivent résoudre un maximum de problèmes dans les délais impartis.
-Les étudiants soumettent leur programme à un juge (automatique), qui accepte ou refuse la soumission.
+Les étudiants soumettent leur programme à un juge automatique, qui accepte ou refuse la soumission.
 Certains concours se déroulent uniquement en présentiel, d'autres uniquement en ligne, ou un savant mélange des deux.
 
 Le plus prestigieux concours est probablement l'[ICPC](https://icpc.global/) dont les origines remontent aux années 70 et dont les dernières éditions ont réuni plus de 50000 étudiants de 3000 universités.
@@ -30,7 +30,7 @@ En informatique, on retrouve fréquemment les exercices posés dans ces concours
 Au sein de notre Université, ces exercices sont maintenant intégrés tout au long de la formation des étudiants.
 Les modalités varient en fonction des objectifs poursuivis : apprentissage, renforcement, évaluation, compétition ...
 
-Nous rappelons d'abord l'intérêt pédagogique des ces activités avant de préciser les activités mises en place à l'Université.
+Nous rappelons d'abord l'intérêt pédagogique des ces activités avant détailler les activités mises en place à l'Université.
 
 ### Intérêt pédagogique ###
 
@@ -41,13 +41,13 @@ Elles associent
  2. la pédagogie active, les étudiants appréhendent de nouveaux concepts seuls pour résoudre certains des problèmes ;
  3. la pédagogie par problèmes dans laquelle les étudiants regroupés par équipes travaillent ensemble à résoudre un problème pour lequel ils n'ont pas toujours reçu une formation particulière.
 
-Par ailleurs, les modalités sont flexibles et varient en fonction du type d'exercice, du degré d'autonomie, des réponses du juge automatique ...
+Par ailleurs, les modalités sont flexibles : travail individuel ou en groupe ; en présentiel ou en distanciel ; degré d'autonomie ; synchrone ou asynchrone ; jugements automatiques ou manuel.
 
 ### Intégration dans le cursus pédagogique ###
 
 Ces activités sont intégrées dans plusieurs cours de Licence et de Master que ce soit pour les travaux pratiques ou les contrôles.
 
-Nous ne donnerons pas ici une liste exhaustive des cours concernés, mais présenterons rapidement le plus emblématique en cycle Master.
+Nous ne donnerons pas ici une liste exhaustive des cours concernés, mais présenterons rapidement le plus emblématique du cycle Master.
 Le cours [Programming Challenge]({% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 Informatique est entièrement dédié à ces activités.
 Le cours commence par un [tutoriel]({% post_url ucancode/2019-07-22-tutoriel %}) que l'on peut suivre en autonomie.
 Puis, il continue avec des séries d'exercices accompagnés de supports de cours.
@@ -59,13 +59,13 @@ Les dernières activités sont notées, plus aucun modèle n'est fourni, et il y
 
 Il existe de nombreuses ressources supplémentaires en ligne pour s'entraîner quel que soit son niveau d’études.
 
-Ces activités sont accessibles grâce à la plate-forme [Sphere Engine](https://sphere-engine.com/) qui occupe maintenant un rôle central dans la démarche pédagogique.
+Ces activités sont accessibles grâce à la plate-forme [Sphere Engine](https://sphere-engine.com/) qui occupe maintenant un rôle central dans cette démarche pédagogique.
 Sans un entraînement adéquat, il est difficile de participer à des concours de programmation et illusoire d'espérer bien y figurer.
 
 ### Concours de programmation ###
 
 Nous présentons maintenant les concours de programmation auxquels les étudiants ont participé depuis 2016.
-Cela a évolué en fonction des objectifs pédagogiques, des partenariats, et des contraintes techniques, administratives, et sanitaires.
+Cela a évolué en fonction des objectifs pédagogiques, des partenariats, et des contraintes techniques, administratives, ou sanitaires.
 
 #### Concours interne UCAnCODE ####
 
@@ -125,7 +125,7 @@ Le comité scientifique est composé de deux membres.
 - Marie Pelleau, Maı̂tre de conférences, Université Côte d’Azur, CNRS, I3S.
 
 Depuis 2016, le comité scientifique a reçu l’aide d'une trentaine d'universitaires et d’étudiants.
-Les niveaux d'implication varient du simple encadrement d'étudiants pendant un concours à la construction d'exercices originaux.
+Les niveaux d'implication varient du simple encadrement d'étudiants à la construction d'exercices originaux et de supports de cours.
 
 ### Derniers posts
 {: .t60 } {% include list-posts category='UCAnCODE' %}
