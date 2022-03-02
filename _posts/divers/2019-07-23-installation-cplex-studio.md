@@ -187,6 +187,6 @@ int b = ...;
 minimize sum(i in Data) x[i];
 
 subject to {
-  sum(i in Data) i.a * x[i] >= b;
+  sum(i in Data) i.coeff * x[i] >= b;
 }
 ```
