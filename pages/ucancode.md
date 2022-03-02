@@ -25,12 +25,12 @@ Certains concours se déroulent uniquement en présentiel, d'autres uniquement e
 
 Le plus prestigieux concours est probablement l'[ICPC](https://icpc.global/) dont les origines remontent aux années 70 et dont les dernières éditions ont réuni plus de 50000 étudiants de 3000 universités.
 Ces concours sont très répandus et organisés par de nombreux acteurs : universités, conférences, entreprises, associations, ou même cabinet de recrutement.
-En informatique, on retrouve fréquemment les exercices posés dans ces concours dans les entretiens d'embauche d'entreprises, comme les géants du web (GAFA - Google/Apple/Facebook/Amazon).
+En informatique, on retrouve fréquemment les exercices posés dans ces concours dans les entretiens d'embauche d'entreprises, comme les géants du web (GAFAM - Google/Apple/Facebook/Amazon/Microsoft).
 
 Au sein de notre Université, ces exercices sont maintenant intégrés tout au long de la formation des étudiants.
 Les modalités varient en fonction des objectifs poursuivis : apprentissage, renforcement, évaluation, compétition ...
 
-Nous rappelons d'abord l'intérêt pédagogique des ces activités avant préciser les activités mises en place à l'Université.
+Nous rappelons d'abord l'intérêt pédagogique des ces activités avant de préciser les activités mises en place à l'Université.
 
 ### Intérêt pédagogique ###
 
@@ -38,7 +38,7 @@ Malgré leur ancienneté, ces activités restent pédagogiquement innovantes.
 Elles associent
 
  1. la pédagogie inversée, les étudiants préparent le concours à la maison ;
- 2. la pédagogie active, les étudiants appréhendent de nouveaux concepts seuls pour résoudre certains des problèmes ,
+ 2. la pédagogie active, les étudiants appréhendent de nouveaux concepts seuls pour résoudre certains des problèmes ;
  3. la pédagogie par problèmes dans laquelle les étudiants regroupés par équipes travaillent ensemble à résoudre un problème pour lequel ils n'ont pas toujours reçu une formation particulière.
 
 Par ailleurs, les modalités sont flexibles et varient en fonction du type d'exercice, du degré d'autonomie, des réponses du juge automatique ...
@@ -73,7 +73,7 @@ De 2016 à 2018, le département d'informatique a organisé des concours de prog
 En général, le concours avait lieu le vendredi après-midi précédant la période d'examens.
 Les participants, en binôme, avaient 4 heures pour résoudre 7 problèmes originaux ou plus.
 
-Le succès de ces concours a augmenté au fur et à mesure les moyens nécessaires à leur organisation ainsi que les besoins logistiques et techniques.
+Le succès de ces concours a augmenté au fur et à mesure ainsi que les moyens nécessaires à leur organisation et les besoins logistiques et techniques.
 En 2019, nous avons donc fait le choix de nous concentrer sur l'intégration des activités dans les cursus et de participer uniquement à des concours externes.
 
 
