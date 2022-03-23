@@ -21,7 +21,8 @@ header:
 
 Sur cette page vous trouverez :
 
-- un modèle de rapport en LaTeX pour vos projets, TER, stage,...
+- un modèle de rapport
+- et un modèle de présentation en LaTeX pour vos projets, TER, stage,...
 - les logos,
 - le matériel de communication (affiche, flyer).
 

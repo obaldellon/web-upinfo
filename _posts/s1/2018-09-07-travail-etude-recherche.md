@@ -91,7 +91,7 @@ Le rapport doit expliquer :
 - Quelles sont les performances de votre IA ambitieuse : vs random, vs "robot" de PD/GL, vs IA garantie, contre elle-même ? Expliquez votre méthode et vos résultats.
 - Tirer un bilan sur vos approches et vos développements d'IA : les résultats sont-ils conformes à ce que vous attendiez ? À ce qui existe par ailleurs ?
 
-Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-03-charte-graphique %}) un modèle de rapport en LaTeX.
+Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-03-charte-graphique %}) un modèle de rapport et de présentation en LaTeX.
 
 ### Calendrier ###
 
