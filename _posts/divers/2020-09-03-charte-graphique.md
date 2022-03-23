@@ -25,9 +25,15 @@ Sur cette page vous trouverez :
 - les logos,
 - le matériel de communication (affiche, flyer).
 
-## Modèle de rapport
+## Modèles
 
-[Modèle de rapport]({% include link-asset asset="rapport.zip" %}) en LaTeX, contenant des consignes, des conseils et des exemples. Mis à jour le 22 novembre 2021.
+### Rapport
+
+[Modèle de rapport](https://github.com/mpelleau/rapport-master) en LaTeX, contenant des consignes, des conseils et des exemples. Mis à jour le 22 novembre 2021.
+
+### Présentation
+
+[Modèle de présentation](https://github.com/mpelleau/presentation-master) en LaTeX, contenant des consignes, des conseils et des exemples. Mis à jour le 23 mars 2022.
 
 ## Logos
 
