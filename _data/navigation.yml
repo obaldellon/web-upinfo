@@ -68,8 +68,16 @@
     url: "/blog/archive/"
 
 - title: "Candidater"
-  url: "https://univ-cotedazur.fr/candidater-et-s-inscrire/candidater/candidater-en-master"
+  url: "#"
   side: left
+  dropdown:
+  - title: "Master"
+    url: "https://univ-cotedazur.fr/candidater-et-s-inscrire/candidater/candidater-en-master"
+  - title: "Licence 2/3"
+    url: "https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/candidater-en-licence-2-licence-3-licence-professionnelle"
+  - title: "Licence 1"
+    url: "https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/candidater-en-licence-1-dut-pass-prepa-ingenieur"
+
 
 #
 #   Navigation to the right -> side: right
