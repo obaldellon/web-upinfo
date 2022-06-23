@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-author: fabrice
+author: Chuan XU
 #
 # Styling
 #
@@ -27,3 +27,14 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
+
+This [course](https://sites.google.com/view/chuanxu/distributed-memory-parallel-programming) mainly focus on distributed-memory parallel framework, where each processor (core, CPU, GPU, IoT device) has its own memory space which can not be shared with others. This parallel framework is popular as it corresponds to many real application scenarios such as the cluster, the sensor network and IoT.
+The students will learn to use the parallel programming tool MPI (the Message Passing Interface), to achieve a broad set of parallelization strategies for applications covering machine learning (ML) and numerical/non-numerical algorithms. Besides the advanced parallel mechanisms to study and to analyze, 3 lab courses are provided with subjects for each of this application.
+First, for the machine learning task in the cluster environment, as data is massive (and might of nature distributed), we will show how to learn a global well-performed machine learning model cooperatively without data-sharing. Second, we will briefly investigate how to parallelize matrix multiplication, which is an essential part for the computation in ML. Last, we will introduce some advanced parallelisms for the classical graph algorithms such as shortest path and minimum spanning tree in IoT environment.
+
+References:
+[1] Introduction to Parallel Computing. Second Edit. A.Grama et al.
+[2] Structured Parallel Programming: Patterns for Efficient Computation. M.McCool et al
+[3] Introduction to High Performance Computing for Scientists and Engineers. G.Hager et al
+[4] Applications of parallel computers, UC Berkeley CS 267 course
+[5] Recent Progress in Parallel and Distributed Computing
