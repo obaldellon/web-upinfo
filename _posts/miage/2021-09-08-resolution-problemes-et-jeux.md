@@ -7,7 +7,8 @@ title: "Résolution de problèmes et jeux"
 teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être modélisés et résolus, tels que des problèmes de recherche opérationnelle ou des jeux. Différents types de méthodes seront présentées, comme les algorithmes gloutons, la recherche locale, la logique, la programmation linéaire, ou la programmation par contraintes."
 categories:
   - MIAGE
-# tags:
+tags:
+  - M2
 ects: 6
 schedule: "69h"
 # website: "#"
