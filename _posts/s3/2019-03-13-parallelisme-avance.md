@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-author: Chuan XU
+author: chuan
 #
 # Styling
 #
