@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Parallelisme avancé"
 logo: "logo_blanc.png"
-teaser: ""
+teaser: "This course mainly focus on distributed-memory parallel framework, where each processor (core, CPU, GPU, IoT device) has its own memory space which can not be shared with others."
 categories:
   - S3
 tags:
@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: ""
-author: Chuan XU
+author: chuan
 #
 # Styling
 #
