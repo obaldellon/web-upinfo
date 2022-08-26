@@ -17,6 +17,11 @@ permalink: "/contact/"
 #### Pour toute information pédagogique -- licence ####
 
 - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
+- [Olivier Baldellon](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinateur S1 et S2.
+- [Etienne Lozes](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinateur S3.
+- [Elisabetta De Maria](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinatrice S4.
+- [Sid Touati](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinateur S5.
+- [Sandrine Julia](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinatrice S6.
 
 #### Pour toute information pédagogique -- master  ####
 
