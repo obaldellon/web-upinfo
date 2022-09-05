@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "54"
 website: "https://lms.univ-cotedazur.fr"
-author: pierre
+author: juliend
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
