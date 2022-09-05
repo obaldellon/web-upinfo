@@ -26,7 +26,7 @@ incontournables dans les principaux domaines professionalisants (bases de donné
 
 Cette formation généraliste permet une poursuite d'étude naturelle vers
 
-- le [master informatique](http://i3s.unice.fr/master-info)  de Nice-Sophia Antipolis 
+- le [master informatique](http://i3s.unice.fr/master-info)  de Nice-Sophia Antipolis
 - la [MIAGE](https://www.miage-nice.fr), admission possible en MIAGE à la fin du L2 ou à la fin du L3
 - le [master international EIT Digital Data Science](https://masterschool.eitdigital.eu/programmes/data-science)
 
@@ -39,11 +39,15 @@ D'autres débouchés sont bien évidemment possibles et fréquents, dans d'autre
 - l'informatique de gestion et d’entreprise
 - l'informatique mobile, les objets connectés, et le développement web
 - les réseaux de télécommunications, l'administration des systèmes informatiques, le cloud computing
-- la sécurité des systèmes d'information et la cybersécurité
+- la sécurité des systèmes d'information et la cybersécurité
 - la recherche et développement
 - la recherche académique
 
 L’objectif de la licence informatique est de préparer au mieux les étudiants à ces diverses attentes.
+
+Une présentation des métiers de l’informatique et de la mention informatique a été faite lors de la période enjeux (01/09/2022).
+Les transparents correspondants sont disponibles [ici]({% include link-asset asset="metiers-info-2022.pdf" %}).
+
 
 ### Compétences ###
 
@@ -75,13 +79,13 @@ Pour valider une année il faut valider suffisamment de crédits ECTS pour dépa
 - L'admission en L2 sans avoir suivi la L1 se fait par candidature. Les candidatures sont examinées par les responsables du **portail science**, dont un référent du département informatique.
 - L'admission en L3 informatique sans avoir suivi la L2 parcours informatique se fait par candidature. Les candidatures sont examinées par le responsable de la L3 informatique.
 
-Les candidatures L2 et L3 sont sélectives. Les étudiants français admis en L3 ont généralement, au choix, 
+Les candidatures L2 et L3 sont sélectives. Les étudiants français admis en L3 ont généralement, au choix,
 
 - obtenu une L2 informatique dans une autre université
 - effectué une classe préparatoire ou une année en école d'ingénieur,
 - obtenu un DUT avec une moyenne supérieure à 12,
 
-De plus, dans tous les cas, les candidatures retenues sont celles d'étudiants 
+De plus, dans tous les cas, les candidatures retenues sont celles d'étudiants
 qui  ont suivi de nombreux cours d'informatique, y compris d'informatique théorique, permettant de prétendre à une équivalence avec les cours de L1 et L2.
 
 ## Informations générales sur la scolarité ##
@@ -115,8 +119,8 @@ aux responsables pédagogiques L2 et L3
 de suivre de manière dérogatoire des UEs de L3.
 
 À partir de la rentrée 2022, il est envisagé de permettre aux étudiants redoublants de L3 de repasser une UE qu'ils ont validé.
-Ils renoncent alors à leur note de l'année précédente et s'exposent à obtenir une note inférieure. 
-La mise en place de cette possibilité reste à confirmer par les coordinateurs d'année à la rentrée 2022. 
+Ils renoncent alors à leur note de l'année précédente et s'exposent à obtenir une note inférieure.
+La mise en place de cette possibilité reste à confirmer par les coordinateurs d'année à la rentrée 2022.
 
 ## Cours proposés ##
 
