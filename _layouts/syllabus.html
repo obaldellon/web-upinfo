@@ -25,11 +25,13 @@ format: syllabus
                         {%if page.subheadline %}{{ page.subheadline }}
                             {% if page.author %} 
                                 &ndash; 
+                                {% for author in authors %}
                                 {% if forloop.index == 1 %}
                                     {{ site.data.authors[author].name }}
                                 {% else %}
                                     &amp; {{ site.data.authors[author].name }}
                                 {% endif %}
+                                {% endfor %}
                             {% endif %}
                         {% elsif page.author %}
                             {% for author in authors %}

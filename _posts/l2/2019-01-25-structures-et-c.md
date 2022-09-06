@@ -14,7 +14,7 @@ ects: 6
 schedule: "54h"
 # website: "#"
 
-author: marie
+author: marie, olivier
 #
 # Styling
 #
@@ -44,8 +44,10 @@ Ce cours est divisé en deux sous-modules :
 
 ### Intervenants ###
 
-- [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr)
+- [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) (responsable de Structures de données)
+- [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (responsable de Programmation C)
 
+<!--
 - [Loic Germerie Guizouarn](mailto:loic.germerie-guizouarn@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 - [Victor Jung](mailto:victor.jung@etu.univ-cotedazur.fr) (chargé de TD)
 - [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD)
@@ -54,6 +56,7 @@ Ce cours est divisé en deux sous-modules :
 - [Amaya Nogales Gomez](mailto:amaya.nogales-gomez@i3s.unice.fr) (chargée de TP)
 - [Jérémie Marquès](mailto:jeremie.marques@univ-cotedazur.fr) (chargé de TP)
 - [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
+-->
 
 #### Structures de données ####
 
@@ -90,7 +93,8 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 
 Il s'agit d'une introduction à la programmation dans le langage C. C est un langage de programmation impératif devenu l'un des plus utilisés dans le monde.
 
-<!-- #####  Programme ##### -->
+#####  Programme #####
+
 Ce cours est divisé en 5 grandes parties :
 
 1. Introduction au C
@@ -101,8 +105,10 @@ Ce cours est divisé en 5 grandes parties :
 
 ##### Supports de cours #####
 
-Les supports de cours seront mis au fur et à mesure.
 
+{% include alert info="Les supports de cours en C seront mis au fur et à mesure." %}
+
+<!--
 - [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
 - [CM 2]({% include link-asset asset="2-Type_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-Type_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-Type_x2+notes.pdf" %})
 - [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
@@ -112,7 +118,7 @@ Les supports de cours seront mis au fur et à mesure.
 - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
 
 - [Examen terminal de 2018]({% include link-asset asset="examen_c_2018.pdf" %})
-- [Examen terminal de 2020]({% include link-asset asset="examen_c_2020.pdf" %})
+- [Examen terminal de 2020]({% include link-asset asset="examen_c_2020.pdf" %})-->
 
 ### Calendrier ###
 
@@ -127,8 +133,28 @@ Les supports de cours seront mis au fur et à mesure.
 
 ### Modalités de contrôle des connaissances ###
 
+Vous avez :
+- 1 note en Structures de données (SdD) et 
+- 1 note en Programmation C (C)
+
+La note de ce module est la moyenne de ces 2 notes (SdD + C)/2
+
+#### Note en Struuctures de données ####
+ 
+Pour la note de structure de données :
+- 1 Contrôle Continu (CC)
+- 1 Contrôle Terminal (CT)
+
+Le calcul de la note est le suivant : max (CT, (CC+CT)/2)
+
+#### Note en Programmation C ####
+
+{% include alert info="Le calcul de la note de Programmation C sera communiquée ultérieurement." %}
+
+<!--
 - 2 CC (1 en structure de données, 1 en programmation C)
 - 1 CT
+-->
 
 ### Ressources ###
 
