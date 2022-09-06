@@ -29,6 +29,7 @@ cinzia:
   email: "cinzia.di-giusto@univ-cotedazur.fr"
 olivier:
   name: "O. Baldellon, PRAG"
+  uri: "http://deptinfo.unice.fr/~obaldellon/"
   email: "olivier.baldellon@univ-cotedazur.fr"
 franck:
   name: "F. Guingne, MCF"
@@ -127,4 +128,7 @@ chuan:
   name: "C. Xu, MCF"
   uri: "https://sites.google.com/view/chuanxu"
   email: "chuan.xu@univ-cotedazur.fr"
+juliend:
+  name: "J. Deantoni, PR"
+  email: "julien.deantoni@univ-cotedazur.fr"
 # you can add more authors here
