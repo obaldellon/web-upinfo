@@ -46,11 +46,14 @@ Ce cours est divisé en deux sous-modules :
 
 - [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) (responsable de Structures de données)
 - [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (responsable de Programmation C)
-
 <!--
+- [Victor Jung](mailto:victor.jung@etu.univ-cotedazur.fr) (chargé de TD et de TP)
+- [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD et de TP)
+
+- [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
+
+
 - [Loic Germerie Guizouarn](mailto:loic.germerie-guizouarn@etu.univ-cotedazur.fr) (chargé de TD et de TP)
-- [Victor Jung](mailto:victor.jung@etu.univ-cotedazur.fr) (chargé de TD)
-- [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD)
 
 - [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (chargé de TP)
 - [Amaya Nogales Gomez](mailto:amaya.nogales-gomez@i3s.unice.fr) (chargée de TP)
@@ -76,11 +79,11 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 
 ##### Supports de cours #####
 
-- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})	
-- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})	
-- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})	
-- [CM 4]({% include link-asset asset="4-Listes_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Listes_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Listes_x2+notes.pdf" %})
-- [CM 5]({% include link-asset asset="5-Listes_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="5-Listes_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="5-Listes_x2+notes.pdf" %})
+- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})	
+- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})	
+- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})	
+- [CM 4]({% include link-asset asset="4-Listes_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="4-Listes_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="4-Listes_x2+notes.pdf" %})
+- [CM 5]({% include link-asset asset="5-Listes_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="5-Listes_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="5-Listes_x2+notes.pdf" %})
 
 - [TD1]({% include link-asset asset="TD1.pdf" %}), [TD2]({% include link-asset asset="TD2.pdf" %}), [TD3]({% include link-asset asset="TD3.pdf" %}), [TD4]({% include link-asset asset="TD4.pdf" %}), [TD5]({% include link-asset asset="TD5.pdf" %}), [TD6]({% include link-asset asset="TD6.pdf" %})
 
@@ -109,10 +112,10 @@ Ce cours est divisé en 5 grandes parties :
 {% include alert info="Les supports de cours en C seront mis au fur et à mesure." %}
 
 <!--
-- [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
-- [CM 2]({% include link-asset asset="2-Type_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="2-Type_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="2-Type_x2+notes.pdf" %})
-- [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
-- [CM 4]({% include link-asset asset="4-Fichiers_handout.pdf" %}), [4 diapositves par page]({% include link-asset asset="4-Fichiers_x4.pdf" %}), [2 diapositves par page + notes]({% include link-asset asset="4-Fichiers_x2+notes.pdf" %})
+- [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
+- [CM 2]({% include link-asset asset="2-Type_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="2-Type_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="2-Type_x2+notes.pdf" %})
+- [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
+- [CM 4]({% include link-asset asset="4-Fichiers_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="4-Fichiers_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="4-Fichiers_x2+notes.pdf" %})
 
 - [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})	
 - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
