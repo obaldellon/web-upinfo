@@ -13,7 +13,7 @@ tags:
 ects: 6
 schedule: "54h"
 # website: "#"
-author: laurent
+author: elisabetta
 #
 # Styling
 #

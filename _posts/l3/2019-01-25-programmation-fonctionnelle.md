@@ -13,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h cours + 18h TD + 18h TP"
 website: "https://www.i3s.unice.fr/~elozes/enseignement/PF/"
-author: Etienne Lozes
+author: etienne
 #
 # Styling
 #
