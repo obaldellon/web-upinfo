@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "24h cours + 6h TD + 24h TP"
 # website: "#"
-author: julien
+author: etienne elisabetta stephanejeannin
 #
 # Styling
 #

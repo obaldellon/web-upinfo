@@ -14,7 +14,7 @@ tags:
 ects: 6
 schedule: "24h CM, 30h TP"
 website: "https://www-sop.inria.fr/members/Elena.Cabrio/TechnoWeb.html"
-author: elena
+author: pascal
 #
 # Styling
 #

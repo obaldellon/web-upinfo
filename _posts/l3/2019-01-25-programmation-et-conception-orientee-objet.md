@@ -13,7 +13,7 @@ tags:
 ects: 6
 schedule: "48h"
 # website: "#"
-author: julien
+author: juliend
 #
 # Styling
 #

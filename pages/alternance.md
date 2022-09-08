@@ -25,9 +25,9 @@ Plusieurs guides du [CFA EPURE](https://www.cfa-epure.com/) expliquent l'alterna
   - [L'alternance présenté sur le site du Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation](https://www.enseignementsup-recherche.gouv.fr/cid20247/l-alternance-dans-le-superieur.html)
   - [Le Contrat d'apprentissage présenté sur le site service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F2918#:~:text=La%20formation%20de%20l'apprenti%20doit%20avoir%20une%20dur%C3%A9e%20minimale,un%20suivi%20par%20le%20CFA.)
 
-Le responsable de l'alternance pour le Master Informatique 1<sup>re</sup> année et pour la 2<sup>e</sup> année pour le parcours "Informatique et Interactions" est [Philippe Renevier Gonin](http://www.i3s.unice.fr/~renevier/index.fr.html).<br/>
+Le responsable de l'alternance pour le Master Informatique 1<sup>re</sup> année et pour la 2<sup>e</sup> année pour le parcours "Informatique et Interactions" est [Etienne Lozes](http://www.i3s.unice.fr/~elozes).<br/>
 
-_Pour 2<sup>e</sup> année parcours ingénierie, il faut prendre contact avec [Pr. Philippe Collet](http://www.i3s.unice.fr/Philippe_Collet/)._
+_Pour 2<sup>e</sup> année parcours ingénierie, il faut prendre contact avec [Pr. Jean Martinet](https://www.i3s.unice.fr/jmartinet/fr/accueil)._
 
 <iframe src="https://univ-cotedazur.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c2e0702d-41ca-4c19-9a55-acf700d714b1&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
