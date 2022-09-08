@@ -24,17 +24,18 @@ It could be necessary to **refresh the page or clean the cache** to see the last
 
 ## Lectures
 
- - Lectures take place: 
+ - Lectures take place in room TD 06 or TD 282: 
    - in the morning from 9h15 to 12h30 and 
    - in the afternoon from  14h00 à 17h15.
  
  <iframe src="{{ include.agenda }}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
+{% comment %}
 
+* <iframe src="{{ include.exams }}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
- <iframe src="{{ include.exams }}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+{% endcomment %}
 
-
-The schedule for the second semester is now available, if it is not specified lectures take place in room TD06. 
+The schedule for the first semester is now available.
 

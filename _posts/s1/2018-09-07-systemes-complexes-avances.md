@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "(N/A) Systèmes complexes avancés"
+title: "Systèmes complexes avancés"
 logo: "logo_blanc.png"
 teaser: "<strong>Ce cours n'est pas disponible en 2020-2021.</strong></br>La recherche se trouve actuellement confrontée, dans différentes disciplines et domaines d’étude, à la notion de système complexe. Une problématique majeure dans l’étude de tels systèmes consiste à comprendre comment un ensemble d’objets interagissant selon des règles locales déterminées peut engendrer un comportement global complexe, difficile à comprendre au simple vu des règles locales."
 categories:
@@ -13,7 +13,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-#author: philippecd
+author: christophe
 #
 # Styling
 #
