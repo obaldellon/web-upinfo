@@ -37,4 +37,3 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-TODO
