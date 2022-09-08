@@ -22,7 +22,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-#author: christophe
+author: christophe
 #
 # Styling
 #
@@ -37,11 +37,3 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-
-### Thème ###
-
-### Description ###
-
-### Références ###
-
-### Modalités de contrôle des connaissances ###
