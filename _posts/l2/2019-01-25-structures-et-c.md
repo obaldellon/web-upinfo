@@ -47,11 +47,10 @@ Ce cours est divisé en deux sous-modules :
 - [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) (responsable de Structures de données)
 - [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (responsable de Programmation C)
 
-
-<!--
 - [Victor Jung](mailto:victor.jung@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 - [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 
+<!--
 - [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
 
 
