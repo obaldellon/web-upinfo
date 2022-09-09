@@ -51,9 +51,6 @@ Ce cours est divisé en deux sous-modules :
 - [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 
 <!--
-- [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
-
-
 - [Loic Germerie Guizouarn](mailto:loic.germerie-guizouarn@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 
 - [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (chargé de TP)
