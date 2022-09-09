@@ -50,13 +50,15 @@ Ce cours est divisé en deux sous-modules :
 - [Victor Jung](mailto:victor.jung@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 - [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 
+- [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
+- [Laurent Tichit](mailto:laurent.tichit@univ-cotedazur.fr) (chargé de TP)
+
 <!--
 - [Loic Germerie Guizouarn](mailto:loic.germerie-guizouarn@etu.univ-cotedazur.fr) (chargé de TD et de TP)
 
 - [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (chargé de TP)
 - [Amaya Nogales Gomez](mailto:amaya.nogales-gomez@i3s.unice.fr) (chargée de TP)
 - [Jérémie Marquès](mailto:jeremie.marques@univ-cotedazur.fr) (chargé de TP)
-- [Florian Regin](mailto:florian.regin@etu.univ-cotedazur.fr) (chargé de TP)
 -->
 
 #### Structures de données ####
