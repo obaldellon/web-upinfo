@@ -26,8 +26,8 @@ Tous les étudiants présentent leurs travaux en anglais accompagnés d’un rap
 
 ## Cours optionnels ##
 
-Les étudiants non alternants doivent suivre entre 6 et 8 cours pouvant inclure une mineure.
-En alternance, il est vivement déconseillé de suivre plus de 6 cours et les mineures sont interdites.
+Les étudiants non alternants doivent suivre entre 8 et 10 cours pouvant inclure une mineure.
+En alternance, il est vivement déconseillé de suivre plus de 8 cours et les mineures sont interdites.
 
 {%include accordion-posts category="S1" tag="OPT" %}
 
