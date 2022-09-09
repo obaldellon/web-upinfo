@@ -3,17 +3,17 @@ layout: syllabus
 #
 # Content
 #
-title: "Projet de développement"
+title: "(N/A) Projet de développement"
 logo: "logo_blanc.png"
 teaser: "L'objectif est de maîtriser la conception, le développement et la validation/vérification d’un logiciel de taille conséquente, en équipe, à partir d'un cahier des charges et en mettant en pratique des principes de développement du génie logiciel."
 categories:
   - S1
 tags:
-  - REQ
+  - OPT
 ects: 3
 schedule: "24h"
 website: "https://wiki.unice.fr/pages/viewpage.action?pageId=289482168"
-author: philipper
+author: 
 #
 # Styling
 #

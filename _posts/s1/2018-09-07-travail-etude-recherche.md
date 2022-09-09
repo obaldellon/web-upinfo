@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
-teaser: "Ce projet complète le projet de développement. L'objectif est de comprendre, formaliser, analyser, et répondre aux besoins du logiciel en termes de structures de données, d'algorithmes, d'aide à la décision, ou même d'intelligence artificielle."
+teaser: ""
 categories:
   - S1
 tags:
@@ -13,7 +13,7 @@ tags:
 ects: 6
 schedule: "18h"
 # website: "#"
-author: marie
+author: cinzia
 #
 # Styling
 #
@@ -33,8 +33,8 @@ Les problématiques abordées seront toutefois liées à d'autres cours.
 
 Les TDs servent à suivre et à encadrer les équipes d'étudiants dans la réalisation du projet.
 
-- Identifier la problématique du [projet de développement](../projet-developpement/) et identifier son cadre théorique.
-- Définir et formaliser un ou plusieurs problèmes à résoudre dans un contexte agile.
+- Identifier la problématique du projet et identifier son cadre théorique.
+- Définir et formaliser un ou plusieurs problèmes à résoudre.
 - Déterminer les techniques de résolution et les implémenter correctement.
 - Évaluer rigoureusement les performances en termes de qualité et d'efficacité.
 
@@ -47,10 +47,10 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 - Pas de 2nde session.
 
 - **Le rapport et la soutenance sont en anglais.**
-- Les spécifications de la règle du jeu et des IA doivent être déposées sur github avant les vacances de Noël.
+<!-- - Les spécifications de la règle du jeu et des IA doivent être déposées sur github avant les vacances de Noël.
 - Le rapport doit être déposé la veille de la soutenance avant midi sur github.
 - La soutenance doit être déposée avant le début des soutenances.
-
+-->
 #### Soutenance ####
 
 - **Les soutenances auront lieu le mardi 25 janvier 2021.**
@@ -65,7 +65,7 @@ Les étudiants doivent rendre un rapport à mi-projet décrivant les problèmes 
 **Le jury comprend des personnes extérieures aux projets.**
 Il faudra donc donner à l'oral tous les éléments d'information et de contexte pour que votre discours soit compréhensible par tout le jury.
 
-L'ordre de passage est donné ci-dessous.
+<!-- L'ordre de passage est donné ci-dessous.
 
 | Horaire | Équipe               | Étudiants                                                                             |
 |---------|----------------------|---------------------------------------------------------------------------------------|
@@ -101,7 +101,7 @@ Vous trouverez sur la page de la [charte graphique]({% post_url /divers/2020-09-
 
 - Présentation des [stratégies d'IA]({% include link-asset asset="IntroIA-Seasons.pdf" %}) 
 - [Les règles de Seasons]({% include link-asset asset="Seasons_regles.pdf" %})
-
+-->
 <!-- 
 ### Supports ###
 
