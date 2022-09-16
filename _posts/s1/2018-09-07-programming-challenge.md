@@ -43,15 +43,15 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 ### Lectures ###
 
 {:start="0"}
-1. [Getting Started]({% include link-asset asset="0-Getting-Started.pdf" %})
-1. [Input/Output]({% include link-asset asset="1-Input-Output.pdf" %})
-1. [Numbers]({% include link-asset asset="2-Numbers-GM.pdf" %})
-1. [Array]({% include link-asset asset="3-Array.pdf" %})
-1. [Sort]({% include link-asset asset="4-Sort.pdf" %})
-1. [Tree]({% include link-asset asset="5-Tree.pdf" %})
-1. Dynamic Programming.
-1. [String Processing]({% include link-asset asset="7-String-Processing.pdf" %})
-1. [Graph]({% include link-asset asset="8-Graph.pdf" %})
+1. [Getting Started](https://raw.githubusercontent.com/arnaud-m/Programming-Challenges/master/0-Getting-Started/0-Getting-Started.pdf)
+1. [Input/Output](https://github.com/arnaud-m/Programming-Challenges/raw/master/1-Input-Output/1-Input-Output.pdf)
+1. [Numbers](https://github.com/arnaud-m/Programming-Challenges/raw/master/2-Numbers/2-Numbers-GM.pdf)
+1. [Array](https://github.com/arnaud-m/Programming-Challenges/raw/master/3-Array/3-Array.pdf)
+1. [Sort](https://github.com/arnaud-m/Programming-Challenges/raw/master/4-Sort/4-Sort.pdf)
+1. [Tree](https://github.com/arnaud-m/Programming-Challenges/raw/master/5-Tree/5-Tree.pdf)
+1. [Dynamic Programming](https://github.com/arnaud-m/Programming-Challenges/raw/master/6-Dynamic-Programming/6-Dynamic-Programming.pdf)
+1. [String Processing](https://github.com/arnaud-m/Programming-Challenges/raw/master/7-String-Processing/7-String-Processing.pdf)
+1. [Graph](https://github.com/arnaud-m/Programming-Challenges/raw/master/8-Graph/8-Graph.pdf)
 
 The source code of the lectures is available in this [repository](https://github.com/arnaud-m/Programming-Challenges).
 
