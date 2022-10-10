@@ -42,25 +42,28 @@ Les diapositives du cours seront mises à jour au fur et à mesure des cours.
  - [Introduction]({% include link-asset asset="0-Intro_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Intro_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Intro_x2+notes.pdf" %})
  - [Modélisation]({% include link-asset asset="0-Modelisation_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Modelisation_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Modelisation_x2+notes.pdf" %})
  - [Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_x2+notes.pdf" %})
- - [HashCode 2018 - Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2018_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2018_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2018_x2+notes.pdf" %})
  - [Recherche Locale]({% include link-asset asset="2-Recherche-Locale_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale_x2+notes.pdf" %})
- - [HashCode 2018 - Recherche Locale]({% include link-asset asset="2-Recherche-Locale_HashCode2018_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale_HashCode2018_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale_HashCode2018_x2+notes.pdf" %})
  - [Programmation par Contraintes]({% include link-asset asset="3-Programmation-Par-Contraintes.pdf" %})
 
- [HASHCODE2018](https://51364960.widgets.sphere-engine.com/lp?hash=CcUuvLVUQG)
+### Hashcode ###
+
+#### 2018 ####
+ - [Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2018_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2018_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2018_x2+notes.pdf" %})
+ - [Recherche Locale]({% include link-asset asset="2-Recherche-Locale_HashCode2018_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale_HashCode2018_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale_HashCode2018_x2+notes.pdf" %})
+ - [Widget -- HASHCODE2018](https://51364960.widgets.sphere-engine.com/lp?hash=CcUuvLVUQG)
+
+#### 2017 ####
+
+ - [Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2017_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2017_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2017_x2+notes.pdf" %})
+ - [Widget -- HASHCODE2017](https://51364960.widgets.sphere-engine.com/lp?hash=ZxDblRSByv)
 
 
 ### Contenu des années précédentes ###
 
- - [HashCode 2017 - Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2017_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2017_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_HashCode2017_x2+notes.pdf" %})
-[HASHCODE2017](https://51364960.widgets.sphere-engine.com/lp?hash=ZxDblRSByv)
  - [Contrôle de 2018]({% include link-asset asset="interro2018.pdf" %})
  - [Contrôle de 2019]({% include link-asset asset="interro2019.pdf" %})
  - [Examen de 2018]({% include link-asset asset="examen2018.pdf" %})
  - [Examen de 2019]({% include link-asset asset="examen2019.pdf" %})
- 
-<!--  : [Modélisation 1]({% include link-asset asset="CM1.pdf" %}), [Modélisation 2]({% include link-asset asset="CM2.pdf" %}).
-Ainsi qu'une [correction du contrôle]({% include link-asset asset="correction.pdf" %}). -->
 
 Ce cours est divisé en 4 grandes parties :
   1. Modélisation 
@@ -68,8 +71,6 @@ Ce cours est divisé en 4 grandes parties :
   3. Recherche locale <!-- Propagation -->
   4. Programmation par contraintes
    <!-- Contraintes globales -->
-
-<!--[HASHCODE](https://51364960.widgets.sphere-engine.com/lp?hash=IgMwEEQvxB)-->
 
 ### Modalités de contrôle des connaissances ###
 
