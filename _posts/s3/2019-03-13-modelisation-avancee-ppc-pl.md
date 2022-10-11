@@ -29,8 +29,24 @@ header:
 ---
 
 
+### Lectures
+
+We work on the [cryptator project](https://github.com/arnaud-m/cryptator) using the [choco solver](https://choco-solver.org/).
+
+1. Getting started with the project.
+   - Introduction to constraint programming ;
+     - [my old CP course]({% include link-asset asset="cours-ppc.pdf" %})
+     - [Choco tutorials](https://choco-solver.org/tutos/);
+   - Research project management
+     - Scientific context and objectives.
+     - Tasks, milestones, deadlines, etc.
+
+### Schedule ###
+
+<iframe src="https://calendar.google.com/calendar/embed?src=gojhjrssif09rqi5e5omjll5ug%40group.calendar.google.com&ctz=Europe%2FParis&ampcolor=%23F09300&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="450" frameborder="0" scrolling="no"></iframe>
 
 
+## Archive 2021-2022
 
 ### Lectures
 
