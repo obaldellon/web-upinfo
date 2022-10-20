@@ -43,7 +43,7 @@ Les diapositives du cours seront mises à jour au fur et à mesure des cours.
  - [Modélisation]({% include link-asset asset="0-Modelisation_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="0-Modelisation_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="0-Modelisation_x2+notes.pdf" %})
  - [Algorithmes gloutons]({% include link-asset asset="1-Algorithmes-Gloutons_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="1-Algorithmes-Gloutons_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_x2+notes.pdf" %})
  - [Recherche Locale]({% include link-asset asset="2-Recherche-Locale_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="2-Recherche-Locale_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="2-Recherche-Locale_x2+notes.pdf" %})
- - [Programmation par Contraintes]({% include link-asset asset="3-Programmation-Par-Contraintes.pdf" %})
+ - [Programmation par Contraintes]({% include link-asset asset="3-Programmation-Par-Contraintes_handout.pdf" %}) ; [4 diapositives par pages]({% include link-asset asset="3-Programmation-Par-Contraintes_x4.pdf" %}) ; [2 diapositives par page + notes]({% include link-asset asset="3-Programmation-Par-Contraintes_x2+notes.pdf" %})
 
 ### Hashcode ###
 

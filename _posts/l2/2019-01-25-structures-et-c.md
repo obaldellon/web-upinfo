@@ -142,7 +142,7 @@ Vous avez :
 
 La note de ce module est la moyenne de ces 2 notes (SdD + C)/2
 
-#### Note en Struuctures de données ####
+#### Note en Structures de données ####
  
 Pour la note de structure de données :
 - 1 Contrôle Continu (CC)
