@@ -108,10 +108,11 @@ Ce cours est divisé en 5 grandes parties :
 
 ##### Supports de cours #####
 
+Les supports de cours pour Programmation C sont [ici](http://deptinfo.unice.fr/~obaldellon/c).
 
+<!-- 
 {% include alert info="Les supports de cours en C seront mis au fur et à mesure." %}
 
-<!--
 - [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
 - [CM 2]({% include link-asset asset="2-Type_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="2-Type_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="2-Type_x2+notes.pdf" %})
 - [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
@@ -152,9 +153,14 @@ Le calcul de la note est le suivant : max (CT, (CC+CT)/2)
 
 #### Note en Programmation C ####
 
-{% include alert info="Le calcul de la note de Programmation C sera communiquée ultérieurement." %}
+- 1 QCM (~25%)
+- 1 Projet (~25%)
+- Interros surprises en amphi (~?%)
+- 1 CT (~50%)
 
 <!--
+{% include alert info="Le calcul de la note de Programmation C sera communiquée ultérieurement." %}
+
 - 2 CC (1 en structure de données, 1 en programmation C)
 - 1 CT
 -->
