@@ -30,7 +30,7 @@ header:
 
 ### Intervenants ###
 
-Marie Pelleau, et Laurent Tichit.
+[Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) et [Laurent Tichit](mailto:laurent.tichit@univ-cotedazur.fr).
 
 ### Calendrier ###
 
