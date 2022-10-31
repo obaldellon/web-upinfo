@@ -74,7 +74,7 @@ Homework with Sphere Engine (20%) - Released on November 19, 2021
 {% endcomment %}
 
 Final Exam with Sphere Engine (50%) - October 31, 2022
-: There are two problems to solve in the labs within 3 hours. Pair work is not allowed.
+: There are between two and four problems to solve in the labs within 3 hours. Pair work is not allowed.
 
 
 #### Coding Battle Oral ####
@@ -86,6 +86,7 @@ You must present your solution to one of the three most difficult problems of th
      - Algorithmic (7 min): it must include an example of the algorithm execution without any reference to the code.
      - Code (3 min): it describes the implementation choices of your final submission and evaluates its performance.
      - Questions (10 min) about the algorithmic and the code: you can use a whiteboard for answering.
+
 
 {% comment %}
 #### Homework ####
@@ -102,6 +103,7 @@ A short presentation about the homework followed by a Q&A session on Thusrday is
 - [UCAnCODE]({% link pages/ucancode.md %})
 - [CSE 392 - Programming Challenges (2012)](https://www3.cs.stonybrook.edu/~skiena/392/)
 - [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 ##### Public online judges
 
