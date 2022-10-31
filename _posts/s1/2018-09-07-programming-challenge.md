@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Programming challenge"
-logo: "logo_blanc.png"
+logo: "logo_alpha.png"
 teaser: " This course will introduce an interesting variety of subjects in programming, algorithms, and discrete mathematics though puzzles and problems which have appeared in the International ACM Programming Contest and similar venues."
 categories:
   - S1
@@ -19,14 +19,14 @@ author: arnaud
 # Styling
 #
 image:
-  thumb: "header-syllabus-unsplash-thumb.jpg"
-  homepage: "header-syllabus-unsplash.jpg"
+  thumb: "UCAnCODE.png"
+  homepage: "header-ucancode.png"
 #  caption: "https://unsplash.com/"
-  url: "https://unsplash.com/"
+#  url: "https://unsplash.com/"
 header:
-  image_fullwidth: "header-syllabus-unsplash.jpg"
+  image_fullwidth: "header-ucancode.png"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/
+#  caption_url: https://unsplash.com/
 ---
 
 
