@@ -1,0 +1,82 @@
+/**
+ * Syntax highlighter obtained by rougify
+ */
+
+ .igorpro {
+  .highlight {
+    color: #444444;
+    /* Comment */                     .c   { color: #FF0000 }
+    /* Punctuation */                 .p   { color: inherit }
+    /* Error */                       .err { color: inherit } // undefined
+    /* Keyword */                     .k   { color: #0000FF }
+    /* Operator */                    .o   { color: inherit }
+    /* Comment.Multiline */           .cm  { color: #FF0000 }
+    /* Comment.Preproc */             .cp  { color: #CC00A3 }
+    /* Comment.Single */              .c1  { color: #FF0000 }
+    /* Comment.Special */             .cs  { color: #CC00A3 }
+    /* Generic.Deleted */             .gd  { color: inherit }
+    /* Generic.Emph */                .ge  { color: inherit }
+    /* Generic.Error */               .gr  { color: inherit }
+    /* Generic.Heading */             .gh  { color: inherit }
+    /* Generic.Inserted */            .gi  { color: inherit }
+    /* Generic.Output */              .go  { color: inherit }
+    /* Generic.Prompt */              .gp  { color: inherit } 
+    /* Generic.Strong */              .gs  { color: inherit }
+    /* Generic.Subheading */          .gu  { color: inherit }
+    /* Generic.Traceback */           .gt  { color: inherit }
+    /* Keyword.Constant */            .kc  { color: #C34E00 }
+    /* Keyword.Declaration */         .kd  { color: #0000FF }
+    /* Keyword.Namespace */           .kn  { color: #0000FF }
+    /* Keyword.Pseudo */              .kp  { color: #0000FF }
+    /* Keyword.Reserved */            .kr  { color: #007575 }
+    /* Keyword.Type */                .kt  { color: #0000FF }
+    /* Literal.Number */              .m   { color: inherit }
+    /* Literal.String */              .s   { color: #009C00 }
+    /* Name.Attribute */              .na  { color: inherit }
+    /* Name.Builtin */                .nb  { color: #C34E00 }
+    /* Name.Class */                  .nc  { color: inherit }
+    /* Name.Constant */               .no  { color: inherit }
+    /* Name.Decorator */              .nd  { color: inherit }
+    /* Name.Entity */                 .ni  { color: inherit }
+    /* Name.Exception */              .ne  { color: inherit }
+    /* Name.Function */               .nf  { color: inherit }
+    /* Name.Label */                  .nl  { color: inherit }
+    /* Name.Namespace */              .nn  { color: inherit }
+    /* Name.Tag */                    .nt  { color: inherit }
+    /* Name.Variable */               .nv  { color: inherit }
+    /* Operator.Word */               .ow  { color: inherit }
+    /* Text.Whitespace */             .w   { color: #444444 }
+    /* Literal.Number.Float */        .mf  { color: inherit }
+    /* Literal.Number.Hex */          .mh  { color: inherit }
+    /* Literal.Number.Integer */      .mi  { color: inherit }
+    /* Literal.Number.Oct */          .mo  { color: inherit }
+    /* Literal.String.Backtick */     .sb  { color: #009C00 }
+    /* Literal.String.Char */         .sc  { color: #009C00 }
+    /* Literal.String.Doc */          .sd  { color: #009C00 }
+    /* Literal.String.Double */       .s2  { color: #009C00 } 
+    /* Literal.String.Escape */       .se  { color: #009C00 } 
+    /* Literal.String.Heredoc */      .sh  { color: #009C00 }
+    /* Literal.String.Interpol */     .si  { color: #009C00 }
+    /* Literal.String.Other */        .sx  { color: #009C00 }
+    /* Literal.String.Regex */        .sr  { color: #009C00 }
+    /* Literal.String.Single */       .s1  { color: #009C00 }
+    /* Literal.String.Symbol */       .ss  { color: #009C00 }
+    /* Name.Builtin.Pseudo */         .bp  { color: #C34E00 }
+    /* Name.Variable.Class */         .vc  { color: inherit }
+    /* Name.Variable.Global */        .vg  { color: inherit }
+    /* Name.Variable.Instance */      .vi  { color: inherit }
+    /* Literal.Number.Integer.Long */ .il  { color: inherit }
+                                      .ch  { color: #FF0000 }
+                                      .cd  { color: #FF0000 }
+                                      .cpf { color: #FF0000 }
+                                      .pi  { color: inherit }
+                                      .kv  { color: #0000FF }
+                                      .dl  { color: #009C00 }
+                                      .sa  { color: #0000FF }
+                                      .mb  { color: inherit }
+                                      .mx  { color: inherit }
+                                      .n   { color: inherit }
+                                      .fm  { color: inherit }
+                                      .vm  { color: inherit }
+  }
+}

@@ -179,7 +179,7 @@ pre {
     border-radius: $global-radius;
     line-height: 1.2;
     max-height: 350px;
-    @if variable-exists(this-code-color) {
+    /*@if variable-exists(this-code-color) {
         color: $this-code-color;
     }
     @else {
@@ -196,7 +196,7 @@ pre {
         .alert-box & {
             background-color: opacify($code-background-color, 0.3);
         }
-    }
+    }*/
     &:active {
         //max-height: none; // TODO annoying and impossible to scroll
     }
@@ -224,12 +224,12 @@ pre {
     &::-webkit-scrollbar {
         height: 12px;
         width: 12px;
-        @if variable-exists(this-code-background-color) {
+        /*@if variable-exists(this-code-background-color) {
             background: lighten($this-code-background-color, 10%);
         }
         @else {
             background: lighten($code-background-color, 10%);
-        }
+        }*/
     }
 
     &::-webkit-scrollbar-thumb {
@@ -279,8 +279,8 @@ kbd {
 }
 
 code.highlighter-rouge {
-    background-color:transparent;
-    color:black;
+    /*background-color:transparent;
+    color:black;*/
     border-style: none;    
 }
 

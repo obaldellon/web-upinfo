@@ -87,6 +87,8 @@ ou une image réduite insérée dans le texte
 
 ### Exemple de code
 
+La coloration syntaxique est gérée par Rouge, la liste des languages disponibles [ici](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers).
+
 #### Python
 ```python
 def dump_args(func):
@@ -125,7 +127,7 @@ class conditions(object):
 
 #### C++
 
-```c++
+```cpp
 #include "algostuff.hpp"
 using namespace std;
 
@@ -201,6 +203,7 @@ public class KeyboardIntegerReader {
 }
 ```
 
+<!--
 #### Javascript
 ```javascript
 $(function(){
@@ -246,6 +249,7 @@ $(function(){
 
 });
 ```
+-->
 
 ### Normal code block
 
@@ -265,7 +269,7 @@ public void method();
 ```
 {: title="Short description of the code block"}
 
-
+<!--
 ### Code block with Liquid code
 
 ```liquid{% raw %}
@@ -273,6 +277,7 @@ public void method();
 ```{% endraw %}
 {: title="Liquid code, that's not executed"}
 {% comment %}Outputting `endraw` in code block requires some trickery: http://blog.slaks.net/2013-06-10/jekyll-endraw-in-code/{% endcomment %}
+-->
 
 ### Code block for shell
 
@@ -281,6 +286,55 @@ me@laptop$ command args "more args"
 output text from command
 though output may be highlighted weirdly
 ```
+
+### Coloration syntaxiques disponibles
+
+Différentes coloration syntaxiques sont possibles.
+
+#### Defaut
+
+```java
+import java.io.*;
+import java.util.*;
+
+public class KeyboardIntegerReader {
+
+  public static void main (String[] args) throws java.io.IOException {
+    String s1;
+    String s2;
+    int num = 0;
+
+    // set up the buffered reader to read from the keyboard
+    BufferedReader br = new BufferedReader (new InputStreamReader (
+              System.in));
+
+    boolean cont = true;
+
+    while (cont) {
+      System.out.print ("Enter an integer:");
+      s1 = br.readLine();
+      StringTokenizer st = new StringTokenizer (s1);
+      s2 = "";
+
+      while (cont && st.hasMoreTokens()) {
+        try {
+          s2 = st.nextToken();
+          num = Integer.parseInt(s2);
+          cont = false;
+        }
+        catch (NumberFormatException n) {
+          System.out.println("The value in \"" + s2 + "\" is not an integer");
+        }
+      }
+    }
+
+    System.out.println ("You entered the integer: " + num);
+  }
+}
+```
+<!-- {: .base-16} -->
+
+{% include colorations %}
 
 ## Quotes
 

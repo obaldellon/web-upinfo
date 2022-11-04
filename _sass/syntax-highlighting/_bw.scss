@@ -1,0 +1,81 @@
+/**
+ * Syntax highlighter obtained by rougify
+ */
+
+ .bw {
+  .highlight {
+    color: #000000; 
+    background-color: #ffffff;
+    /* Comment */                     .c   { color: inherit; font-style: italic }
+    /* Punctuation */                 .p   { color: inherit }
+    /* Error */                       .err { color: #FF0000 } // undefined
+    /* Keyword */                     .k   { color: inherit; font-weight: bold }
+    /* Operator */                    .o   { color: inherit; font-weight: bold }
+    /* Comment.Multiline */           .cm  { color: inherit; font-style: italic }
+    /* Comment.Preproc */             .cp  { color: inherit }
+    /* Comment.Single */              .c1  { color: inherit; font-style: italic }
+    /* Comment.Special */             .cs  { color: inherit; font-style: italic }
+    /* Generic.Deleted */             .gd  { color: inherit }
+    /* Generic.Emph */                .ge  { color: inherit; font-style: italic }
+    /* Generic.Error */               .gr  { color: inherit }
+    /* Generic.Heading */             .gh  { color: inherit; font-weight: bold }
+    /* Generic.Inserted */            .gi  { color: inherit }
+    /* Generic.Output */              .go  { color: inherit }
+    /* Generic.Prompt */              .gp  { color: inherit; font-weight: bold } 
+    /* Generic.Strong */              .gs  { color: inherit; font-weight: bold }
+    /* Generic.Subheading */          .gu  { color: inherit; font-weight: bold }
+    /* Generic.Traceback */           .gt  { color: inherit }
+    /* Keyword.Constant */            .kc  { color: inherit; font-weight: bold }
+    /* Keyword.Declaration */         .kd  { color: inherit; font-weight: bold }
+    /* Keyword.Namespace */           .kn  { color: inherit; font-weight: bold }
+    /* Keyword.Pseudo */              .kp  { color: inherit }
+    /* Keyword.Reserved */            .kr  { color: inherit; font-weight: bold }
+    /* Keyword.Type */                .kt  { color: inherit }
+    /* Literal.Number */              .m   { color: inherit }
+    /* Literal.String */              .s   { color: inherit; font-style: italic }
+    /* Name.Attribute */              .na  { color: inherit }
+    /* Name.Builtin */                .nb  { color: inherit }
+    /* Name.Class */                  .nc  { color: inherit; font-weight: bold }
+    /* Name.Constant */               .no  { color: inherit }
+    /* Name.Decorator */              .nd  { color: inherit }
+    /* Name.Entity */                 .ni  { color: inherit; font-weight: bold }
+    /* Name.Exception */              .ne  { color: inherit; font-weight: bold }
+    /* Name.Function */               .nf  { color: inherit }
+    /* Name.Label */                  .nl  { color: inherit }
+    /* Name.Namespace */              .nn  { color: inherit; font-weight: bold }
+    /* Name.Tag */                    .nt  { color: inherit; font-weight: bold }
+    /* Name.Variable */               .nv  { color: inherit }
+    /* Operator.Word */               .ow  { color: inherit; font-weight: bold }
+    /* Text.Whitespace */             .w   { color: inherit }
+    /* Literal.Number.Float */        .mf  { color: inherit }
+    /* Literal.Number.Hex */          .mh  { color: inherit }
+    /* Literal.Number.Integer */      .mi  { color: inherit }
+    /* Literal.Number.Oct */          .mo  { color: inherit }
+    /* Literal.String.Backtick */     .sb  { color: inherit; font-style: italic }
+    /* Literal.String.Char */         .sc  { color: inherit; font-style: italic }
+    /* Literal.String.Doc */          .sd  { color: inherit; font-style: italic }
+    /* Literal.String.Double */       .s2  { color: inherit; font-style: italic } 
+    /* Literal.String.Escape */       .se  { color: inherit; font-weight: bold } 
+    /* Literal.String.Heredoc */      .sh  { color: inherit; font-style: italic }
+    /* Literal.String.Interpol */     .si  { color: inherit; font-weight: bold }
+    /* Literal.String.Other */        .sx  { color: inherit; font-style: italic }
+    /* Literal.String.Regex */        .sr  { color: inherit; font-style: italic }
+    /* Literal.String.Single */       .s1  { color: inherit; font-style: italic }
+    /* Literal.String.Symbol */       .ss  { color: inherit; font-style: italic }
+    /* Name.Builtin.Pseudo */         .bp  { color: inherit }
+    /* Name.Variable.Class */         .vc  { color: inherit }
+    /* Name.Variable.Global */        .vg  { color: inherit }
+    /* Name.Variable.Instance */      .vi  { color: inherit }
+    /* Literal.Number.Integer.Long */ .il  { color: inherit }
+                                      .ch  { color: inherit; font-style: italic }
+                                      .cd  { color: inherit; font-style: italic }
+                                      .cpf { color: inherit; font-style: italic }
+                                      .pi  { color: inherit }
+                                      .kv  { color: inherit; font-weight: bold }
+                                      .dl  { color: inherit; font-style: italic }
+                                      .sa  { color: inherit; font-weight: bold }
+                                      .mb  { color: inherit }
+                                      .mx  { color: inherit }
+                                      .n   { color: inherit }
+  }
+}

@@ -1,0 +1,86 @@
+/**
+ * Syntax highlighter obtained by rougify
+ */
+
+ .magritte {
+  .highlight {
+    color: #000707; 
+    background-color: #f3ffff;
+    /* Comment */                     .c   { color: #006c6c; font-style: italic }
+    /* Punctuation */                 .p   { color: #4c48fe }
+    /* Error */                       .err { color: #f3ffff; background-color: #f22700 } // undefined
+    /* Keyword */                     .k   { color: #19003a; font-weight: bold }
+    /* Operator */                    .o   { color: #4c48fe; font-weight: bold }
+    /* Comment.Multiline */           .cm  { color: #006c6c; font-style: italic }
+    /* Comment.Preproc */             .cp  { color: #920241; font-weight: bold }
+    /* Comment.Single */              .c1  { color: #006c6c; font-style: italic }
+    /* Comment.Special */             .cs  { color: #006c6c; font-style: italic }
+    /* Generic.Deleted */             .gd  { color: #f22700 }
+    /* Generic.Emph */                .ge  { color: inherit; font-style: italic }
+    /* Generic.Error */               .gr  { color: #f22700; font-weight: bold; font-style: italic }
+    /* Generic.Heading */             .gh  { color: #007500; font-weight: bold }
+    /* Generic.Inserted */            .gi  { color: #007500 }
+    /* Generic.Output */              .go  { color: #19003a }
+    /* Generic.Prompt */              .gp  { color: inherit }
+    /* Generic.Strong */              .gs  { color: inherit; font-weight: bold }
+    /* Generic.Subheading */          .gu  { color: #007500; font-weight: bold }
+    /* Generic.Traceback */           .gt  { color: #000000; background-color: #d8d9ff }
+    /* Keyword.Constant */            .kc  { color: #007500; font-weight: bold }
+    /* Keyword.Declaration */         .kd  { color: #19003a; font-weight: bold }
+    /* Keyword.Namespace */           .kn  { color: #007500; font-weight: bold }
+    /* Keyword.Pseudo */              .kp  { color: #007500; font-weight: bold }
+    /* Keyword.Reserved */            .kr  { color: #007500; font-weight: bold }
+    /* Keyword.Type */                .kt  { color: #920241; font-weight: bold }
+    /* Literal.Number */              .m   { color: #007500; font-weight: bold }
+    /* Literal.String */              .s   { color: #7c0000; font-weight: bold }
+    /* Name.Attribute */              .na  { color: #ff0089 }
+    /* Name.Builtin */                .nb  { color: inherit; font-weight: bold }
+    /* Name.Class */                  .nc  { color: #920241; font-weight: bold }
+    /* Name.Constant */               .no  { color: #920241; font-weight: bold }
+    /* Name.Decorator */              .nd  { color: #920241; font-weight: bold }
+    /* Name.Entity */                 .ni  { color: #999999; font-weight: bold }
+    /* Name.Exception */              .ne  { color: #920241; font-weight: bold }
+    /* Name.Function */               .nf  { color: #ff0089 }
+    /* Name.Label */                  .nl  { color: #840084; font-weight: bold }
+    /* Name.Namespace */              .nn  { color: #920241; font-weight: bold }
+    /* Name.Tag */                    .nt  { color: #840084; font-weight: bold }
+    /* Name.Variable */               .nv  { color: #ff0089; font-weight: bold }
+    /* Operator.Word */               .ow  { color: #4c48fe; font-weight: bold }
+    /* Text.Whitespace */             .w   { color: #BBBBBB }
+    /* Literal.Number.Float */        .mf  { color: #007500; font-weight: bold }
+    /* Literal.Number.Hex */          .mh  { color: #007500; font-weight: bold }
+    /* Literal.Number.Integer */      .mi  { color: #007500; font-weight: bold }
+    /* Literal.Number.Oct */          .mo  { color: #007500; font-weight: bold }
+    /* Literal.String.Backtick */     .sb  { color: #7c0000; font-weight: bold }
+    /* Literal.String.Char */         .sc  { color: #840084; font-weight: bold }
+    /* Literal.String.Doc */          .sd  { color: #7c0000; font-weight: bold }
+    /* Literal.String.Double */       .s2  { color: #7c0000; font-weight: bold } 
+    /* Literal.String.Escape */       .se  { color: #840084; font-weight: bold } 
+    /* Literal.String.Heredoc */      .sh  { color: #7c0000; font-weight: bold }
+    /* Literal.String.Interpol */     .si  { color: #840084; font-weight: bold }
+    /* Literal.String.Other */        .sx  { color: #7c0000; font-weight: bold }
+    /* Literal.String.Regex */        .sr  { color: #7c0000; font-weight: bold }
+    /* Literal.String.Single */       .s1  { color: #7c0000; font-weight: bold }
+    /* Literal.String.Symbol */       .ss  { color: #007500 }
+    /* Name.Builtin.Pseudo */         .bp  { color: #920241; font-weight: bold }
+    /* Name.Variable.Class */         .vc  { color: #ff0089; font-weight: bold }
+    /* Name.Variable.Global */        .vg  { color: #ff0089; font-weight: bold }
+    /* Name.Variable.Instance */      .vi  { color: #ff0089; font-weight: bold }
+    /* Literal.Number.Integer.Long */ .il  { color: #007500; font-weight: bold }
+                                      .ch  { color: #006c6c; font-style: italic }
+                                      .cd  { color: #006c6c; font-style: italic }
+                                      .cpf { color: #006c6c; font-style: italic }
+                                      .pi  { color: #4c48fe }
+                                      .kv  { color: #19003a; font-weight: bold }
+                                      .dl  { color: #7c0000; font-weight: bold }
+                                      .sa  { color: #19003a; font-weight: bold }
+                                      .mb  { color: #007500; font-weight: bold }
+                                      .mx  { color: #007500; font-weight: bold }
+                                      .n   { color: inherit }
+                                      .fm  { color: #ff0089 }
+                                      .vm  { color: #ff0089; font-weight: bold }
+                                      .gl  { color: #f3ffff; background-color: #000707 }
+                                      .ld  { color: #007500; font-weight: bold }
+                                      .py  { color: #ff0089 }
+  }
+}

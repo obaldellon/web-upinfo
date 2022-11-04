@@ -1,0 +1,80 @@
+/**
+ * Syntax highlighter obtained by rougify
+ */
+
+ .base16-solarized {
+  .highlight {
+    color: #586e75;
+    /* Comment */                     .c   { color: #657b83 }
+    /* Punctuation */                 .p   { color: #93a1a1 }
+    /* Error */                       .err { color: #002b36; background-color: #dc322f } // undefined
+    /* Keyword */                     .k   { color: #6c71c4 }
+    /* Operator */                    .o   { color: #93a1a1 }
+    /* Comment.Multiline */           .cm  { color: #657b83 }
+    /* Comment.Preproc */             .cp  { color: #b58900 }
+    /* Comment.Single */              .c1  { color: #657b83 }
+    /* Comment.Special */             .cs  { color: #657b83 }
+    /* Generic.Deleted */             .gd  { color: #dc322f }
+    /* Generic.Emph */                .ge  { color: inherit }
+    /* Generic.Error */               .gr  { color: inherit }
+    /* Generic.Heading */             .gh  { color: #268bd2; background-color: #002b36; font-weight: bold }
+    /* Generic.Inserted */            .gi  { color: #859900 }
+    /* Generic.Output */              .go  { color: inherit }
+    /* Generic.Prompt */              .gp  { color: inherit } 
+    /* Generic.Strong */              .gs  { color: inherit }
+    /* Generic.Subheading */          .gu  { color: inherit }
+    /* Generic.Traceback */           .gt  { color: inherit }
+    /* Keyword.Constant */            .kc  { color: #cb4b16 }
+    /* Keyword.Declaration */         .kd  { color: #cb4b16 }
+    /* Keyword.Namespace */           .kn  { color: #6c71c4 }
+    /* Keyword.Pseudo */              .kp  { color: #6c71c4 }
+    /* Keyword.Reserved */            .kr  { color: #6c71c4 }
+    /* Keyword.Type */                .kt  { color: #cb4b16 }
+    /* Literal.Number */              .m   { color: #859900 }
+    /* Literal.String */              .s   { color: #859900 }
+    /* Name.Attribute */              .na  { color: #268bd2 }
+    /* Name.Builtin */                .nb  { color: inherit }
+    /* Name.Class */                  .nc  { color: #b58900 }
+    /* Name.Constant */               .no  { color: #b58900 }
+    /* Name.Decorator */              .nd  { color: inherit }
+    /* Name.Entity */                 .ni  { color: inherit }
+    /* Name.Exception */              .ne  { color: inherit }
+    /* Name.Function */               .nf  { color: inherit }
+    /* Name.Label */                  .nl  { color: inherit }
+    /* Name.Namespace */              .nn  { color: #b58900 }
+    /* Name.Tag */                    .nt  { color: #b58900 }
+    /* Name.Variable */               .nv  { color: inherit }
+    /* Operator.Word */               .ow  { color: #93a1a1 }
+    /* Text.Whitespace */             .w   { color: #586e75 }
+    /* Literal.Number.Float */        .mf  { color: #859900 }
+    /* Literal.Number.Hex */          .mh  { color: #859900 }
+    /* Literal.Number.Integer */      .mi  { color: #859900 }
+    /* Literal.Number.Oct */          .mo  { color: #859900 }
+    /* Literal.String.Backtick */     .sb  { color: #859900 }
+    /* Literal.String.Char */         .sc  { color: #859900 }
+    /* Literal.String.Doc */          .sd  { color: #859900 }
+    /* Literal.String.Double */       .s2  { color: #859900 } 
+    /* Literal.String.Escape */       .se  { color: #d33682 } 
+    /* Literal.String.Heredoc */      .sh  { color: #859900 }
+    /* Literal.String.Interpol */     .si  { color: #d33682 }
+    /* Literal.String.Other */        .sx  { color: #859900 }
+    /* Literal.String.Regex */        .sr  { color: #2aa198 }
+    /* Literal.String.Single */       .s1  { color: #859900 }
+    /* Literal.String.Symbol */       .ss  { color: #859900 }
+    /* Name.Builtin.Pseudo */         .bp  { color: inherit }
+    /* Name.Variable.Class */         .vc  { color: inherit }
+    /* Name.Variable.Global */        .vg  { color: inherit }
+    /* Name.Variable.Instance */      .vi  { color: inherit }
+    /* Literal.Number.Integer.Long */ .il  { color: #859900 }
+                                      .ch  { color: #657b83 }
+                                      .cd  { color: #657b83 }
+                                      .cpf { color: #657b83 }
+                                      .pi  { color: #93a1a1 }
+                                      .kv  { color: #6c71c4 }
+                                      .dl  { color: #859900 }
+                                      .sa  { color: #6c71c4 }
+                                      .mb  { color: #859900 }
+                                      .mx  { color: #859900 }
+                                      .n   { color: inherit }
+  }
+}
