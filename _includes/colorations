@@ -1,6 +1,6 @@
 {% assign coloration= "base16,base16-dark,base16-monokai,base16-monokai-light,base16-solarized,base16-solarized-dark,bw,colorful,github,gruvbox,gruvbox-light,igorpro,magritte,molokai,monokai-sublime,monokai,murphy,pastie,prism,thankful-eyes,tulip" | split:',' %}
 
-<div class="row t60">
+<div class="row">
 {% for color in coloration %}
   <div class="medium-4 columns">
     <h4 id="{{color}}">{{color}}</h4>
