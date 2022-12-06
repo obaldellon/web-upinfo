@@ -29,7 +29,7 @@ const etus = [
 ];
 
 var num = getUrlParam('num','');
-var path = "http://localhost:4000/master-info/assets/im/tp6/";
+var path = "https://www.i3s.unice.fr/master-info/assets/im/tp6/";
 var filename = path + num + ".pdf";
 // alert(num)
 // alert(path)
