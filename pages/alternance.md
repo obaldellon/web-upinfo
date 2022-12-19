@@ -65,11 +65,11 @@ Le planning général des semestres 1, 2 et 3 est le suivant : 3 semaines en tem
 
 Il y a également des échanges par courriel ou téléphone, ou lors de réunion d'information, notamment pour la prise de contact et le suivi tout au long du semestre.
 
-Un livret d'alternance numérique est mis en place : [site du livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
+Un livret d'alternance numérique est mis en place : [site du livret d'alternance en ligne](http://livret-electronique.cfa-epure.com/).
 
 ### Fiches d'évaluation, rapports et soutenances ###
 
-À chaque semestre, l'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](http://www.livret-electronique.cfa-epure.com/).
+À chaque semestre, l'étudiant doit s'assurer que son maître d'alternance remplisse l'évaluation dans [le livret d'alternance en ligne](https://livret-electronique.cfa-epure.com/).
 
 La page de garde des rapport doit suivre le [modèle](https://unice-my.sharepoint.com/:w:/g/personal/philippe_renevier_unice_fr/Ea17s5mJDT9Hohp2OWsJFDIBH4ikPrltk0WwgIcRGFlrlg?e=8Ano4o) imposé.
 

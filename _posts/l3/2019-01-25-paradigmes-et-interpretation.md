@@ -32,26 +32,53 @@ header:
 
 ###  Description ###
 
-Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure et on se propose de réaliser des interpréteurs pour en comprendre les fonctionnements.
+Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure sur des langages de programmation "jouets", dans lesquels on se focalise sur un aspect essentiel, sans chercher à étudier un vrai langage. 
+Pour bien comprendre en profondeur ces paradigmes, on programme ensuite des interpréteurs pour les langages jouets étudiés en utilisant de vrais langages (Java, Typescript, Racket, Rust, etc).
 
 
-Concrètement, les notions seront introduites une à une et seront traduites dans un langage propre au cours. Ce langage aura une syntaxe qui s'approche du LISP afin de faciliter l'écriture d'interpréteurs. Ceux-ci seront écrit en Scheme à l'aide du logiciel DrRacket. La maîtrise de Scheme n'est pas un prérequis au cours, la syntaxe et les structures utilisées étant rappelées quand nécessaire. Au besoin, vous pouvez vous référer au livre Premiers cours de programmation avec Scheme ou au cours d' introduction à la programmation fonctionnelle.
+### Compétences développées ###
+Ce cours développe l'abilité à se familiariser rapidement avec de nouveaux langages, à la fois sur le plan théorique, en comprenant les paradigmes de programmation qui les sous-tendent, et en pratique, en travaillant sur des projets à réalisés dans des langages qui n'ont pas forcément été étudiés dans d'autres cours et qu'il faut apprendre "à la volée".
+
+
+### Modalités de contrôle des connaissances
+Le cours est en trois partie, avec trois enseignants différents.
+Chaque partie donne lieu à une note de contrôle continu spécifiée par l'enseignant (partiel, TP noté, projet, rapport, etc). Chaque
+
+
+- note de contrôle continu de partie 1: 1/6
+- note de partie 2: 1/6
+- note de partie 3: 1/6
+- note de contrôle terminal : 1/2
 
 ###  Contenu ###
 
-1. Introduction.
-2. Expressions arithmétiques et fonctions. 
-3. Ordre supérieur.
-4.  Programmation à états : enregistrements et boîtes. 
-5. Programmation à états : variables. 
-6. Introduction au lambda-calcul.
-7. Récursivité et paresse. 
-8. Continuations et erreurs. 
-9. Objets et classes. 
-10. Types. 
+
+#### Partie 1 : paradigmes logiques et impératifs ####
+1. Introduction à Prolog. Notion de clause de Horn. Résolution dans la logique propositionnelle.
+2. Unification. Résolution dans le calcul des prédicats.  
+3. Introduction à Why 3. Logique de Hoare-Floyd.
+4. Automatisation de la preuve de programme. Calcul de plus faible précondition. Introduction à Z3.
+
+#### Partie 2 : paradigme fonctionnel ####
+5. Introduction à Racket. 
+6. Expressions arithmétiques et fonctions. 
+7. Ordre supérieur
+8. Récursivité et paresse
+
+#### Partie 3 : paradigme objet, typage ####
+9.  Objets et classes. 
+10. Typage 
 11. Sous-typage. 
+12. Typage et classes
 
 
 ###  Ressources ###
 
-Le cours se base sur le livre Programming languages : Application and Interpretation, également disponible au format pdf, et s'inspire des cours de Shriram Krishnamurthi et de Matthew Flatt.
+- La partie 1 peut être complétée par les références suivantes
+  - [Logique pour l'informatique](https://www.editions-ellipses.fr/accueil/10777-logique-pour-l-informatique-9782340042612.html) Jaume Mathieu, Journault Matthieu, Lesot Marie-Jeanne, Manoury Pascal, Mounier Isabelle. En particulier chapitres 7 et 8
+  - [Des logiques pour raisonner sur des programmes](https://www.college-de-france.fr/agenda/cours/semantiques-mecanisees-quand-la-machine-raisonne-sur-ses-langages/des-logiques-pour-raisonner-sur-les-programmes) Xavier Leroy, cours au collège de France
+  - [SWISH Prolog en ligne](https://swish.swi-prolog.org/)
+  - [Why 3 en ligne](https://why3.lri.fr/try/)
+  - [Z3 en ligne](https://compsys-tools.ens-lyon.fr/z3/)
+
+- Les parties 2 et 3 se basent sur le livre Programming languages : Application and Interpretation, également disponible au format pdf, et s'inspire des cours de Shriram Krishnamurthi et de Matthew Flatt, ainsi que de l'ancien cours de Julien Provillard.
