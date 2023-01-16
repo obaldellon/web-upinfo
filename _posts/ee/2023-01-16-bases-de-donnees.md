@@ -59,7 +59,7 @@ Ce cours abordera les thématiques suivantes :
 
 ### Supports de cours ###
 
-- [Cours 1]({% include link-asset asset="cours1.pdf" %}), [notes]({% include link-asset asset="cours1-notes.pdf" %})
+- [Cours 1]({% include link-asset asset="cours1-notes.pdf" %})
 
 <!-- - [Cours 2]({% include link-asset asset="cours2.pdf" %}), [notes]({% include link-asset asset="cours2-notes.pdf" %})
 - [Cours 3]({% include link-asset asset="cours3.pdf" %}), [notes]({% include link-asset asset="cours3-notes.pdf" %})
