@@ -61,11 +61,11 @@ Ce cours abordera les thématiques suivantes :
 
 - [Cours 1]({% include link-asset asset="cours1-notes.pdf" %})
 
-<!-- - [Cours 2]({% include link-asset asset="cours2.pdf" %}), [notes]({% include link-asset asset="cours2-notes.pdf" %})
-- [Cours 3]({% include link-asset asset="cours3.pdf" %}), [notes]({% include link-asset asset="cours3-notes.pdf" %})
-- [Cours 4]({% include link-asset asset="cours4.pdf" %}), [notes]({% include link-asset asset="cours4-notes.pdf" %})
-- [Cours 5]({% include link-asset asset="cours5.pdf" %}), [notes]({% include link-asset asset="cours5-notes.pdf" %})
-- [Cours 6]({% include link-asset asset="cours6.pdf" %}), [notes]({% include link-asset asset="cours6-notes.pdf" %})
+<!-- - [Cours 2]({% include link-asset asset="cours2-notes.pdf" %})
+- [Cours 3]({% include link-asset asset="cours3-notes.pdf" %})
+- [Cours 4]({% include link-asset asset="cours4-notes.pdf" %})
+- [Cours 5]({% include link-asset asset="cours5-notes.pdf" %})
+- [Cours 6]({% include link-asset asset="cours6-notes.pdf" %})
 -->
 
 - [TP 1]({% include link-asset asset="TP1.pdf" %})
@@ -76,6 +76,16 @@ Ce cours abordera les thématiques suivantes :
 - [TP 5]({% include link-asset asset="TP5.pdf" %})
 
 Certaines évaluations et le carnet de notes seront sur [moodle](https://lms.univ-cotedazur.fr/2022/course/view.php?id=4742) (disponible en auto-inscription). -->
+
+- [wta2021.db]({% include link-asset asset="wta2021.db" %})
+
+<!--
+- [prenoms.zip]({% include link-asset asset="prenoms.zip" %})
+- [commune.db]({% include link-asset asset="commune.db" %})
+- [projets.sql]({% include link-asset asset="projets.sql" %})
+- [biblio.db]({% include link-asset asset="biblio.db" %})
+- [lego.zip]({% include link-asset asset="lego.zip" %})
+-->
 
 ### Modalités de contrôle des connaissances ###
 
