@@ -6,7 +6,7 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 anonym:
-  name: "Prénom Nom, MCF/PR"
+  name: "Prénom Nom, MCF/PR/PhD/MSc"
   email: "firstname.lastname@univ-cotedazur.fr"
 arnaud:
   name: "A. Malapert, MCF"
@@ -113,7 +113,7 @@ laurent:
   name: "L. Tichit, MCF"
   email: "laurent.tichit@univ-cotedazur.fr"
 amaya:
-  name: "A. Nogales Gómez, ASSOC. PROF"
+  name: "A. Nogales Gómez, PhD"
   email: "amaya.nogales-gomez@univ-cotedazur.fr"
 pascal:
   name: "P. Urso, MCF"
@@ -132,7 +132,7 @@ juliend:
   name: "J. Deantoni, PR"
   email: "julien.deantoni@univ-cotedazur.fr"
 stephanejeannin:
-  name: "S. Jeannin, contractuel"
+  name: "S. Jeannin, MSc"
   email: "stephane.jeannin@univ-cotedazur.fr"
 tarek:
   name: "T. Hamel, PR"
