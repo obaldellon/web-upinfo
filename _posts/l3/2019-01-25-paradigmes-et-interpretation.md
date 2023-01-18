@@ -54,10 +54,10 @@ Chaque partie donne lieu à une note de contrôle continu spécifiée par l'ense
 
 
 #### Partie 1 : paradigmes logiques et impératifs ####
-1. Introduction à Prolog. Notion de clause de Horn. Résolution dans la logique propositionnelle.
-2. Unification. Résolution dans le calcul des prédicats.  
-3. Introduction à Why 3. Logique de Hoare-Floyd.
-4. Automatisation de la preuve de programme. Calcul de plus faible précondition. Introduction à Z3.
+1. Evaluation d'expression arithmétique, notion d'espace de noms
+2. Paradigmes de gestion mémoire: gestion explicite, ramasse-miette, et discipline d'ownership
+3. Paradigme logique: introduction à Prolog. Interpréteur Datalog.
+4. Unification, interpréteur Prolog.
 
 #### Partie 2 : paradigme fonctionnel ####
 5. Introduction à Racket. 
@@ -77,8 +77,12 @@ Chaque partie donne lieu à une note de contrôle continu spécifiée par l'ense
 - La partie 1 peut être complétée par les références suivantes
   - [Logique pour l'informatique](https://www.editions-ellipses.fr/accueil/10777-logique-pour-l-informatique-9782340042612.html) Jaume Mathieu, Journault Matthieu, Lesot Marie-Jeanne, Manoury Pascal, Mounier Isabelle. En particulier chapitres 7 et 8
   - [Des logiques pour raisonner sur des programmes](https://www.college-de-france.fr/agenda/cours/semantiques-mecanisees-quand-la-machine-raisonne-sur-ses-langages/des-logiques-pour-raisonner-sur-les-programmes) Xavier Leroy, cours au collège de France
-  - [SWISH Prolog en ligne](https://swish.swi-prolog.org/)
-  - [Why 3 en ligne](https://why3.lri.fr/try/)
-  - [Z3 en ligne](https://compsys-tools.ens-lyon.fr/z3/)
+  - [page officielle du langage Rust](http://rust-lang.org/fr)
+    - [guide d'installation](https://www.rust-lang.org/fr/tools/install)
+    - [tutoriels et documentation Rust](https://www.rust-lang.org/fr/learn)
+    - [interprète Rust en ligne](https://play.rust-lang.org)
+    - [outils de développement](https://www.rust-lang.org/fr/tools)
+  - [Tau-prolog](http://tau-prolog.org)
+    - [interprète Tau-prolog en ligne](http://tau-prolog.org/sandbox/) 
 
 - Les parties 2 et 3 se basent sur le livre Programming languages : Application and Interpretation, également disponible au format pdf, et s'inspire des cours de Shriram Krishnamurthi et de Matthew Flatt, ainsi que de l'ancien cours de Julien Provillard.
