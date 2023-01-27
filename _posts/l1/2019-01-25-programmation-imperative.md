@@ -81,4 +81,3 @@ les points suivants :
 ###  Ressources ###
 
 - la [page publique du cours](http://deptinfo.unice.fr/~obaldellon/python)
-- le cours SPUF21 sur [Moodle](http://lms.unice.fr)
