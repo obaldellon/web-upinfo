@@ -3,11 +3,13 @@ layout: syllabus
 #
 # Content
 #
-title: "Programmation impérative en Python"
+title: "Programmation impérative"
+subtitle: "Python"
+cours-id: "L1-PI"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation impérative dans le langage Python"
 categories:
-    - L1
+    - L1-info
 tags:
     - S2
 ects: 6

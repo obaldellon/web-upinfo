@@ -1,0 +1,6 @@
+{% for cours in site.ue %}
+   {% assign cat=cours.categories[0] %}
+  {% if cours.tags[0] == include.semestre  %}
+    {% include cours-description id=cours.id %}
+  {% endif %}
+{% endfor %}

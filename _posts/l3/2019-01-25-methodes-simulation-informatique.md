@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Méthodes de simulation informatique"
+cours-id: "L3-simu"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours a pour objectif s'initier à la démarche scientifique: expliquer, prevoir et valider l'étude d'un phénomène à l'aide d'un base de données. Savoir présenter un problème, discuter les approches de résolution possibles, défendre des conclusions devant des pairs, et réciproquement savoir évaluer les résultats d'autres études sur des sujets connexes."
 categories:
-  - L3
+  - L3-info
 tags:
   - S6
   - OPT
@@ -27,7 +28,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Description ###

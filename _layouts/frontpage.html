@@ -12,6 +12,16 @@ format: frontpage
 
 {% comment %}
 *
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row pl20 pr20" >
+    {{ content }}
+</div>
+
+{% comment %}
+*
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
@@ -75,6 +85,7 @@ format: frontpage
     </div><!-- /.row -->
 
 
+
     <div class="row">
         <div class="medium-6 columns">
             {% for post in site.tags["NEWS"] limit:1 %}
@@ -96,12 +107,5 @@ format: frontpage
 {% endunless %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
 
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
+<!-- /.row -->

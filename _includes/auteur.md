@@ -1,0 +1,1 @@
+{% assign auteur =  site.data.authors[include.id] %}{%if include.long%}{% capture nom %}{{ auteur.prenom}} {{ auteur.nom  }}{% endcapture %}{% else %}{% assign nom=auteur.name  %}{% endif %}{%if include.url%}[{{ nom  }}](mailto:{{auteur.email}}){% else %}{{ nom  }}{% endif %}

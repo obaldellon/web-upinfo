@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Bases de l'informatique"
+cours-id: "L1-BI"
 logo: "logo_blanc-l.png"
-teaser: "Introduction à l'informatique"
+teaser: "Ce cours est une introduction à la science informatique via certaines grandes thématique comme la logique, les types récursifs ou les automates. "
 categories:
-  - L1
+  - L1-info
 tags:
   - S1
 ects: 6
@@ -25,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Description ###
@@ -41,13 +42,15 @@ Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal)
 
 ###  Cours ###
 
-Le cour a pour objectif de introduire les concepts fondamentaux de l'informatique: la logique, la modélisation, les operators de bases de la programmation ainsi que quelque structure de donnés.
+Le cours a pour objectif de introduire les concepts fondamentaux de
+l'informatique: la logique, la modélisation, les opérators de bases de
+la programmation ainsi que quelque structure de donnés.
 
 Plus précisément on parlera de:
 - Histoire de l'informatique :
 Panorama des personnes marquantes et leurs contributions
 - L'informatique et la logique :
-    - Bases de l'algorithmique (séquence d'instructions, tests), 
+    - Bases de l'algorithmique (séquence d'instructions, tests),
     - Introduction au principe de recurrence
     - Logique propositionnelle: tables de vérité, formes normales, méthode de résolution
 
@@ -61,8 +64,5 @@ Panorama des personnes marquantes et leurs contributions
 
 
 ###  Ressources ###
-- Pages Moodle 
+- Pages Moodle
 - Logique pour l'informatique : introduction à la déduction automatique : cours et exercices, licence d'informatique. Serenella Cerrito. Vuibert 2008
-
-
-

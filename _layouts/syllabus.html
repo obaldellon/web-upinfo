@@ -23,8 +23,8 @@ format: syllabus
 		<header>
                     <p class="subheadline">
                         {%if page.subheadline %}{{ page.subheadline }}
-                            {% if page.author %} 
-                                &ndash; 
+                            {% if page.author %}
+                                &ndash;
                                 {% for author in authors %}
                                 {% if forloop.index == 1 %}
                                     {{ site.data.authors[author].name }}
@@ -43,7 +43,12 @@ format: syllabus
                             {% endfor %}
                         {% endif %}
                     </p>
-		    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle !=NULL %}                    <!-- OB -->
+		    <h1 class="withsubtitle" >{{ page.title }}</h1>  <!-- OB -->
+                    <p class="subtitleline">{{ page.subtitle }}</p>  <!-- OB -->
+                    {% else %}                                       <!-- OB -->
+                    <h1>{{ page.title }}</h1>
+                    {% endif %}                                      <!-- OB -->
 			</header>
 
 			{% if page.teaser %}

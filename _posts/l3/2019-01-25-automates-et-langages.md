@@ -4,11 +4,12 @@ layout: syllabus
 # Content
 #
 title: "Automates et langages"
+cours-id: "L3-AL"
 logo: "logo_blanc-l.png"
 teaser: "Introduction à la théorie des automates et des machines à états finis,
  des langages formels, et découverte de leurs principales applications"
 categories:
-  - L3
+  - L3-info
 tags:
   - S5
 ects: 6
@@ -26,7 +27,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Prérequis ###

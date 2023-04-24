@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Architecture machine"
+cours-id: "L3-archi"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours présente de façon approfondie les différentes composants des architectures d'ordinateurs, depuis les portes logiques jusqu'au niveau du processeur. Nous apprendrons comment concevoir un processeur simple, et comment le programmer au niveau assembleur et binaire. Nous montrerons aussi comment des décisions architecturales peuvent influencer sur les performances."
 categories:
-  - L3
+  - L3-info
 tags:
   - S5
   - OPT

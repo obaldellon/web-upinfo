@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Algo & Prog avec R"
+cours-id:  "L2-R"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une initiation à l'algorithmique et à la programmation dans le langage R pour portail Sciences et Technologies."
 categories:
-  - L2
+  - L2-info
 tags:
   - S3
 ects: 6

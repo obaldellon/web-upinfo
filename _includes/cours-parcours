@@ -1,0 +1,49 @@
+{% assign semester=site.data.licence[include.entry] %}
+
+
+
+{{ semester.title | append:" ####" | prepend:"#### " | markdownify }}
+
+<ul>
+  {% for course in semester.courses %}
+    <li>
+
+    {% if course.cours-id != NULL %}
+
+{% capture lien %}{%include cours-url.md id=course.cours-id soustitre="true"%}{% endcapture %}
+       <strong>{{ lien | markdownify | remove: '<p>' | remove: '</p>'}}</strong>
+
+    {% elsif course.info %}
+      <strong>{{ course.title }}</strong>
+
+    {% elsif course.options or course.uet %}
+      {{ course.title }}
+
+    {% else %}
+      <em>{{ course.title }}</em>
+
+    {% endif %}
+
+    {% if course.annee !=NULL %}
+      (cours de {{ course.annee }})
+    {% endif %}
+
+    {% if course.options %}
+      <ul>
+      {% for option in course.options %}
+        <li>
+        {% if option.cours-id != NULL %}
+{% capture lien %}{%include cours-url.md id=option.cours-id soustitre="true"%}{% endcapture %}
+       {{ lien | markdownify | remove: '<p>' | remove: '</p>'}}
+       {% elsif option.info %}
+          <strong>{{ option.title }}</strong>
+        {% else %}
+          <em>{{ option.title }}</em>
+        {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+    </li>
+  {% endfor %}
+</ul>

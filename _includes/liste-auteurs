@@ -1,0 +1,25 @@
+{% assign auteurs=site.data.authors %}
+
+
+
+
+
+<ul>
+  {% for prof in auteurs %}
+  {% if prof[1].upinfo %}
+    <li> <a href= "mailto: {{prof[1].email}}">{{ prof[1].prenom }} {{ prof[1].nom }}</a>,  {{ prof[1].grade }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
+
+{%comment%}
+<ul>
+  {% for prof in auteurs %}
+  {% unless prof[1].upinfo %}
+    <li> {{ prof[1].prenom }} {{ prof[1].nom }},  {{ prof[1].grade }} </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+{%endcomment%}

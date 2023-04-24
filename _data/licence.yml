@@ -1,99 +1,166 @@
 S1:
   title: "Semestre 1"
   courses:
-    - title: Bases de l'informatique
+    - cours-id: "L1-BI-1"
       info: true
-    - title: "Mathématiques S1 : Fondements 1"
-    - title: "Mathématiques S1 : Approfondissements 1"
-    - title: "Electronique S1 : Électronique numérique - Bases"
+    - title: "Mathématiques : Méthode Calculus Analyse 1"
+    - title: "Mathématiques : Méthode Algèbre linéaire 1"
+    - title: "Electronique  : Électronique numérique - Bases"
     - title: UE transversale
       uet: true
 
 S2:
   title: Semestre 2
   courses:
-    - title: Programmation impérative en Python
+    - cours-id: "L1-BI-2"
       info: true
-    - title: "Système 1 : programmation shell"
+    - cours-id: "L1-sys-1"
       info: true
-    - title: "Mathématiques S2 : Fondements 2"
+    - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
     - title: L'une des UE non disciplinaire suivantes
       options:
-        - title: "Mathématiques S2 : Approfondissements 2"
-        - title: "Mathématiques S2 : Methodes Maths-Approche discrète"
-        - title: "Électronique S2 : Électronique analogique"
+        - title: "Mathématiques : Raisonner & Arithmétique (conseillé)"
+        - title: "Électronique : Électronique analogique"
     - title: UE transversale
       uet: true
 
 S3:
   title: Semestre 3
   courses:
-    - title: Structures de données et programmation C
+    - cours-id: "L2-PF"
       info: true
-    - title: Bases de données
+    - cours-id: "L2-OFI"
       info: true
-    - title: Outils formels pour l'informatique
+    - cours-id: "L2-BD"
       info: true
     - title: L'une des UE non disciplinaires suivantes
       options:
-        - title: "Mathématique S3 : Fondements S3"
-        - title: "Mathématique S3 : Methodes - approche géometrique"
-        - title: "Mathématique S3 : Methodes - mathématiques et ingénierie"
-        - title: Programmation en R
+        - cours-id: "l2-R"
+        - title: "Mathématiques : Algèbre linéaire & Structures algébriques"
         - title: Introduction à l’intelligence artificielle
 
 S4:
-  title: Semestre 4 (parcours informatique S4)
+  title: Semestre 4
   courses:
-    - title: Algorithmique 1
+    - cours-id: "L2-C"
       info: true
-    - title: Réseaux et télécommunications
+    - cours-id: "L2-algo-1"
       info: true
-    - title: "Systèmes 2 : mécanismes interne des systèmes d'exploitation"
+    - cours-id: "L2-sys-2"
       info: true
-    - title: L'une des UE suivantes (cf règle de non cumul des options)
+    - title: L'une des UE suivantes
       options:
-        - title: Concepts d’intelligence artificielle
+        - cours-id: "L2-concepts-IA"
           info: true
-        - title: Technologies du web
+        - cours-id: "L2-techno-web"
           info: true
     - title: UE transversale
       uet: true
 
 S5:
-  title: Semestre 5 (Licence informatique L3)
-  courses: 
-    - title: Automates et langages
+  title: Semestre 5
+  courses:
+    - cours-id: "L3-POO"
       info: true
-    - title: Programmation fonctionnelle
+    - cours-id: "L3-algo-2"
       info: true
-    - title: Programmation et conception orientées objet
+    - cours-id: "L3-AL"
       info: true
-    - title: L'une des UE suivantes (cf règle de non cumul des options)
+    - title: L'une des UE suivantes
       options:
-        - title: Architecture machine
+        - cours-id: "L3-archi"
           info: true
-        - title: Cryptographie et calcul symbolique
+        - cours-id: "L3-crypto"
           info: true
     - title: UE transversale
       uet: true
 
 S6:
-  title: Semestre 6 (Licence informatique L3)
+  title: Semestre 6
   courses:
-    - title: Algorithmique 2
+    - cours-id: "L3-reseaux"
       info: true
-    - title: Compilation
+    - cours-id: "L3-compil"
       info: true
     - title: L'une des UE suivantes (choix d'option 1)
       options:
-        - title: Paradigmes et interprétation
+        - cours-id: "L3-PI"
           info: true
-        - title: Grands concepts de l'informatique fondamentale
+        - cours-id: "L3-GC"
           info: true
     - title: L'une des UE suivantes (choix d'option 2)
       options:
-        - title: Méthodes de simulation informatique
+        - cours-id: "L3-simu"
           info: true
-        - title: Travail encadré d'étude, de recherche et de développement (TERD)
+        - cours-id: "L3-TERD"
           info: true
+
+
+
+
+Smi1:
+  title: "Semestre 1"
+  courses:
+    - cours-id: "L1-BI-1"
+      info: true
+    - cours-id: "L2-BD"
+      annee: L2
+      info: true
+    - title: "Mathématiques : Méthode Calculus Analyse 1"
+    - title: "Mathématiques : Méthode Algèbre linéaire 1"
+
+Smi2:
+  title: Semestre 2
+  courses:
+    - cours-id: "L1-BI-2"
+      info: true
+    - cours-id: "L1-sys-1"
+      info: true
+    - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
+    - title: "Mathématiques : Raisonner & Arithmétique (conseillé)"
+    - title: "Mathématiques : Analyse 1"
+
+
+Smi3:
+  title: Semestre 3
+  courses:
+    - cours-id: "L2-PF"
+      info: true
+    - cours-id: "L2-OFI"
+      info: true
+    - cours-id: "L3-POO"
+      annee: L3
+      info: true
+    - title: "Mathématiques : Algèbre linéaire & Structures algébriques"
+    - title: "Mathématiques : Analyse 2"
+    - title: "Mathématiques : Mathématiques et ingénierie"
+
+
+
+Smi4:
+  title: Semestre 4
+  courses:
+    - cours-id: "L2-C"
+    - cours-id: "L2-algo-1"
+    - cours-id: "L2-sys-2"
+
+
+Smi5:
+  title: Semestre 5
+  courses:
+    - cours-id: "L3-algo-2"
+    - cours-id: "L3-AL"
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L3-archi"
+        - cours-id: "L3-crypto"
+
+Smi6:
+  title: Semestre 6
+  courses:
+    - cours-id: "L3-compil"
+    - cours-id: "L3-reseaux"
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L3-PI"
+        - cours-id: "L3-GC"

@@ -4,9 +4,9 @@
 # the first one with the development variables needed.
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
-url: 'http://localhost:4000'
-baseurl: '/master-info'
-urlimg: 'http://localhost:4000/master-info/images/'
+url: 'http://localhost:8080'
+baseurl: '/upinfo'
+urlimg: 'http://localhost:8080/upinfo/images/'
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
   noscript: false

@@ -4,16 +4,17 @@ layout: syllabus
 # Content
 #
 title: "Programmation et conception orientée objet"
+cours-id: "L3-POO"
 logo: "logo_blanc-l.png"
 teaser: "Il s'agit d'un cours de Programmation Orientée Objet qui se base sur le langage Java."
 categories:
-  - L3
+  - L3-info
 tags:
   - S5
 ects: 6
 schedule: "48h"
 # website: "#"
-author: juliend
+author:  stephanejeannin
 #
 # Styling
 #
@@ -25,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Contenu ###

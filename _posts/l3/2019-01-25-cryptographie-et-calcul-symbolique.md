@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Cryptographie et calcul symbolique"
+cours-id: "L3-crypto"
 logo: "logo_blanc-l.png"
 teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne alliée à celle du calcul formel"
 categories:
-  - L3
+  - L3-info
 tags:
   - S5
   - OPT
@@ -26,7 +27,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Modalités du cours

@@ -1,4 +1,3 @@
-
 {% if include.year == "L1" %}
   {% assign s1="S1" %}
   {% assign s2="S2" %}
@@ -8,6 +7,15 @@
 {% elsif include.year == "L3" %}
   {% assign s1="S5" %}
   {% assign s2="S6" %}
+{% elsif include.year == "L01" %}
+  {% assign s1="S01" %}
+  {% assign s2="S02" %}
+{% elsif include.year == "L02" %}
+  {% assign s1="S03" %}
+  {% assign s2="S04" %}
+{% elsif include.year == "L03" %}
+  {% assign s1="S05" %}
+  {% assign s2="S06" %}
 {% endif %}
 
 <h2 id="cours-proposés">Cours proposés</h2>

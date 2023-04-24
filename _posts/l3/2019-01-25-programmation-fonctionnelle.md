@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Programmation fonctionnelle"
+cours-id: "L3-PF"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la programmation fonctionnelle typée. Le langage support pour le cours est OCaml."
 categories:
-  - L3
+  - L3-info
 tags:
   - S5
 ects: 6
@@ -25,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Public ###

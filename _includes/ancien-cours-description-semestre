@@ -1,0 +1,6 @@
+{% for cours in site.posts %}
+   {% assign cat=cours.categories[0] %}
+  {% if cours.tags[0] == include.semestre and cours.categories[0] == include.annee  %}
+    {% include cours-description id=cours.id %}
+  {% endif %}
+{% endfor %}

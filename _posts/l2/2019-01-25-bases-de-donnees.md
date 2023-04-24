@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Bases de données"
+cours-id: "L2-BD"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif de ce cours est d'apprendre à créer et manipuler des bases de données relationnelles et de comprendre les problèmes qui y sont liés."
 categories:
-  - L2
+  - L2-info
 tags:
   - S3
 ects: 6
@@ -25,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 

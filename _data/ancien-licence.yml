@@ -1,0 +1,150 @@
+S1:
+  title: "Semestre 1"
+  courses:
+    - cours-id: "L1-BI"
+      info: true
+    - title: "Mathématiques S1 : Fondements 1"
+    - title: "Mathématiques S1 : Approfondissements 1"
+    - title: "Electronique S1 : Électronique numérique - Bases"
+    - title: UE transversale
+      uet: true
+
+S2:
+  title: Semestre 2
+  courses:
+    - cours-id: "L1-PI"
+      info: true
+    - cours-id: "L1-sys-1"
+      info: true
+    - title: "Mathématiques S2 : Fondements 2"
+    - title: L'une des UE non disciplinaire suivantes
+      options:
+        - title: "Mathématiques S2 : Approfondissements 2"
+        - title: "Mathématiques S2 : Methodes Maths-Approche discrète"
+        - title: "Électronique S2 : Électronique analogique"
+    - title: UE transversale
+      uet: true
+
+S3:
+  title: Semestre 3
+  courses:
+    - cours-id: "L2-C"
+      info: true
+    - cours-id: "L2-BD"
+      info: true
+    - cours-id: "L2-OFI"
+      info: true
+    - title: L'une des UE non disciplinaires suivantes
+      options:
+        - cours-id: "L2-R"
+        - title: "Mathématiques S3 : Fondements S3"
+        - title: Introduction à l’intelligence artificielle
+
+S4:
+  title: Semestre 4
+  courses:
+    - cours-id: "L2-algo-1"
+      info: true
+    - cours-id: "L2-reseaux"
+      info: true
+    - cours-id: "L2-sys-2"
+      info: true
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L2-concepts-IA"
+          info: true
+        - cours-id: "L2-techno-web"
+          info: true
+    - title: UE transversale
+      uet: true
+
+S5:
+  title: Semestre 5
+  courses:
+    - cours-id: "L3-AL"
+      info: true
+    - cours-id: "L3-PF"
+      info: true
+    - cours-id: "L3-POO"
+      info: true
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L3-archi"
+          info: true
+        - cours-id: "L3-crypto"
+          info: true
+    - title: UE transversale
+      uet: true
+
+S6:
+  title: Semestre 6
+  courses:
+    - cours-id: "L3-algo-2"
+      info: true
+    - cours-id: "L3-compil"
+      info: true
+    - title: L'une des UE suivantes (choix d'option 1)
+      options:
+        - cours-id: "L3-PI"
+          info: true
+        - cours-id: "L3-GC"
+          info: true
+    - title: L'une des UE suivantes (choix d'option 2)
+      options:
+        - cours-id: "L3-simu"
+          info: true
+        - cours-id: "L3-TERD"
+          info: true
+
+
+
+
+Smi1:
+  title: "Semestre 1"
+  courses:
+    - cours-id: "L1-BI"
+    - cours-id: "L2-BD"
+      annee: L2
+
+Smi2:
+  title: Semestre 2
+  courses:
+    - cours-id: "L1-PI"
+    - cours-id: "L1-sys-1"
+
+Smi3:
+  title: Semestre 3
+  courses:
+    - cours-id: "L2-C"
+    - cours-id: "L2-OFI"
+    - cours-id: "L3-PF"
+      annee: L3
+
+
+Smi4:
+  title: Semestre 4
+  courses:
+    - cours-id: "L2-algo-1"
+    - cours-id: "L2-sys-2"
+    - cours-id: "L2-reseaux"
+
+
+Smi5:
+  title: Semestre 5
+  courses:
+    - cours-id: "L3-POO"
+    - cours-id: "L3-AL"
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L3-archi"
+        - cours-id: "L3-crypto"
+
+Smi6:
+  title: Semestre 6
+  courses:
+    - cours-id: "L3-compil"
+    - cours-id: "L3-algo-2"
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L3-PI"
+        - cours-id: "L3-GC"

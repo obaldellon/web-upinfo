@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Grands concepts de l'Informatique"
+cours-id: "L3-GC"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif de ce cours est de faire découvrir de concepts qui dominent l'informatique au-delà de l'ordinateur."
 categories:
-  - L3
+  - L3-info
 tags:
   - S6
 ects: 6
@@ -43,7 +44,7 @@ S6 -->
 	2. Le non calculable (Turing)
 	3. Le non dénombrable (Cantor)
 	4. « explications » de paradoxes  logiques (Roussel, Grelling,…)
-	5. Raisonnement formel , informel, probabiliste ...
+	5. Raisonnement formel , informel, probabiliste …
 
 ###  Modalités de contrôle des connaissances ###
 

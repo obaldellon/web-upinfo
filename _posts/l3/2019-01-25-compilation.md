@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Compilation"
+cours-id: "L3-compil"
 logo: "logo_blanc-l.png"
 teaser: " Introduction aux méthodes d'analyse syntaxique et d'analyse sémantique, dans le cadre de la construction de compilateurs et de traduction d'un formalisme en un autre."
 categories:
-  - L3
+  - L3-info
 tags:
   - S6
 ects: 6
@@ -25,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Pré-requis conseillés
@@ -58,4 +59,3 @@ Ce cours sera dispensé sous forme d'un enseignement magistral, de travaux dirig
 
 - Projet (50%)
 - Contrôle terminal (50%)
-

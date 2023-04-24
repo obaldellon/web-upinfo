@@ -7,134 +7,424 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 anonym:
   name: "Prénom Nom, MCF/PR/PhD/MSc"
+  prenom: "Prénom"
+  nom: "Nom"
   email: "firstname.lastname@univ-cotedazur.fr"
+  upinfo: false
+
+ramon:
+  name: "R. Aparicio-Pardo"
+  prenom: "Ramon"
+  nom: "Aparicio-Pardo"
+  grade: "MCF"
+  email: "ramon.aparicio-pardo@univ-cotedazur.fr"
+  upinfo: true
+
+
+olivier:
+  name: "O. Baldellon"
+  prenom: "Olivier"
+  nom: "Baldellon"
+  grade: "PRAG"
+  uri: "http://deptinfo.unice.fr/~obaldellon/"
+  email: "olivier.baldellon@univ-cotedazur.fr"
+  upinfo: true
+
+brunob:
+  name: "B. Beauquier"
+  prenom: "Bruno"
+  nom: "Beauquier"
+  grade: "MCF"
+  email: "bruno.beauquier@univ-cotedazur.fr"
+  upinfo: true
+
+michel:
+  name: "M. Buffa"
+  prenom: "Michel"
+  nom: "Buffa"
+  grade: "PR"
+  email: "michel.buffa@univ-cotedazur.fr"
+  upinfo: true
+
+elena:
+  name: "E. Cabrio"
+  prenom: "Elena"
+  nom: "Cabrio"
+  grade: "MCF"
+  email: "elena.cabrio@univ-cotedazur.fr"
+  upinfo: true
+
+
+pierre:
+  name: "P. Crescenzo"
+  prenom: "Pierre"
+  nom: "Crescenzo"
+  grade: "MCF"
+  email: "pierre.crescenzo@univ-cotedazur.fr"
+  upinfo: true
+
+elisabetta:
+  name: "E. De Maria"
+  prenom: "Elisabetta"
+  nom: "De Maria"
+  grade: "MCF"
+  email: "elisabetta.de-maria@univ-cotedazur.fr"
+  upinfo: true
+
+
+cinzia:
+  name: "C. Di Giusto"
+  prenom: "Cinzia"
+  nom: "Di Giusto"
+  grade: "MCF"
+  email: "cinzia.di-giusto@univ-cotedazur.fr"
+  upinfo: true
+
+
+enrico:
+  name: "E. Formenti"
+  prenom: "Enrico"
+  nom: "Formenti"
+  grade: "PR"
+  email: "enrico.formenti@univ-cotedazur.fr"
+  upinfo: true
+
+franck:
+  name: "F. Guingne"
+  prenom: "Franck"
+  nom: "Guingne"
+  grade: "MCF"
+  email: "franck.guingne@univ-cotedazur.fr"
+  upinfo: true
+
+sandrine:
+  name: "S. Julia"
+  prenom: "Sandrine"
+  nom: "Julia"
+  grade: "MCF"
+  email: "sandrine.julia@univ-cotedazur.fr"
+  upinfo: true
+
+philippel:
+  name: "P. Lahire"
+  prenom: "Philippe"
+  nom: "Lahire"
+  grade: "PR"
+  email: "philippe.lahire@univ-cotedazur.fr"
+  upinfo: true
+
+
+etienne:
+  name: "E. Lozes"
+  prenom: "Etienne"
+  nom: "Lozes"
+  grade: "PR"
+  email: "etienne.lozes@univ-cotedazur.fr"
+  upinfo: true
+
+
 arnaud:
-  name: "A. Malapert, MCF"
+  name: "A. Malapert"
+  prenom: "Arnaud"
+  nom: "Malapert"
+  grade: "MCF"
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~malapert/"
   email: "arnaud.malapert@univ-cotedazur.fr"
+  upinfo: true
+
+
+
+frederic:
+  name: "F. Mallet"
+  prenom: "Frédéric"
+  nom: "Mallet"
+  grade: "PR"
+  email: "frederic.mallet@univ-cotedazur.fr"
+  upinfo: true
+
+
+bruno:
+  name: "B. Martin"
+  prenom: "Bruno"
+  nom: "Martin"
+  grade: "PR"
+  email: "bruno.martin@univ-cotedazur.fr"
+  upinfo: true
+
+gilles:
+  name: "G. Menez"
+  prenom: "Gilles"
+  nom: "Menez"
+  grade: "MCF"
+  email: "gilles.menez@univ-cotedazur.fr"
+  upinfo: true
+
+
+isabelle:
+  name: "I. Mirbel"
+  prenom: "Isabelle"
+  nom: "Mirbel"
+  grade: "MCF"
+  email: "isabelle.mirbel@univ-cotedazur.fr"
+  upinfo: true
+
+gabriel:
+  name: "G. Mopolo"
+  prenom: "Gabriel"
+  nom: "Mopolo"
+  grade: "PR"
+  email: "gabriel.mopolo@gmail.com"
+  upinfo: true
+
+
+nicolas:
+  name: "N. Pasquier"
+  prenom: "Nicolas"
+  nom: "Pasquier"
+  grade: "MCF"
+  email: "nicolas.pasquier@univ-cotedazur.fr"
+  upinfo: true
+
+
 marie:
-  name: "M. Pelleau, MCF"
+  name: "M. Pelleau"
+  prenom: "Marie"
+  nom: "Pelleau"
+  grade: "MCF"
   siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~mpelleau/"
   email: "marie.pelleau@univ-cotedazur.fr"
-elisabetta:
-  name: "E. De Maria, MCF"
-  email: "elisabetta.de-maria@univ-cotedazur.fr"
-pierre:
-  name: "P. Lezowski, PRAG"
-  email: "pierre.lezowski@univ-cotedazur.fr"
-cinzia:
-  name: "C. Di Giusto, MCF"
-  email: "cinzia.di-giusto@univ-cotedazur.fr"
-olivier:
-  name: "O. Baldellon, PRAG"
-  uri: "http://deptinfo.unice.fr/~obaldellon/"
-  email: "olivier.baldellon@univ-cotedazur.fr"
-franck:
-  name: "F. Guingne, MCF"
-  email: "franck.guingne@univ-cotedazur.fr"
-elena:
-  name: "E. Cabrio, MCF"
-  email: "elena.cabrio@univ-cotedazur.fr"
-enrico:
-  name: "E. Formenti, PR"
-  email: "enrico.formenti@univ-cotedazur.fr"
-ramon:
-  name: "R. Aparicio-Pardo, MCF"
-  email: "ramon.aparicio-pardo@univ-cotedazur.fr"
-sid:
-  name: "S. Touati, PR"
-  email: "sid.touati@univ-cotedazur.fr"
-emmanuel:
-  name: "E. Kounalis, PR"
-  email: "emmanuel.kounalis@univ-cotedazur.fr"
-sandrine:
-  name: "S. Julia, MCF"
-  email: "sandrine.julia@univ-cotedazur.fr"
-bruno:
-  name: "B. Martin, PR"
-  email: "bruno.martin@univ-cotedazur.fr"
-julien:
-  name: "J. Provillard, MCF"
-  email: "julien.provillard@univ-cotedazur.fr"
-etienne:
-  name: "E. Lozes, PR"
-  email: "etienne.lozes@univ-cotedazur.fr"
+  upinfo: true
+
+
 jcregin:
-  name: "J.-C. Régin, PR"
+  name: "J.-C. Régin"
+  prenom: "Jean-Charles"
+  nom: "Régin"
+  grade: "PR"
   email: "jcregin@gmail.com"
-serge:
-  name: "S. Miranda, PR"
-  email: "serge.miranda@univ-cotedazur.fr"
-chadi:
-  name: "C. Barakat, DR INRIA"
-  email: "chadi.barakat@inria.fr"
-philippect:
-  name: "P. Collet, PR"
-  email: "philippe.collet@univ-cotedazur.fr"
-gilles:
-  name: "G.Menez, MCF"
-  email: "gilles.menez@univ-cotedazur.fr"
-andrea:
-  name: "A. Tettamanzi, PR"
-  email: "andrea.tettamanzi@univ-cotedazur.fr"
+  upinfo: true
+
+
+
 philipper:
-  name: "P. Renevier, MCF"
+  name: "P. Renevier"
+  prenom: "Philippe"
+  nom: "Renevier"
+  grade: "MCF"
   email: "philippe.renevier@univ-cotedazur.fr"
-frederic:
-  name: "F. Mallet, PR"
-  email: "frederic.mallet@univ-cotedazur.fr"
-pyamate:
-  name: "P. Yamate"
-  email: "pyamate@gmail.com"
+  upinfo: true
+
+
 nathalie:
   name: "N. Sauvage"
+  nom: "Sauvage"
+  prenom: "Nathalie"
+  grade: "???"
   email: "nathalie.sauvage@univ-cotedazur.fr"
-nicolas:
-  name: "N. Nisse, CR INRIA"
-  email: "nicolas.nisse@sophia.inria.fr"
-michel:
-  name: "M. Buffa, MCF"
-  email: "michel.buffa@univ-cotedazur.fr"
-fabrice:
-  name: "F. Huet, PR"
-  email: "fabrice.huet@univ-cotedazur.fr"
-yves:
-  name: "Y. Bertot, DR INRIA"
-  email: "yves.bertot@inria.fr"
-richard:
-  name: "A. Richard, CR CNRS"
-  email: "richard@i3s.unice.fr"
-martin:
-  name: "M. Avanzini, CR INRIA"
-  email: "martin.avanzini@inria.fr"
-laurent:
-  name: "L. Tichit, MCF"
-  email: "laurent.tichit@univ-cotedazur.fr"
-amaya:
-  name: "A. Nogales Gómez, PhD"
-  email: "amaya.nogales-gomez@univ-cotedazur.fr"
-pascal:
-  name: "P. Urso, MCF"
-  email: "Pascal.urso@univ-cotedazur.fr"
-gabriel:
-  name: "G. Mopolo"
-  email: "gabriel.mopolo@gmail.com"
-christophe:
-  name: "C. Crespelle, PR"
-  email: "christophe.crespelle@univ-cotedazur.fr"
+  upinfo: true
+
+andrea:
+  name: "A. Tettamanzi"
+  prenom: "Andrea"
+  nom: "Tettamanzi"
+  grade: "PR"
+  email: "andrea.tettamanzi@univ-cotedazur.fr"
+  upinfo: true
+
+sid:
+  name: "S. Touati"
+  prenom: "Sid"
+  nom: "Touati"
+  grade: "PR"
+  email: "sid.touati@univ-cotedazur.fr"
+  upinfo: true
+
+
+winter:
+  name: "M. Winter"
+  prenom: "Michel"
+  nom: "Winter"
+  grade: "???"
+  email: "michel.winter@univ-cotedazur.fr"
+  upinfo: true
+
 chuan:
-  name: "C. Xu, MCF"
+  name: "C. Xu"
+  prenom: "Chuan"
+  nom: "Xu"
+  grade: "MCF"
   uri: "https://sites.google.com/view/chuanxu"
   email: "chuan.xu@univ-cotedazur.fr"
-juliend:
-  name: "J. Deantoni, PR"
+  upinfo: true
+
+
+pascal:
+  name: "P. Urso"
+  prenom: "Pascal"
+  nom: "Urso"
+  grade: "MCF"
+  email: "Pascal.urso@univ-cotedazur.fr"
+  upinfo: true
+
+
+christophe:
+  name: "C. Crespelle"
+  prenom: "Christophe"
+  nom: "Crespelle"
+  grade: "PR"
+  email: "christophe.crespelle@univ-cotedazur.fr"
+  upinfo: true
+
+julien:
+  name: "J. Deantoni"
+  prenom: "Julien"
+  nom: "Deantoni"
+  grade: "PR"
   email: "julien.deantoni@univ-cotedazur.fr"
+  upinfo: true
+
 stephanejeannin:
-  name: "S. Jeannin, MSc"
+  name: "S. Jeannin"
+  prenom: "Stephane"
+  nom: "Jeannin"
+  grade: "Contractuel"
   email: "stephane.jeannin@univ-cotedazur.fr"
+  upinfo: true
+
+
+
+
+
+
+philippect:
+  name: "P. Collet"
+  prenom: "Philippe"
+  nom: "Collet"
+  grade: "PR"
+  email: "philippe.collet@univ-cotedazur.fr"
+  upinfo: false
+
+
+
+
+
+pyamate:
+  name: "P. Yamate"
+  prenom: "Patrice"
+  nom: "Yamate"
+  name: "P. Yamate"
+  email: "pyamate@gmail.com"
+  upinfo: false
+
+
+nicolas:
+  name: "N. Nisse"
+  prenom: "Nicolas"
+  nom: "Nisse"
+  grade: ""
+  email: "nicolas.nisse@sophia.inria.fr"
+  upinfo: false
+
+
+fabrice:
+  name: "F. Huet"
+  prenom: "Fabrice"
+  nom: "Huet"
+  grade: "PR"
+  email: "fabrice.huet@univ-cotedazur.fr"
+  upinfo: false
+
+
+# laurent:
+#   name: "L. Tichit, MCF"
+#   email: "laurent.tichit@univ-cotedazur.fr"
+
+
+
+
 tarek:
-  name: "T. Hamel, PR"
+  name: "T. Hamel"
+  prenom: "Tarek"
+  nom: "Hamel"
+  grade: "PR"
   email: "thamel@i3s.unice.fr"
+  upinfo: false
+
+
+
+amaya:
+  name: "A. Nogales Gómez"
+  prenom: "Amaya"
+  nom: "Nogales Gómez"
+  grade: "PhD"
+  email: "amaya.nogales-gomez@univ-cotedazur.fr"
+  upinfo: false
+
+
+yves:
+  name: "Y. Bertot"
+  prenom: "Yves"
+  nom: "Bertot"
+  grade: "DR INRIA"
+  email: "yves.bertot@inria.fr"
+  upinfo: false
+
+richard:
+  name: "A. Richard"
+  prenom: "Adrien"
+  nom: "Richard"
+  grade: "CR CNRS"
+  email: "richard@i3s.unice.fr"
+  upinfo: false
+
+martin:
+  name: "M. Avanzini"
+  prenom: "Martin"
+  nom: "Avanzini"
+  grade: "CR INRIA"
+  email: "martin.avanzini@inria.fr"
+  upinfo: false
+
+chadi:
+  name: "C. Barakat"
+  prenom: "Chadi"
+  nom: "Barakat"
+  grade: "???"
+  email: "chadi.barakat@inria.fr"
+  upinfo: false
+
+
 # you can add more authors here
+
+# julien:
+#   name: "J. Provillard, MCF"
+#   prenom: "Julien"
+#   nom: "Provillard"
+#   grade: "MCF"
+#   email: "julien.provillard@univ-cotedazur.fr"
+
+
+# serge:
+#   name: "S. Miranda, PR"
+#   prenom: "Serge"
+#   nom: "Miranda"
+#   email: "serge.miranda@univ-cotedazur.fr"
+
+
+
+# emmanuel:
+#   name: "E. Kounalis, PR"
+#   prenom: "Emmanuel"
+#   nom: "Kounalis"
+#   grade: "PR"
+#   email: "emmanuel.kounalis@univ-cotedazur.fr"
+
+
+# pierre:
+#   name: "P. Lezowski"
+#   prenom: "Pierre"
+#   nom: "Lezowski"
+#   grade: "PRAG"
+#   email: "pierre.lezowski@univ-cotedazur.fr"

@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Structures de données et programmation C "
+cours-id: "L2-C"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours a pour objectif d'introduire les structures de données les plus classiques en s'appuyant sur le langage de programmation bas niveau C."
 categories:
-  - L2
+  - L2-info
 tags:
   - S3
 ects: 6
@@ -26,10 +27,10 @@ image:
 header:
   image_fullwidth: "header-codeC.png"
 #    caption: This is a caption for the header image with link
-#  caption_url: https://unsplash.com/  
+#  caption_url: https://unsplash.com/
 ---
 
-<!--{% include alert info="Info : Épreuve de rattrapage.  
+<!--{% include alert info="Info : Épreuve de rattrapage.
     L'épreuve de rattrapage (2ème chance) est prévue le 16 juin de 13h à 15h.
     Les consignes de cette épreuve seront données sur moodle dans l'onglet [Épreuve de rattrapage](https://lms.univ-cotedazur.fr/mod/assign/view.php?id=109382).
     Il vous est fortement conseiller de suivre le [tutoriel](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=1), et de faire les exercices de l'onglet [C](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=3) du cours [UCANCODE](https://lms.univ-cotedazur.fr/course/view.php?id=14552)."
@@ -69,7 +70,7 @@ Ce cours a pour objectif l'étude des structures de données et des algorithmes 
 Le programme détaillé de cet enseignement est le suivant,
 les structures de données classiques seront étudiées :
 
-- Rappel sur les tableaux 
+- Rappel sur les tableaux
 - Piles
 - Files
 - Listes
@@ -79,9 +80,9 @@ Puis certains algorithmes utilisés dans le monde qui nous entourent et s’appu
 
 ##### Supports de cours #####
 
-- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})	
-- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})	
-- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})	
+- [CM 1]({% include link-asset asset="1-Intro_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="1-Intro_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="1-Intro_x2+notes.pdf" %})
+- [CM 2]({% include link-asset asset="2-IterationsTris_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="2-IterationsTris_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="2-IterationsTris_x2+notes.pdf" %})
+- [CM 3]({% include link-asset asset="3-PileFile_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="3-PileFile_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="3-PileFile_x2+notes.pdf" %})
 - [CM 4]({% include link-asset asset="4-Listes_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="4-Listes_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="4-Listes_x2+notes.pdf" %})
 - [CM 5]({% include link-asset asset="5-Listes_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="5-Listes_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="5-Listes_x2+notes.pdf" %})
 
@@ -110,7 +111,7 @@ Ce cours est divisé en 5 grandes parties :
 
 Les supports de cours pour Programmation C sont [ici](http://deptinfo.unice.fr/~obaldellon/c).
 
-<!-- 
+<!--
 {% include alert info="Les supports de cours en C seront mis au fur et à mesure." %}
 
 - [CM 1]({% include link-asset asset="1-Prog-C_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="1-Prog-C_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="1-Prog-C_x2+notes.pdf" %})
@@ -118,7 +119,7 @@ Les supports de cours pour Programmation C sont [ici](http://deptinfo.unice.fr/~
 - [CM 3]({% include link-asset asset="3-Pointeurs_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="3-Pointeurs_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="3-Pointeurs_x2+notes.pdf" %})
 - [CM 4]({% include link-asset asset="4-Fichiers_handout.pdf" %}), [4 diapositives par page]({% include link-asset asset="4-Fichiers_x4.pdf" %}), [2 diapositives par page + notes]({% include link-asset asset="4-Fichiers_x2+notes.pdf" %})
 
-- [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})	
+- [TP1]({% include link-asset asset="TP1.pdf" %}), [TP2]({% include link-asset asset="TP2.pdf" %}), [TP3]({% include link-asset asset="TP3.pdf" %}), [TP4]({% include link-asset asset="TP4.pdf" %}), [TP5]({% include link-asset asset="TP5.pdf" %})
 - Les sources pour le [TP3]({% include link-asset asset="TP3.zip" %}) et le [TP5]({% include link-asset asset="TP5.zip" %})
 
 - [Examen terminal de 2018]({% include link-asset asset="examen_c_2018.pdf" %})
@@ -127,7 +128,7 @@ Les supports de cours pour Programmation C sont [ici](http://deptinfo.unice.fr/~
 ### Calendrier ###
 
 - Les 6 premières séances sont dédiées aux Structures de données.
-  - 6 CMs (2h) 
+  - 6 CMs (2h)
   - 6 TDs (2h)
 - Les 6 séances siuvantes sont dédiées à la programmation C.
   - 6 CMs (2h)
@@ -138,13 +139,13 @@ Les supports de cours pour Programmation C sont [ici](http://deptinfo.unice.fr/~
 ### Modalités de contrôle des connaissances ###
 
 Vous avez :
-- 1 note en Structures de données (SdD) et 
+- 1 note en Structures de données (SdD) et
 - 1 note en Programmation C (C)
 
 La note de ce module est la moyenne de ces 2 notes (SdD + C)/2
 
 #### Note en Structures de données ####
- 
+
 Pour la note de structure de données :
 - 1 Contrôle Continu (CC)
 - 1 Contrôle Terminal (CT)

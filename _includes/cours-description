@@ -1,0 +1,37 @@
+{% assign id = include.id %}
+{% assign cours = site.ue | where:"cours-id", id | first %}
+{% assign authors = cours.author | split: ", " %}
+{% assign names = "" %}
+{% assign responsable = "Responsable" %}
+
+{% assign dernier-auteur = "" %}
+{% assign conjonction  = "" %}
+
+{% for author in authors %}
+        {% if site.data.authors[author].name %}
+            {% if dernier-auteur == "" %}
+                {% assign dernier-auteur = site.data.authors[author].name %}
+                {% assign conjonction  = "" %}
+            {% else %}
+                {% assign responsable = "Responsables" %}
+                {% assign names = names | append:conjonction | append:dernier-auteur %}
+                {% assign dernier-auteur = site.data.authors[author].name %}
+                {% assign conjonction  = ", " %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+{% if conjonction == ", " %}
+ {% assign conjonction  = " et " %}
+{% endif %}
+{% assign names = names | append:conjonction | append:dernier-auteur %}
+
+{% if cours.subtitle %}
+#### <a href="{{ cours.url  }}">{{ cours.title }} : {{ cours.subtitle }}</a> ####
+{% else %}
+#### <a href="{{ cours.url  }}"> {{ cours.title }}</a> ####
+{% endif %}
+
+{{ responsable }} : {{ names }}
+
+{{cours.teaser }} <a href="{{ cours.url  }}">En savoir plus</a>

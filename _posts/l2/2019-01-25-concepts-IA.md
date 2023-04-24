@@ -5,11 +5,12 @@ layout: syllabus
 # Content
 #
 title: "Concepts d'intelligence artificielle"
+cours-id: "L2-concepts-IA"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est destiné aux étudiants qui souhaitent se spécialiser en intelligence artificielle. "
-categories: 
- - L2
+categories:
+  - L2-info
 tags:
  - S4
  - OPT
@@ -27,10 +28,10 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
-{% include alert alert="Alert:  
+{% include alert alert="Alert:
     Ce syllabus n'est pas à jour." %}
 
 ### Description
@@ -49,5 +50,3 @@ header:
 
 ### Organisation
 Chaque cours est accompagné d’une séance de travaux dirigés sur machine.
-
-

@@ -96,6 +96,16 @@ h1 {
     font-size: $font-size-h1;
     margin-top: 0;
 }
+
+/* Added  by Olivier Baldellon */
+h1.withsubtitle {
+    font-size: $font-size-h1;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* end Added */
+
+
 h2 {
     font-size: $font-size-h2;
     margin: 1.563em 0 0 0;
@@ -281,7 +291,7 @@ kbd {
 code.highlighter-rouge {
     /*background-color:transparent;
     color:black;*/
-    border-style: none;    
+    border-style: none;
 }
 
 
@@ -331,7 +341,7 @@ p + ul {
 
 p + ol {
     margin-top: -1rem;
-} 
+}
 
 /* Quotes
 ------------------------------------------------------------------- */
@@ -393,6 +403,16 @@ mark {
     margin: 0;
     text-transform: uppercase;
 }
+
+/* Added by Olivier Baldellon*/
+.subtitleline {
+    font-size:  $font-size-h2;
+    font-family: $header-font-family;
+    margin: 0;
+/*    text-transform: uppercase;*/
+}
+/* end Added */
+
 .teaser {
     font-size: rem-calc(20);
 }
@@ -476,96 +496,96 @@ mark {
 .iconfont {
     font-family: iconfont;
 }
-  
+
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "iconfont";
     src: url("../fonts/iconfont.svg#iconfont") format("svg");
   }
 }
-  
+
 [data-icon]:before { content: attr(data-icon); }
-  
+
 [data-icon]:before,
-.icon-price-tag:before, 
-.icon-mail:before, 
-.icon-facebook:before, 
-.icon-github:before, 
-.icon-home:before, 
-.icon-alarm:before, 
-.icon-archive:before, 
-.icon-attention:before, 
-.icon-back-in-time:before, 
-.icon-blackboard:before, 
-.icon-browser:before, 
-.icon-calendar:before, 
-.icon-camera:before, 
-.icon-cancel-circled:before, 
-.icon-chat:before, 
-.icon-check:before, 
-.icon-chevron-down:before, 
-.icon-chevron-left:before, 
-.icon-chevron-right:before, 
-.icon-chevron-up:before, 
-.icon-cloud:before, 
-.icon-code:before, 
-.icon-cone:before, 
-.icon-cog:before, 
-.icon-comment:before, 
-.icon-edit:before, 
-.icon-export:before, 
-.icon-eye:before, 
-.icon-feather:before, 
-.icon-globe:before, 
-.icon-graduation-cap:before, 
-.icon-heart:before, 
-.icon-heart-empty:before, 
-.icon-home:before, 
-.icon-info:before, 
-.icon-install:before, 
-.icon-lab-flask:before, 
-.icon-leaf:before, 
-.icon-light-bulb:before, 
-.icon-location:before, 
-.icon-magnifying-glass:before, 
-.icon-mail:before, 
-.icon-megaphone:before, 
-.icon-mic:before, 
-.icon-minus-circled:before, 
-.icon-network:before, 
-.icon-open-book:before, 
-.icon-paper-plane:before, 
-.icon-plus-circled:before, 
-.icon-price-tag:before, 
-.icon-rocket:before, 
-.icon-rss:before, 
-.icon-star:before, 
-.icon-star-empty:before, 
-.icon-thumbs-up:before, 
-.icon-thumbs-down:before, 
-.icon-tree:before, 
-.icon-trophy:before, 
-.icon-upload-cloud:before, 
-.icon-v-card:before, 
-.icon-video:before, 
-.icon-bbb:before, 
-.icon-discord:before, 
-.icon-dropbox:before, 
-.icon-facebook:before, 
-.icon-github:before, 
-.icon-google-play:before, 
-.icon-google-plus:before, 
-.icon-instagram:before, 
-.icon-linkedin:before, 
-.icon-paypal:before, 
-.icon-pinterest:before, 
-.icon-skype:before, 
-.icon-soundcloud:before, 
-.icon-tumblr:before, 
-.icon-twitter:before, 
-.icon-vimeo:before, 
-.icon-xing:before, 
-.icon-youtube:before, 
+.icon-price-tag:before,
+.icon-mail:before,
+.icon-facebook:before,
+.icon-github:before,
+.icon-home:before,
+.icon-alarm:before,
+.icon-archive:before,
+.icon-attention:before,
+.icon-back-in-time:before,
+.icon-blackboard:before,
+.icon-browser:before,
+.icon-calendar:before,
+.icon-camera:before,
+.icon-cancel-circled:before,
+.icon-chat:before,
+.icon-check:before,
+.icon-chevron-down:before,
+.icon-chevron-left:before,
+.icon-chevron-right:before,
+.icon-chevron-up:before,
+.icon-cloud:before,
+.icon-code:before,
+.icon-cone:before,
+.icon-cog:before,
+.icon-comment:before,
+.icon-edit:before,
+.icon-export:before,
+.icon-eye:before,
+.icon-feather:before,
+.icon-globe:before,
+.icon-graduation-cap:before,
+.icon-heart:before,
+.icon-heart-empty:before,
+.icon-home:before,
+.icon-info:before,
+.icon-install:before,
+.icon-lab-flask:before,
+.icon-leaf:before,
+.icon-light-bulb:before,
+.icon-location:before,
+.icon-magnifying-glass:before,
+.icon-mail:before,
+.icon-megaphone:before,
+.icon-mic:before,
+.icon-minus-circled:before,
+.icon-network:before,
+.icon-open-book:before,
+.icon-paper-plane:before,
+.icon-plus-circled:before,
+.icon-price-tag:before,
+.icon-rocket:before,
+.icon-rss:before,
+.icon-star:before,
+.icon-star-empty:before,
+.icon-thumbs-up:before,
+.icon-thumbs-down:before,
+.icon-tree:before,
+.icon-trophy:before,
+.icon-upload-cloud:before,
+.icon-v-card:before,
+.icon-video:before,
+.icon-bbb:before,
+.icon-discord:before,
+.icon-dropbox:before,
+.icon-facebook:before,
+.icon-github:before,
+.icon-google-play:before,
+.icon-google-plus:before,
+.icon-instagram:before,
+.icon-linkedin:before,
+.icon-paypal:before,
+.icon-pinterest:before,
+.icon-skype:before,
+.icon-soundcloud:before,
+.icon-tumblr:before,
+.icon-twitter:before,
+.icon-vimeo:before,
+.icon-xing:before,
+.icon-youtube:before,
 .icon-zoom:before {
   display: inline-block;
   font-family: "iconfont";
@@ -579,7 +599,7 @@ mark {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
-  
+
 .icon-alarm:before { content: '\f102'; }
 .icon-archive:before { content: '\f100'; }
 .icon-attention:before { content: '\f146'; }
@@ -602,7 +622,7 @@ mark {
 .icon-comment:before { content: '\f12d'; }
 .icon-edit:before { content: '\f115'; }
 .icon-export:before { content: '\f116'; }
-.icon-eye:before { content: '\f117'; } 
+.icon-eye:before { content: '\f117'; }
 .icon-feather:before { content: '\f119'; }
 .icon-globe:before { content: '\f11b'; }
 .icon-graduation-cap:before { content: '\f11e'; }
@@ -650,12 +670,12 @@ mark {
 .icon-pinterest:before { content: '\f133'; }
 .icon-skype:before { content: '\f137'; }
 .icon-soundcloud:before { content: '\f138'; }
-.icon-tumblr:before { content: '\f140'; } 
+.icon-tumblr:before { content: '\f140'; }
 .icon-twitter:before { content: '\f141'; }
 .icon-vimeo:before { content: '\f145'; }
 .icon-xing:before { content: '\f147'; }
-.icon-youtube:before { content: '\f148'; } 
-.icon-zoom:before { content: '\f14a'; } 
+.icon-youtube:before { content: '\f148'; }
+.icon-zoom:before { content: '\f14a'; }
 
 
 $font-iconfont-alarm: '\f102';
@@ -680,7 +700,7 @@ $font-iconfont-cog: '\f112';
 $font-iconfont-comment: '\f12d';
 $font-iconfont-edit: '\f115';
 $font-iconfont-export: '\f116';
-$font-iconfont-eye: '\f117'; 
+$font-iconfont-eye: '\f117';
 $font-iconfont-feather: '\f119';
 $font-iconfont-globe: '\f11b';
 $font-iconfont-graduation-cap: '\f11e';
@@ -728,9 +748,9 @@ $font-iconfont-paypal: '\f132';
 $font-iconfont-pinterest: '\f133';
 $font-iconfont-skype: '\f137';
 $font-iconfont-soundcloud: '\f138';
-$font-iconfont-tumblr: '\f140'; 
+$font-iconfont-tumblr: '\f140';
 $font-iconfont-twitter: '\f141';
 $font-iconfont-vimeo: '\f145';
 $font-iconfont-xing: '\f147';
-$font-iconfont-youtube: '\f148'; 
-$font-iconfont-zoom: '\f14a'; 
+$font-iconfont-youtube: '\f148';
+$font-iconfont-zoom: '\f14a';

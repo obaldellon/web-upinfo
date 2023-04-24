@@ -5,6 +5,57 @@
   url: "/"
   side: left
 
+- title: Présentation
+  url: "/presentation/"
+  side: left
+
+
+- title: "Licence"
+  url: "/programme/licence/"
+  side: left
+  dropdown:
+  - title: "Présentation"
+    url: "/programme/licence/"
+  - title: "Candidater"
+    url: "/programme/candidater/"
+  - title: "1ère année"
+    url: "/programme/l1/"
+  - title: "2ème année"
+    url: "/programme/l2/"
+  - title: "3ème année"
+    url: "/programme/l3/"
+  - title: "Vue d’ensemble"
+    url: "/programme/parcours/"
+
+# - title: "Licence (2024)"
+#   url: "/licence/"
+#   side: left
+#   dropdown:
+#   - title: "Présentation"
+#     url: "/licence/"
+#   - title: "Candidater"
+#     url: "/licence/candidater/"
+#   - title: "1ère année"
+#     url: "/licence/l1/"
+#   - title: "2ème année"
+#     url: "/licence/l2/"
+#   - title: "3ème année"
+#     url: "/licence/l3/"
+#   - title: "Vue d’ensemble"
+#     url: "/licence/parcours/"
+
+
+
+- title: "Parcours math/info"
+  url: "/programme/math-info/"
+  side: left
+  # dropdown:
+  # - title: "Parcours"
+  #   url: "/programme/math-info/"
+  # - title: "Parcours (2024)"
+  #   url: "/licence/math-info/"
+
+
 - title: "Master"
   url: "/programme/master/"
   side: left
@@ -23,30 +74,20 @@
     url: "/programme/stage/"
   - title: "Liste des cours"
     url: "/programme/liste/"
+  - title: "M1"
+    url: "/edt/m1/"
+  - title: "M2"
+    url: "/edt/m2/"
 
-- title: "Licence"
-  url: "/programme/licence/"
-  side: left
-  dropdown:
-  - title: "Programme"
-    url: "/programme/licence/"
-  - title: "1ère année"
-    url: "/programme/l1/"
-  - title: "2ème année"
-    url: "/programme/l2/"
-  - title: "3ème année"
-    url: "/programme/l3/"
-  - title: "Liste des cours"
-    url: "/programme/listel/"
-
-- title: "Campus"
-  url: "/campus/"
-  side: left
 
 - title: "Étudiants"
   url: "#"
   side: left
   dropdown:
+  - title: "Candidater"
+    url: "/etus/candidater/"
+  - title: "Campus"
+    url: "/campus/"
   - title: "Bourses"
     url: "/etus/bourses/"
   - title: "Stages"
@@ -60,36 +101,20 @@
   - title: "Insertion"
     url: "/etus/insertion/"
 
+
+
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Candidater"
-  url: " https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater"
-  side: left
-  dropdown:
-  - title: "Master"
-    url: "https://univ-cotedazur.fr/candidater-et-s-inscrire/candidater/candidater-en-master"
-  - title: "Licence 2/3"
-    url: "https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/candidater-en-licence-2-licence-3-licence-professionnelle"
-  - title: "Licence 1"
-    url: "https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/candidater-en-licence-1-dut-pass-prepa-ingenieur"
-
+  # dropdown:
+  # - title: "Blog Archive"
+  #   url: "/blog/archive/"
 
 #
 #   Navigation to the right -> side: right
 #
-- title: "EdT"
-  url: "/edt/m1/"
-  side: right
-  dropdown:
-  - title: "M1"
-    url: "/edt/m1/"
-  - title: "M2"
-    url: "/edt/m2/"
+
+
 
 
 - title: "Search"

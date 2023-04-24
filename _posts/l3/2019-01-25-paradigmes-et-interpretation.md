@@ -4,18 +4,19 @@ layout: syllabus
 # Content
 #
 title: "Paradigmes et interprétation"
+cours-id: "L3-PI"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des 
+teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des
 interpréteurs de petits langages qui les mettent en oeuvre."
 categories:
-  - L3
+  - L3-info
 tags:
   - S6
   - OPT
 ects: 6
 schedule: "24h cours + 6h TD + 24h TP"
 # website: "#"
-author: etienne elisabetta stephanejeannin
+author: etienne, elisabetta, stephanejeannin
 #
 # Styling
 #
@@ -27,12 +28,12 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Description ###
 
-Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure sur des langages de programmation "jouets", dans lesquels on se focalise sur un aspect essentiel, sans chercher à étudier un vrai langage. 
+Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure sur des langages de programmation "jouets", dans lesquels on se focalise sur un aspect essentiel, sans chercher à étudier un vrai langage.
 Pour bien comprendre en profondeur ces paradigmes, on programme ensuite des interpréteurs pour les langages jouets étudiés en utilisant de vrais langages (Java, Typescript, Racket, Rust, etc).
 
 
@@ -60,15 +61,15 @@ Chaque partie donne lieu à une note de contrôle continu spécifiée par l'ense
 4. Unification, interpréteur Prolog.
 
 #### Partie 2 : paradigme fonctionnel ####
-5. Introduction à Racket. 
-6. Expressions arithmétiques et fonctions. 
+5. Introduction à Racket.
+6. Expressions arithmétiques et fonctions.
 7. Ordre supérieur
 8. Récursivité et paresse
 
 #### Partie 3 : paradigme objet, typage ####
-9.  Objets et classes. 
-10. Typage 
-11. Sous-typage. 
+9.  Objets et classes.
+10. Typage
+11. Sous-typage.
 12. Typage et classes
 
 
@@ -83,6 +84,6 @@ Chaque partie donne lieu à une note de contrôle continu spécifiée par l'ense
     - [interprète Rust en ligne](https://play.rust-lang.org)
     - [outils de développement](https://www.rust-lang.org/fr/tools)
   - [Tau-prolog](http://tau-prolog.org)
-    - [interprète Tau-prolog en ligne](http://tau-prolog.org/sandbox/) 
+    - [interprète Tau-prolog en ligne](http://tau-prolog.org/sandbox/)
 
 - Les parties 2 et 3 se basent sur le livre Programming languages : Application and Interpretation, également disponible au format pdf, et s'inspire des cours de Shriram Krishnamurthi et de Matthew Flatt, ainsi que de l'ancien cours de Julien Provillard.

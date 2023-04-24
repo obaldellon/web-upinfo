@@ -4,10 +4,11 @@ layout: syllabus
 # Content
 #
 title: "Outils formels de l'informatique"
+cours-id: "L2-OFI"
 logo: "logo_blanc-l.png"
 teaser: "Initiation à l'étude des fondements théoriques de l'informatique."
 categories:
-  - L2
+  - L2-info
 tags:
   - S3
 ects: 6
@@ -25,7 +26,7 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Description ###
