@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+title: UP Info (UCA)
 header:
   image_fullwidth: 'header-valrose-printemps-petite.jpg'
   caption: "Le campus Valrose au printemps."
@@ -48,12 +49,13 @@ homepage: true
 {% capture lien_contact %}{% link pages/presentation.md
 %}#qui-contacter-{% endcapture %}
 
-Bienvenue sur le site de l’Unité Pédagogique Informatique qui regroupe
-les enseignants d’informatique de la licence et du master de
-l’Université Côté d’Azur. Ce site présente les différents parcours
-proposés ainsi que la présentation de chaque UE. En cas de question,
-n’hésitez à vous adresser aux principaux responsables que vous
-trouverez sur la page [« présentation »]({{lien_contact}}).
+Bienvenue sur le site de l’[**Unité Pédagogique
+Informatique**](/presentation/) qui regroupe les enseignants
+d’informatique de la licence et du master de l’Université Côté
+d’Azur. Ce site présente les différents parcours proposés ainsi que la
+présentation de chaque UE. En cas de question, n’hésitez à vous
+adresser aux principaux responsables que vous trouverez sur la page de
+[**présentation**]({{lien_contact}}).
 
 
 

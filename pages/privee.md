@@ -8,6 +8,7 @@ header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 teaser: ""
 permalink: "/privee/"
+sitemap: false
 ---
 
 {% include alert alert="<b>Merci de ne pas mettre de lien public sur

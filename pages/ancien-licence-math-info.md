@@ -14,7 +14,7 @@ permalink: "/programme/math-info/"
 
 
 
-Responsable : {% include auteur.md id="sandrine" long=true url=true %}(info) et [Christophe Cazenave](mailto:christophe.cazenave@univ-cotedazur.fr) (math)
+Responsable : {% prof sandrine %} (info) et [Christophe Cazenave](mailto:christophe.cazenave@univ-cotedazur.fr) (math)
 
 ## Les liens sur le site du département mathématique
 

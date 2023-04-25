@@ -5,9 +5,16 @@
   url: "/"
   side: left
 
-- title: Présentation
+
+- title: L’UP Info
   url: "/presentation/"
   side: left
+  dropdown:
+  - title: Présentation
+    url: "/presentation/"
+  - title: Membres
+    url: "/equipe/"
+
 
 
 - title: "Licence"

@@ -50,9 +50,9 @@ elena:
   name: "E. Cabrio"
   prenom: "Elena"
   nom: "Cabrio"
-  grade: "MCF"
+  grade: "PR"
   email: "elena.cabrio@univ-cotedazur.fr"
-  upinfo: true
+  upinfo: false # iut
 
 
 pierre:
@@ -173,7 +173,7 @@ gabriel:
   name: "G. Mopolo"
   prenom: "Gabriel"
   nom: "Mopolo"
-  grade: "PR"
+  grade: "PAST"
   email: "gabriel.mopolo@gmail.com"
   upinfo: true
 
@@ -221,7 +221,7 @@ nathalie:
   name: "N. Sauvage"
   nom: "Sauvage"
   prenom: "Nathalie"
-  grade: "???"
+  grade: "PAST"
   email: "nathalie.sauvage@univ-cotedazur.fr"
   upinfo: true
 
@@ -246,7 +246,7 @@ winter:
   name: "M. Winter"
   prenom: "Michel"
   nom: "Winter"
-  grade: "???"
+  grade: "CDI"
   email: "michel.winter@univ-cotedazur.fr"
   upinfo: true
 

@@ -1,7 +1,7 @@
 {% assign id = include.id %}
 {% assign cours = site.ue | where:"cours-id", id | first %}
 {% assign authors = cours.author | split: ", " %}
-{% assign names = "" %}
+{% assign names = "<b>" %}
 {% assign responsable = "Responsable" %}
 
 {% assign dernier-auteur = "" %}
@@ -24,7 +24,7 @@
 {% if conjonction == ", " %}
  {% assign conjonction  = " et " %}
 {% endif %}
-{% assign names = names | append:conjonction | append:dernier-auteur %}
+{% assign names = names | append:conjonction | append:dernier-auteur | append:"</b>"%}
 
 {% if cours.subtitle %}
 #### <a href="{{ cours.url  }}">{{ cours.title }} : {{ cours.subtitle }}</a> ####
@@ -33,5 +33,10 @@
 {% endif %}
 
 {{ responsable }} : {{ names }}
+<br/>
+{{cours.teaser }} <a href="{{ cours.url  }}"> En savoir plus</a>
 
-{{cours.teaser }} <a href="{{ cours.url  }}">En savoir plus</a>
+
+{%comment%}
+#{% assign names = cours.author | split: ", "| map: "name"| array_to_sentence_string: 'kaj' %}
+{%endcomment%}
