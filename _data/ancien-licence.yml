@@ -3,10 +3,13 @@ S1:
   courses:
     - cours-id: "L1-BI"
       info: true
-    - title: "Mathématiques S1 : Fondements 1"
-    - title: "Mathématiques S1 : Approfondissements 1"
-    - title: "Electronique S1 : Électronique numérique - Bases"
-    - title: UE transversale
+    - title: "Mathématiques : Fondements 1"
+      syllabus: "SPUM11"
+    - title: "Mathématiques : Approfondissements 1"
+      syllabus: "SPUM13"
+    - title: "Électronique : Électronique numérique - Bases"
+      syllabus: "SPUE10"
+    - title: UE Compétences transversales
       uet: true
 
 S2:
@@ -16,13 +19,18 @@ S2:
       info: true
     - cours-id: "L1-sys-1"
       info: true
-    - title: "Mathématiques S2 : Fondements 2"
+    - title: "Mathématiques: Fondements 2"
+      syllabus: "SPUM21"
     - title: L'une des UE non disciplinaire suivantes
       options:
-        - title: "Mathématiques S2 : Approfondissements 2"
-        - title: "Mathématiques S2 : Methodes Maths-Approche discrète"
-        - title: "Électronique S2 : Électronique analogique"
-    - title: UE transversale
+        - title: "Mathématiques : Approfondissements 2"
+          syllabus: "SPUM23"
+          remarque: "(conseillé)"
+        - title: "Mathématiques : Méthodes Maths-Approche discrète"
+          syllabus: "SPUM22"
+        - title: "Électronique : Électronique analogique"
+          syllabus: "SPUE20"
+    - title: UE Compétences transversales
       uet: true
 
 S3:
@@ -37,8 +45,12 @@ S3:
     - title: L'une des UE non disciplinaires suivantes
       options:
         - cours-id: "L2-R"
-        - title: "Mathématiques S3 : Fondements S3"
-        - title: Introduction à l’intelligence artificielle
+        - title: "Mathématiques : Fondements 3"
+          syllabus: "SPUM30"
+        - title: "Introduction à l’intelligence artificielle"
+          syllabus: "SPUSA301"
+    - title: UE Compétences transversales
+      uet: true
 
 S4:
   title: Semestre 4
@@ -55,7 +67,7 @@ S4:
           info: true
         - cours-id: "L2-techno-web"
           info: true
-    - title: UE transversale
+    - title: UE Compétences transversales
       uet: true
 
 S5:
@@ -73,7 +85,7 @@ S5:
           info: true
         - cours-id: "L3-crypto"
           info: true
-    - title: UE transversale
+    - title: UE Compétences transversales
       uet: true
 
 S6:
@@ -95,6 +107,8 @@ S6:
           info: true
         - cours-id: "L3-TERD"
           info: true
+    - title: UE Compétences transversales
+      uet: true
 
 
 
@@ -104,13 +118,34 @@ Smi1:
   courses:
     - cours-id: "L1-BI"
     - cours-id: "L2-BD"
-      annee: L2
+      remarque: "(cours de L2)"
+    - title: "Mathématiques : Fondements 1"
+      syllabus: "SPUM11"
+    - title: "Mathématiques : Approfondissements 1"
+      syllabus: "SPUM13"
+    - title: L'une des UE non disciplinaire suivantes
+      options:
+        - title: "Électronique : Électronique numérique – Bases"
+          syllabus: "SPUE10"
+        - title: "Physique : Mécanique 1"
+          syllabus: "SPUP10"
+    - title: UE Compétences transversales
+      uet: true
 
 Smi2:
   title: Semestre 2
   courses:
     - cours-id: "L1-PI"
     - cours-id: "L1-sys-1"
+    - title: "Mathématiques : Fondements 2"
+      syllabus: "SPUM21"
+    - title: "Mathématiques: Approfondissements 2"
+      syllabus: "SPUM23"
+    - title: "Probabilités et Introduction à la statistique"
+      syllabus: "SPUM41"
+      annee: L2
+    - title: UE Compétences transversales
+      uet: true
 
 Smi3:
   title: Semestre 3
@@ -118,8 +153,15 @@ Smi3:
     - cours-id: "L2-C"
     - cours-id: "L2-OFI"
     - cours-id: "L3-PF"
-      annee: L3
-
+      remarque: "(cours de L3)"
+    - title: "Mathématiques : Fondements 3"
+      syllabus: "SPUM30"
+    - title: "Compléments d'Algèbre"
+      syllabus: "SPUM32"
+    - title: "Compléments d'Analyse"
+      syllabus: "SPUM31"
+    - title: UE Compétences transversales
+      uet: true
 
 Smi4:
   title: Semestre 4
@@ -127,6 +169,14 @@ Smi4:
     - cours-id: "L2-algo-1"
     - cours-id: "L2-sys-2"
     - cours-id: "L2-reseaux"
+    - title: "Analyse"
+      syllabus: "SPUM40"
+    - title: "Algèbre"
+      syllabus: "SPUM42"
+    - title: "Résolution numérique de systèmes d'équations linéaires et non-linéaires"
+      syllabus: "SPUM43"
+    - title: UE Compétences transversales
+      uet: true
 
 
 Smi5:
@@ -138,6 +188,19 @@ Smi5:
       options:
         - cours-id: "L3-archi"
         - cours-id: "L3-crypto"
+    - title: "Intégration et théorie de la mesure"
+      syllabus: "SLUMA504"
+    - title: "Équations différentielles"
+      syllabus: "SLEMA501"
+    - title: L'une des UE suivantes
+      options:
+        - title: "Statistique et Modélisation"
+          syllabus: "SLUMA505"
+        - title: "Algèbre et géométrie"
+          syllabus: "SLUMA501"
+    - title: UE Compétences transversales
+      uet: true
+
 
 Smi6:
   title: Semestre 6
@@ -148,3 +211,19 @@ Smi6:
       options:
         - cours-id: "L3-PI"
         - cours-id: "L3-GC"
+    - title: "Probabilités et ses applications"
+      syllabus: "SLUMA605"
+    - title: L'une des UE suivantes
+      options:
+        - title: "Approximation numérique des fonctions, des intégrales et des équations différentielles ordinaires"
+          syllabus: "SLUMA603"
+        - title: "Algèbre effective"
+          syllabus: "SLUMA601"
+    - title: L'une des UE suivantes
+      options:
+        - title: "Introduction à l’analyse fonctionnelle"
+          syllabus: "SLUMA604"
+        - title: "Analyse complexe"
+          syllabus: "SLUMA602"
+    - title: UE Compétences transversales
+      uet: true

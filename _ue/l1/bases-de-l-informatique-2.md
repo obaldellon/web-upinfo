@@ -7,7 +7,7 @@ title: "Bases de l'informatique 2"
 subtitle: "Modèles formels et logique"
 cours-id: "L1-BI-2"
 logo: "logo_blanc-l.png"
-teaser: "Introduction à l'informatique"
+teaser: "Ce cours est une introduction à la science informatique via certaines grandes thématiques comme la logique, les types récursifs ou les automates. Ces concepts seront illustrés dans des TP en Python."
 categories:
   - L1
 tags:
@@ -30,14 +30,14 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-###  Description ###
 
 ###  Calendrier ###
 
 Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal), et comprend:
 
-- 8 séances de cours
-- 16 séances de TD (2 par semaine)
+- 9 séances de cours
+- 10 séances de TD
+- 10 séances de TP
 - deux partiels
 
 

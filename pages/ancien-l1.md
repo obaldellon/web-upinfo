@@ -10,24 +10,97 @@ header:
 permalink: "/programme/l1/"
 ---
 
+## Organisation de la L1 à Valrose ##
+
+### Qui contacter et pourquoi ? ###
+
+La première année de licence en science (campus de Valsrose) est
+commune à beaucoup de disciplines et est sous la responsabilité du
+[portail sciences et
+technologies](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies).
+
+Pour les questions d’inscriptions et d’administration en L1, merci de
+voir directement avec le responsable du portail {% respo portail %} et
+son adjoint {% respo portail-adjoint %}.
+
+Pour des questions concernant l’orientation de manière générale, votre
+contact au sein du portail est {% respo portail-orientation %}. Pour
+tout ce qui concerne votre orientation et votre parcours en vue d’une
+licence informatique, vous pouvez contacter le référent L1 pour la
+discipline informatique :  {% respo L1 %}.
+
+Pour des questions concernant les UE d’informatique de première année
+vous pouvez directement contacter les responsables dont vous trouverez
+les noms en cliquant sur le nom de l’UE.
+
+
+### Choisir ses cours (UE) ###
+
+La première année étant commune aux différentes disciplines du portail
+SITE (mathématiques, informatiques, physique, chimie, électronique,
+science de la terre, etc.), l’étudiant profite de cette année pour
+découvrir différente disciplines avant de choisir en L2 sa spécialité.
+
+
+Durant vos trois années de licence, vous devez choisir quatre UE
+scientifiques par semestre ; à cela s’ajoute une UE transversale
+obligatoire.
+
+Pour le premier semestre, une UE de mathématique est obligatoire entre
+{% syllabus SPUM11 : Math fondements 1 %} et {% syllabus SPUM12 : Math
+méthode 1%}. Pour les trois UE suivantes vous devez choisir trois
+disciplines distinctes (dont éventuellement une autre de math).
+
+Pour le seconde semestre, une UE de mathématique est obligatoire entre
+{% syllabus SPUM21 : Math fondements 2 %} et {% syllabus SPUM22 : Math
+méthode 2 %}. Chaque discipline propose alors deux UE qu’il faudra
+suivre pour continuer dans la L2 correspondante. Les règles précises
+dépendent de chaque disciplines.
+
+Le principe du portail est de pouvoir essayer, se tromper, changer
+d’avis afin de choisir le parcours qui vous correspond au mieux. Ceci
+étant, pour éviter de trop complexifier la présentation, nous allons
+dorénavement présenter le parcours type à choisir pour ceux qui
+savent déjà vouloir continuer en informatique.
+
+
+
 
 ## Parcours conseillé ##
 
+
 ### Vous souhaitez faire une licence informatique ###
 
-Dans ce cas, voici le parcours que vous devez suivre. Le cours
-d’électronique du premier semestre n’est pas obligatoire, mais
-fortement recommandé. Vous n’avez pas le droit de prendre deux UE
-d’informatique. Remarque : en choisissant ces quatre UE, vous avez le
+
+L’UE destiné aux étudiants se destinant à une licence informatique
+est : {% UE L1-BI %}.  L’autre UE, {% UE L1-IIW %}, est une UE
+d’ouverture à l’informatique pour les autres sciences.
+
+En mathématique nous conseillons {% syllabus SPUM11 : Math
+fondements 1 %} et {% syllabus SPUM21 : Math fondements 2 %} dont les
+contenus sont plus poussés que ceux de {% syllabus SPUM12 : Math
+méthode 1%} et {% syllabus SPUM12 : Math méthode 1%}. On conseille
+aussi fortement l’autre cours de mathématiques : {% syllabus SPUM13 :
+Math approfondissement 1 %}
+
+
+Le cours d’électronique du premier semestre n’est pas obligatoire,
+mais fortement recommandé. Avec ce parcours type, vous avez alors le
 choix de poursuivre en mathématique, informatique ou en
-électronique.
+électronique. En résumé :
 
 {% include ancien-cours-parcours entry="S1" %}
 
 
 
+
+
 Pour le second semestre, il vous faut absolument prendre les deux UE
-d’informatique.
+d’informatique. En plus du cours {% syllabus SPUM21 : Math
+fondements 2 %}, on conseille aussi le cours {% syllabus SPUM23 : Math
+approfondissement 2 %}. Vous pouvez cependant choisir à la place de ce
+dernier un autre cours de mathématique ou un cours d’életronique. Cela
+reste des bons choix.
 
 
 {% include ancien-cours-parcours entry="S2" %}
@@ -41,13 +114,13 @@ programmation destiné à ceux qui ne veulent pas se spécialiser dans
 l’informatique mais qui veulent malgré tout apprendre à programmer.
 
 Pour le second semestre, vous pouvez choisir une UE d’informatique. On
-vous conseille plutôt le cours de {% include ancien-cours-url.md
-id="L1-PI" %}. Ce dernier va plus loin et est plus complet que l’UE {%
-include ancien-cours-url.md id="L1-IIW" %} du premier semestre qui est
-une UE d’introduction.
+vous conseille plutôt le cours de {% UE L1-PI %}. Ce dernier va plus
+loin et est plus complet que l’UE {% include ancien-cours-url.md
+id="L1-IIW" %} du premier semestre qui est une UE d’introduction.
 
-Vous pouvez aussi choisir {% include ancien-cours-url.md id="L1-sys-1"
-%} pour apprendre l’utilisation avancé d’un ordinateur sous Unix.
+Pour ceux déjà à l’aise avec la programmation, vous pouvez aussi
+choisir {% UE L1-sys-1 %} pour apprendre
+l’utilisation avancé d’un ordinateur sous Unix.
 
 
 
@@ -61,6 +134,8 @@ Vous pouvez aussi choisir {% include ancien-cours-url.md id="L1-sys-1"
 
 {% include ancien-cours-description-semestre annee='L1-info' semestre='S2' %}
 
+
+{% comment %}
 
 ## Organisation ##
 
@@ -154,3 +229,5 @@ première année PO0 ne peut prendre que 2 UE au S1 et 2 UE au S2 (comme un(e) p
 
 Un(e) étudiant(e) en deuxième année de l’étape PO0 (Oui-Si) ayant validé au moins deux UE (ou une UE et Bases des
 Mathématiques) lors de sa première année PO0 est autorisé(e) à s’inscrire dans 3 UE par semestre.
+
+{% endcomment %}

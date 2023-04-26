@@ -1,0 +1,69 @@
+# Portail Site
+
+portail:
+  prénom: "Info"
+  nom: "Washkies"
+  email: "Ingo.WASCHKIES@univ-cotedazur.fr"
+
+portail-adjoint:
+  prénom: "Joachim"
+  nom: "Yameogo"
+  email: "Joachim.YAMEOGO@univ-cotedazur.fr"
+
+portail-orientation:
+  prénom: "Daniel"
+  nom: "Gaffé"
+  email: "Daniel.GAFFE@univ-cotedazur.fr"
+
+# Responsables licences
+
+L1:
+  id: olivier
+
+L2-S3:
+  id: etienne
+
+L2-S4:
+  id: elisabetta
+
+L3:
+  id: christophe
+
+licence:
+  id: franck
+
+mi-info:
+  id: sandrine
+
+mi-math:
+  prénom: "Christophe"
+  nom: "Cazenave"
+  email: "christophe.cazenave@univ-cotedazur.fr"
+
+M1:
+  id: cinzia
+
+M2:
+  id: enrico
+
+alternance:
+  id: etienne
+
+# Responsable UP info
+
+patron:
+  id: franck
+
+web:
+  id: olivier
+
+secrétaire:
+  prénom: "Laetitia"
+  nom: "Infantino"
+  email: "laetitia.infantino@univ-cotedazur.fr"
+
+# Responsable ds4h
+secrétaire-ds4h:
+  prénom: "Virginie"
+  nom: "Valot"
+  email: "virginie.valot@univ-cotedazur.fr"

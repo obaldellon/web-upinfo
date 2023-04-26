@@ -7,7 +7,7 @@ logo: "logo.png"
 header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 teaser: ""
-permalink: "/presentation/"
+permalink: "/présentation/"
 ---
 
 ## Qui sommes nous ? ##
@@ -38,10 +38,13 @@ enseignants-chercheurs de l’UP Info sont tous membres du laboratoire
 d’informatique l’[I3S](https://www.i3s.unice.fr) situé sur le campus
 de Sophia Antipolis.
 
-Au sein de l’UCA, se trouve aussi deux autres écoles enseignant
-l’informatique :
+Au sein de l’UCA, se trouve un autre laboratoire d’informatique, celui
+de
+l’[Inria](https://www.inria.fr/fr/centre-inria-universite-cote-azur)
+situé lui aussi sur le campus de Sophia Antipolis ainsi que deux
+autres écoles enseignant l’informatique :
 l’[IUT](https://iut.univ-cotedazur.fr/departements-et-formations/informatique)
-et l’école d’ingénieur [Polythech
+et l’école d’ingénieur [Polytech
 Nice](https://polytech.univ-cotedazur.fr/).
 
 
@@ -52,45 +55,38 @@ Nice](https://polytech.univ-cotedazur.fr/).
 
 
 ## Qui contacter ? ##
-
+{%comment%}
+ Pour modifier les responsabilités, merci de modifier les pages
+ _data/responsables.yml et  _data/authors.yml
+{%endcomment%}
 
 <br/>
 
-- [Franck Guingne](mailto:franck.guingne@univ-cotedazur.fr) : directeur de l’Unité Pédagogique Informatique.
-- [Laetitia Infantino](mailto:laetitia.infantino@univ-cotedazur.fr) : assistante administrative et pédagogique.
-- [Olivier Baldellon](mailto:franck.guingne@univ-cotedazur.fr) : responsable de ce site web.
-
+- {% respo patron %} : directeur de l’Unité Pédagogique Informatique.
+- {% respo secrétaire %} : assistante administrative et pédagogique.
+- {% respo web %} : responsable de ce site web.
 
 ### Licence ###
 
 - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
-- [Laetitia Infantino](mailto:laetitia.infantino@univ-cotedazur.fr) : assistante administrative et pédagogique
-- [Franck Guingne](mailto:franck.guingne@univ-cotedazur.fr) : responsable licence.
-- [Olivier Baldellon](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinateur L1.
-- [Etienne Lozes](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinateur L2 (S3).
-- [Elisabetta De Maria](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinatrice L2 (S4).
-- [Cristophe Crespelle](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinateur L3.
-- [Sandrine Julia](mailto:licence-info.responsable@univ-cotedazur.fr) : coordinatrice « double licence math/info».
+- {% respo secrétaire %} : assistante administrative et pédagogique
+- {% respo licence licence-info.responsable@univ-cotedazur.fr %} : responsable licence.
+- {% respo L1      licence-info.responsable@univ-cotedazur.fr %} : coordinateur L1.
+- {% respo L2-S3   licence-info.responsable@univ-cotedazur.fr %} : coordinateur L2 (S3).
+- {% respo L2-S4   licence-info.responsable@univ-cotedazur.fr %} : coordinatrice L2 (S4).
+- {% respo L3      licence-info.responsable@univ-cotedazur.fr %} : coordinateur L3.
+- {% respo mi-info %} : coordinatrice informatique « double licence math/info».
+- {% respo mi-math %} : coordinateur mathématiques « double licence math/info».
 
 ### Master ###
 
 - [ds4h-sco@univ-cotedazur.fr](mailto:ds4h-sco@univ-cotedazur.fr) : scolarité de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
-- [Virginie Valot](mailto:virginie.valot@univ-cotedazur.fr) : assistante administrative et pédagogique de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
+- {% respo secrétaire-ds4h %} : assistante administrative et pédagogique de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
 - [master-info@i3s.unice.fr](mailto:master-info@i3s.unice.fr)
-- [Cinzia Di Giusto](mailto:master-info@i3s.unice.fr) : coordinatrice M1.
-- [Enrico Formenti](mailto:master-info@i3s.unice.fr) : coordinateur M2.
+- {% respo M1 master-info@i3s.unice.fr %} : coordinatrice M1.
+- {% respo M2 master-info@i3s.unice.fr %} : coordinateur M2.
 
 
-
-## Pages perso de nos  enseignants ##
-{: .web}
-
-<br/>
-
-- [Sandrine Julia](http://deptinfo.unice.fr/~julia)
-- [Olivier Baldellon](http://deptinfo.unice.fr/~obaldellon)
-- [Arnaud Malapert](http://www.i3s.unice.fr/~malapert/)
-- [Marie Pelleau](http://www.i3s.unice.fr/~mpelleau/)
 
 ## Les autres départements de la faculté des sciences
 

@@ -4,9 +4,12 @@ S1:
     - cours-id: "L1-BI-1"
       info: true
     - title: "Mathématiques : Méthode Calculus Analyse 1"
+      syllabus: "SPUM_TODO"
     - title: "Mathématiques : Méthode Algèbre linéaire 1"
+      syllabus: "SPUM_TODO"
     - title: "Electronique  : Électronique numérique - Bases"
-    - title: UE transversale
+      syllabus: "SPUE10"
+    - title: UE Compétences transversales
       uet: true
 
 S2:
@@ -17,11 +20,15 @@ S2:
     - cours-id: "L1-sys-1"
       info: true
     - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
+      syllabus: "SPUMTODO"
     - title: L'une des UE non disciplinaire suivantes
       options:
-        - title: "Mathématiques : Raisonner & Arithmétique (conseillé)"
+        - title: "Mathématiques : Raisonner & Arithmétique"
+          syllabus: "SPUMTODO"
+          remarque: "(conseillé)"
         - title: "Électronique : Électronique analogique"
-    - title: UE transversale
+          syllabus: "SPUE20"
+    - title: UE Compétences transversales
       uet: true
 
 S3:
@@ -37,7 +44,11 @@ S3:
       options:
         - cours-id: "l2-R"
         - title: "Mathématiques : Algèbre linéaire & Structures algébriques"
-        - title: Introduction à l’intelligence artificielle
+          syllabus: "SPUM_TODO"
+        - title: "Introduction à l’intelligence artificielle"
+          syllabus: "SPUSA301"
+    - title: UE Compétences transversales
+      uet: true
 
 S4:
   title: Semestre 4
@@ -54,7 +65,7 @@ S4:
           info: true
         - cours-id: "L2-techno-web"
           info: true
-    - title: UE transversale
+    - title: UE Compétences transversales
       uet: true
 
 S5:
@@ -72,7 +83,7 @@ S5:
           info: true
         - cours-id: "L3-crypto"
           info: true
-    - title: UE transversale
+    - title: UE Compétences transversales
       uet: true
 
 S6:
@@ -94,6 +105,8 @@ S6:
           info: true
         - cours-id: "L3-TERD"
           info: true
+    - title: UE Compétences transversales
+      uet: true
 
 
 
@@ -107,7 +120,17 @@ Smi1:
       annee: L2
       info: true
     - title: "Mathématiques : Méthode Calculus Analyse 1"
+      syllabus: "SPUM_TODO"
     - title: "Mathématiques : Méthode Algèbre linéaire 1"
+      syllabus: "SPUM_TODO"
+    - title: L'une des UE non disciplinaire suivantes
+      options:
+        - title: "Électronique : Électronique numérique – Bases"
+          syllabus: "SPUE10"
+        - title: "Physique : Mécanique 1"
+          syllabus: "SPUP10"
+    - title: UE Compétences transversales
+      uet: true
 
 Smi2:
   title: Semestre 2
@@ -117,9 +140,13 @@ Smi2:
     - cours-id: "L1-sys-1"
       info: true
     - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
-    - title: "Mathématiques : Raisonner & Arithmétique (conseillé)"
+      syllabus: "SPUM_TODO"
+    - title: "Mathématiques : Raisonner & Arithmétique"
+      syllabus: "SPUM_TODO"
     - title: "Mathématiques : Analyse 1"
-
+      syllabus: "SPUM_TODO"
+    - title: UE Compétences transversales
+      uet: true
 
 Smi3:
   title: Semestre 3
@@ -132,8 +159,13 @@ Smi3:
       annee: L3
       info: true
     - title: "Mathématiques : Algèbre linéaire & Structures algébriques"
+      syllabus: "SPUM_TODO"
     - title: "Mathématiques : Analyse 2"
+      syllabus: "SPUM_TODO"
     - title: "Mathématiques : Mathématiques et ingénierie"
+      syllabus: "SPUM_TODO"
+    - title: UE Compétences transversales
+      uet: true
 
 
 
@@ -143,6 +175,14 @@ Smi4:
     - cours-id: "L2-C"
     - cours-id: "L2-algo-1"
     - cours-id: "L2-sys-2"
+    - title: "Probabilités et statistiques"
+      syllabus: "SPUM_TODO"
+    - title: "Résolution numérique"
+      syllabus: "SPUM42"
+    - title: "Topologie dans R^n et calcul différentiel"
+      syllabus: "SPUM43"
+    - title: UE Compétences transversales
+      uet: true
 
 
 Smi5:
@@ -154,6 +194,18 @@ Smi5:
       options:
         - cours-id: "L3-archi"
         - cours-id: "L3-crypto"
+    - title: "Intégration et théorie de la mesure"
+      syllabus: "SLUMA504"
+    - title: "Équations différentielles"
+      syllabus: "SLEMA501"
+    - title: L'une des UE suivantes
+      options:
+        - title: "Statistique et Modélisation"
+          syllabus: "SLUMA505"
+        - title: "Algèbre et géométrie"
+          syllabus: "SLUMA501"
+    - title: UE Compétences transversales
+      uet: true
 
 Smi6:
   title: Semestre 6
@@ -164,3 +216,19 @@ Smi6:
       options:
         - cours-id: "L3-PI"
         - cours-id: "L3-GC"
+    - title: "Probabilités et ses applications"
+      syllabus: "SLUMA605"
+    - title: L'une des UE suivantes
+      options:
+        - title: "Approximation numérique des fonctions, des intégrales et des équations différentielles ordinaires"
+          syllabus: "SLUMA603"
+        - title: "Algèbre effective"
+          syllabus: "SLUMA601"
+    - title: L'une des UE suivantes
+      options:
+        - title: "Introduction à l’analyse fonctionnelle"
+          syllabus: "SLUMA604"
+        - title: "Analyse complexe"
+          syllabus: "SLUMA602"
+    - title: UE Compétences transversales
+      uet: true

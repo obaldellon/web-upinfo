@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Privée"
-meta_title: "La page privée de l’upi"
+title: "Page privée"
+meta_title: "Privée"
 subheadline: ""
 logo: "logo.png"
 header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 teaser: ""
-permalink: "/privee/"
+permalink: "/privée/"
 sitemap: false
 ---
 
@@ -99,6 +99,6 @@ Pour se retrouver dans ce beau bordel :)
 
 
 ## Divers ##
-
-- [Responsable FSI](https://www.i3s.unice.fr/~bernot/FSI/) Listes des responsables des autres disciplines
+{% assign fsi="FSI" %}
+- [Responsable FSI](https://www.i3s.unice.fr/~bernot/{{fsi}}/) Listes des responsables des autres disciplines
 - [SGCE](https://sgce-test.univ-cotedazur.fr/) Pour rentrer ses heures et gérer la répartition.

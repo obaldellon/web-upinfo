@@ -13,8 +13,11 @@
 {% capture lien %}{%include cours-url.md id=course.cours-id soustitre="true"%}{% endcapture %}
        <strong>{{ lien | markdownify | remove: '<p>' | remove: '</p>'}}</strong>
 
-    {% elsif course.info %}
-      <strong>{{ course.title }}</strong>
+    {% elsif course.syllabus %}
+
+    {% assign lien = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/"%}
+      <a class="alt" href="{{lien}}{{ course.syllabus }}" >{{ course.title }}</a>
+
 
     {% elsif course.options or course.uet %}
       {{ course.title }}
@@ -35,11 +38,22 @@
         {% if option.cours-id != NULL %}
 {% capture lien %}{%include cours-url.md id=option.cours-id soustitre="true"%}{% endcapture %}
        {{ lien | markdownify | remove: '<p>' | remove: '</p>'}}
+      {% elsif option.syllabus %}
+
+    {% assign lien = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/"%}
+      <a class="alt" href="{{lien}}{{ option.syllabus }}" >{{ option.title }}</a>
+
        {% elsif option.info %}
           <strong>{{ option.title }}</strong>
         {% else %}
           <em>{{ option.title }}</em>
         {% endif %}
+
+
+    {% if option.remarque !=NULL %}
+      {{ option.remarque }}
+    {% endif %}
+
         </li>
       {% endfor %}
       </ul>

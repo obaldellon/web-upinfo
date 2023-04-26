@@ -2,6 +2,7 @@
 layout: edt-fullwidth
 title: "Emploi du temps"
 subheadline: "Master 2 Informatique"
+logo: "logo-m.png"
 teaser: "Vous trouverez sur cette page le calendrier universitaire du parcours <i>Informatique et interactions</i>."
 # tablelink: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR87GGmejR7yqLxHBV9eRFbkIJZiDP5g5BYE7gSvZur4mLH870esqswVsTbY2MYog/pubhtml?gid=446473913&amp;single=true&amp;widget=true&amp;headers=false"
 permalink: "/edt/m2/"

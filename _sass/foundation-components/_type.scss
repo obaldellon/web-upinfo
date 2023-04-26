@@ -223,13 +223,18 @@ $align-class-breakpoints:
       &:focus {
         color: $anchor-font-color-hover;
         @if $anchor-text-decoration-hover != $anchor-text-decoration {
-        	text-decoration: $anchor-text-decoration-hover;
+                text-decoration: $anchor-text-decoration-hover;
         }
       }
 
       img { border:none; }
     }
 
+    /* Add by Olivier Baldellon */
+    a.alt {
+        color: $upinfo-color;
+        font-size:100;
+    }
     /* Default paragraph styles */
     p {
       font-family: $paragraph-font-family;

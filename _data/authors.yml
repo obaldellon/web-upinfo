@@ -95,6 +95,7 @@ franck:
   nom: "Guingne"
   grade: "MCF"
   email: "franck.guingne@univ-cotedazur.fr"
+  uri: "http://franck.guingne.free.fr/index.html"
   upinfo: true
 
 sandrine:
@@ -103,6 +104,7 @@ sandrine:
   nom: "Julia"
   grade: "MCF"
   email: "sandrine.julia@univ-cotedazur.fr"
+  uri: "http://deptinfo.unice.fr/~julia"
   upinfo: true
 
 philippel:
@@ -120,6 +122,7 @@ etienne:
   nom: "Lozes"
   grade: "PR"
   email: "etienne.lozes@univ-cotedazur.fr"
+  uri: "http://www.i3s.unice.fr/~elozes"
   upinfo: true
 
 
@@ -173,7 +176,7 @@ gabriel:
   name: "G. Mopolo"
   prenom: "Gabriel"
   nom: "Mopolo"
-  grade: "PAST"
+  grade: "Contractuel"
   email: "gabriel.mopolo@gmail.com"
   upinfo: true
 
@@ -221,7 +224,7 @@ nathalie:
   name: "N. Sauvage"
   nom: "Sauvage"
   prenom: "Nathalie"
-  grade: "PAST"
+  grade: "Contractuelle"
   email: "nathalie.sauvage@univ-cotedazur.fr"
   upinfo: true
 
@@ -246,7 +249,7 @@ winter:
   name: "M. Winter"
   prenom: "Michel"
   nom: "Winter"
-  grade: "CDI"
+  grade: "Contractuel"
   email: "michel.winter@univ-cotedazur.fr"
   upinfo: true
 
@@ -292,6 +295,7 @@ stephanejeannin:
   grade: "Contractuel"
   email: "stephane.jeannin@univ-cotedazur.fr"
   upinfo: true
+
 
 
 

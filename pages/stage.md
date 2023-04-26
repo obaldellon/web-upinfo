@@ -3,7 +3,7 @@ layout: page
 subheadline: "Quatrième semestre"
 title: "Master Informatique"
 teaser: "Parcours <i>Informatique et interactions</i>."
-
+logo: "logo-m.png"
 header:
    image_fullwidth: "header-art-unsplash.jpg"
 

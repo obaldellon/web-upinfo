@@ -20,4 +20,3 @@ permalink: "/programme/liste/"
 
 ## Semestre 4 ##
 {%include accordion-posts category="S4" %}
-

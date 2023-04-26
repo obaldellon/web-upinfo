@@ -3,6 +3,7 @@ layout: page-contents
 show_meta: false
 title: "Alternance au Master Informatique"
 subheadline: "Formation par apprentissage et par contrat de professionnalisation"
+logo: "logo-m.png"
 header:
     image_fullwidth: "header-sophia.jpg"
     caption: "Technopole Sophia Antipolis"
@@ -25,7 +26,8 @@ Plusieurs guides du [CFA EPURE](https://www.cfa-epure.com/) expliquent l'alterna
   - [L'alternance présenté sur le site du Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation](https://www.enseignementsup-recherche.gouv.fr/cid20247/l-alternance-dans-le-superieur.html)
   - [Le Contrat d'apprentissage présenté sur le site service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F2918#:~:text=La%20formation%20de%20l'apprenti%20doit%20avoir%20une%20dur%C3%A9e%20minimale,un%20suivi%20par%20le%20CFA.)
 
-Le responsable de l'alternance pour le Master Informatique 1<sup>re</sup> année et pour la 2<sup>e</sup> année pour le parcours "Informatique et Interactions" est [Etienne Lozes](http://www.i3s.unice.fr/~elozes).<br/>
+Le responsable de l'alternance pour le Master Informatique 1<sup>re</sup> année et pour la 2<sup>e</sup> année pour le parcours "Informatique et Interactions" est
+{% respo alternance %}.<br/>
 
 _Pour 2<sup>e</sup> année parcours ingénierie, il faut prendre contact avec [Pr. Jean Martinet](https://www.i3s.unice.fr/jmartinet/fr/accueil)._
 

@@ -4,7 +4,12 @@
 <ul>
   {% for prof in auteurs %}
   {% if prof.upinfo %}
-    <li>{{ prof | mailto }},  {{ prof.grade }}</li>
+    <li>
+        {{ prof | mailto }},  {{ prof.grade }}
+          {% if prof.uri %}
+            &nbsp;&nbsp;<a class="alt" href="{{prof.uri}}">page personnelle</a>
+          {% endif %}
+    </li>
     {% endif %}
   {% endfor %}
 </ul>

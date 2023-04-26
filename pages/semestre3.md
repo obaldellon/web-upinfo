@@ -4,6 +4,7 @@ show_meta: false
 title: "Master Informatique"
 subheadline: "Troisième semestre"
 teaser: "Parcours <i>Informatique et interactions</i>."
+logo: "logo-m.png"
 #logo: "logo_blanc.png"
 #logo_flush: "center"
 header:

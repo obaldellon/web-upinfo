@@ -7,13 +7,13 @@
 
 
 - title: L’UP Info
-  url: "/presentation/"
+  url: "/présentation/"
   side: left
   dropdown:
   - title: Présentation
-    url: "/presentation/"
+    url: "/présentation/"
   - title: Membres
-    url: "/equipe/"
+    url: "/équipe/"
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-- title: "Search"
+- title: "Rechercher"
   url: "/search/"
   side: right
 

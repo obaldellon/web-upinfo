@@ -3,6 +3,7 @@ layout: page-fullwidth
 show_meta: false
 title: "Master Informatique"
 subheadline: "Programme"
+logo: "logo-m.png"
 header:
    image_fullwidth: "header-programme.png"
 permalink: "/programme/master/"

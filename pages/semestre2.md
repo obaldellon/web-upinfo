@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Deuxième semestre"
+logo: "logo-m.png"
 teaser: "Parcours <i>Informatique</i>."
 #logo: "logo_blanc.png"
 #logo_flush: "center"

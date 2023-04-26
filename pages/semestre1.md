@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Master Informatique"
 subheadline: "Premier semestre"
+logo: "logo-m.png"
 teaser: "Parcours <i>Informatique</i>."
 header:
     image_fullwidth: "header-sophia.jpg"

@@ -6,7 +6,7 @@ layout: syllabus
 title: "Bases de l'informatique"
 cours-id: "L1-BI"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours est une introduction à la science informatique via certaines grandes thématique comme la logique, les types récursifs ou les automates. "
+teaser: "Ce cours est une introduction à la science informatique via certaines grandes thématiques comme la logique, les types récursifs ou les automates. "
 categories:
   - L1-info
 tags:
@@ -29,7 +29,6 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-###  Description ###
 
 ###  Calendrier ###
 

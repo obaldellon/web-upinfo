@@ -9,37 +9,34 @@
     <li>
 
     {% if course.cours-id != NULL %}
-
-{% capture lien %}{%include ancien-cours-url.md id=course.cours-id soustitre="true"%}{% endcapture %}
-       <strong>{{ lien | markdownify | remove: '<p>' | remove: '</p>'}}</strong>
-
-    {% elsif course.info %}
-      <strong>{{ course.title }}</strong>
-
-    {% elsif course.options or course.uet %}
-      {{ course.title }}
-
+       <strong> {% UEL {{course.cours-id}}  %}</strong>
+    {% elsif course.syllabus %}
+      <strong> {% syllabus {{course.syllabus}} :  {{ course.title }} %}</strong>
     {% else %}
-      <em>{{ course.title }}</em>
-
+      {{ course.title }}
     {% endif %}
 
-    {% if course.annee !=NULL %}
-      (cours de {{ course.annee }})
+    {% if course.remarque !=NULL %}
+      {{ course.remarque }}
     {% endif %}
 
     {% if course.options %}
       <ul>
       {% for option in course.options %}
         <li>
+
         {% if option.cours-id != NULL %}
-{% capture lien %}{%include ancien-cours-url.md id=option.cours-id soustitre="true"%}{% endcapture %}
-       {{ lien | markdownify | remove: '<p>' | remove: '</p>'}}
-       {% elsif option.info %}
-          <strong>{{ option.title }}</strong>
+           <strong> {% UEL {{option.cours-id}}  %}</strong>
+        {% elsif option.syllabus %}
+           <strong> {% syllabus {{option.syllabus}} :  {{ option.title }} %}</strong>
         {% else %}
-          <em>{{ option.title }}</em>
+          {{ option.title }}
         {% endif %}
+
+        {% if option.remarque !=NULL %}
+          {{ option.remarque }}
+        {% endif %}
+
         </li>
       {% endfor %}
       </ul>

@@ -1,7 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Mathématiques - Informatique"
+title: "Mathématiques et Informatique"
+meta_title: "DL Math/Info"
 subheadline: "Double licence"
 logo: "logo-l.png"
 header:
@@ -12,19 +13,15 @@ permalink: "/programme/math-info/"
 
 
 
+Responsables : {% respo mi-info %} (info) et {% respo mi-math %} (math)
 
-
-Responsable : {% prof sandrine %} (info) et [Christophe Cazenave](mailto:christophe.cazenave@univ-cotedazur.fr) (math)
-
-## Les liens sur le site du département mathématique
+## Les liens sur le site du département mathématiques
 
 - [Licence 1](https://math.unice.fr/pageslicence/licence-1-double-diplôme-math-info.html)
 - [Licence 2](https://math.unice.fr/departement/licence-2-double-diplôme-math-info.html)
 - [Licence 3](https://math.unice.fr/departement/licence-3-double-diplome-math-info.html)
 
 ## Parcours
-
-On affiche ci-dessous uniquement les UE d’informatique.
 
 {% include ancien-cours-parcours entry="Smi1" %}
 
