@@ -3,7 +3,7 @@ layout: page
 subheadline: "Vie étudiante"
 title: "Stages"
 teaser: "Les étudiants en Informatique de l’Université Côte d’Azur peuvent effectuer des stages de recherche ou professionnalisant. Certains stages obligatoires sont intégrés au cursus, mais il est aussi possible d'effectuer des stages hors cursus."
-
+logo: "logo-m.png"
 header:
     image_fullwidth: "header-laptop-unsplash.jpg"
     caption: "Photo by Dhaval Parmar on Unsplash"

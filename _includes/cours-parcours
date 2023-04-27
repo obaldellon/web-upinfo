@@ -9,50 +9,33 @@
     <li>
 
     {% if course.cours-id != NULL %}
-
-{% capture lien %}{%include cours-url.md id=course.cours-id soustitre="true"%}{% endcapture %}
-       <strong>{{ lien | markdownify | remove: '<p>' | remove: '</p>'}}</strong>
-
+       <strong> {% uel {{course.cours-id}}  %}</strong>
     {% elsif course.syllabus %}
-
-    {% assign lien = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/"%}
-      <a class="alt" href="{{lien}}{{ course.syllabus }}" >{{ course.title }}</a>
-
-
-    {% elsif course.options or course.uet %}
-      {{ course.title }}
-
+      <strong> {% syllabus {{course.syllabus}} :  {{ course.title }} %}</strong>
     {% else %}
-      <em>{{ course.title }}</em>
-
+      {{ course.title }}
     {% endif %}
 
-    {% if course.annee !=NULL %}
-      (cours de {{ course.annee }})
+    {% if course.remarque !=NULL %}
+      {{ course.remarque }}
     {% endif %}
 
     {% if course.options %}
       <ul>
       {% for option in course.options %}
         <li>
+
         {% if option.cours-id != NULL %}
-{% capture lien %}{%include cours-url.md id=option.cours-id soustitre="true"%}{% endcapture %}
-       {{ lien | markdownify | remove: '<p>' | remove: '</p>'}}
-      {% elsif option.syllabus %}
-
-    {% assign lien = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/"%}
-      <a class="alt" href="{{lien}}{{ option.syllabus }}" >{{ option.title }}</a>
-
-       {% elsif option.info %}
-          <strong>{{ option.title }}</strong>
+           <strong> {% uel {{option.cours-id}}  %}</strong>
+        {% elsif option.syllabus %}
+           <strong> {% syllabus {{option.syllabus}} :  {{ option.title }} %}</strong>
         {% else %}
-          <em>{{ option.title }}</em>
+          {{ option.title }}
         {% endif %}
 
-
-    {% if option.remarque !=NULL %}
-      {{ option.remarque }}
-    {% endif %}
+        {% if option.remarque !=NULL %}
+          {{ option.remarque }}
+        {% endif %}
 
         </li>
       {% endfor %}

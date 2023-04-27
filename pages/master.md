@@ -15,6 +15,10 @@ Le Master Informatique forme à la conception et au développement des systèmes
 Le Master Informatique peut être suivi en formation initiale, contrat d'apprentissage, formation continue, formation permanente, ou contrat de professionnalisation.
 Consulter la page [consacrée à l'alternance](../alternance/) pour plus d'informations.
 
+### Admission
+
+- [candidater en Master](https://univ-cotedazur.fr/candidater-et-s-inscrire/candidater/candidater-en-master)
+
 ### Objectifs
 
 Les compétences développées sont les suivantes :

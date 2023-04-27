@@ -67,7 +67,7 @@
   url: "/programme/master/"
   side: left
   dropdown:
-  - title: "Programme"
+  - title: "Présentation"
     url: "/programme/master/"
   - title: "Alternance"
     url: "/programme/alternance/"
@@ -91,8 +91,6 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Candidater"
-    url: "/etus/candidater/"
   - title: "Campus"
     url: "/campus/"
   - title: "Bourses"

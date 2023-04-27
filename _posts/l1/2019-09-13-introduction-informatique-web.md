@@ -60,20 +60,19 @@ plusieurs TP, un petit projet centré sur le web.
 
 ### Remarque ###
 
-Ce cours est destiné à la découverte de la programmation. Le cours {%
-include ancien-cours-url.md id="L01-BI" %} (SPUF10) est davantage
-recommandé pour les étudiants se sachant destinés à une licence
-informatique. Il est impossible de choisir simultanément ce cours et
-{% include ancien-cours-url.md id="L01-BI" %}, le choix est exclusif.
+Ce cours est destiné à la découverte de la programmation. Le cours
+{% UE L1-BI %} (SPUF10) est davantage recommandé pour les étudiants se
+sachant destinés à une licence informatique. Il est impossible de
+choisir simultanément ce cours et {% UE L1-BI %}, le choix est
+exclusif.
 
 
-Il existe un autre cours de programmation au second semestre : {%
-include ancien-cours-url.md id="L01-PI" %}. Ce second cours est
-obligatoire pour ceux se destinant à une licence informatique et
-aborde davantage de concept : arbres; récursivité, programmation
-graphique, etc. Pour ceux n’ayant jamais fait de programmation, le
-cours d’introduction à l’informatique par le web fournit une bonne
-introduction.
+Il existe un autre cours de programmation au second semestre : {% UE
+L1-PI %}. Ce second cours est obligatoire pour ceux se destinant à une
+licence informatique et aborde davantage de concept : arbres;
+récursivité, programmation graphique, etc. Pour ceux n’ayant jamais
+fait de programmation, le cours d’introduction à l’informatique par le
+web fournit une bonne introduction.
 
 ###  Modalités de contrôle des connaissances ###
 

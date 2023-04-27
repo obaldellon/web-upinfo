@@ -4,6 +4,7 @@ show_meta: false
 title: "Insertion professionnelle des diplômés"
 subheadline: "Master Informatique"
 teaser: "Le taux d'insertion professionnelle des diplômés du Master Informatique atteint 95% après 18 mois et 98% après 30 mois. Plus de 90% des diplômés en emploi ont un emploi stable. Quasiment un quart des étudiants partent travailler hors de la région PACA."
+logo: "logo-m.png"
 header:
     image_fullwidth: "insertion-min-disc.png"
     caption: "Progression des conditions d'emploi 2014 (Source MNESR)."

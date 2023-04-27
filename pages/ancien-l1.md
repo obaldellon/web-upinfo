@@ -14,14 +14,17 @@ permalink: "/programme/l1/"
 
 ### Qui contacter et pourquoi ? ###
 
-La première année de licence en science (campus de Valsrose) est
+La première année de licence en science (campus de Valrose) est
 commune à beaucoup de disciplines et est sous la responsabilité du
 [portail sciences et
 technologies](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies).
 
-Pour les questions d’inscriptions et d’administration en L1, merci de
-voir directement avec le responsable du portail {% respo portail %} et
-son adjoint {% respo portail-adjoint %}.
+Si vous êtes étudiant et que vous avez des questions concernant les
+inscriptions administratives en L1, merci de voir directement avec le
+responsable du portail {% respo portail %} et son adjoint {% respo
+portail-adjoint %}. Si vous n’êtes pas encore étudiant et que vous
+souhaitez le devenir, veuillez consulter la page concernant les
+[candidatures]({% link pages/ancien-licence-admission.md %}).
 
 Pour des questions concernant l’orientation de manière générale, votre
 contact au sein du portail est {% respo portail-orientation %}. Pour
@@ -108,15 +111,15 @@ reste des bons choix.
 ### Vous souhaitez faire une autre licence  ###
 
 Ce n’est pas grave, ça arrive à des gens biens. Dans ce cas, on vous
-conseille de choisir au premier semestre le cours d’{% include
-ancien-cours-url.md id="L1-IIW" %}. C’est un cours d’introduction à la
-programmation destiné à ceux qui ne veulent pas se spécialiser dans
-l’informatique mais qui veulent malgré tout apprendre à programmer.
+conseille de choisir au premier semestre le cours d’{% UE L1-IIW
+%}. C’est un cours d’introduction à la programmation destiné à ceux
+qui ne veulent pas se spécialiser dans l’informatique mais qui veulent
+malgré tout apprendre à programmer.
 
 Pour le second semestre, vous pouvez choisir une UE d’informatique. On
 vous conseille plutôt le cours de {% UE L1-PI %}. Ce dernier va plus
-loin et est plus complet que l’UE {% include ancien-cours-url.md
-id="L1-IIW" %} du premier semestre qui est une UE d’introduction.
+loin et est plus complet que l’UE {% UE L1-IIW %} du premier semestre
+qui est une UE d’introduction.
 
 Pour ceux déjà à l’aise avec la programmation, vous pouvez aussi
 choisir {% UE L1-sys-1 %} pour apprendre

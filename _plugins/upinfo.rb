@@ -1,16 +1,5 @@
 # coding: utf-8
 module Upinfo
-  class RenderTimeTag < Liquid::Tag
-
-    def initialize(tag_name, text, tokens)
-      super
-      @text = text
-    end
-
-    def render(context)
-      "#{@text} #{Time.now}"
-    end
-  end
 
 
  class Prof < Liquid::Tag
@@ -116,6 +105,13 @@ module Upinfo
     end
   end
 
+
+
+ ##########################
+ #                        #
+ # Usage : {% UE SPUF1 %} #
+ #                        #
+ ##########################
  class UE < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
@@ -131,10 +127,18 @@ module Upinfo
           cours = ue
         end
       end
+      if cours==nil
+        raise "L’UE #{@nom} n’existe pas"
+      end
       "<a href=\"#{cours.url}\">#{cours["title"]}</a>"
     end
   end
 
+ ###########################
+ #                         #
+ # Usage : {% UEL SPUF1 %} #
+ #                         #
+ ###########################
   class UEL < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
@@ -151,6 +155,11 @@ module Upinfo
           cours = ue
         end
       end
+
+      if cours==nil
+        raise "L’UE #{@nom} n’existe pas"
+      end
+
       if cours["subtitle"] != nil
         "<a href=\"#{cours.url}\">#{cours["title"]}</a> : #{cours["subtitle"]}"
       else
@@ -159,14 +168,80 @@ module Upinfo
     end
   end
 
+  ##########################
+  #                        #
+  # Usage : {% ue SPUF1 %} #
+  #                        #
+  ##########################
+  class Ue < Liquid::Tag
+
+    def initialize(tag_name, text, tokens)
+      super
+      @nom = text.strip
+    end
+
+    def render(context)
+      liste = context['site.ue']
+
+      for ue in liste
+        if ue["cours-id"] == @nom
+          cours = ue
+        end
+      end
+      if cours==nil
+        raise "L’UE #{@nom} n’existe pas"
+      end
+      "<a href=\"#{cours.url}\">#{cours["title"]}</a>"
+    end
+  end
+
+  ##########################
+  #                        #
+  # Usage : {% uel SPUF1 %} #
+  #                        #
+  ##########################
+  class Uel < Liquid::Tag
+
+    def initialize(tag_name, text, tokens)
+      super
+      @nom = text.strip
+    end
+
+    def render(context)
+      liste = context['site.ue']
+
+      nom = Liquid::Template.parse(@nom).render(context)
+      for ue in liste
+        if ue["cours-id"] == nom
+          cours = ue
+        end
+      end
+
+      if cours==nil
+        raise "L’UE #{@nom} n’existe pas (classe Uel) "
+      end
+
+      if cours["subtitle"] != nil
+        "<a href=\"#{cours.url}\">#{cours["title"]}</a> : #{cours["subtitle"]}"
+      else
+        "<a href=\"#{cours.url}\">#{cours["title"]}</a>"
+      end
+    end
+  end
+
+
+
+
 end
 
 
-Liquid::Template.register_tag('render_time', Upinfo::RenderTimeTag)
+
 Liquid::Template.register_tag('prof',  Upinfo::Prof)
 Liquid::Template.register_tag('respo', Upinfo::Respo)
 Liquid::Template.register_tag('syllabus', Upinfo::Syllabus)
 Liquid::Template.register_tag('UE', Upinfo::UE)
 Liquid::Template.register_tag('UEL', Upinfo::UEL)
+Liquid::Template.register_tag('ue', Upinfo::Ue)
+Liquid::Template.register_tag('uel', Upinfo::Uel)
 
 Liquid::Template.register_filter(Upinfo::Valeurs)

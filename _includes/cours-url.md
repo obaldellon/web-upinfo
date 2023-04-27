@@ -1,1 +1,0 @@
-{% assign cours = site.ue | where:"cours-id", include.id | first %}{%if cours.subtitle and include.soustitre%}[{{ cours.title }}]({{ cours.url  }}) :  {{ cours.subtitle }}{% else %}[{{ cours.title }}]({{ cours.url  }}){% endif %}

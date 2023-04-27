@@ -4,7 +4,9 @@
 *
 {% endcomment %}
 {% comment %} Regular Old-Skool Favicon: {% endcomment %}
-	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
+	{% if    site.favicon-192x192 %}<link rel="icon" sizes="192x192" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-192x192 }}">
+	{% elsif site.favicon-64x64 %}<link rel="icon" sizes="64x64" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-64x64 }}">
+	{% elsif site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
 {% comment %} For Chrome for Android: {% endcomment %}
 	{% if site.touch-icon-192x192 %}<link rel="icon" sizes="192x192" href="{{ "/assets/img/" | absolute_url }}{{ site.touch-icon-192x192 }}">{% endif %}
 {% comment %} For iPhone 6 Plus with @3× display: {% endcomment %}
