@@ -95,7 +95,7 @@ franck:
   nom: "Guingne"
   grade: "MCF"
   email: "franck.guingne@univ-cotedazur.fr"
-  uri: "http://franck.guingne.free.fr/index.html"
+#  uri: "http://franck.guingne.free.fr/index.html"
   upinfo: true
 
 sandrine:
@@ -296,7 +296,13 @@ stephanejeannin:
   email: "stephane.jeannin@univ-cotedazur.fr"
   upinfo: true
 
-
+leo:
+  name: "L. Donati"
+  prenom: "Leo"
+  nom: "Donati"
+  grade: "PRAG"
+  email: "leo.donati@univ-cotedazur.fr"
+  upinfo: true
 
 
 

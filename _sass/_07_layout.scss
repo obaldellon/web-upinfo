@@ -109,7 +109,7 @@ body.video cite { color: #fff; }
 
 @mixin flush-c {
     display: block;
-    text-align: center; 
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
@@ -149,6 +149,16 @@ body.video cite { color: #fff; }
     #masthead-no-image-header {
         display: none;
     }
+
+    .grand-only {
+        display: none;
+    }
+
+    .petit-only {
+        display: block;
+    }
+
+
 }
 
 
@@ -186,6 +196,14 @@ body.video cite { color: #fff; }
         padding: 60px 0;
         height: 300px;
     }
+
+    .petit-only {
+        display: none;
+    }
+    .grand-only {
+        display: block;
+    }
+
 }
 
 
@@ -223,6 +241,19 @@ body.video cite { color: #fff; }
         height: 330px;
         padding: 60px 0;
     }
+
+    .petit-only {
+        display: none;
+    }
+
+    .grand-only {
+        display: block;
+    }
+
+    // .grand-only {
+    //     display: none;
+    // }
+
 }
 
 
@@ -260,6 +291,17 @@ body.video cite { color: #fff; }
         padding: 95px 0;
         height: 400px;
     }
+
+    // .grand-only { // GARDER
+    //     display: none;
+    // }
+    .petit-only {
+        display: none;
+    }
+    .grand-only {
+        display: block;
+    }
+
 }
 
 

@@ -6,9 +6,14 @@
 
 
     <footer id="footer-content" class="bg-grau">
+
       <div id="footer">
         <div class="row">
-          <div class="small-6 medium-3 large-3 columns">
+
+
+
+          <!--À propos -->
+          <div class="small-6 medium-3  large-3 columns ">
             <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
 
             <p class="shadow-black">
@@ -17,48 +22,75 @@
             </p>
           </div><!-- /.large-6.columns -->
 
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+
+          <!-- <div class="small-6 large-3 columns grand-only"> -->
+          <!--   <h5 class="shadow-black">{{ site.data.language.info_website }}</h5> -->
+          <!--   <p class="shadow-black"> -->
+          <!--     {{ site.description }} -->
+          <!--     <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.data.language.more }}</a> -->
+          <!--   </p> -->
+          <!-- </div><\!-- /.large-6.columns -\-> -->
+          <!--À propos -->
+
+
+
+
+          <!-- service -->
+          <!-- small-2 medium-2 large-2  -->
+
+          <div class="small-6 medium-3 large-2 large-offset-1  columns">
             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
               {% endif %}
             {% endfor %}
-            
+
             <ul class="no-bullet shadow-black">
             {% for service_item in site.data.services %}
-              {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+              {% if service_item.url contains 'http' %}
+                 {% assign domain = '' %}
+              {% else %}
+                 {% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+            {% endif %}
               <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
                 <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
               </li>
             {% endfor %}
             </ul>
-          </div><!-- /.large-4.columns -->
-
-<!--
-          <div class="small-6 medium-3 large-3 columns">
-            {% for network_item in site.data.network %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
-              {% endif %}
-            {% endfor %}
-            
-            <ul class="no-bullet shadow-black">
-            {% for network_item in site.data.network %}
-              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-              <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
-              </li>
-            {% endfor %}
-            </ul>
-          </div><!-- /.large-3.columns -->
+          </div>
+          <!-- service -->
 
 
-          <div class="medium-6 large-5 columns">
-            <a href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/foot.png" alt="{{ site.title }} – {{ site.slogan }}">
-            </a>
-          </div><!-- /.large-3.columns -->
+          <!--logo UCA -->
+          <div class="large-6 medium-6 small-15 columns logo-footer" >
+
+          <div class="medium-6 large-6 small-6 columns logo-footer" class="grand-onlyd">
+           <a  href="https://ds4h.univ-cotedazur.fr" >
+           <img class="grand-onlyd" src="{{site.baseurl}}/assets/img/foot-ds4h.png" alt="DS4H">
+           </a>
+          </div>
+
+          <div class="medium-6 large-6 small-6  columns logo-footer" class="grand-onlyd">
+           <a  href="https://univ-cotedazur.fr" >
+           <img class="grand-onlyd" src="{{ site.baseurl }}/assets/img/foot-uca.png" alt="UCA">
+           </a>
+          </div>
+
+        </div>
+         <!--FIN logo UCA -->
+
+
+
+
+
+
+
+
+
         </div><!-- /.row -->
+
+
+
 
       </div><!-- /#footer -->
 
