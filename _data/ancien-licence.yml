@@ -2,7 +2,6 @@ S1:
   title: "Semestre 1"
   courses:
     - cours-id: "L1-BI"
-      info: true
     - title: "Mathématiques : Fondements 1"
       syllabus: "SPUM11"
     - title: "Mathématiques : Approfondissements 1"
@@ -13,12 +12,10 @@ S1:
       uet: true
 
 S2:
-  title: Semestre 2
+  title: "Semestre 2"
   courses:
     - cours-id: "L1-PI"
-      info: true
     - cours-id: "L1-sys-1"
-      info: true
     - title: "Mathématiques: Fondements 2"
       syllabus: "SPUM21"
     - title: L'une des UE non disciplinaire suivantes
@@ -37,11 +34,8 @@ S3:
   title: Semestre 3
   courses:
     - cours-id: "L2-C"
-      info: true
     - cours-id: "L2-BD"
-      info: true
     - cours-id: "L2-OFI"
-      info: true
     - title: L'une des UE non disciplinaires suivantes
       options:
         - cours-id: "L2-R"
@@ -56,17 +50,12 @@ S4:
   title: Semestre 4
   courses:
     - cours-id: "L2-algo-1"
-      info: true
     - cours-id: "L2-reseaux"
-      info: true
     - cours-id: "L2-sys-2"
-      info: true
     - title: L'une des UE suivantes
       options:
         - cours-id: "L2-concepts-IA"
-          info: true
         - cours-id: "L2-techno-web"
-          info: true
     - title: UE Compétences transversales
       uet: true
 
@@ -74,17 +63,12 @@ S5:
   title: Semestre 5
   courses:
     - cours-id: "L3-AL"
-      info: true
     - cours-id: "L3-PF"
-      info: true
     - cours-id: "L3-POO"
-      info: true
     - title: L'une des UE suivantes
       options:
         - cours-id: "L3-archi"
-          info: true
         - cours-id: "L3-crypto"
-          info: true
     - title: UE Compétences transversales
       uet: true
 
@@ -92,21 +76,15 @@ S6:
   title: Semestre 6
   courses:
     - cours-id: "L3-algo-2"
-      info: true
     - cours-id: "L3-compil"
-      info: true
     - title: L'une des UE suivantes (choix d'option 1)
       options:
         - cours-id: "L3-PI"
-          info: true
         - cours-id: "L3-GC"
-          info: true
     - title: L'une des UE suivantes (choix d'option 2)
       options:
         - cours-id: "L3-simu"
-          info: true
         - cours-id: "L3-TERD"
-          info: true
     - title: UE Compétences transversales
       uet: true
 
@@ -143,7 +121,7 @@ Smi2:
       syllabus: "SPUM23"
     - title: "Probabilités et Introduction à la statistique"
       syllabus: "SPUM41"
-      annee: L2
+      remarque: "(cours de L2)"
     - title: UE Compétences transversales
       uet: true
 

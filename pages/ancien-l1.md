@@ -12,12 +12,16 @@ permalink: "/programme/l1/"
 
 ## Organisation de la L1 à Valrose ##
 
-### Qui contacter et pourquoi ? ###
-
 La première année de licence en science (campus de Valrose) est
 commune à beaucoup de disciplines et est sous la responsabilité du
 [portail sciences et
-technologies](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies).
+technologies](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies). Nous
+vous invitons à consulter cette page pour l’organisation générale du
+portail (calendrier, question administrative, etc.).
+
+
+### Qui contacter et pourquoi ? ###
+
 
 Si vous êtes étudiant et que vous avez des questions concernant les
 inscriptions administratives en L1, merci de voir directement avec le
@@ -38,6 +42,7 @@ les noms en cliquant sur le nom de l’UE.
 
 
 ### Choisir ses cours (UE) ###
+
 
 La première année étant commune aux différentes disciplines du portail
 SITE (mathématiques, informatiques, physique, chimie, électronique,
@@ -65,6 +70,10 @@ d’avis afin de choisir le parcours qui vous correspond au mieux. Ceci
 étant, pour éviter de trop complexifier la présentation, nous allons
 dorénavement présenter le parcours type à choisir pour ceux qui
 savent déjà vouloir continuer en informatique.
+
+Pour une présentation plus générale, il existe un cours moodle
+public : [S'orienter en Sciences et
+Technologies](https://opencourses.univ-cotedazur.fr/course/search.php?search=portail+sciences+et+Technologies)
 
 
 

@@ -19,6 +19,10 @@ aborde l'informatique avant tout comme une discipline
 scientifique fondée sur plusieurs piliers théoriques (algorithmique, programmation, logique, calculabilité, langages formels, etc) et sur des standards
 incontournables dans les principaux domaines professionalisants (bases de données, systèmes, réseaux, architecture des processeurs, web, génie logiciel, etc).
 
+Une [présentation de la licence informatique](https://univ-cotedazur.fr/formation/offre-de-formation/licence-informatique)
+peut-être trouvée sur [la page des formations proposées](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies/formations) dans le cadre du [portail Sciences et Technologies](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies/)
+
+
 ### Débouchés ##
 
 Cette formation généraliste permet une poursuite d'étude naturelle vers

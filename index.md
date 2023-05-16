@@ -6,6 +6,8 @@
 #
 layout: frontpage
 title: UP Info (UCA)
+title: upinfo@uca
+title: UP Info — UCA
 header:
   image_fullwidth: 'header-valrose-printemps-petite.jpg'
   caption: "Le campus Valrose au printemps."

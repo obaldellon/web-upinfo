@@ -2,7 +2,6 @@ S1:
   title: "Semestre 1"
   courses:
     - cours-id: "L1-BI-1"
-      info: true
     - title: "Mathématiques : Méthode Calculus Analyse 1"
       syllabus: "SPUM_TODO"
     - title: "Mathématiques : Méthode Algèbre linéaire 1"
@@ -16,9 +15,7 @@ S2:
   title: Semestre 2
   courses:
     - cours-id: "L1-BI-2"
-      info: true
     - cours-id: "L1-sys-1"
-      info: true
     - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
       syllabus: "SPUMTODO"
     - title: L'une des UE non disciplinaire suivantes
@@ -35,11 +32,8 @@ S3:
   title: Semestre 3
   courses:
     - cours-id: "L2-PF"
-      info: true
     - cours-id: "L2-OFI"
-      info: true
     - cours-id: "L2-BD"
-      info: true
     - title: L'une des UE non disciplinaires suivantes
       options:
         - cours-id: "l2-R"
@@ -54,17 +48,12 @@ S4:
   title: Semestre 4
   courses:
     - cours-id: "L2-C"
-      info: true
     - cours-id: "L2-algo-1"
-      info: true
     - cours-id: "L2-sys-2"
-      info: true
     - title: L'une des UE suivantes
       options:
         - cours-id: "L2-concepts-IA"
-          info: true
         - cours-id: "L2-techno-web"
-          info: true
     - title: UE Compétences transversales
       uet: true
 
@@ -72,17 +61,12 @@ S5:
   title: Semestre 5
   courses:
     - cours-id: "L3-POO"
-      info: true
     - cours-id: "L3-algo-2"
-      info: true
     - cours-id: "L3-AL"
-      info: true
     - title: L'une des UE suivantes
       options:
         - cours-id: "L3-archi"
-          info: true
         - cours-id: "L3-crypto"
-          info: true
     - title: UE Compétences transversales
       uet: true
 
@@ -90,21 +74,15 @@ S6:
   title: Semestre 6
   courses:
     - cours-id: "L3-reseaux"
-      info: true
     - cours-id: "L3-compil"
-      info: true
     - title: L'une des UE suivantes (choix d'option 1)
       options:
         - cours-id: "L3-PI"
-          info: true
         - cours-id: "L3-GC"
-          info: true
     - title: L'une des UE suivantes (choix d'option 2)
       options:
         - cours-id: "L3-simu"
-          info: true
         - cours-id: "L3-TERD"
-          info: true
     - title: UE Compétences transversales
       uet: true
 
@@ -115,10 +93,8 @@ Smi1:
   title: "Semestre 1"
   courses:
     - cours-id: "L1-BI-1"
-      info: true
     - cours-id: "L2-BD"
       annee: L2
-      info: true
     - title: "Mathématiques : Méthode Calculus Analyse 1"
       syllabus: "SPUM_TODO"
     - title: "Mathématiques : Méthode Algèbre linéaire 1"
@@ -136,9 +112,7 @@ Smi2:
   title: Semestre 2
   courses:
     - cours-id: "L1-BI-2"
-      info: true
     - cours-id: "L1-sys-1"
-      info: true
     - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
       syllabus: "SPUM_TODO"
     - title: "Mathématiques : Raisonner & Arithmétique"
@@ -152,12 +126,9 @@ Smi3:
   title: Semestre 3
   courses:
     - cours-id: "L2-PF"
-      info: true
     - cours-id: "L2-OFI"
-      info: true
     - cours-id: "L3-POO"
       annee: L3
-      info: true
     - title: "Mathématiques : Algèbre linéaire & Structures algébriques"
       syllabus: "SPUM_TODO"
     - title: "Mathématiques : Analyse 2"

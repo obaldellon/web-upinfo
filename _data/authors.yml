@@ -187,6 +187,7 @@ nicolas:
   nom: "Pasquier"
   grade: "MCF"
   email: "nicolas.pasquier@univ-cotedazur.fr"
+  uri: "https://www.i3s.unice.fr/~pasquier/web/"
   upinfo: true
 
 
@@ -209,6 +210,13 @@ jcregin:
   email: "jcregin@gmail.com"
   upinfo: true
 
+syska:
+  name: "M. Syska"
+  prenom: "Michel"
+  nom: "Syska"
+  grade: "MCF"
+  email: "michel.syska@univ-cotedazur.fr"
+  upinfo: true
 
 
 philipper:
@@ -329,7 +337,7 @@ pyamate:
   upinfo: false
 
 
-nicolas:
+nisse:
   name: "N. Nisse"
   prenom: "Nicolas"
   nom: "Nisse"
@@ -345,6 +353,25 @@ fabrice:
   grade: "PR"
   email: "fabrice.huet@univ-cotedazur.fr"
   upinfo: false
+
+
+
+tounsi:
+  name: "S. Tounsi"
+  prenom: "Stéphane"
+  nom: "Tounsi"
+  grade: "Contractuel"
+  email: "stephane.tounsi@univ-cotedazur.fr"
+  upinfo: true
+
+galli:
+  name: "G. Galli"
+  prenom: "Grégory"
+  nom: "Gally"
+  grade: "Contractuel"
+  email: "gregory.galli@univ-cotedazur.fr"
+  upinfo: true
+
 
 
 # laurent:

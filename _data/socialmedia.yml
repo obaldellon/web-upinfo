@@ -1,7 +1,7 @@
-- name: GitHub
-  url: https://github.com/arnaud-m/master-info/
-  class: icon-github
-  title: ""
+# - name: GitHub
+#   url: https://github.com/arnaud-m/master-info/
+#   class: icon-github
+#   title: ""
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
@@ -18,10 +18,10 @@
 #   class: icon-cloud
 #   title: ""
 
-- name: Facebook
-  url: https://www.facebook.com/ConcoursUCAnCode/
-  class: icon-facebook
-  title: ""
+# - name: Facebook
+#   url: https://www.facebook.com/ConcoursUCAnCode/
+#   class: icon-facebook
+#   title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

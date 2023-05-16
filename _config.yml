@@ -8,17 +8,26 @@
 #                                                 /____/
 #
 # Title of your website
-title: "UP Info (UCA)"
+#title: "UP Info (UCA)"
+title: "UP Info"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "L’informatique à l’Université Côté d’Azur"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "L’unité pédagogique informatique regroupe l’ensemble des enseignants d’informatique de  licence et de  master à l’UCA"
+old-description: "L’unité pédagogique informatique regroupe l’ensemble des enseignants d’informatique de  licence et de  master à l’UCA"
+description: "L’unité pédagogique informatique regroupe les enseignants d’informatique de la faculté des sciences (licence, master et parcours MIAGE) de l’Université Côté d’Azur."
 # Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former des informaticiens aptes à s'adapter à l'évolution rapide des technologies de l'information.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Based on <a href="http://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive</a> by <a href="http://phlow.de/" target="_blank">Phlow</a>.</p>'
+
+credits: '<p>Ce site est construit avec Jeckyll avec un thème
+graphique basé sur <a
+href="http://phlow.github.io/feeling-responsive/"
+target="_blank">Feeling Responsive</a> par <a href="http://phlow.de/"
+target="_blank">Phlow</a>.</p>'
+
 
 # Main author of the website
 # See > authors.yml
@@ -250,7 +259,7 @@ msapplication_tilecolor:                '#fabb00'
 
 socialmedia:
     twitter: ''
-    facebook: 'ConcoursUCAnCode'
+    # facebook: 'ConcoursUCAnCode'
 
 
 #        ____  _
