@@ -12,13 +12,13 @@ permalink: "/contact/"
 
 {% capture lien_contact %}{% link pages/presentation.md %}#qui-contacter-{% endcapture %}
 
-- [Franck Guingne](mailto:franck.guingne@univ-cotedazur.fr) : directeur de l’Unité Pédagogique Informatique.
-- [Laetitia Infantino](mailto:laetitia.infantino@univ-cotedazur.fr) : assistante administrative et pédagogique.
-- [Olivier Baldellon](mailto:franck.guingne@univ-cotedazur.fr) : responsable de ce site web.
+- {% respo patron %} : directeur de l’Unité Pédagogique Informatique.
+- {% respo secrétaire %} : assistante administrative et pédagogique.
+- {% respo web %} : responsable de ce site web.
 
 
-Pour toute question d’ordre pédgogique, merci de contacter
-directement les [responsables d’années]({{lien_contact}})
+Pour toute question d’ordre pédagogique, merci de contacter
+directement les [responsables d’années]({{lien_contact}}).
 
 
 {% comment %}

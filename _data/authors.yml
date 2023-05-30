@@ -372,6 +372,13 @@ galli:
   email: "gregory.galli@univ-cotedazur.fr"
   upinfo: true
 
+amaya:
+  name: "A. Nogales Gómez"
+  prenom: "Amaya"
+  nom: "Nogales Gómez"
+  grade: "MCF (contractuelle)"
+  email: "amaya.nogales-gomez@univ-cotedazur.fr"
+  upinfo: true
 
 
 # laurent:
@@ -391,13 +398,6 @@ tarek:
 
 
 
-amaya:
-  name: "A. Nogales Gómez"
-  prenom: "Amaya"
-  nom: "Nogales Gómez"
-  grade: "PhD"
-  email: "amaya.nogales-gomez@univ-cotedazur.fr"
-  upinfo: false
 
 
 yves:

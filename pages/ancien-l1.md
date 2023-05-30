@@ -12,7 +12,7 @@ permalink: "/programme/l1/"
 
 ## Organisation de la L1 à Valrose ##
 
-La première année de licence en science (campus de Valrose) est
+La première année de licence en sciences (campus Valrose) est
 commune à beaucoup de disciplines et est sous la responsabilité du
 [portail sciences et
 technologies](https://univ-cotedazur.fr/portails/portail-sciences-et-technologies). Nous
@@ -44,10 +44,11 @@ les noms en cliquant sur le nom de l’UE.
 ### Choisir ses cours (UE) ###
 
 
-La première année étant commune aux différentes disciplines du portail
-SITE (mathématiques, informatiques, physique, chimie, électronique,
-science de la terre, etc.), l’étudiant profite de cette année pour
-découvrir différente disciplines avant de choisir en L2 sa spécialité.
+Lors de la première année, l’étudiant est déjà inscrit dans un
+parcours disciplinaire mais peut découvrir différentes disciplines. Il
+aura ainsi la possibilité, s’il le souhaite, de se réorienter vers une
+autre discipline du portail SITE (mathématiques, informatiques,
+physique, chimie, électronique, science de la terre, etc.).
 
 
 Durant vos trois années de licence, vous devez choisir quatre UE
@@ -59,7 +60,7 @@ Pour le premier semestre, une UE de mathématique est obligatoire entre
 méthode 1%}. Pour les trois UE suivantes vous devez choisir trois
 disciplines distinctes (dont éventuellement une autre de math).
 
-Pour le seconde semestre, une UE de mathématique est obligatoire entre
+Pour le second semestre, une UE de mathématique est obligatoire entre
 {% syllabus SPUM21 : Math fondements 2 %} et {% syllabus SPUM22 : Math
 méthode 2 %}. Chaque discipline propose alors deux UE qu’il faudra
 suivre pour continuer dans la L2 correspondante. Les règles précises

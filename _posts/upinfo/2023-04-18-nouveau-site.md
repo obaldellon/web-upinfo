@@ -27,7 +27,7 @@ L’unité pédagogique informatique se dote enfin d’un nouveau site web à
 l’adresse
 [https://upinfo.univ-cotedazur.fr](https://upinfo.univ-cotedazur.fr).
 
-Merci à Marie Pelleau et Arnaud Malapert pour avoir créé et lontemps
-maintenue [le site du master
+Merci à Marie Pelleau et Arnaud Malapert pour avoir créé et longtemps
+maintenu [le site du master
 info](https://www.i3s.unice.fr/master-info/) qui sert de base pour le
 nouveau site web !

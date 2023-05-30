@@ -9,9 +9,6 @@ all:
 quick:
 	${JEKYLL} build --incremental ${JOPTS} ${CONF}
 
-maj:
-	vpn -c
-	docker exec -it -u upinfo:upinfo -w /home/upinfo vpn script/maj.sh
 serve:
 	${JEKYLL} serve ${JOPTS} ${DEVCONF}
 
