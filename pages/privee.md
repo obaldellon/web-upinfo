@@ -14,6 +14,14 @@ sitemap: false
 {% include alert alert="<b>Merci de ne pas mettre de lien public sur
 cette page ! Elle est destinée uniquement aux membres de l’UPInfo</b>"
 %}
+## Mettre à jour la page web
+
+Pour participer à la page web (modifier un syllabus, corriger une
+typo, etc.), le dépôt git se trouve à l’adresse suivante
+[web-upinfo](https://github.com/obaldellon/web-upinfo).
+
+Pour ceux qui ne sont pas fan de git, vous pouvez aussi envoyer un
+mail au responsable du site : {% respo web %}.
 
 ## Maquette 2024 ##
 {%comment%}
