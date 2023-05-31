@@ -1,4 +1,11 @@
 # coding: utf-8
+
+def anonymiser_email(email)
+  email = email.gsub(".","[POINT]")
+  email = email.gsub("@","[AROBASE]")
+  return email
+end
+
 module Upinfo
 
 
@@ -26,6 +33,7 @@ module Upinfo
       else
         url=@url
       end
+      url=anonymiser_email(url)
       "<a href=\"mailto:#{url}\">#{prof['prenom']} #{prof['nom']}</a>"
     end
   end
@@ -69,6 +77,7 @@ module Upinfo
       if @url!=false
         email=@url
       end
+      email = anonymiser_email(email)
       "<a href=\"mailto:#{email}\">#{prenom} #{nom}</a>"
     end
   end
@@ -80,7 +89,9 @@ module Upinfo
     end
 
     def mailto(prof)
-      "<a href=\"mailto:#{prof['email']}\">#{prof['prenom']} #{prof['nom']}</a>"
+      email = prof['email']
+      email = anonymiser_email(email)
+      "<a href=\"mailto:#{email}\">#{prof['prenom']} #{prof['nom']}</a>"
     end
   end
 
