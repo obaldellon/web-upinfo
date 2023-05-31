@@ -63,7 +63,7 @@ Nice](https://polytech.univ-cotedazur.fr/).
 <br/>
 
 - {% respo patron %} : directeur de l’Unité Pédagogique Informatique.
-- {% respo secrétaire %} : assistante administrative et pédagogique.
+- {% respo secrétaire %} : gestionnaire administrative et pédagogique.
 - {% respo web %} : responsable de ce site web.
 
 ### Licence ###

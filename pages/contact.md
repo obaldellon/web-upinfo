@@ -13,7 +13,7 @@ permalink: "/contact/"
 {% capture lien_contact %}{% link pages/presentation.md %}#qui-contacter-{% endcapture %}
 
 - {% respo patron %} : directeur de l’Unité Pédagogique Informatique.
-- {% respo secrétaire %} : assistante administrative et pédagogique.
+- {% respo secrétaire %} : gestionnaire administrative et pédagogique.
 - {% respo web %} : responsable de ce site web.
 
 
