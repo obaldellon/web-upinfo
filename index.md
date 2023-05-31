@@ -51,9 +51,9 @@ homepage: true
 {% capture lien_contact %}{% link pages/presentation.md
 %}#qui-contacter-{% endcapture %}
 
-Bienvenue sur le site de l’[**Unité Pédagogique
-Informatique**]({%link pages/presentation.md %}) qui regroupe les enseignants
-d’informatique de la licence et du master de l’Université Côté
+Bienvenue sur le site de l’[**Unité Pédagogique Informatique**]({%link
+pages/presentation.md %}) qui regroupe les enseignants d’informatique
+de la licence, du master et du parcours MIAGE de l’Université Côté
 d’Azur. Ce site présente les différents parcours proposés ainsi que la
 présentation de chaque UE. En cas de question, n’hésitez à vous
 adresser aux principaux responsables que vous trouverez sur la page de
