@@ -59,37 +59,32 @@ Ce cours abordera les thématiques suivantes :
 
 ### Supports de cours ###
 
-- [Cours 1]({% include link-asset asset="cours1-notes.pdf" %})
+- [Cours 1]({% include link-asset-remote asset="cours1-notes.pdf" %})
+- [Cours 2]({% include link-asset-remote asset="cours2-notes.pdf" %})
+- [Cours 3]({% include link-asset-remote asset="cours3-notes.pdf" %})
+- [Cours 4]({% include link-asset-remote asset="cours4-notes.pdf" %})
+- [Cours 5]({% include link-asset-remote asset="cours5-notes.pdf" %})
 
-<!-- - [Cours 2]({% include link-asset asset="cours2-notes.pdf" %})
-- [Cours 3]({% include link-asset asset="cours3-notes.pdf" %})
-- [Cours 4]({% include link-asset asset="cours4-notes.pdf" %})
-- [Cours 5]({% include link-asset asset="cours5-notes.pdf" %})
-- [Cours 6]({% include link-asset asset="cours6-notes.pdf" %})
--->
 
-- [TP 1]({% include link-asset asset="TP1.pdf" %})
-
-<!-- - [TP 2]({% include link-asset asset="TP2.pdf" %})
-- [TP 3]({% include link-asset asset="TP3.pdf" %})
-- [TP 4]({% include link-asset asset="TP4.pdf" %})
-- [TP 5]({% include link-asset asset="TP5.pdf" %})
-
+- [TP 1]({% include link-asset-remote asset="TP1.pdf" %})
+- [TP 2]({% include link-asset-remote asset="TP2.pdf" %})
+- [TP 3]({% include link-asset-remote asset="TP3.pdf" %})
+- [TP 4]({% include link-asset-remote asset="TP4.pdf" %})
+- [TP 5]({% include link-asset-remote asset="TP5.pdf" %})
+- [TP 6]({% include link-asset-remote asset="TP6.pdf" %})
+<!--
 Certaines évaluations et le carnet de notes seront sur [moodle](https://lms.univ-cotedazur.fr/2022/course/view.php?id=4742) (disponible en auto-inscription). -->
 
-- [wta2021.db]({% include link-asset asset="wta2021.db" %})
-
-<!--
-- [prenoms.zip]({% include link-asset asset="prenoms.zip" %})
-- [commune.db]({% include link-asset asset="commune.db" %})
-- [projets.sql]({% include link-asset asset="projets.sql" %})
-- [biblio.db]({% include link-asset asset="biblio.db" %})
-- [lego.zip]({% include link-asset asset="lego.zip" %})
--->
+- [wta2021.db]({% include link-asset-remote asset="wta_2021.db" %})
+- [prenoms.zip]({% include link-asset-remote asset="prenoms.zip" %})
+- [commune.db]({% include link-asset-remote asset="commune.db" %})
+- [projets.sql]({% include link-asset-remote asset="projets.sql" %})
+- [biblio.db]({% include link-asset-remote asset="biblio.db" %})
+- [lego.zip]({% include link-asset-remote asset="lego.zip" %})
 
 ### Modalités de contrôle des connaissances ###
 
-- Pas d'évaluation cette année 
+- Pas d'évaluation cette année
 
 <!--  Examen écrit
 -   Projet individuel -->
