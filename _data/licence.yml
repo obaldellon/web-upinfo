@@ -23,6 +23,8 @@ S2:
         - title: "Mathématiques : Raisonner & Arithmétique"
           syllabus: "SPUMTODO"
           remarque: "(conseillé)"
+        - title: "Électronique : Communication sans fil du terrestre au spatial"
+          syllabus: "SPUE21"
         - title: "Électronique : Électronique analogique"
           syllabus: "SPUE20"
     - title: UE Compétences transversales
