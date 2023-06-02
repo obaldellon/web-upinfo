@@ -11,7 +11,7 @@ permalink: "/privée/"
 sitemap: false
 ---
 
-{% include alert alert="<b>Merci de ne pas mettre de lien public sur
+{% include alert alert="<b>Merci de ne pas mettre de lien public vers
 cette page ! Elle est destinée uniquement aux membres de l’UPInfo</b>"
 %}
 ## Mettre à jour la page web
