@@ -67,6 +67,7 @@ Avantages :
 
 #### Maquette actuelle ####
 
+- [Maquette avec horaire]({% include link-asset asset="maquette/maquette-2021.pdf" %})
 - [Vue d’ensemble]({% link pages/ancien-licence-parcours.md %})
 - [L1]({% link pages/ancien-l1.md %})
 - [L2]({% link pages/ancien-l2.md %})
@@ -76,6 +77,7 @@ Avantages :
 
 #### Projet pour la maquette futur ####
 
+- [Maquette avec horaire]({% include link-asset asset="maquette/maquette-2024.pdf" %})
 - [Vue d’ensemble]({% link pages/licence-parcours.md %})
 - [L1]({% link pages/l1.md %})
 - [L2]({% link pages/l2.md %})
