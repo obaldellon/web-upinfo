@@ -71,10 +71,9 @@ Nice](https://polytech.univ-cotedazur.fr/).
 - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
 - {% respo secrétaire %} : assistante administrative et pédagogique
 - {% respo licence licence-info.responsable@univ-cotedazur.fr %} : responsable licence.
-- {% respo L1      licence-info.responsable@univ-cotedazur.fr %} : coordinateur L1.
-- {% respo L2-S3   licence-info.responsable@univ-cotedazur.fr %} : coordinateur L2 (S3).
-- {% respo L2-S4   licence-info.responsable@univ-cotedazur.fr %} : coordinatrice L2 (S4).
-- {% respo L3      licence-info.responsable@univ-cotedazur.fr %} : coordinateur L3.
+- {% respo L1 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L1.
+- {% respo L2 licence-info.responsable@univ-cotedazur.fr %} : coordinatrice L2.
+- {% respo L3 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L3.
 - {% respo mi-info %} : coordinatrice informatique « double licence math/info».
 - {% respo mi-math %} : coordinateur mathématiques « double licence math/info».
 

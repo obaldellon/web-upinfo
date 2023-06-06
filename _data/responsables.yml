@@ -20,11 +20,8 @@ portail-orientation:
 L1:
   id: olivier
 
-L2-S3:
-  id: etienne
-
-L2-S4:
-  id: elisabetta
+L2:
+  id: marie
 
 L3:
   id: christophe
