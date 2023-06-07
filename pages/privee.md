@@ -82,6 +82,7 @@ Avantages :
 - [L1]({% link pages/l1.md %})
 - [L2]({% link pages/l2.md %})
 - [L3]({% link pages/l3.md %})
+- [Maquette pour les maths/info]({% include link-asset asset="maquette/maquetteMI-2024.pdf" %})
 - [Parcours math/info]({% link pages/licence-math-info.md %})
 
 #### Projet des autres départements  ####
