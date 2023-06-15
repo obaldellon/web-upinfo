@@ -28,9 +28,9 @@ incontournables dans les principaux domaines professionalisants (bases de donné
 
 Cette formation généraliste permet une poursuite d'étude naturelle vers
 
-- le [master informatique](http://i3s.unice.fr/master-info)  de Nice-Sophia Antipolis
-- la [MIAGE](https://www.miage-nice.fr), admission possible en MIAGE à la fin du L2 ou à la fin du L3
-- le [master international EIT Digital Data Science](https://masterschool.eitdigital.eu/programmes/data-science)
+- le [master informatique]({%link pages/master.md %})  de Nice-Sophia Antipolis
+- la [MIAGE](https://univ-cotedazur.fr/miage), admission possible en MIAGE à la fin du L2 ou à la fin du L3
+- le [master international EIT Digital Data Science](https://polytech.univ-cotedazur.fr/formations/masters)
 
 La licence informatique ouvre aussi naturellement sur un emploi dans
 les nombreuses sociétés azuréenes.
