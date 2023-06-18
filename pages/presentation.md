@@ -91,5 +91,6 @@ Nice](https://polytech.univ-cotedazur.fr/).
 
 <br/>
 
-- [Mathématiques](http://math.unice.fr/)
+- [Mathématiques](https://math.univ-cotedazur.fr/)
 - [Électronique](http://www.unice.fr/elec/)
+- [Physique](http://physique.unice.fr/)
