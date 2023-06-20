@@ -18,10 +18,12 @@ widget1:
   image: '/illustration-licence.png'
   text: "Une formation de trois ans, après le baccalauréat, sur le magnifique campus de Valrose (Nice),  pour se former en informatique. "
 widget2:
-  title: "Parcours math/info"
+  title: "Licence Math/Info"
   url: '/programme/math-info/'
   image: '/illustration-mi.png'
-  text: "Une formation d’excellence et sélective qui permet de valider deux licences en parallèle : en informatique et en mathématiques."
+  text: "La licence double diplôme math/info ; une formation
+  d’excellence et sélective qui permet de valider deux licences en
+  parallèle : en informatique et en mathématiques."
 
 widget3:
   title: "Master Informatique"
