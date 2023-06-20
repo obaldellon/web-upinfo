@@ -26,7 +26,7 @@ olivier:
   prenom: "Olivier"
   nom: "Baldellon"
   grade: "PRAG"
-  uri: "http://deptinfo.unice.fr/~obaldellon/"
+  uri: "https://upinfo.univ-cotedazur.fr/~obaldellon/"
   email: "olivier.baldellon@univ-cotedazur.fr"
   upinfo: true
 
