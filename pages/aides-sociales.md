@@ -3,7 +3,7 @@ layout: page
 title: "Santé, aides sociales"
 meta-title : "Action sociale"
 subheadline: "Vie étudiante"
-logo: ""
+logo: "UCA-Logo-Blanc.png"
 header:
     image_fullwidth: "nice-panorama.jpg"
     caption: '<a href="https://commons.wikimedia.org/wiki/File:Nizza-C%C3%B4te_d%27Azur_(cropped).jpg">© Tobi 87</a> (CC BY-SA 3.0)'
