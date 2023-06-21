@@ -52,10 +52,16 @@ Nice](https://polytech.univ-cotedazur.fr/).
 ### Où pouvez-vous nous trouver ? ###
 
 Le département a momentanément déménagé pendant l’été. Vous nous
-trouverez actuellement dans le batiment à côté du petit Valrose.
+trouverez actuellement dans le bâtiment à côté du petit Valrose.
 
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/up-info-uca_931349?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/up-info-uca_931349">Voir en plein écran</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/up-info-uca_931349?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/up-info-uca_931349">Voir en plein écran</a></p>
+
+
+Les cours du parcours MIAGE et du niveau Master sont donnés sur le
+campus SophiaTech sur le site des Lucioles.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/up-info-sophatech_931416?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/up-info-sophatech_931416">Voir en plein écran</a></p>
 
 
 ## Qui contacter ? ##
