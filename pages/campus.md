@@ -2,25 +2,43 @@
 layout: page
 show_meta: false
 title: "Campus"
-subheadline: "Faculté des sciences"
-logo: "logo_blanc.png"
+subheadline: "Vie étudiante"
+logo: "UCA-Logo-Blanc.png"
 permalink: "/campus/"
 #
 # Styling
 #
 header:
-  image_fullwidth: "header-lucioles1.jpg"
-  caption: "Le bâtiment des lucioles à Sophia-Antipolis."
+    image_fullwidth: "nice-panorama.jpg"
+    caption: '<a href="https://commons.wikimedia.org/wiki/File:Nizza-C%C3%B4te_d%27Azur_(cropped).jpg">© Tobi 87</a> (CC BY-SA 3.0)'
 ---
 
 
+
+## De Valrose à SophiaTech
 
 Les enseignements en Informatique sont dispensés sur deux campus :
 - Au Campus Valrose à Nice en Licence Informatique ;
 - Au Campus SophiaTech à Sophia Antipolis en Master Informatique, à proximité du laboratoire de recherche I3S, du centre de recherche INRIA, et des entreprises de la technopole (voir plan ci-dessous).
 
-Vous pouvez trouver une description des campus sur le [site DS4H](https://ds4h.univ-cotedazur.fr/formation/vie-etudiante-1) ou en faire une visite virtuelle sur le [site UCA](https://univ-cotedazur.fr/visite-des-campus).
+Attention à ne pas se tromper de ville lorsque vous réservez une
+chambre d’étudiant ! Vous pouvez trouver une description des campus
+sur le [site DS4H](https://ds4h.univ-cotedazur.fr/formation/vie-etudiante-1) ou en
+faire une visite virtuelle sur le [site UCA](https://univ-cotedazur.fr/visite-des-campus).
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2888.485074333557!2d7.0619729154244535!3d43.617261979122524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc2b0bc624db53%3A0x7b81619829d42d15!2sUniversit%C3%A9+Nice+Sophia+Antipolis!5e0!3m2!1sfr!2sfr!4v1536568332506" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+## Licence
+
+Les cours de licence ont lieux sur le Campus Valrose au Nord de Nice. La majorité des cours d’informatique ont lieux sur deux bâtiments, le Petit Valrose pour les TP situé en dehors du Parc Valrose et le bâtiment M située en plein cœur de ce dernier.
+
+
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/up-info-campus-valrose_931694?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/up-info-campus-valrose_931694">Voir en plein écran</a></p>
+
+## Master et parcours MIAGE
+
+Les cours du parcours MIAGE et du niveau Master sont donnés sur le
+campus SophiaTech sur le site des Lucioles.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/up-info-sophatech_931416?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/up-info-sophatech_931416">Voir en plein écran</a></p>
