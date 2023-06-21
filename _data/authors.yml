@@ -26,6 +26,7 @@ olivier:
   prenom: "Olivier"
   nom: "Baldellon"
   grade: "PRAG"
+  siterole: "webmaster, developer, copywriter, designer" # À quoi ça sert ?
   uri: "https://upinfo.univ-cotedazur.fr/~obaldellon/"
   email: "olivier.baldellon@univ-cotedazur.fr"
   upinfo: true
@@ -131,7 +132,6 @@ arnaud:
   prenom: "Arnaud"
   nom: "Malapert"
   grade: "MCF"
-  siterole: "webmaster, developer, copywriter, designer"
   uri: "http://www.i3s.unice.fr/~malapert/"
   email: "arnaud.malapert@univ-cotedazur.fr"
   upinfo: true
@@ -144,6 +144,7 @@ frederic:
   nom: "Mallet"
   grade: "PR"
   email: "frederic.mallet@univ-cotedazur.fr"
+  uri: "https://www.i3s.unice.fr/~fmallet/"
   upinfo: true
 
 
@@ -153,6 +154,7 @@ bruno:
   nom: "Martin"
   grade: "PR"
   email: "bruno.martin@univ-cotedazur.fr"
+  uri: "https://upinfo.univ-cotedazur.fr/~bmartin/"
   upinfo: true
 
 gilles:
