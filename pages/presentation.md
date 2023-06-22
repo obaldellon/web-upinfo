@@ -19,9 +19,9 @@ d’informatique de la faculté des sciences (licence, master et parcours
 MIAGE) de l’Université Côté d’Azur.
 
 En pratique, les enseignements sont répartis sur deux campus. Les
-cours de licence sont donnés sur le campus de Valrose, au cœur de Nice
-; les cours de master et de la MIAGE ont lieu sur le campus de Sophia
-Antipolis dans le bâtiment « Les lucioles ».
+cours de licence sont donnés sur le campus Valrose, au cœur de Nice ;
+les cours de master et de la MIAGE ont lieu dans le bâtiment « Les
+Lucioles » sur le campus SophiaTech de la technopole Sophia Antipolis.
 
 Des informations complémentaires propres à la MIAGE peuvent être
 trouvées à l’adresse :
@@ -36,7 +36,7 @@ L’UP info fait partie intégrante de l’EUR
 disciplinaire informatique](https://ddi.univ-cotedazur.fr/). Les
 enseignants-chercheurs de l’UP Info sont tous membres du laboratoire
 d’informatique l’[I3S](https://www.i3s.unice.fr) situé sur le campus
-de Sophia Antipolis.
+SophiaTech.
 
 Au sein de l’UCA, se trouve un autre laboratoire d’informatique, celui
 de
