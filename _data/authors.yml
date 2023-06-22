@@ -20,6 +20,13 @@ ramon:
   email: "ramon.aparicio-pardo@univ-cotedazur.fr"
   upinfo: true
 
+christopher:
+  name: "C. Leturc"
+  prenom: "Christopher"
+  nom : "Leturc"
+  grade: "MCF"
+  email: "christopher.leturc@univ-cotedazur.fr"
+  upinfo: true
 
 olivier:
   name: "O. Baldellon"
