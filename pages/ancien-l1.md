@@ -40,8 +40,19 @@ Pour des questions concernant les UE d’informatique de première année
 vous pouvez directement contacter les responsables dont vous trouverez
 les noms en cliquant sur le nom de l’UE.
 
+{% comment %}
 
 ### Choisir ses cours (UE) ###
+
+Lors de son inscription en première année, l’étudiant choisit une
+discipline (informatique, mathématique, électronique, etc.) qui lui
+recommande alors un parcours.
+
+
+Les étudiants ayant choisit une autre discipline qu’informatique,
+auront quand même la possibilité de suivre une UE d’informatique au
+premier semestre. S’il se découvre un intérêt pour l’informatique, il
+aura la possibilé de changer de parcours et de passer en info
 
 
 Lors de la première année, l’étudiant est déjà inscrit dans un
@@ -78,29 +89,24 @@ Technologies](https://opencourses.univ-cotedazur.fr/course/search.php?search=por
 
 
 
-
-## Parcours conseillé ##
-
-
-### Vous souhaitez faire une licence informatique ###
+{% endcomment %}
 
 
-L’UE destiné aux étudiants se destinant à une licence informatique
-est : {% UE L1-BI %}.  L’autre UE, {% UE L1-IIW %}, est une UE
-d’ouverture à l’informatique pour les autres sciences.
+## L’informatique en L1 ##
 
-En mathématique nous conseillons {% syllabus SPUM11 : Math
-fondements 1 %} et {% syllabus SPUM21 : Math fondements 2 %} dont les
-contenus sont plus poussés que ceux de {% syllabus SPUM12 : Math
-méthode 1%} et {% syllabus SPUM12 : Math méthode 1%}. On conseille
-aussi fortement l’autre cours de mathématiques : {% syllabus SPUM13 :
-Math approfondissement 1 %}
+Chaque année de licence, les étudiants doivent suivre quatre UE
+scientifiques ainsi qu’une UE commune à tous les étudiants, les
+compétences transversales (anglais, etc.).
 
 
-Le cours d’électronique du premier semestre n’est pas obligatoire,
-mais fortement recommandé. Avec ce parcours type, vous avez alors le
-choix de poursuivre en mathématique, informatique ou en
-électronique. En résumé :
+### Vous êtes inscrit dans le parcours informatique ###
+
+
+Au premier semestre, vous ne suivez qu’une UE d’informatique. Cela
+vous permet de changer de parcours si vous changez d’avis en cours de
+semestre. Typiquement, un premier semestre dans le parcours
+informatique vous permet de faire un second semestre en électronique
+ou en mathématiques.
 
 {% include ancien-cours-parcours entry="S1" %}
 
@@ -108,12 +114,13 @@ choix de poursuivre en mathématique, informatique ou en
 
 
 
-Pour le second semestre, il vous faut absolument prendre les deux UE
-d’informatique. En plus du cours {% syllabus SPUM21 : Math
-fondements 2 %}, on conseille aussi le cours {% syllabus SPUM23 : Math
-approfondissement 2 %}. Vous pouvez cependant choisir à la place de ce
-dernier un autre cours de mathématique ou un cours d’életronique. Cela
-reste des bons choix.
+Lors du second semestre, vous commencez à vous spécialiser avec deux
+UE d’informatique. À cela s’ajoute une UE de mathématiques
+obligatoire : {% syllabus SPUM21 : Math fondements 2 %}.
+
+Pour la quatrième UE du semestre, vous avez le choix entre quatre
+options, deux de mathématique, deux d’électronique.
+
 
 
 {% include ancien-cours-parcours entry="S2" %}
@@ -124,7 +131,11 @@ Ce n’est pas grave, ça arrive à des gens biens. Dans ce cas, on vous
 conseille de choisir au premier semestre le cours d’{% UE L1-IIW
 %}. C’est un cours d’introduction à la programmation destiné à ceux
 qui ne veulent pas se spécialiser dans l’informatique mais qui veulent
-malgré tout apprendre à programmer.
+malgré tout apprendre à programmer. Si vous hésitez sérieusement à
+continuer en informatique, on vous conseille cependant et si possible
+de suivre l’UE destiné aux informaticiens : {% UE L1-BI %}
+
+
 
 Pour le second semestre, vous pouvez choisir une UE d’informatique. On
 vous conseille plutôt le cours de {% UE L1-PI %}. Ce dernier va plus

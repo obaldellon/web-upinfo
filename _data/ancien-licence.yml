@@ -27,6 +27,8 @@ S2:
           syllabus: "SPUM22"
         - title: "Électronique : Électronique analogique"
           syllabus: "SPUE20"
+        - title: "Électronique : Communication sans fil"
+          syllabus: "SPUE21"
     - title: UE Compétences transversales
       uet: true
 
