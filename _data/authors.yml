@@ -69,6 +69,7 @@ elisabetta:
   prenom: "Elisabetta"
   nom: "De Maria"
   grade: "MCF"
+  uri: "https://www.i3s.unice.fr/~edemaria/index.html"
   email: "elisabetta.de-maria@univ-cotedazur.fr"
   upinfo: true
 
@@ -105,7 +106,7 @@ sandrine:
   nom: "Julia"
   grade: "MCF"
   email: "sandrine.julia@univ-cotedazur.fr"
-  uri: "http://deptinfo.unice.fr/~julia"
+  uri: "https://upinfo.univ-cotedazur.fr/~julia"
   upinfo: true
 
 philippel:
@@ -123,7 +124,7 @@ etienne:
   nom: "Lozes"
   grade: "PR"
   email: "etienne.lozes@univ-cotedazur.fr"
-  uri: "http://www.i3s.unice.fr/~elozes"
+  uri: "https://www.i3s.unice.fr/~elozes"
   upinfo: true
 
 
@@ -132,7 +133,7 @@ arnaud:
   prenom: "Arnaud"
   nom: "Malapert"
   grade: "MCF"
-  uri: "http://www.i3s.unice.fr/~malapert/"
+  uri: "https://www.i3s.unice.fr/~malapert/"
   email: "arnaud.malapert@univ-cotedazur.fr"
   upinfo: true
 
@@ -199,7 +200,7 @@ marie:
   nom: "Pelleau"
   grade: "MCF"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: "http://www.i3s.unice.fr/~mpelleau/"
+  uri: "https://www.i3s.unice.fr/~mpelleau/"
   email: "marie.pelleau@univ-cotedazur.fr"
   upinfo: true
 
