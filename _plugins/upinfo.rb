@@ -56,7 +56,7 @@ module Upinfo
       liste = context['site.data.responsables']
       respo = liste[@text]
       if respo == nil
-        raise "indentifiant respo inconnue « #{@text} »"
+        raise "indentifiant respo inconnu « #{@text} »"
       end
       if respo["id"] == nil
         prenom= respo["prénom"]
@@ -67,7 +67,7 @@ module Upinfo
         liste  = context['site.data.authors']
         prof = liste[id]
         if prof == nil
-          raise "identifiant prof inconnue « #{@text} »"
+          raise "identifiant prof inconnu « #{@text} »"
         end
         prenom= prof["prenom"]
         nom =   prof["nom"]
