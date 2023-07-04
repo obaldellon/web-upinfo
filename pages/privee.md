@@ -23,47 +23,11 @@ typo, etc.), le dépôt git se trouve à l’adresse suivante
 Pour ceux qui ne sont pas fan de git, vous pouvez aussi envoyer un
 mail au responsable du site : {% respo web %}.
 
+## Logos et communication
+
+Vous trouverez sur [cette page]({% link pages/communication.md %}) les différents logos
+
 ## Maquette 2024 ##
-{%comment%}
-{% render_time test %}
-{{ site.data.authors["olivier"]  }}
-{%endcomment%}
-#### Changements en L1 (PI ←→ BI) ####
-
-Permutation PI et BI (plus de détails [ici]({% include link-asset asset="maquette/maquette-l1.pdf" %}))
-+ avant :
-  - S1 : BI (Cinzia) et IIW (Julien)
-  - S2 : PI (Olivier) et Syst1 (Franck)
-+ après :
-  - S1 : BI-1 (Olivier) et PI (Julien)
-  - S2 : BI-2 (Cinzia + TP python) et Syst1 (Franck)
-
-#### Permutation circulaire : PF → C → Réseau → Algo 2 → PF ####
-
-+ Avant
-    - S3: Structure de donnée et Programmation C
-    - S4: Réseau
-    - S5: Programmation fonctionnelle
-    - S6: Algo 2
-+ Après
-    - S3: Programmation fonctionnelle
-    - S4: Programmation C
-    - S5: Algo 2
-    - S6: Réseau
-+ Structure de donnée fusionne avec OFI (S3) et ou algo 1 (S4)
-
-Avantages :
-  + Un cours à part pour le C (jugé nécessaire par beaucoup)
-  + Compatible avec le parcours math/info
-  + en L1, S3, S4, S5 : un cours de prog +  un cours info théorique
-    - L1: BI-1 (python) et BI-2 (théorique)
-    - S3: Programmation fonctionnelle et Outils formels pour l’informatique
-    - S4: Programmation C et Algo 1
-    - S5: Programmation objet et Algo 2
-
-
-
-À voir ?
 
 #### Maquette actuelle ####
 
@@ -72,6 +36,7 @@ Avantages :
 - [L1]({% link pages/ancien-l1.md %})
 - [L2]({% link pages/ancien-l2.md %})
 - [L3]({% link pages/ancien-l3.md %})
+- [Maquette pour les maths/info]({% include link-asset asset="maquette/maquetteMI-2021.pdf" %})
 - [Parcours math/info]({% link pages/ancien-licence-math-info.md %})
 
 
