@@ -15,7 +15,7 @@ permalink: "/programme/parcours/"
 
 
 
-## Parcours conseillé ##
+## Parcours de référence ##
 
 {% include ancien-cours-parcours entry="S1" %}
 

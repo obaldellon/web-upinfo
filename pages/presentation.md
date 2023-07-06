@@ -92,6 +92,7 @@ campus SophiaTech sur le site des Lucioles.
 - [ds4h-sco@univ-cotedazur.fr](mailto:ds4h-sco@univ-cotedazur.fr) : scolarité de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
 - {% respo secrétaire-ds4h %} : assistante administrative et pédagogique de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
 - [master-info@i3s.unice.fr](mailto:master-info@i3s.unice.fr)
+- {% respo master master-info@i3s.unice.fr %} : responsable Master.
 - {% respo M1 master-info@i3s.unice.fr %} : coordinatrice M1.
 - {% respo M2 master-info@i3s.unice.fr %} : coordinateur M2.
 

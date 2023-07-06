@@ -5,7 +5,7 @@ layout: page-fullwidth
 #
 subheadline: "Licence et Master Informatique"
 title: "Charte Graphique"
-teaser: "Retrouvez ici les logos pour vos présentations, rapports de projet et stage." 
+teaser: "Retrouvez ici les logos pour vos présentations, rapports de projet et stage."
 categories:
   - divers
 #
@@ -75,7 +75,7 @@ Il existe 2 logos, celui pour la licence et celui pour le master. Pour chacun de
 
 #### Logos verticaux
 
-![Logo haut master]({% include link folder="assets/img/logos" page="logo_haut.png" %}){:style="width:30%"}
+![Logo haut master]({% include link folder="assets/img/logos" page="logo_haut-m.png" %}){:style="width:30%"}
 ![Logo haut master blanc]({% include link folder="assets/img/logos" page="logo_haut_blanc.png" %}){:style="width:30%; background-color:#7aabbd"}
 
 ![Logo master uca]({% include link folder="assets/img/logos" page="logo_haut_uca.png" %}){:style="width:45%"}
