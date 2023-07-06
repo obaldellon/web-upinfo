@@ -235,7 +235,7 @@ philipper:
   nom: "Renevier"
   grade: "MCF"
   email: "philippe.renevier@univ-cotedazur.fr"
-  upinfo: true
+  upinfo: false
 
 
 nathalie:
