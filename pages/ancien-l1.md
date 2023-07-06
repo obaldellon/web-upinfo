@@ -159,6 +159,10 @@ l’utilisation avancé d’un ordinateur sous Unix.
 {% include ancien-cours-description-semestre annee='L1-info' semestre='S2' %}
 
 
+## Règles pour valider l’année
+
+{% include alert warning="<b>À Compléter</b>" %}
+
 {% comment %}
 
 ## Organisation ##

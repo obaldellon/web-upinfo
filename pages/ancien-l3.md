@@ -33,6 +33,10 @@ permalink: "/programme/l3/"
 
 ## Conditions d'inscription et de validation ##
 
+{% include alert warning="<b>À Compléter</b>" %}
+
+{% comment %}
+
 
 ### Admission en L3 informatique ###
 
@@ -58,3 +62,5 @@ La note d'UE de fin d'année est le max de la note d'UE de session 1 et de celle
 La moyenne annuelle est la moyenne des notes de fin d'année de toutes les UEs de l'année, en pondérant chaque UE par son nombre de crédits ECTS (6 pour les cours d'informatique, 2 pour l'anglais et les compétences transverses).
 
 Si la moyenne annuelle est > 10, le diplôme est acquis et toutes les UEs sont validées. Les UE avec une note < 10 sont alors acquises par compensation.
+
+{% endcomment %}

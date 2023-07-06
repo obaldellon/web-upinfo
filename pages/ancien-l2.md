@@ -31,7 +31,15 @@ permalink: "/programme/l2/"
 
 
 
+
+
+
+
 ## Conditions d'inscription et de validation ##
+
+{% include alert warning="<b>À Compléter</b>" %}
+
+{% comment %}
 
 Les règles indiquées ci-dessous sont susceptibles d'évoluer légèrement lors de leur modélisation par les services administratifs.
 
@@ -59,3 +67,5 @@ Pour valider l'année L2 du parcours informatique et avoir le droit de s'inscrir
 Des étudiants proches de ces objectifs peuvent occasionnellement être admis en L3 info par décision du jury d'admission.
 
 Des règles de compensation s'appliquent aussi pour la validation du DEUG; elles sont communiquées par le responsable du Portail ST.
+
+{% endcomment %}

@@ -27,7 +27,7 @@ peut-être trouvée sur [la page des formations proposées](https://univ-cotedaz
 
 Cette formation généraliste permet une poursuite d'étude naturelle vers
 
-- le [master informatique]({%link pages/master.md %})  de Nice-Sophia Antipolis
+- le [master informatique]({%link pages/master.md %}) sur le campus SophiaTech
 - la [MIAGE](https://univ-cotedazur.fr/miage), admission possible en MIAGE à la fin du L2 ou à la fin du L3
 - le [master international EIT Digital Data Science](https://polytech.univ-cotedazur.fr/formations/masters)
 
@@ -50,32 +50,36 @@ Une présentation des métiers de l’informatique et de la mention informatique
 Les transparents correspondants sont disponibles [ici]({% include link-asset asset="metiers-info-2022.pdf" %}).
 
 
-### Compétences ###
-
-Les compétences développées sont les suivantes :
-
-- Analyser des problèmes, modéliser des systèmes et construire des solutions informatiques en s’appuyant sur les connaissances en mathématiques et informatique.
-- Abstraire et décomposer un problème informatique concret en sous-problèmes élémentaires et apprendre à les résoudre en favorisant la réutilisation de solutions existantes efficaces et éprouvées.
-- Rendre compte à l’écrit ou à l’oral, en français, de l’analyse d’un problème, de la modélisation d’un système ou de la construction d’une solution informatique.
-- Comprendre une documentation technique ou scientifique en anglais.
-- Mettre en œuvre des projets de programmation ou de modélisation informatique, principalement en équipe, en développant l’autonomie.
-- Participer au développement d’applications informatiques mettant en œuvre de nouvelles technologies.
-- S’informer sur les différents métiers et carrières de l’informatique, de façon à se diriger vers les formations adéquates.
 
 ### Programme et contenu ###
 
-En L1 et L2, les étudiants peuvent choisir plusieurs matières
-scientifiques, pas uniquement de l'informatique. Ils sont invités à
-suivre des enseignements en mathématiques, physique, électronique,
-etc. C'est le **portail science**. A partir du semestre 4, les
-étudiants peuvent s'orienter vers le parcours informatique et doivent
-ensuite choisir en grande majorité des cours d'informatique en vue de
-valider une **licence d'informatique**.
+La licence est constituée de 3 années (L1, L2, L3), chacune étant
+partagé entre deux semestres. C’est à l’issue de ces six semestres que
+l’étudiant validera le diplôme final de licence.
 
-Afin d'obtenir la licence informatique, il est recommandé de suivre
-tous les cours d'informatique, listés ci-dessous, ainsi que des cours
-de mathématique "fondamentaux". Nous donnons ci-dessous un exemple de
-parcours type permettant de valider la licence informatique.
+Un semestre est constitué de 5 cours, appelé UE (unité
+d’enseignement). Quatre de ces UE doivent être scientifique
+(mathématiques, informatique, physique, etc.), la cinquième est
+constitué des [compétences
+transversales](https://univ-cotedazur.fr/formation/reussir-ses-etudes/competences-transversales)
+communes à tous les étudiants (anglais, maîtrise de l’expressions,
+etc.).
+
+
+Dans le cadre du portail Sciences et Technologie, les étudiants se
+spécialisent petit à petit jusqu’à n’étudier à partir du S4 (second
+semestre de deuxième année) qu’une unique discipline. Typiquement, un
+étudiant s’inscrivant dans le parcours informatique ne va suivre
+qu’une UE d’informatique au S1, deux UE d’informatique au S2, trois au
+S3 (premier semestre de L2) puis quatre UE d’informatique jusqu’à
+l’obtention du diplôme. Cette spécialisation progressive permet à
+l’étudiant de facilement se réorienter sur une autre discipline durant
+la première année.
+
+
+Concrètement pour un étudiant s’inscrivant dès le début de L1 dans le
+parcours informatique, la liste des cours par semestre est la
+suivante.
 
 {% include ancien-cours-parcours entry="S1" %}
 
@@ -89,8 +93,39 @@ parcours type permettant de valider la licence informatique.
 
 {% include ancien-cours-parcours entry="S6" %}
 
+### Compétences ###
+
+Les compétences développées sont les suivantes :
+
+- Analyser des problèmes, modéliser des systèmes et construire des
+  solutions informatiques en s’appuyant sur les connaissances en
+  mathématiques et informatique.
+- Abstraire et décomposer un problème informatique concret en
+  sous-problèmes élémentaires et apprendre à les résoudre en
+  favorisant la réutilisation de solutions existantes efficaces et
+  éprouvées.
+- Rendre compte à l’écrit ou à l’oral, en français, de l’analyse d’un
+  problème, de la modélisation d’un système ou de la construction
+  d’une solution informatique.
+- Comprendre une documentation technique ou scientifique en anglais.
+- Mettre en œuvre des projets de programmation ou de modélisation
+  informatique, principalement en équipe, en développant l’autonomie.
+- Participer au développement d’applications informatiques mettant en
+  œuvre de nouvelles technologies.
+- S’informer sur les différents métiers et carrières de
+  l’informatique, de façon à se diriger vers les formations adéquates.
+
+
+
+
+
 
 ## Validation des UE et du diplôme  ##
+
+
+{% include alert warning="<b>À Compléter</b>" %}
+
+{% comment %}
 
 Les règles indiquées ci-dessous sont communes à toutes les disciplines de l'UFR Science. Elles sont susceptibles d'évoluer et sont données à titre purement indicatif. En cas de doute, contacter votre coordinateur d'année.
 
@@ -123,3 +158,5 @@ de suivre de manière dérogatoire des UEs de L3.
 À partir de la rentrée 2022, il est envisagé de permettre aux étudiants redoublants de L3 de repasser une UE qu'ils ont validé.
 Ils renoncent alors à leur note de l'année précédente et s'exposent à obtenir une note inférieure.
 La mise en place de cette possibilité reste à confirmer par les coordinateurs d'année à la rentrée 2022.
+
+{% endcomment %}

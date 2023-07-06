@@ -22,7 +22,7 @@ S2:
       options:
         - title: "Mathématiques : Approfondissements 2"
           syllabus: "SPUM23"
-          remarque: "(conseillé)"
+#          remarque: "(conseillé)"
         - title: "Mathématiques : Méthodes Maths-Approche discrète"
           syllabus: "SPUM22"
         - title: "Électronique : Électronique analogique"
