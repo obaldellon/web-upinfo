@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "24h CM, 36h TD"
 # website: "#"
-author: emmanuel
+author: marie, sandrine
 #
 # Styling
 #

@@ -4,6 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Bases de l'informatique"
+subtitle: "Logique et modèles formels"
 cours-id: "L1-BI"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la science informatique via certaines grandes thématiques comme la logique, les types récursifs ou les automates. "

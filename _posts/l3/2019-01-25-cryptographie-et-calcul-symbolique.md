@@ -15,7 +15,7 @@ tags:
 ects: 6
 schedule: "18h cours + 12h TD + 24h TP"
 # website: "#"
-author: bruno
+author: bruno, sandrine
 #
 # Styling
 #
