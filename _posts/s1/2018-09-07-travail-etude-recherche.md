@@ -7,7 +7,7 @@ title: "Travail d'étude et de recherche (TER)"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
-  - S1
+  - 
 tags:
   - REQ
 ects: 6
