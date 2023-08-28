@@ -1,7 +1,7 @@
 ---
 layout: page-contents
 show_meta: false
-title: "Alternance au Master Informatique"
+title: "PAGE EN COSTRUCTION"
 subheadline: "Formation par apprentissage et par contrat de professionnalisation"
 logo: "logo-m.png"
 header:
@@ -10,6 +10,9 @@ header:
 
 permalink: "/programme/alternance/"
 ---
+
+# OBSOLETE INFORMATION #
+
 
 ### Informations spécifiques par année universitaire ###
 
