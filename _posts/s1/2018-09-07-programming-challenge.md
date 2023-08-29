@@ -63,30 +63,30 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 The [moodle course](https://lms.univ-cotedazur.fr/2022/course/view.php?id=1670) is used for group selection, drop boxes, and the grading book.
 You could self register by clicking on the link if you are not already registered.
 
-Coding Battle (10%) - October 12, 2022
+Coding Battle (10%)
 : A grade is assigned depending on your ranking at the [Coding Battle](https://le-shaker.com/lacodingbattle/). Pair work is allowed.
 
-Coding Battle Oral (40%) - October 17, 2022
+Coding Battle Oral (40%)
 : Each student presents a solution to one of the problems given at the [Coding Battle](https://le-shaker.com/lacodingbattle/). Pair work is allowed for problem solving, but the oral is into individual.
+
 {% comment %}
-Homework with Sphere Engine (20%) - Released on November 19, 2021
+Homework with Sphere Engine (20%)
 : One problem, prepared at home is submitted during the last lab under teacher supervision. Pair work is allowed.
 {% endcomment %}
 
-Final Exam with Sphere Engine (50%) - October 31, 2022
+Final Exam with Sphere Engine (50%)
 : There are between two and four problems to solve in the labs within 3 hours. Pair work is not allowed.
 
 
 #### Coding Battle Oral ####
 
 You must present your solution to one of the three most difficult problems of the coding battle.
- - On Thursday, October 13, we will announce which problem you will be asked about.
- - On Monday, October 17, you will submit your final solution in moodle before 8:00 AM.
+ - On the next day after the coding battle, we will announce which problem you will be asked about.
+ - On the next course after the coding battle, you will submit your final solution in moodle before 8:00 AM.
  - Then, the oral of 20 minutes (in English or French) will be organized in three parts as follows:
      - Algorithmic (7 min): it must include an example of the algorithm execution without any reference to the code.
      - Code (3 min): it describes the implementation choices of your final submission and evaluates its performance.
      - Questions (10 min) about the algorithmic and the code: you can use a whiteboard for answering.
-
 
 {% comment %}
 #### Homework ####
