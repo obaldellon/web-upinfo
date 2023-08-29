@@ -23,7 +23,7 @@ All students have to choose their **optional** courses for the first semester **
 
 - Students of the M1 Informatique have to choose between 8 and 10 courses.
 
-- Students of the M1 Intelligence Artificielle have to choose between 2 and 4 courses.
+- Students of the M1 Informatique parcours Intelligence Artificielle have to choose between 2 and 4 courses.
 
 If you have questions on the courses:
 - in the syllabus you have the contact email of the professor giving the cours,
