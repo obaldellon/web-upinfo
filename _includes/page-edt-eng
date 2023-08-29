@@ -26,12 +26,7 @@ Exceptionally, some lectures can take place with a different schedule than the o
    - in the afternoon from  14h00 à 17h15.
  
 
-The schedule for lectures and exams is available <a href="http://sco.polytech.unice.fr/1/invite?login=true" target="_blank">here</a>.
-
-Choose <i>Promotions</i> on top of the page and then in the <i>Année</i> field select M1 Informatique.
-
-
-
+The schedule for lectures and exams is available below.
 
 ## Agenda and timetable
 
@@ -41,6 +36,10 @@ It could be necessary to **refresh the page or clean the cache** to see the last
 
 * <iframe src="{{ include.agenda }}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
+Courses rooms are noted <a href="http://sco.polytech.unice.fr/1/invite?login=true" target="_blank">here</a>.
+
+Choose <i>Promotions</i> on top of the page and then in the <i>Année</i> field select M1 Informatique.
 
 
 
