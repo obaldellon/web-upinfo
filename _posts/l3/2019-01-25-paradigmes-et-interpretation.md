@@ -4,11 +4,12 @@ layout: syllabus
 # Content
 #
 title: "Paradigmes et interprétation"
+cours-id: "L3-PI"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des 
+teaser: "Ce cours s'intéresse aux concepts qui sont à la base de nombreux langages de programmation. Afin de comprendre ces concepts, on programmera des
 interpréteurs de petits langages qui les mettent en oeuvre."
 categories:
-  - L3
+  - L3-info
 tags:
   - S6
   - OPT
@@ -27,12 +28,12 @@ image:
 header:
   image_fullwidth: "header-syllabus-unsplash.jpg"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ###  Description ###
 
-Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure sur des langages de programmation "jouets", dans lesquels on se focalise sur un aspect essentiel, sans chercher à étudier un vrai langage. 
+Ce cours s'intéresse à la compréhension de différents concepts qui sont à la base de nombreux paradigmes de programmation. Ces concepts sont introduits au fur et à mesure sur des langages de programmation "jouets", dans lesquels on se focalise sur un aspect essentiel, sans chercher à étudier un vrai langage.
 Pour bien comprendre en profondeur ces paradigmes, on programme ensuite des interpréteurs pour les langages jouets étudiés en utilisant de vrais langages (Java, Typescript, Racket, Rust, etc).
 
 
@@ -42,7 +43,7 @@ Ce cours développe l'abilité à se familiariser rapidement avec de nouveaux la
 
 ### Modalités de contrôle des connaissances
 Le cours est en deux parties, avec deux enseignants différents.
-Chaque partie donne lieu à une note de contrôle continu spécifiée par l'enseignant (partiel, TP noté, projet, rapport, etc). Chaque
+Chaque partie donne lieu à une note de contrôle continu spécifiée par l'enseignant (partiel, TP noté, projet, rapport, etc).
 
 
 - note de contrôle continu de partie 1: 1/4
@@ -52,7 +53,7 @@ Chaque partie donne lieu à une note de contrôle continu spécifiée par l'ense
 ###  Contenu ###
 
 
-#### Partie 1 
+#### Partie 1
 
 ##### 1.1. Introduction au langage RUST
 1. Ownership
@@ -67,16 +68,16 @@ Chaque partie donne lieu à une note de contrôle continu spécifiée par l'ense
 2. Unification. Algorithme d'inférence de type de Hindley-Milner.
 
 #### Partie 2 : paradigme fonctionnel ####
-1. Introduction à Racket. 
-2. Expressions arithmétiques et fonctions. 
+1. Introduction à Racket.
+2. Expressions arithmétiques et fonctions.
 3. Ordre supérieur
 4. Récursivité et paresse
 
 
 #### Autres thèmes abordés
-1.  Objets et classes. 
-2. Typage 
-3. Sous-typage. 
+1.  Objets et classes.
+2. Typage
+3. Sous-typage.
 4. Typage et classes
 
 
