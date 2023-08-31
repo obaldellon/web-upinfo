@@ -118,6 +118,18 @@
   # - title: "Blog Archive"
   #   url: "/blog/archive/"
 
+
+
+- title: "RENTRÉE 2023/24"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "Licence informatique"
+      url: "/divers/rentree-licence-2023-2024/"
+    - title : "Master informatique"
+      url: "/divers/rentree-master-2023-2024/"
+
+
 #
 #   Navigation to the right -> side: right
 #
