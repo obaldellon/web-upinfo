@@ -44,47 +44,50 @@ Il existe 2 logos, celui pour la licence et celui pour le master. Pour chacun de
 
 #### Logos horizontaux
 
-![Logo licence]({% include link folder="assets/img/logos" page="logo_licence.png" %}){:style="width:45%"}
-![Logo licence blanc]({% include link folder="assets/img/logos" page="logo_licence_blanc.png" %}){:style="width:45%; background-color:#7aabbd"}
+![Logo licence]({% include link folder="assets/img/logos"           page="logo-ligne-simple-couleur-licence.png" %}){:style="width:45%"}
+![Logo licence blanc]({% include link folder="assets/img/logos"     page="logo-ligne-simple-blanc-licence.png" %}){:style="width:45%; background-color:#7aabbd"}
 
-![Logo licence uca]({% include link folder="assets/img" page="logo_alpha-l.png" %}){:style="width:45%"}
-![Logo licence uca blanc]({% include link folder="assets/img" page="logo_blanc-l.png" %}){:style="width:45%; background-color:#7aabbd"}
+![Logo licence uca]({% include link folder="assets/img/logos"       page="logo-ligne-uca-couleur-licence.png" %}){:style="width:45%"}
+![Logo licence uca blanc]({% include link folder="assets/img/logos" page="logo-ligne-uca-blanc-licence.png" %}){:style="width:45%; background-color:#7aabbd"}
 
 #### Logos verticaux
 
-![Logo haut licence]({% include link folder="assets/img/logos" page="logo_haut-l.png" %}){:style="width:30%"}
-![Logo haut licence blanc]({% include link folder="assets/img/logos" page="logo_haut_blanc-l.png" %}){:style="width:30%; background-color:#7aabbd"}
+![Logo haut licence]({% include link folder="assets/img/logos"       page="logo-colonne-simple-couleur-licence.png" %}){:style="width:30%"}
+![Logo haut licence blanc]({% include link folder="assets/img/logos" page="logo-colonne-simple-blanc-licence.png" %}){:style="width:30%; background-color:#7aabbd"}
 
-![Logo licence uca]({% include link folder="assets/img/logos" page="logo_haut_uca-l.png" %}){:style="width:45%"}
-![Logo licence uca blanc]({% include link folder="assets/img/logos" page="logo_haut_uca_blanc-l.png" %}){:style="width:45%; background-color:#7aabbd"}
+![Logo licence uca]({% include link folder="assets/img/logos"        page="logo-colonne-uca-couleur-licence.png" %}){:style="width:45%"}
+![Logo licence uca blanc]({% include link folder="assets/img/logos"  page="logo-colonne-uca-blanc-licence.png" %}){:style="width:45%; background-color:#7aabbd"}
 
 #### Sans texte
 
-![Logo licence rond]({% include link folder="assets/img/logos" page="logo_rond-l.png" %}){:style="width:15%"}
-![Logo licence rond blanc]({% include link folder="assets/img/logos" page="logo_rond_blanc-l.png" %}){:style="width:15%; background-color:#7aabbd"}
+![Logo licence rond]({% include link folder="assets/img/logos"       page="logo-rond-couleur-licence.png" %}){:style="width:15%"}
+![Logo licence rond blanc]({% include link folder="assets/img/logos" page="logo-rond-blanc-licence.png" %}){:style="width:15%; background-color:#7aabbd"}
 
 ### Logo du Master
 
+
 #### Logos horizontaux
 
-![Logo master]({% include link folder="assets/img/logos" page="logo_master.png" %}){:style="width:45%"}
-![Logo master blanc]({% include link folder="assets/img/logos" page="logo_master_blanc.png" %}){:style="width:45%; background-color:#7aabbd"}
+![Logo master]({% include link folder="assets/img/logos"           page="logo-ligne-simple-couleur-master.png" %}){:style="width:45%"}
+![Logo master blanc]({% include link folder="assets/img/logos"     page="logo-ligne-simple-blanc-master.png" %}){:style="width:45%; background-color:#7aabbd"}
 
-![Logo master site]({% include link folder="assets/img" page="logo_alpha.png" %}){:style="width:45%"}
-![Logo master site blanc]({% include link folder="assets/img" page="logo_blanc.png" %}){:style="width:45%; background-color:#7aabbd"}
+![Logo master uca]({% include link folder="assets/img/logos"       page="logo-ligne-uca-couleur-master.png" %}){:style="width:45%"}
+![Logo master uca blanc]({% include link folder="assets/img/logos" page="logo-ligne-uca-blanc-master.png" %}){:style="width:45%; background-color:#7aabbd"}
 
 #### Logos verticaux
 
-![Logo haut master]({% include link folder="assets/img/logos" page="logo_haut-m.png" %}){:style="width:30%"}
-![Logo haut master blanc]({% include link folder="assets/img/logos" page="logo_haut_blanc.png" %}){:style="width:30%; background-color:#7aabbd"}
+![Logo haut master]({% include link folder="assets/img/logos"       page="logo-colonne-simple-couleur-master.png" %}){:style="width:30%"}
+![Logo haut master blanc]({% include link folder="assets/img/logos" page="logo-colonne-simple-blanc-master.png" %}){:style="width:30%; background-color:#7aabbd"}
 
-![Logo master uca]({% include link folder="assets/img/logos" page="logo_haut_uca.png" %}){:style="width:45%"}
-![Logo master uca blanc]({% include link folder="assets/img/logos" page="logo_haut_uca_blanc.png" %}){:style="width:45%; background-color:#7aabbd"}
+![Logo master uca]({% include link folder="assets/img/logos"        page="logo-colonne-uca-couleur-master.png" %}){:style="width:45%"}
+![Logo master uca blanc]({% include link folder="assets/img/logos"  page="logo-colonne-uca-blanc-master.png" %}){:style="width:45%; background-color:#7aabbd"}
 
 #### Sans texte
 
-![Logo master rond]({% include link folder="assets/img" page="logo_rond.png" %}){:style="width:15%"}
-![Logo master rond blanc]({% include link folder="assets/img/logos" page="logo_rond_blanc.png" %}){:style="width:15%; background-color:#7aabbd"}
+![Logo master rond]({% include link folder="assets/img/logos"       page="logo-rond-couleur-master.png" %}){:style="width:15%"}
+![Logo master rond blanc]({% include link folder="assets/img/logos" page="logo-rond-blanc-master.png" %}){:style="width:15%; background-color:#7aabbd"}
+
+
 
 ## Matériel de communication
 

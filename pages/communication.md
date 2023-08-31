@@ -36,68 +36,268 @@ cette page ! Elle est destinée uniquement aux membres de l’UPInfo</b>"
 
 <table>
 
-
 <tr>
 <td>
-<img src="/assets/img/logos/logo_rond-up.png" alt="qrcode" />
+<img src="/assets/img/logos/logo-rond-couleur-upinfo.png" alt="logo upinfo" />
 </td>
 <td>
-<img src="/assets/img/logos/logo_rond-l.png" alt="qrcode" />
+<img src="/assets/img/logos/logo-rond-couleur-licence.png" alt="logo licence" />
 </td>
 <td>
-<img src="/assets/img/logos/logo_rond-m.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-couleur-master.png" alt="logo master"/>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<img src="/assets/img/logos/logo_haut-up.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-bleu-upinfo.png" alt="logo upinfo" />
 </td>
 <td>
-<img src="/assets/img/logos/logo_haut-l.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-bleu-licence.png" alt="logo licence" />
 </td>
 <td>
-<img src="/assets/img/logos/logo_haut-m.png" alt="qrcode"/>
-</td>
-</tr>
-
-
-<tr>
-<td>
-<img src="/assets/img/logos/logo_haut_uca-up.png" alt="qrcode"/>
-</td>
-<td>
-<img src="/assets/img/logos/logo_haut_uca-l.png" alt="qrcode" />
-</td>
-<td>
-<img src="/assets/img/logos/logo_haut_uca.png" alt="qrcode" />
+<img src="/assets/img/logos/logo-rond-bleu-master.png" alt="logo master"/>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<img src="/assets/img/logo_alpha-up.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-noir-upinfo.png" alt="logo upinfo" />
 </td>
 <td>
-<img src="/assets/img/logo_alpha-l.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-noir-licence.png" alt="logo licence" />
 </td>
 <td>
-<img src="/assets/img/logo_alpha.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-noir-master.png" alt="logo master"/>
 </td>
 </tr>
 
 
 <tr>
 <td>
-<img src="/assets/img/logos/logo_up.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-blanc-upinfo.png" alt="logo upinfo" />
 </td>
 <td>
-<img src="/assets/img/logos/logo_licence.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-blanc-licence.png" alt="logo licence" />
 </td>
 <td>
-<img src="/assets/img/logos/logo_master.png" alt="qrcode"/>
+<img src="/assets/img/logos/logo-rond-blanc-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+
+
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-couleur-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-couleur-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-couleur-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-bleu-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-bleu-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-bleu-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-noir-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-noir-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-noir-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-blanc-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-blanc-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-simple-blanc-master.png" alt="logo master"/>
+</td>
+</tr>
+
+<!-- Modif -->
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-couleur-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-couleur-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-couleur-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-bleu-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-bleu-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-bleu-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-noir-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-noir-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-noir-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-blanc-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-blanc-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-colonne-uca-blanc-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-couleur-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-couleur-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-couleur-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-bleu-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-bleu-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-bleu-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-noir-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-noir-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-noir-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-blanc-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-blanc-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-simple-blanc-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-couleur-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-couleur-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-couleur-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-bleu-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-bleu-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-bleu-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-noir-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-noir-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-noir-master.png" alt="logo master"/>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-blanc-upinfo.png" alt="logo upinfo" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-blanc-licence.png" alt="logo licence" />
+</td>
+<td>
+<img src="/assets/img/logos/logo-ligne-uca-blanc-master.png" alt="logo master"/>
 </td>
 </tr>
 
