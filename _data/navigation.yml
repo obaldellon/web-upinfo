@@ -97,8 +97,8 @@
     url: "/etus/bourses/"
   - title: "Stages"
     url: "/etus/stages/"
-  - title: "Doubles diplômes"
-    url: "/etus/doubles-diplomes/"
+#  - title: "Doubles diplômes"
+#    url: "/etus/doubles-diplomes/"
   - title: "UCAnCODE"
     url: "/etus/ucancode/"
   - title: "Fablab"
@@ -111,7 +111,7 @@
 
 
 
-- title: Blog
+- title: Actus
   url: "/blog/"
   side: left
   # dropdown:

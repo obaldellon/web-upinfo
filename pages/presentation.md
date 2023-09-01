@@ -15,13 +15,14 @@ permalink: "/présentation/"
 ### L’unité pédagogique informatique (UP Info) ###
 
 L’Unité Pédagogique Informatique regroupe les enseignants
-d’informatique de la faculté des sciences (licence, master et parcours
-MIAGE) de l’Université Côté d’Azur.
+d’informatique de la Faculté des Sciences et Ingénierie (licence,
+master et parcours MIAGE) de l’Université Côté d’Azur.
 
 En pratique, les enseignements sont répartis sur deux campus. Les
-cours de licence sont donnés sur le campus Valrose, au cœur de Nice ;
-les cours de master et de la MIAGE ont lieu dans le bâtiment « Les
-Lucioles » sur le campus SophiaTech de la technopole Sophia Antipolis.
+cours de Licence Informatique sont donnés sur le campus Valrose, au
+cœur de Nice ; les cours de Master Informatique et de la MIAGE ont
+lieu dans le bâtiment « Les Lucioles » sur le campus SophiaTech de la
+technopole Sophia Antipolis.
 
 Des informations complémentaires propres à la MIAGE peuvent être
 trouvées à l’adresse :

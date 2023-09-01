@@ -54,12 +54,15 @@ homepage: true
 %}#qui-contacter-{% endcapture %}
 
 Bienvenue sur le site de l’[**Unité Pédagogique Informatique**]({%link
-pages/presentation.md %}) qui regroupe les enseignants d’informatique
-de la licence, du master et du parcours MIAGE de l’Université Côté
+pages/presentation.md %}). L’UP Info regroupe les enseignants
+d’informatique intervenant en Licence Informatique, en Master
+Informatique ainsi que dans le parcours MIAGE de l’Université Côté
 d’Azur. Ce site présente les différents parcours proposés ainsi que la
 présentation de chaque UE. En cas de question, n’hésitez à vous
 adresser aux principaux responsables que vous trouverez sur la page de
-[**présentation**]({{lien_contact}}).
+[**présentation**]({{lien_contact}}). Les informations propres aux
+formations MIAGE peuvent être trouvées à [cette
+adresse](https://ds4h.univ-cotedazur.fr/miage).
 
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal=""> -->

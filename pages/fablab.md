@@ -10,7 +10,7 @@ header:
 permalink: "/etus/fablab/"
 ---
 
-[FabLab@UCA](http://univ-cotedazur.fr/labs/fablab/fr)
+[FabLab@UCA](https://univ-cotedazur.fr/formation/reussir-ses-etudes/fablab)
 
 Le concept de **fab lab** (contraction de l'anglais _**fab**rication **lab**oratory_, « laboratoire de fabrication ») est né au MIT (Massachusetts Institute of Technology) dans les années 1990. Il s’agit d’un lieu ouvert au public où il est mis à sa disposition toutes sortes d'outils, notamment des machines-outils, pour la conception et la réalisation d'objets.
 

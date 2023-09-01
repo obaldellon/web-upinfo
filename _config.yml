@@ -16,7 +16,7 @@ slogan: "L’informatique à l’Université Côté d’Azur"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 old-description: "L’unité pédagogique informatique regroupe l’ensemble des enseignants d’informatique de  licence et de  master à l’UCA"
-description: "L’unité pédagogique informatique regroupe les enseignants d’informatique de la faculté des sciences (licence, master et parcours MIAGE) de l’Université Côté d’Azur."
+description: "L’Unité Pédagogique Informatique regroupe les enseignants d’informatique de la Faculté des Sciences et Ingénierie de l’Université Côté d’Azur."
 # Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former des informaticiens aptes à s'adapter à l'évolution rapide des technologies de l'information.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
