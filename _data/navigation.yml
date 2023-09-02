@@ -12,6 +12,8 @@
   dropdown:
   - title: Présentation
     url: "/présentation/"
+  - title: "Nous Contacter"
+    url: "/nous-contacter/"
   - title: Membres
     url: "/équipe/"
 

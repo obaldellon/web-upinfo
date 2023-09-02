@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Nous contacter"
+meta_title: "Contact"
 subheadline: ""
 logo: "logo.png"
 header:
@@ -18,7 +18,7 @@ permalink: "/contact/"
 
 
 Pour toute question d’ordre pédagogique, merci de contacter
-directement les [responsables d’années]({{lien_contact}}).
+directement les [responsables d’années]({% link pages/nous-contacter.md %}).
 
 
 {% comment %}
