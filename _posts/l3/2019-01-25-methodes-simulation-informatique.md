@@ -16,7 +16,7 @@ ects: 6
 schedule: "20h cours + 10h TD + 30h TP"
 website: "https://lms.univ-cotedazur.fr/course/view.php?id=10966"
 # website: "#"
-author: amaya
+author: enrico
 #
 # Styling
 #
