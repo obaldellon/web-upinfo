@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-contents
 show_meta: false
 title: "Troisième année"
 subheadline: "Licence Informatique"
@@ -10,6 +10,23 @@ header:
    image_fullwidth: "header-valrose-printemps-petite.jpg"
 permalink: "/programme/l3/"
 ---
+
+## Présentation ##
+
+La L3 informatique est la troisième et dernière année d’une formation
+en 3 ans : la [Licence Informatique]({% link pages/ancien-licence.md
+%}). Comme pour les autres années du parcours, l’année est organisée en
+deux semestre, chacun contenant quatre UE.
+
+En cas de questions ou de problème veuillez contacter votre
+responsable d’année : {% respo L3 %}.
+
+Tout étudiant ayant validé sa [deuxième année]({% link pages/ancien-l2.md
+%}) de Licence Informatique à
+Valrose peut s’y inscrire de droit. Si vous souhaitez intégrer cette
+formation en venant de l’extérieur, merci de consulter la page
+concernant les [candidatures]({% link
+pages/ancien-licence-admission.md %}).
 
 
 ## Parcours ##

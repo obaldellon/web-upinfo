@@ -11,6 +11,23 @@ header:
 permalink: "/programme/l2/"
 ---
 
+## Présentation ##
+
+La L2 informatique est la deuxième année d’une formation en 3 ans : la
+[Licence Informatique]({% link pages/ancien-licence.md %}). Comme pour
+les autres années du parcours, l’année est organisée en deux semestre,
+chacun contenant quatre UE : les trois premières étant obligatoire, la
+quatrième étant à choisir parmi plusieurs.
+
+En cas de questions ou de problème veuillez contacter votre
+responsable d’année : {% respo L2 %}.
+
+Tout étudiant ayant validé sa [première année]({% link
+pages/ancien-l1.md %}) de licence Informatique à Valrose peut s’y
+inscrire de droit. Si vous souhaitez intégrer cette formation en
+venant de l’extérieur, merci de consulter la page concernant les
+[candidatures]({% link pages/ancien-licence-admission.md %}).
+
 ## Parcours ##
 
 
