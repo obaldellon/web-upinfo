@@ -28,6 +28,12 @@ inscrire de droit. Si vous souhaitez intégrer cette formation en
 venant de l’extérieur, merci de consulter la page concernant les
 [candidatures]({% link pages/ancien-licence-admission.md %}).
 
+## Emploi du temps ##
+
+{% include alert warning="<b>L’emploi du temps est amené à être modifié. Merci de le vérifier régulièrement</b>" %}
+
+<p><iframe style="border: solid 1px #777;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;title=L2%20Informatique&amp;mode=WEEK&amp;src=ZGNhMWYzNWM2NWZjNDQzMzM3ODQ1MTRhNzZjN2VhYjYxNDQzMGM3NWM1ODJmYmI2MTY2YTczZmVmZGQ3ZjNlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=MTRkOGQ4MjQxYzY1NDc1YWVhMDBjMDlmOTZlMjU4YWZjMWI4M2YxODEyZmY1MzZiNDFmMjJhNDFlNGVkNTA1MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=MWNhYjllYmM0MmNkN2Q0NTQ3ZDkzM2I2NDhkZjc0ODFmMDQ0MWE1ZTQ3YmQ2Yzc3M2IyZGUxZDMxMTM4MjYzOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=OGQxOTE1ZTg4NjI2M2YyMGExMjllMjVmYTcyYjg3ZTZkMWNmZDAxMzg4ZTNkN2I1MWEyMDI3NTcyZTI1NzRiZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=YmQwYjg2NzQ5MWMyZWFlMGNlMjY2NjZjN2YzOWVlOWE1NGQ5NmIxMDdhNDVhYWVlODg4MTJjYTljNzMyMjE4MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZjI3MzQ3MmFhNGMyYWI0OTlmZjAwMzE5Nzk3MTAwM2E5NDJhYTkzMTQ5MzljNzdkMjE0MmMxZWQ2ZmU3ZThhN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=N2M5MTQ3YzAyNmM3ODcwM2E5YjNhYjg1NzQxZTY2MzQ0MjkxNzU0MGM1OWFkNDkyNjFjNTkyMTE2ODRmNmJkNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=OGZmOTgwNWYwNjU3NzNkMzM1MzUwNWRiOTFmODIwY2UyZWQyZjZmNTU0ZDUwNjI4OGI2ZWQ1MWNhODdlYzdhMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZTI5ZTUyZDVkZTZhOGQ3NDcxOThjNTBlYzAxNTg4ZmU3MmRmODcxYjk1YWE1OTIyMDQ5MDZlNWU2Y2Y2YWFkY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=MzQ1MzNjYmE0YzVmMTNjMDhkNDdkNWI1YWU3YTEzMmI1M2Y2MDMxMjBhZjIwZTRiY2JkZmZmZWYyNmRlMjUyZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=MDQ2NGJlOTA0NzFmNWY5OGYzNzdhY2VjODFhZDkxMThiZjIyNTE5YzQ5YmFmNzk5MDZhMmE1MTgyY2JkMmY3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%239E69AF&amp;color=%23039BE5&amp;color=%23009688&amp;color=%23E4C441&amp;color=%234285F4&amp;color=%233F51B5&amp;color=%23E4C441&amp;color=%2333B679&amp;color=%23D81B60&amp;color=%23EF6C00&amp;color=%23F09300" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
+
 ## Parcours ##
 
 
