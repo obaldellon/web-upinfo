@@ -20,21 +20,21 @@
 
 
 - title: "Licence"
-  url: "/programme/licence/"
+  url: "/licence/"
   side: left
   dropdown:
   - title: "Présentation"
-    url: "/programme/licence/"
+    url: "/licence/"
   - title: "Candidater"
-    url: "/programme/candidater/"
+    url: "/licence/candidater/"
   - title: "1ère année"
-    url: "/programme/l1/"
+    url: "/licence/l1/"
   - title: "2ème année"
-    url: "/programme/l2/"
+    url: "/licence/l2/"
   - title: "3ème année"
-    url: "/programme/l3/"
+    url: "/licence/l3/"
   - title: "Vue d’ensemble"
-    url: "/programme/parcours/"
+    url: "/licence/parcours/"
 
 # - title: "Licence (2024)"
 #   url: "/licence/"
@@ -56,7 +56,7 @@
 
 
 - title: "Licence math/info"
-  url: "/programme/math-info/"
+  url: "/licence/math-info/"
   side: left
   # dropdown:
   # - title: "Parcours"

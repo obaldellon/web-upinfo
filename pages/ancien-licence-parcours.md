@@ -6,7 +6,7 @@ subheadline: "Programme"
 logo: "logo-l.png"
 header:
    image_fullwidth: "header-programme-l.png"
-permalink: "/programme/parcours/"
+permalink: "/licence/parcours/"
 ---
 
 {% comment %}

@@ -6,7 +6,7 @@ subheadline: "Généralité"
 logo: "logo-l.png"
 header:
    image_fullwidth: "header-programme-l.png"
-permalink: "/licence/"
+permalink: "/flicence/"
 ---
 
 {% comment %}

@@ -6,7 +6,7 @@ subheadline: "Liste des cours"
 logo: "logo_blanc-l.png"
 header:
    image_fullwidth: "header-syllabus-unsplash.jpg"
-permalink: "/licence/ue/"
+permalink: "/flicence/ue/"
 ---
 
 ## Semestre 1 ##

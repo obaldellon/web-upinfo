@@ -8,7 +8,7 @@ logo: "logo-l.png"
 #logo_flush: "center"
 header:
    image_fullwidth: "header-valrose-printemps-petite.jpg"
-permalink: "/programme/l3/"
+permalink: "/licence/l3/"
 ---
 
 ## Présentation ##

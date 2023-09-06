@@ -8,7 +8,7 @@ logo: "logo-l.png"
 header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 
-permalink: "/programme/math-info/"
+permalink: "/licence/math-info/"
 ---
 
 La licence Mathématique-Informatique est une filière sélective avec une formation renforcée dans les sciences mathématiques et informatiques. La formation est sur trois ans et délivre un diplôme de licence informatique et un de licence mathématiques.

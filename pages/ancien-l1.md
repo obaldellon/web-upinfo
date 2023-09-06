@@ -7,7 +7,7 @@ logo: "logo-l.png"
 header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 
-permalink: "/programme/l1/"
+permalink: "/licence/l1/"
 ---
 
 ## Organisation de la L1 à Valrose ##
