@@ -19,7 +19,7 @@ schedule: "24h CM + 36h TP"
 #
 # Styling
 #
-author: stephanejeannin
+author: stephanejeannin, julien
 image:
   thumb: "header-syllabus-unsplash-thumb.jpg"
   homepage: "header-syllabus-unsplash.jpg"
