@@ -31,27 +31,27 @@ Vous trouverez sur [cette page]({% link pages/communication.md %}) les différen
 
 #### Maquette actuelle ####
 
-- [Maquette avec horaire]({% include link-asset asset="maquette/maquette-2021.pdf" %})
+- [Maquette avec horaire](/data/maquettes/maquette-2021.pdf)
 - [Vue d’ensemble]({% link pages/ancien-licence-parcours.md %})
 - [L1]({% link pages/ancien-l1.md %})
 - [L2]({% link pages/ancien-l2.md %})
 - [L3]({% link pages/ancien-l3.md %})
-- [Maquette pour les maths/info]({% include link-asset asset="maquette/maquetteMI-2021.pdf" %})
+- [Maquette pour les maths/info](/data/maquettes/maquetteMI-2021.pdf)
 - [Parcours math/info]({% link pages/ancien-licence-math-info.md %})
 
 
 #### Projet pour la maquette futur ####
 
-- [Maquette avec horaire]({% include link-asset asset="maquette/maquette-2024.pdf" %})
+- [Maquette avec horaire](/data/maquettes/maquette-2024.pdf)
 - [Vue d’ensemble]({% link pages/licence-parcours.md %})
 - [L1]({% link pages/l1.md %})
 - [L2]({% link pages/l2.md %})
 - [L3]({% link pages/l3.md %})
-- [Maquette pour les maths/info]({% include link-asset asset="maquette/maquetteMI-2024.pdf" %})
+- [Maquette pour les maths/info](/data/maquettes/maquetteMI-2024.pdf)
 - [Parcours math/info]({% link pages/licence-math-info.md %})
 
 #### Projet des autres départements  ####
-- [Maquette dept. Math]({% include link-asset asset="maquette/maquette-math.pdf" %}) Uniquement s1,s2 et s3
+- [Maquette dept. Math](/data/maquettes/maquette-math.pdf) Uniquement s1,s2 et s3
 
 ## Listes diffusion ##
 Pour se retrouver dans ce beau bordel :)
