@@ -34,7 +34,7 @@ caption_url: https://unsplash.com/
 
 Ce cours est une introduction à la programmation impérative au travers
 du langage Python. La présentation de l'UE faites pendant la période
-enjeux peut se [télécharger ici](http://deptinfo.unice.fr/~obaldellon/fichiers/présentation.pdf).
+enjeux peut se [télécharger ici](https://upinfo.univ-cotedazur.fr/~obaldellon/L1/py/pr%C3%A9sentation.pdf).
 
 
 ###  Calendrier ###
@@ -82,4 +82,4 @@ les points suivants :
 
 ###  Ressources ###
 
-- la [page publique du cours](http://deptinfo.unice.fr/~obaldellon/python)
+- la [page publique du cours](https://upinfo.univ-cotedazur.fr/~obaldellon/)
