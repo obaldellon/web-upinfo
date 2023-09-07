@@ -46,8 +46,8 @@ D'autres débouchés sont bien évidemment possibles et fréquents, dans d'autre
 
 L’objectif de la licence informatique est de préparer au mieux les étudiants à ces diverses attentes.
 
-Une présentation des métiers de l’informatique et de la mention informatique a été faite lors de la période enjeux (01/09/2022).
-Les transparents correspondants sont disponibles [ici]({% include link-asset asset="metiers-info-2022.pdf" %}).
+Une présentation des métiers de l’informatique et de la mention informatique a été faite lors de la période enjeux (07/09/2023).
+Les transparents correspondants sont disponibles [ici](/data/licence/présentation-rentrée-licence.pdf).
 
 
 
