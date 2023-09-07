@@ -28,7 +28,9 @@ formation en venant de l’extérieur, merci de consulter la page
 concernant les [candidatures]({% link
 pages/ancien-licence-admission.md %}).
 
+## Emploi du temps ##
 
+[Emploi du temps](/data/licence/edt-l3-s5.pdf) du premier semestre de L3 (s5)
 ## Parcours ##
 
 {% include ancien-cours-parcours entry="S5" %}
