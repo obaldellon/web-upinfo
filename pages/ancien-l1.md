@@ -20,6 +20,12 @@ vous invitons à consulter cette page pour l’organisation générale du
 portail (calendrier, question administrative, etc.).
 
 
+Une présentation des métiers de l’informatique et de la mention
+informatique (plus particulièrement de la L1) a été faite lors de la
+période enjeux (07/09/2023).  Les transparents correspondants sont
+disponibles [ici](/data/licence/présentation-rentrée-licence.pdf).
+
+
 ### Qui contacter et pourquoi ? ###
 
 
