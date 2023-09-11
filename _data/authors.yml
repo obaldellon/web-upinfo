@@ -443,6 +443,14 @@ chadi:
   upinfo: false
 
 
+blandel:
+  name: "A. Blandel"
+  prenom: "Annie"
+  nom: "Blandel"
+  grade: "???"
+  email: "Annie.BLANDEL@univ-cotedazur.fr"
+
+
 # you can add more authors here
 
 # julien:

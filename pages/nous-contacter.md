@@ -22,7 +22,15 @@ permalink: "/nous-contacter/"
 - {% respo secrétaire %} : gestionnaire administrative et pédagogique.
 - {% respo web %} : responsable de ce site web.
 
-### Licence ###
+### Licence Informatique ###
+
+
+{% include alert info="
+<b>Pour toutes questions concernant les candidatures, les inscriptions et
+les démarches administrative, merci de contacter directement la
+scolarité à l’adresse :</b>
+[http://glpi-form-sco.univ-cotedazur.fr/](http://glpi-form-sco.univ-cotedazur.fr/)
+" %}
 
 - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
 - {% respo secrétaire %} : assistante administrative et pédagogique
@@ -33,7 +41,7 @@ permalink: "/nous-contacter/"
 - {% respo mi-info %} : coordinatrice informatique « double licence math/info».
 - {% respo mi-math %} : coordinateur mathématiques « double licence math/info».
 
-### Master ###
+### Master Informatique  ###
 
 - [ds4h-sco@univ-cotedazur.fr](mailto:ds4h-sco@univ-cotedazur.fr) : scolarité de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
 - {% respo secrétaire-ds4h %} : assistante administrative et pédagogique de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
@@ -41,3 +49,17 @@ permalink: "/nous-contacter/"
 - {% respo master master-info@i3s.unice.fr %} : responsable Master.
 - {% respo M1 master-info@i3s.unice.fr %} : coordinatrice M1.
 - {% respo M2 master-info@i3s.unice.fr %} : coordinateur M2.
+
+
+### MIAGE ###
+
+- {% prof tounsi %} : Responsable pédagogique en L3 MIASHS parcours MIAGE
+- {% prof tounsi %} : Responsable de l'alternance en L3 MIASHS parcours MIAGE
+- {% prof michel %} : Coordinateur des Masters MIAGE
+- {% prof winter %} : Responsable de l'alternance
+- {% prof leo %} : Responsable pédagogique M1
+- {% prof syska %} : Responsable pédagogique M2 MBDS
+- {% prof gabriel %} : Responsable pédagogique e-MBDS
+- {% prof nathalie %} : Responsable pédagogique M2 SIRIS
+- {% prof blandel  %} : Responsable pédagogique M2 INTENSE
+- {% prof michel %} : Responsable pédagogique M2 IA2
