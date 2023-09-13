@@ -27,6 +27,10 @@ mail au responsable du site : {% respo web %}.
 
 Vous trouverez sur [cette page]({% link pages/communication.md %}) les différents logos
 
+## Syllabus
+
+Pour trouver le syllabus d’une UE connaissant son code : [Syllabus]({% link pages/syllabus.md %}).
+
 ## Maquette 2024 ##
 
 #### Maquette actuelle ####
@@ -43,12 +47,19 @@ Vous trouverez sur [cette page]({% link pages/communication.md %}) les différen
 #### Projet pour la maquette futur ####
 
 - [Maquette avec horaire](/data/maquettes/maquette-2024.pdf)
+- [Maquette avec horaire (avec projet L2 info parcours IA)](/data/maquettes/maquette-ia-2024.pdf)
 - [Vue d’ensemble]({% link pages/licence-parcours.md %})
 - [L1]({% link pages/l1.md %})
 - [L2]({% link pages/l2.md %})
 - [L3]({% link pages/l3.md %})
-- [Maquette pour les maths/info](/data/maquettes/maquetteMI-2024.pdf)
+- [Maquette pour les maths/info](/data/maquettes/maquette-transitions.pdf)
 - [Parcours math/info]({% link pages/licence-math-info.md %})
+
+
+#### Années de transitions ###
+
+- [Maquette pour licence Info](/data/maquettes/maquette-transitions.pdf)
+- [Maquette pour DL MI](/data/maquettes/maquetteMI-transitions.pdf)
 
 #### Projet des autres départements  ####
 - [Maquette dept. Math](/data/maquettes/maquette-math.pdf) Uniquement s1,s2 et s3
