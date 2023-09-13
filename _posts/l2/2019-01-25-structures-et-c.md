@@ -109,7 +109,7 @@ Ce cours est divisé en 5 grandes parties :
 
 ##### Supports de cours #####
 
-Les supports de cours pour Programmation C sont [ici](http://deptinfo.unice.fr/~obaldellon/c).
+Les supports de cours pour Programmation C sont [ici](https://upinfo.univ-cotedazur.fr/~obaldellon/c).
 
 <!--
 {% include alert info="Les supports de cours en C seront mis au fur et à mesure." %}
