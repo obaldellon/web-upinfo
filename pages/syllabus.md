@@ -1,5 +1,5 @@
 ---
-layout: page-contents
+layout: page
 show_meta: false
 title: "Syllabus"
 subheadline: "Utilitaires"
