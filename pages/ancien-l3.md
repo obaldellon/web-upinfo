@@ -67,21 +67,29 @@ Pour toute question sur les candidatures L3, contacter le responsable d'année L
 ### Validation d'UE et obtention du diplôme ###
 
 #### Obtention des UE ####
-	Une UE est acquise si la note est ≥ 10.
+
+Une UE est acquise si la note est ≥ 10.
 
 #### Obtention du Semestre ####
-	Pas de calcul de résultat au semestre mais un calcul de note indicatif.
-	En seconde session, la moyenne du semestre est calculée à partir de la meilleure note entre la 1ere session et la seconde chance dans chaque UE.
+
+Pas de calcul de résultat au semestre mais un calcul de note
+indicatif.  En seconde session, la moyenne du semestre est calculée à
+partir de la meilleure note entre la 1ere session et la seconde chance
+dans chaque UE.
 
 #### Obtention de l'Année ####
-	Pour la session 1 : pas de compensation.
-		
-	Pour la session 2 : moyenne annuelle par compensation ≥ 10.
-	En seconde session, la moyenne de l'année est calculée à partir de la meilleure note entre la 1ere session et la seconde chance dans chaque UE.
+
+Pour la session 1 : pas de compensation.
+
+Pour la session 2 : moyenne annuelle par compensation ≥ 10.  En
+seconde session, la moyenne de l'année est calculée à partir de la
+meilleure note entre la 1ere session et la seconde chance dans chaque
+UE.
 
 #### Note éliminatoire/ Note seuil ####
-	Seules les UE ≥ 7 peuvent être compensées.
+
+Seules les UE ≥ 7 peuvent être compensées.
 
 #### REDOUBLEMENT ####
-	Possible mais pas automatique.
 
+Possible mais pas automatique.
