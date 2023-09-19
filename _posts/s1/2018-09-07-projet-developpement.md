@@ -3,16 +3,16 @@ layout: syllabus
 #
 # Content
 #
-title: "Projet de développement"
+title: "Projet développement"
 logo: "logo_blanc.png"
-teaser: "L'objectif est de maîtriser la conception, le développement et la validation/vérification d’un logiciel de taille conséquente, en équipe, à partir d'un cahier des charges et en mettant en pratique des principes de développement du génie logiciel."
+teaser: "Ce module a pour objectif de donner aux étudiants les bases incontournables de la gestion de projet informatique, à la fois en termes de planification en amont du démarrage que de suivi une fois le projet commencé."
 categories:
   - S1
 tags:
   - OPT
 ects: 3
 schedule: "24h"
-website: ""
+website: "https://wiki.unice.fr/pages/viewpage.action?pageId=289482168"
 author: winter
 #
 # Styling
@@ -27,9 +27,8 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
-### Présentation du cours ###
+### Planification d'un projet informatique ###
 
-Ce module a pour objectif de donner aux étudiants les bases fondamentales de la gestion de projet informatique, à la fois en termes de planification en amont du démarrage que de suivi une fois le projet commencé.
 Le cours est divisé en sept chapitres :
 
 **1 -**	La première partie concerne la maîtrise du contenu du projet. Ce que l'on appelle le contenu est avant tout l'application que l'on veut réaliser mais, par extension, il faut également y intégrer tout ce qui va être livré au client. Comme l’application à développer est la raison d'être du projet, la maitrise de son périmètre fonctionnel est un point essentiel qui fait l’objet de ce premier chapitre.
