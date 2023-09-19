@@ -59,27 +59,34 @@ pages/ancien-licence-admission.md %}).
 
 ### Admission en L3 informatique ###
 
-L'admission en L3 informatique est décidée par différents jurys d'admission.
-Pour les étudiants ayant effectué leur L2 à Nice, le jury d'admission se base sur les règles expliquées sur la page de la L2.
+Pour les étudiants ayant effectué la Licence 2 informatique de l'Universite Cote d'Azur l'annee precedant leur candidature en L3, les règles d'admission en L3 sont celles expliquées sur la page de la L2.
 
-Pour les étudiants extérieurs, le jury d'admission se prononce sur chaque candidature recue sur e-candidat ou campus France, et peut réorienter des candidatures en L2.
+Pour les étudiants extérieurs, c'est a dire venant d'une autre formation de l'Universite Cote d'Azur ou d'une autre universite, les candidatures se font, a l'exclusion de tout autre moyen, par la plateforme e-candidat (attention a la dates limite).
+
+Pour les etudiants etrangers, les candidatures se font, a l'exclusion de tout autre moyen, par la plateforme "Etudes en France" (attention a la dates limite).
 
 Pour toute question sur les candidatures L3, contacter le responsable d'année L3.
 
+
 ### Validation d'UE et obtention du diplôme ###
 
-Une UE (Unité d’enseignement) est validée en première session si la note d'UE est supérieure ou égale à 10/20.
-Cette note d'UE est calculée à partir de diverses évaluations, incluant un examen terminal, selon des modalités de
-contrôle de connaissances propres à chaque UE et communiquées par l'enseignant.
+#### Obtention des UE ####
+	Une UE est acquise si la note est ≥ 10.
 
-Une UE est validée en seconde session si la note de seconde chance ou d'examen de seconde session est supérieure ou égale à 10/20. Si la note de seconde session est meilleure que la note de première session, elle la remplace, sinon la note de première session est conservée.
+#### Obtention du Semestre ####
+	Pas de calcul de résultat au semestre mais un calcul de note indicatif.
+	En seconde session, la moyenne du semestre est calculée à partir de la meilleure note entre la 1ere session et la seconde chance dans chaque UE.
 
-Une UE validée reste par défaut acquise définitivement (en cas de redoublement).
+#### Obtention de l'Année ####
+	Pour la session 1 : pas de compensation.
+		
+	Pour la session 2 : moyenne annuelle par compensation ≥ 10.
+	En seconde session, la moyenne de l'année est calculée à partir de la meilleure note entre session1 et seconde chance dans chaque UE
 
-La note d'UE de fin d'année est le max de la note d'UE de session 1 et de celle de session 2.
+#### Note éliminatoire/ Note seuil ####
+	Seules les UE ≥ 7 peuvent être compensées.
 
-La moyenne annuelle est la moyenne des notes de fin d'année de toutes les UEs de l'année, en pondérant chaque UE par son nombre de crédits ECTS (6 pour les cours d'informatique, 2 pour l'anglais et les compétences transverses).
-
-Si la moyenne annuelle est > 10, le diplôme est acquis et toutes les UEs sont validées. Les UE avec une note < 10 sont alors acquises par compensation.
+#### REDOUBLEMENT ####
+	Possible mais pas automatique.
 
 {% endcomment %}
