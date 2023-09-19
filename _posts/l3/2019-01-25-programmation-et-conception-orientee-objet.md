@@ -14,7 +14,7 @@ tags:
 ects: 6
 schedule: "48h"
 # website: "#"
-author:  stephanejeannin, julien
+author:  stephanejeannin, cristopherleturc
 #
 # Styling
 #

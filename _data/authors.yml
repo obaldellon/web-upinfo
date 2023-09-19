@@ -314,6 +314,14 @@ stephanejeannin:
   email: "stephane.jeannin@univ-cotedazur.fr"
   upinfo: true
 
+cristopherleturc:
+  name: "C. Leturc"
+  prenom: "Christopher"
+  nom: "Leturc"
+  grade: "Maître de Conférence"
+  email: "christopher.leturc@univ-cotedazur.fr"
+  upinfo: true
+
 leo:
   name: "L. Donati"
   prenom: "Leo"
