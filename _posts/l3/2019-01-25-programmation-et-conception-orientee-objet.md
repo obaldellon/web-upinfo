@@ -14,7 +14,7 @@ tags:
 ects: 6
 schedule:  "18h CM + 18h TD + 18h TP"
 # website: "#"
-author:  stephanejeannin, julien
+author:  stephanejeannin, christopher
 #
 # Styling
 #
