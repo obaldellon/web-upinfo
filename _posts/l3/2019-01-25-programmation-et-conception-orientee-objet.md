@@ -12,7 +12,7 @@ categories:
 tags:
   - S5
 ects: 6
-schedule: "48h"
+schedule:  "18h CM + 18h TD + 18h TP"
 # website: "#"
 author:  stephanejeannin, julien
 #
@@ -31,31 +31,31 @@ header:
 
 ###  Contenu ###
 
-Il s'agit d'un cours de Programmation Orientée Objet qui se base sur le langage Java. Il est destiné aux étudiants de L3 du parcours Informatique.
 
-1. Introduction
-2. Les classes
-3. Les tableaux
-4. Les chaînes de caractères
-5. Le polymorphisme
-6. Compléments sur l'héritage
-7. Exceptions et assertions
-8. Flux et entrées/sorties
-9. Généricité
-10. Collections et algorithmes
+Un cours de Programmation et de Conception Orientée Objet basé sur les langages Java et UML. Il se tient sur 9 séances.
+
+Il contient trois parties principales, comportant 3 cours chacune :
+
+1. Concepts de base
+   1. Introduction
+   2. Héritage, visibilité
+   3. Abstraction et interfaces
+2. Applications de l'orienté objet en Java
+   1. Flux I/O, types énumérés, typage dynamique
+   2. Exceptions, assertions, classes internes
+   3. Types dérivés, collections
+3. Orienté Objet avancé
+   1. Design Patterns
+   2. Architectures logicielles en orienté objet
+   3. Au-delà de l'orienté objet
 
 
 ###  Ressources ###
 
-La majorité du cours est basée sur la version 6 de Java. Ponctuellement, des notions introduites dans Java 7 et Java 8 pourront être présentées. Il est donc conseillé d'avoir les dernières versions de Java installées pour pouvoir reproduire tous les exemples.
-
-### Liens utiles
+Le cours se base sur Java 8 et sur UML.
 
 - Page de téléchargement du JRE et du JDK : http://www.oracle.com/technetwork/java/javase/downloads/index.html
 - Java Standard Edition 8 API Specification : http://docs.oracle.com/javase/8/docs/api/
-- Java Standard Edition 7 API Specification : http://docs.oracle.com/javase/7/docs/api/
-- Java Standard Edition 6 API Specification : http://docs.oracle.com/javase/6/docs/api/
-- Les tutoriaux de Java : http://docs.oracle.com/javase/tutorial/
-- e livre Thinking in Java 3ed (Bruce Eckel) : http://www.mindviewinc.com/Books/downloads.html
-- Le site de l'EDI NetBeans
-- Le site de l'EDI Eclipse
+- Des tutoriels pour Java : http://docs.oracle.com/javase/tutorial/ et https://www.w3schools.com/
+- Programmer avec Java – Collection O'Reilly
+- Apprendre la POO avec le langage Java – Editions ENI
