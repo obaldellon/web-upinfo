@@ -123,7 +123,9 @@ Les compétences développées sont les suivantes :
 ## Validation des UE et du diplôme  ##
 
 
-{% include alert warning="<b>À Compléter</b>" %}
+Les règles de validation d'une UE de la licence informatique sont à consulter sur la page de l'année dans laquelle vous êtes inscrit.
+
+Pour obtenir le diplôme de la licence informatique, il faut être inscrit en L3 et valider l'année selon les règles décrites sur le site de la L3.
 
 {% comment %}
 
