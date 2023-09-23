@@ -10,19 +10,24 @@ header:
 permalink: "/syllabus/"
 ---
 
-<form id="syllabus">
-	<div class="field">
-		<label for="codeue">Code UE:</label>
-		<input type="text" id="name" name="name" placeholder="SPUF21" />
-		<small></small>
-	</div>
-	<button onclick="VaChercherLeSyllabus()">Voir le syllabus</button>
-</form>
+
+Entrez un code UE : <br/>
+
+<input placeholder="exemple : SPUF21" name="name" />
+
+
 
 
 <script>
-  function VaChercherLeSyllabus() {
-      const form = document.getElementById('syllabus');
-      window.open("https://syllabus.univ-cotedazur.fr/fr/course/router-light/" + form.elements["name"].value, "_blank")
-  }
+const input = document.querySelector("input");
+const log = document.getElementById("log");
+
+input.addEventListener("change", VaChercherLeSyllabus);
+
+
+function VaChercherLeSyllabus(e) {
+    const code_ue = e.target.value;
+    const prefix_url = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/";
+    window.open( prefix_url + code_ue, "_blank");
+}
 </script>
