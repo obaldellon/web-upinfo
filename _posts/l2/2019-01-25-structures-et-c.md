@@ -130,7 +130,7 @@ Les supports de cours pour Programmation C sont [ici](https://upinfo.univ-coteda
 - Les 6 premières séances sont dédiées aux Structures de données.
   - 6 CMs (2h)
   - 6 TDs (2h)
-- Les 6 séances siuvantes sont dédiées à la programmation C.
+- Les 6 séances suivantes sont dédiées à la programmation C.
   - 6 CMs (2h)
   - 6 TPs (3h)
 
