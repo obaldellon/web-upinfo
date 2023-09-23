@@ -53,6 +53,7 @@ scolarité à l’adresse :</b>
 
 ### MIAGE ###
 
+- {% prof tounsi %} et {% prof leo %} : Référents L1/L2 MIASHS parcours MIAGE
 - {% prof tounsi %} : Responsable pédagogique en L3 MIASHS parcours MIAGE
 - {% prof tounsi %} : Responsable de l'alternance en L3 MIASHS parcours MIAGE
 - {% prof michel %} : Coordinateur des Masters MIAGE

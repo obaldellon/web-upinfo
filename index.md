@@ -5,9 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: UP Info (UCA)
-title: upinfo@uca
-title: UP Info — UCA
+title: UP Info — UniCA
 header:
   image_fullwidth: 'header-valrose-printemps-petite.jpg'
   caption: "Le campus Valrose au printemps."

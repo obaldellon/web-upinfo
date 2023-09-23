@@ -39,7 +39,7 @@ enseignants-chercheurs de l’UP Info sont tous membres du laboratoire
 d’informatique l’[I3S](https://www.i3s.unice.fr) situé sur le campus
 SophiaTech.
 
-Au sein de l’UCA, se trouve un autre laboratoire d’informatique, celui
+Au sein de l’UniCA, se trouve un autre laboratoire d’informatique, celui
 de
 l’[Inria](https://www.inria.fr/fr/centre-inria-universite-cote-azur)
 situé lui aussi sur le campus de Sophia Antipolis ainsi que deux

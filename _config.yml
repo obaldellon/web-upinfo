@@ -8,14 +8,14 @@
 #                                                 /____/
 #
 # Title of your website
-#title: "UP Info (UCA)"
+#title: "UP Info (UniCA)"
 title: "UP Info"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "L’informatique à l’Université Côté d’Azur"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-old-description: "L’unité pédagogique informatique regroupe l’ensemble des enseignants d’informatique de  licence et de  master à l’UCA"
+old-description: "L’unité pédagogique informatique regroupe l’ensemble des enseignants d’informatique de  licence et de  master à l’UniCA"
 description: "L’Unité Pédagogique Informatique regroupe les enseignants d’informatique de la Faculté des Sciences et Ingénierie de l’Université Côté d’Azur."
 # Le Master Informatique c'est un enseignement scientifique et technique de haut niveau afin de former des informaticiens aptes à s'adapter à l'évolution rapide des technologies de l'information.
 
