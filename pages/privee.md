@@ -31,6 +31,7 @@ Vous trouverez sur [cette page]({% link pages/communication.md %}) les différen
 
 Pour trouver le syllabus d’une UE connaissant son code : [Syllabus]({% link pages/syllabus.md %}).
 
+
 ## Maquette 2024 ##
 
 #### Maquette actuelle ####
@@ -89,3 +90,11 @@ Pour se retrouver dans ce beau bordel :)
 {% assign fsi="FSI" %}
 - [Responsable FSI](https://www.i3s.unice.fr/~bernot/{{fsi}}/) Listes des responsables des autres disciplines
 - [SGCE](https://sgce-test.univ-cotedazur.fr/) Pour rentrer ses heures et gérer la répartition.
+
+### Jours de présence de Laetita Infantino au département
+
+- Lundi : présente
+- Mardi : présente
+- Mercredi : télétravail
+- Jeudi : présente
+- Vendredi : absente
