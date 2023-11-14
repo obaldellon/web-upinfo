@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Algorithmique 2"
-subtitle: "Graphes, arbres et programmation linéaire"
+subtitle: "Graphes, texte et objets géométriques"
 cours-id: "L3-algo-2"
 logo: "logo_blanc-l.png"
 teaser: "Courte description"
