@@ -30,11 +30,9 @@ header:
 
 ### Intervenants ###
 
-[Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) et [Laurent Tichit](mailto:laurent.tichit@univ-cotedazur.fr).
+[Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) et [Margaux Schmied](mailto:margaux.schmied@univ-cotedazur.fr).
 
 ### Calendrier ###
-
-Les initiales de l'intervenant sont indiquées pour chaque séance de cours.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=h0cela5jlrkbjqql970k62mjuo%40group.calendar.google.com&ctz=Europe%2FParis" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
