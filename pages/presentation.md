@@ -52,8 +52,9 @@ Nice](https://polytech.univ-cotedazur.fr/).
 
 ### Où pouvez-vous nous trouver ? ###
 
-Le département a momentanément déménagé pendant l’été. Vous nous
-trouverez actuellement dans le bâtiment à côté du petit Valrose.
+Le département sous l’amphithéâtre informatique au centre du campus
+Valrose. En entrant dans le campus, il se trouve sur la droite en
+suivant l’allée centrale.
 
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/up-info-uca_931349?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/up-info-uca_931349">Voir en plein écran</a></p>
