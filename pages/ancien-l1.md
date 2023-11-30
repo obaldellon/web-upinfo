@@ -105,7 +105,7 @@ scientifiques ainsi qu’une UE commune à tous les étudiants, les
 compétences transversales (anglais, etc.).
 
 
-### Vous êtes inscrit dans le parcours informatique ###
+### Vous êtes inscrits dans le parcours informatique ###
 
 
 Au premier semestre, vous ne suivez qu’une UE d’informatique. Cela
@@ -144,13 +144,12 @@ de suivre l’UE destiné aux informaticiens : {% UE L1-BI %}
 
 
 Pour le second semestre, vous pouvez choisir une UE d’informatique. On
-vous conseille plutôt le cours de {% UE L1-PI %}. Ce dernier va plus
-loin et est plus complet que l’UE {% UE L1-IIW %} du premier semestre
-qui est une UE d’introduction.
-
-Pour ceux déjà à l’aise avec la programmation, vous pouvez aussi
-choisir {% UE L1-sys-1 %} pour apprendre
-l’utilisation avancé d’un ordinateur sous Unix.
+vous conseille plutôt le cours de {% UE L1-PI %}. Ce dernier reste
+pertinent même si vous avez déjà suivie {% UE L1-IIW %} au premier
+semestre qui reste une UE d’introduction.  Pour ceux déjà à l’aise
+avec la programmation et veulent découvrir un autre aspect de
+l’informatique, vous pouvez choisir à la place {% UE L1-sys-1 %} pour
+apprendre l’utilisation avancée d’un ordinateur sous Unix.
 
 
 
@@ -167,7 +166,26 @@ l’utilisation avancé d’un ordinateur sous Unix.
 
 ## Règles pour valider l’année
 
-{% include alert warning="<b>À Compléter</b>" %}
+Pour valider l’année de L1 informatique et passer en L2 informatique
+vous devez valider au moins quatre UE scientifiques.
+
+En particulier vous devez valider deux UE d’informatique parmi :
+
+1. : {% UE L1-BI %}
+2. : {% UE L1-sys-1 %}
+3. : {% UE L1-PI %} (ou éventuellement {%UE L1-IIW%}).
+
+Ainsi que deux UE de mathématiques parmi:
+
+1. {% syllabus SPUM11 : Math fondements 1 %}
+2. {% syllabus SPUM13 : Math approfondissement 1 %}
+3. {% syllabus SPUM21 : Math fondements 2 %}
+4. {% syllabus SPUM22 : Math méthode 2 %}
+5. {% syllabus SPUM23 : Math approfondissement 2 %}
+
+En plus de cela, vous devez avoir 10 de moyenne.
+- 10 de moyenne générale en sciences (8 meilleures UE scientifiques).
+- 10 de moyenne avec les CT
 
 {% comment %}
 

@@ -60,7 +60,20 @@ venant de l’extérieur, merci de consulter la page concernant les
 
 ## Conditions d'inscription et de validation ##
 
-{% include alert warning="<b>À Compléter</b>" %}
+### Conditions d’inscription
+
+La L2 informatique est la suite logique de la L1 informatique du
+portail S&T à l’UniCA. Il suffit de valider cette dernière pour avoir
+le droit de s’inscrire en L2 informatique. Les autres inscriptions se
+faisant sur dossier.
+
+### Validation de la L2 informatique
+
+Pour valider la L2 informatique il faut
+
+1. Être inscrit en L2 informatique
+2. Sur les deux années L1 et L2 avoir validé 6 UE d’informatique et 2 UE de mathématiques
+3. Avoir globalement la moyenne aux UE d’informatique de L2.
 
 {% comment %}
 
