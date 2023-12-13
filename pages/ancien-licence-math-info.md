@@ -18,7 +18,7 @@ Pour accéder à la première année de la licence MI il faut tout simplement in
 Pour l'accès à la deuxième année ou à la troisième année en provenance d'une autre licence il faudra en discuter avec les coordinateurs.
 
 
-Responsables : {% respo mi-info %} (info) et {% respo mi-math %} (math)
+Responsables : {% respo mi-info %} (info) et {% respo mi-math1 %}, {% respo mi-math2 %} (math)
 
 ### Les liens sur le site du département mathématiques
 

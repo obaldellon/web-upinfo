@@ -14,7 +14,7 @@ permalink: "/flicence/math-info/"
 
 {% include alert info="<b>Cette maquette pour 2024 est en cours de discussion.</b>" %}
 
-Responsables : {% respo mi-info %} (info) et {% respo mi-math %} (math)
+Responsables : {% respo mi-info %} (info) et {% respo mi-math1 %}, {% respo mi-math2 %} (math)
 
 ## Les liens sur le site du département mathématiques
 

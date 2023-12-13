@@ -32,10 +32,15 @@ licence:
 mi-info:
   id: sandrine
 
-mi-math:
+mi-math1:
   prénom: "Christophe"
   nom: "Cazenave"
   email: "christophe.cazenave@univ-cotedazur.fr"
+
+mi-math2:
+  prénom: "Afeintou"
+  nom: "Sangam"
+  email: "Afeintou.Sangam@univ-cotedazur.fr"
 
 master:
   id: andrea
