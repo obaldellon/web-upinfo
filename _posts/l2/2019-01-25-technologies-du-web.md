@@ -8,7 +8,7 @@ cours-id: "L2-techno-web"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours présente le fonctionnement du web, ainsi que la production de pages web statiques et la programmation de pages web dynamiques, tant du côté client que serveur. "
 categories:
-  - L2
+  - L2-info
 tags:
   - S4
   - OPT
