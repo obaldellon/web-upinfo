@@ -14,7 +14,7 @@ tags:
     - S2
 ects: 6
 schedule: "52h"
-website: "http://deptinfo.unice.fr/~obaldellon/python"
+website: "https://upinfo.univ-cotedazur.fr/~obaldellon/python"
 author: olivier
 #
 # Styling
