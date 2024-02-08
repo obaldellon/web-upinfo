@@ -20,11 +20,11 @@ Pour l'accès à la deuxième année ou à la troisième année en provenance d'
 
 Responsables : {% respo mi-info %} (info) et {% respo mi-math1 %}, {% respo mi-math2 %} (math)
 
-### Les liens sur le site du département mathématiques
+<!-- ### Les liens sur le site du département mathématiques -->
 
-- [Licence 1](https://math.unice.fr/pageslicence/licence-1-double-diplôme-math-info.html)
-- [Licence 2](https://math.unice.fr/departement/licence-2-double-diplôme-math-info.html)
-- [Licence 3](https://math.unice.fr/departement/licence-3-double-diplome-math-info.html)
+<!-- - [Licence 1](https://math.unice.fr/pageslicence/licence-1-double-diplôme-math-info.html) -->
+<!-- - [Licence 2](https://math.unice.fr/departement/licence-2-double-diplôme-math-info.html) -->
+<!-- - [Licence 3](https://math.unice.fr/departement/licence-3-double-diplome-math-info.html) -->
 
 ### Parcours
 
