@@ -1,0 +1,65 @@
+### Indice 1 : La chasse commence ! ###
+
+#### `man` ####
+
+La première commande à connaître est `man`, qui est un raccourci pour `manuel`.
+Taper `man [commande]` vous donnera une page d'aide (appelée `manpage`) pour la
+plupart des commandes.
+
+#### `ls` ####
+
+La commande suivante à connaître est `ls` (list). Taper `man ls` et lire la
+description. Appuyer sur `q` pour quitter. Puis taper `ls`, ce qui devrait
+donner
+
+    fonctions  generer_probleme.py  images  indice_suivant.py  pytransform
+
+S'il y a de la couleur, les répertoires sont en bleu, tous les autres sont
+des fichiers.
+
+#### `cd` ####
+
+Une autre commande utile est `cd` (change directory) pour changer de
+répertoire. Remarque : `man cd` ne fonctionne pas.
+Toutes les commandes n'ont pas de manpage. Mais on peut utiliser
+
+    cd --help
+
+pour avoir de l'aide. Cela dit, changer de répertoire est simple : il suffit de
+taper
+
+    cd indices
+
+pour se placer dans le répertoire `indices`. Pour remonter d'un niveau, taper
+
+    cd ..
+
+Pour revenir au départ, taper
+
+    cd ~/tresor-shell
+
+#### générer les indices ####
+
+Retourner dans `~/tresorshell`. Puis taper
+
+    ./generer_probleme.py NUM
+    
+où `NUM` est votre numéro secret.
+
+
+Si vous `cd` vers `indices` puis tapez `ls`, vous verrez qu'il y a *beaucoup*
+de répertoires d'indices. La plupart contient de faux indices. Vous allez
+rechercher les *vrais indices*.
+
+En utilisant, `cd`, déplacez-vous vers `indices/12345` puis tapez `ls`.
+Vous devriez y trouver un seul fichier appelé `indice`.
+
+#### `cat` ####
+
+Enfin, il faudra lire les indices. Consultez d'abord la page de manuel de `cat`
+puis tapez
+
+    cat indice
+
+L'indice s'affichera dans le terminal. La suite de la chasse se passera dans
+le terminal.
