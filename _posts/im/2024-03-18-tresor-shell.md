@@ -84,14 +84,14 @@ sudo apt update
 sudo apt install python3.9
 ```
 
-Vérifiez que la version de `python3` est `3.7`, `3.8`ou `3.9`
+Vérifiez que la version de `python3` est `3.7`, `3.8`, `3.9`, `3.10` ou `3.11`
 
 ```bash
 python3 -V
 ```
 
 {% include alert warning="Attention<br>
-Vous pouvez rencontrer des problèmes si vous utiliser `python3.10` ou `python3.11`." %}
+Ce n'est pas possible de faire ce projet si vous utiliser `python3.12`." %}
 
 ### Outils supplémentaires ###
 
