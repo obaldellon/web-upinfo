@@ -184,7 +184,7 @@ Vous devez rendre les fichiers suivants sur moodle :
 ### Date ###
 
 {% include alert alert="Date limite<br>
-Vous devez rendre votre projet au plus tard le vendredi 5 avril 2024." %}
+Vous devez rendre votre projet au plus tard le dimanche 14 avril 2024." %}
 
 ## Chasse au trésor dans le shell ##
 

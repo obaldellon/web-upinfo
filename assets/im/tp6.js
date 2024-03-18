@@ -40,3 +40,16 @@ if (num == "" || !etus.includes(num)) {
 } else {
   location.replace(filename)
 }
+
+// CM | 18h | 27h
+// TP | 18h | 18h
+// TP | 18h | 18h
+// --------------
+//    | 54h | 63h
+
+// CM | 12h | 18h
+// TP | 24h | 24h
+// TP | 24h | 24h
+// --------------
+//    | 60h | 66h
+
