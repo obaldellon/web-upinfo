@@ -74,7 +74,7 @@
   - title: "M1 Informatique et AI"
     url: "/master/m1/"
   - title: "M1 Syllabus"
-    url: "/master/liste" 
+    url: "/master/liste"
   #- title: "M2 Informatique Fondamentale"
   #  url: "/master/m2/"
   - title: "Alternance"
@@ -85,8 +85,10 @@
   url: "#"
   side: left
   dropdown:
-  - title: "EDT L1"
+  - title: "EDT L1 : semestre 1"
     url: "/portail/etudiants/s1/"
+  - title: "EDT L1 : semestre 2"
+    url: "/portail/etudiants/s2/"
   - title: "Campus"
     url: "/campus/"
   - title: "Bourses"
@@ -124,8 +126,10 @@
   url: "#"
   side: left
   dropdown:
-    - title: "EDT L1 (portail SITE)"
+    - title: "EDT L1 (portail SITE) : semestre 1"
       url: "/portail/etudiants/s1/"
+    - title: "EDT L1 (portail SITE) : semestre 2"
+      url: "/portail/etudiants/s2/"
     - title: "Licence informatique"
       url: "/divers/rentree-licence-2024-2025/"
     - title : "Master informatique"
