@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Algorithmique et Complexité"
+title: "Computational complexity"
 logo: "logo_blanc.png"
 teaser: "La complexité computationnelle est une notion fondamentale en informatique qui essaye de comparer/classer les algorithmes par rapport à des fonctions de coût des ressources demandées par leur exécution (complète). La complexité d’un algorithme est donc une mesure de la qualité et comme toute mesure elle a besoin d’un système de référence. Les machines de Turing vont être notre principal système de référence."
 categories:

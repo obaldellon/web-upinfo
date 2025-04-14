@@ -9,3 +9,6 @@ Gemfile.lock
 _build/
 _images/
 Makefile
+pages/licence-edt.md
+pages/portail.md
+pages/portail_temp.md

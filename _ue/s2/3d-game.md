@@ -3,14 +3,13 @@ layout: syllabus
 #
 # Content
 #
-title: "Programmation de jeux vidéo multi-joueurs (mineure) "
+title: "3D Game Programming in Real Time on the Web"
 logo: "logo_blanc.png"
 teaser: "Nous vous proposons ici une <b>mineure DS4H</b> de programmation de jeux vidéo multi-joueurs, incluant graphismes 2D et 3D à 60 images/s, les aspects multi-joueurs temps réel, comportements réactifs et implémentations d'algorithmes classiques (graphes, A*, quadtrees, etc.). L'implémentation se fera en JavaScript et sans doute à l'aide d'une librairie 2D ou 3D. Le suivi de la mineure Technologies Web que je propose à côté de ce cours sera un bon complément/support d'apprentissage de la programmation JavaScript."
 categories:
   - S2
 tags:
   - OPT
-  - MINEURE
 ects: 3
 schedule: "24h"
 # website: "#"

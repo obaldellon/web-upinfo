@@ -14,9 +14,9 @@ Please refer to <a href="https://univ-cotedazur.fr/formation/offre-de-formation/
 to see which are the courses activated for your program.
 
 
-### Semestre 1
+### Semester 1
 {%include upinfo-accordion-posts category="S1" %}
 
 
-### Semestre 2
+### Semester 2
 {%include upinfo-accordion-posts category="S2" %}

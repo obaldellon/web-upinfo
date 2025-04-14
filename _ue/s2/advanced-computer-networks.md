@@ -3,9 +3,9 @@ layout: syllabus
 #
 # Content
 #
-title: "Internet of the future"
+title: "Advanced Computer Networks"
 logo: "logo_blanc.png"
-teaser: "<strong>This course is not available in 2020-2021.</strong> </br>This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
+teaser: "This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
 categories:
   - S2
 tags:
@@ -13,7 +13,7 @@ tags:
   - EN
 ects: 3
 schedule: "24h"
-website: "http://www.i3s.unice.fr/~raparicio/teaching/IoF/"
+website: "https://lms.univ-cotedazur.fr/2024/course/view.php?id=17838"
 author: ramon
 #
 # Styling
@@ -54,9 +54,11 @@ A previous background on networking basics is expected to follow the course. Stu
 * Session 8.	WIRELESS MOBILITY
     * Host and Router Mobility, Ad hoc routing
 
+<strong>DISCLAIMER: Small changes are still possible.</strong>
+
 ## Teaching materials ##
 
-- Access only granted by password: http://www.i3s.unice.fr/~raparicio/teaching/IoF/
+- In LMS website: <https://lms.univ-cotedazur.fr/2024/course/view.php?id=17838> 
 
 ## Bibliography ##
 
@@ -64,14 +66,15 @@ A previous background on networking basics is expected to follow the course. Stu
 
 ## Evaluation ##
 
-- 2-hour written exam: 60% (French Univ. jargon: CT, Contrôle Terminal écrit de 2h)
-- 1 Labs mark: 40% (French Univ. jargon: CC, une note de Contrôle Continue)
+- 1-hour written exam - Part 1: 30%
+- 1-hour written exam - Part 2: 30% 
+-  Lab activities + home and class works : 40% 
 
 ## Retake ##
 
-- ONLY 2-hour written exam (French Univ. jargon: 2nd session = examen écrit de 2h)
+- ONLY 2-hour written exam
 
 ## Lecturers ##
 
-- Ramon Aparicio Pardo (Module coordinator): http://www.i3s.unice.fr/~raparicio/
-- Chadi Barakat : https://team.inria.fr/diana/team-members/chadi/
+- Ramon Aparicio Pardo: <https://www.i3s.unice.fr/~raparicio/>
+- Chadi Barakat: <https://team.inria.fr/diana/team-members/chadi/>

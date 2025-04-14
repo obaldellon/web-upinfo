@@ -3,9 +3,9 @@ layout: syllabus
 #
 # Content
 #
-title: "Méthodes avancées PPC/PL"
+title: "Modélisation par Contraintes"
 logo: "logo_blanc.png"
-teaser: "Nous introduisons la programmation linéaire tout en continuant l'apprentissage de la modélisation PPC/PL avec un solveur très utilisé dans l'industrie."
+teaser: "Nous apprenons la modélisation en programmation linéaire et en programmation par contraintes avec un solveur très utilisé dans l'industrie."
 categories:
   - S2
 tags:
@@ -30,11 +30,13 @@ header:
 
 ### Description ###
 
-nous introduisons la programmation linéaire (PL), une méthode efficace et reconnue de résolution de problèmes d'optimisation linéaire.
-Les principes fondamentaux sont abordés en vue d'une meilleure exploitation de la technologie.
 
-Nous continuons aussi l'apprentissage de la modélisation que ce soit en programmation par contraintes (PPC) ou en programmation linéaire (PL).
-Nous adoptons une approche comparative et expérimentale pour tenter de comprendre quelle méthode est la plus adaptée pour un problème particulier.
+Les principes fondamentaux de la programmation linéaire et de la programmation par contraintes sont abordés en vue d'une meilleure exploitation des ces méthodes.
+La programmation linéaire est une technique largement utilisée pour résoudre des problèmes d'optimisation linéaire.
+Quant à la programmation par contraintes, elle s'avère particulièrement adaptée à la résolution de problèmes combinatoires complexes, comme ceux liés à l'ordonnancement ou à la planification.
+
+L'objectif principal du cours est l'apprentissage de la modélisation de ces problèmes que ce soit en programmation linéaire ou en programmation par contraintes.
+Nous adoptons une approche comparative empirique pour déterminer quelle méthode est la plus adaptée pour un problème particulier.
 
 Les travaux pratiques sont réalisés avec la suite [IBM Ilog optimization studio](https://www.ibm.com/fr-fr/products/ilog-cplex-optimization-studio), un outil très utilisé dans l'industrie.
 
@@ -45,10 +47,8 @@ Les travaux pratiques sont réalisés avec la suite [IBM Ilog optimization studi
  - Le [Cahier d'exercices](https://www.enseignement.polytechnique.fr/profs/informatique/Leo.Liberti/teaching/isic/isc610a-08/) du cours de Recherche Operationnelle du professeur Léo Liberti. Merci à lui pour le partage.
 
 ### Modalités de contrôle des connaissances ###
- - À déterminer -- 2 TP Notés ou 1 Partiel ou 1 Projet (50%)
- - 1 Examen écrit (50%)
-
-L'examen aura lieu pendant la dernière séance du cours.
+ - 1 TP Noté ou 1 Examen écrit (50%).
+ - 1 Examen écrit (50%) pendant la dernière séance du cours.
 
 ### Ressources ###
 

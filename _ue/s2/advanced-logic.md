@@ -8,7 +8,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Logique avancée"
+title: "Advanced Logic"
 logo: "logo_blanc.png"
 teaser: "With this lecture we invite you to discover some close links between logic and automata."
 
@@ -27,7 +27,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2021/AL"
-author: martin, etienne
+author: elisabetta, etienne
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.

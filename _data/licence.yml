@@ -16,17 +16,17 @@ S2:
   courses:
     - cours-id: "L1-BI-2"
     - cours-id: "L1-sys-1"
-    - title: "Mathématiques : Méthode Algèbre linéaire 2 & Méthode Analyse  2"
-      syllabus: "SPUMTODO"
+    - title: "Mathématiques : Algèbre linéaire & Calculus  2"
+      syllabus: "SPUM200"
     - title: L'une des UE non disciplinaire suivantes
       options:
         - title: "Mathématiques : Logique & Arithmétique"
-          syllabus: "SPUMTODO"
+          syllabus: "SPUM202"
           remarque: "(conseillé)"
         - title: "Électronique : Communication sans fil du terrestre au spatial"
-          syllabus: "SPUE21"
+          syllabus: "SPUE200"
         - title: "Électronique : Électronique analogique"
-          syllabus: "SPUE20"
+          syllabus: "SPUE201"
     - title: UE Compétences transversales
       uet: true
 
@@ -39,8 +39,8 @@ S3:
     - title: L'une des UE non disciplinaires suivantes
       options:
         - cours-id: "l2-R"
-        - title: "Mathématiques : Algèbre linéaire & Structures algébriques"
-          syllabus: "SPUM_TODO"
+        - title: "Mathématiques : Élement de probabilités & Structures algébriques"
+          syllabus: "SPUM303"
         - title: "Introduction à l’intelligence artificielle"
           syllabus: "SPUSA301"
     - title: UE Compétences transversales

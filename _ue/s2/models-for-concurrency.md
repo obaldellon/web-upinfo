@@ -49,8 +49,8 @@ Presentation of the cours ([slides]({% include link-asset asset="slideDiGiusto.p
 ### Cours ###
 
 ### Modalités de contrôle des connaissances ###
-Final exam: 75%
-Project or report: 25%
+Final exam: 50%
+Project or report: 50%
 
 ### Ressources ###
 R. Milner, *Communication and conurrency*, Prentice-Hall, 1989

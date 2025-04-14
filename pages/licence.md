@@ -29,7 +29,7 @@ Cette formation généraliste permet une poursuite d'étude naturelle vers
 - le [master international EIT Digital Data Science](https://polytech.univ-cotedazur.fr/formations/masters)
 
 La licence informatique ouvre aussi naturellement sur un emploi dans
-les nombreuses sociétés azuréenes.
+les nombreuses sociétés azuréennes.
 
 D'autres débouchés sont bien évidemment possibles et fréquents, dans d'autres masters, écoles d'ingénieurs, université étrangères, etc, en vue d'une spécialisation dans des domaines comme:
 
