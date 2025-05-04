@@ -122,7 +122,7 @@
 
 
 
-- title: "RENTRÉE 2024/25"
+- title: "RENTRÉE 2025/26"
   url: "#"
   side: left
   dropdown:
@@ -131,9 +131,9 @@
     - title: "EDT L1 (portail SITE) : semestre 2"
       url: "/portail/etudiants/s2/"
     - title: "Licence informatique"
-      url: "/divers/rentree-licence-2024-2025/"
+      url: "/divers/rentree-licence-2025-2026/"
     - title : "Master informatique"
-      url: "/divers/rentree-master-2024-2025/"
+      url: "/divers/rentree-master-2025-2026/"
 
 
 #
