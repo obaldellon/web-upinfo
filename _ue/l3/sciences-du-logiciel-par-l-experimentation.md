@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Travail encadré d'étude, de recherche et de dévelopement"
+title: "Sciences du logiciel par l’expérimentation"
 cours-id: "L3-TERD"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif est de réaliser, en équipe, un projet de fin d'études qui combine plusieurs thèmes appris durant vos études. Le sujet à réaliser change régulièrement ainsi que les enseignants. Chaque année, le responsable de licence vous communiquera le sujet du projet à réaliser pour que vous puissiez faire votre choix."
