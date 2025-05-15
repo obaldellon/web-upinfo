@@ -32,7 +32,7 @@ scolarité à l’adresse :</b>
 [http://glpi-form-sco.univ-cotedazur.fr/](http://glpi-form-sco.univ-cotedazur.fr/)
 " %}
 
-- [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
+{%comment%} - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr){%endcomment%}
 - {% respo secrétaire %} : assistante administrative et pédagogique
 - {% respo licence-a licence-info.responsable@univ-cotedazur.fr %} et
 {% respo licence-b licence-info.responsable@univ-cotedazur.fr %}: responsables licence.
