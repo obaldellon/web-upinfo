@@ -13,7 +13,7 @@ permalink: "/licence/candidater/"
 
 ## Démarches ##
 
-Les renseignements sur les démarches à effectuer sont fournis par le [service scolarité](http://unice.fr/faculte-des-sciences/scolarite/dossiers-de-candidature) de la faculté de science.
+Les renseignements et les démarches pour les admissions peuvent être trouvées sur le  [site de l’Université](https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/a-lire-avant-de-candidater) de la faculté de science.
 - [candidater en L1](https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/candidater-en-licence-1-dut-pass-prepa-ingenieur)
 - [candidater en L2 ou L3](https://univ-cotedazur.fr/formation/candidater-et-s-inscrire/candidater/candidater-en-licence-2-licence-3-licence-professionnelle)
 
