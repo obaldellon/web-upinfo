@@ -1,4 +1,5 @@
-JEKYLL=bundle exec jekyll
+# À cause d’un bug, suite à une mise à niveau
+JEKYLL=RUBYOPT="-r./correction-bug" bundle exec jekyll build
 JOPTS= #--trace --verbose
 DEVCONF=--config _config.yml,_config_dev.yml
 CONF=--config _config.yml

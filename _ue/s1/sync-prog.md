@@ -22,7 +22,7 @@ logo: "logo.png"
 header:
   image_fullwidth: "header-synchronex9.png"
 #    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+  caption_url: https://unsplash.com/
 ---
 
 ### Description ###
@@ -48,4 +48,8 @@ header:
 
 - Introduction à [lustre]({% include link-asset asset="c1-lustre.pdf" %})
 
+{% comment %}
+
 {% bibliography --file synchronous %}
+
+{% endcomment %}
