@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header-sophia.jpg"
     caption: "Technopole Sophia Antipolis"
 
-permalink: "/programme/alternance/"
+permalink: "/master/alternance/"
 ---
 
 À lire en premier:

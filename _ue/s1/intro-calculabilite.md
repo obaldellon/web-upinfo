@@ -4,12 +4,13 @@ layout: syllabus
 # Content
 #
 logo: "logo_blanc.png"
-title: "Introduction à la calculabilité"
+title: "Introduction to Computability"
 teaser: "Le cours adopte tout d’abord une vision abstraite (les fonctions partielles partiellement récursives – PPR en abrégé) pour aller définir une classe de fonctions “candidate” à caractériser les capacités calculatoires des ordinateurs d’aujourd’hui (et de tous ceux qui sont basées sur le modèle de Von Neumann). Ensuite nous allons introduire les machines RAM en tant que version simplifiée d’un ordinateur moderne et nous montrerons que les fonctions calculées par ces machines coïncident avec les fonctions PPR. Par un argument diagonal nous montrerons qu’il existe des fonctions non-calculables."
 categories:
   - S1
 tags:
   - OPT
+  - EN
 ects: 3
 schedule: "24h"
 website: "https://piazza.com/unice.fr/fall2017/smifo12/home/"

@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www.i3s.unice.fr/~tettaman/Classes/WebM1IFI/"
-author: andrea
+author: michel
 #
 # Styling
 #

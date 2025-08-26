@@ -13,8 +13,6 @@ permalink: "/licence/parcours/"
 
 {% endcomment %}
 
-{% include alert info="<b>Cette maquette pour 2024 est en cours de discussion.</b>" %}
-
 
 ## Parcours conseillé ##
 

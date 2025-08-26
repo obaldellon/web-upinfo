@@ -26,8 +26,11 @@ L2:
 L3:
   id: christophe
 
-licence:
+licence-a:
   id: franck
+
+licence-b:
+  id : christophe
 
 mi-info:
   id: sandrine
@@ -43,7 +46,7 @@ mi-math:
   email: "Afeintou.Sangam@univ-cotedazur.fr"
 
 master:
-  id: andrea
+  id: elisabetta
 
 M1:
   id: cinzia

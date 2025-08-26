@@ -6,7 +6,7 @@ subheadline: "Presentation"
 logo: "logo-m.png"
 header:
    image_fullwidth: "header-programme.png"
-permalink: "/programme/master/"
+permalink: "/old-programme/master/"
 ---
 
 ### Présentation

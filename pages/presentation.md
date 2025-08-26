@@ -75,3 +75,4 @@ campus SophiaTech sur le site des Lucioles.
 - [Mathématiques](https://math.univ-cotedazur.fr/)
 - [Électronique](http://www.unice.fr/elec/)
 - [Physique](http://physique.unice.fr/)
+- [Sciences de la Terre](https://geoazur.oca.eu/fr/departement-sciences-de-la-terre)

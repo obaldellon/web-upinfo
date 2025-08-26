@@ -46,6 +46,7 @@ Considered problems to illustrate these methods are classical optimization probl
 
 ### Resources ###
 
+- [Lecture Notes](http://www-sop.inria.fr/members/Nicolas.Nisse/LectureGraphAlgo.pdf), Chapters 1-8 
 - [Mainly chapters 8 et 9](http://www-sop.inria.fr/members/Nicolas.Nisse/lectures/)
 - [Approximation Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Approximation%20Algorithms%20%5BVazirani%202010-12-01%5D.pdf), Vazirani.
 - [Parameterized Complexity](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf), Cygan et al.

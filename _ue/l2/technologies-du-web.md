@@ -39,7 +39,7 @@ Ce cours présente le fonctionnement du web, ainsi que la production de pages we
 Le cours comprend:
 
 - 12 séances de cours (2h)
-- 11 séances de TP (2h)
+- 10 séances de TP (3h)
 
 ###  Cours ###
 Les objectifs de ce cours sont de fournir les éléments techniques nécessaires à l'élaboration de pages Web, de sites internet dynamiques et interactifs. Au meme temps, l'enjeu majeur est de réussir à faire connaître et comprendre les nouveaux outils et modèles de conception et de développement d'applications et de systèmes d'information basés sur le web.
