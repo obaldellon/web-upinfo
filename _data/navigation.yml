@@ -128,8 +128,8 @@
   dropdown:
     - title: "EDT L1 (portail SITE) : semestre 1"
       url: "/portail/etudiants/s1/"
-    - title: "EDT L1 (portail SITE) : semestre 2"
-      url: "/portail/etudiants/s2/"
+#    - title: "EDT L1 (portail SITE) : semestre 2"
+#      url: "/portail/etudiants/s2/"
     - title: "Licence informatique"
       url: "/divers/rentree-licence-2025-2026/"
     - title : "Master informatique"
