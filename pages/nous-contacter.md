@@ -37,7 +37,7 @@ scolarité à l’adresse :</b>
 - {% respo licence-a licence-info.responsable@univ-cotedazur.fr %} et
 {% respo licence-b licence-info.responsable@univ-cotedazur.fr %}: responsables licence.
 - {% respo L1 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L1.
-- {% respo L2 licence-info.responsable@univ-cotedazur.fr %} : coordinatrice L2.
+- {% respo L2 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L2.
 - {% respo L3 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L3.
 - {% respo mi-info %} : coordinatrice informatique « double licence math/info».
 - {% respo mi-math %} : coordinateur mathématiques « double licence math/info».
