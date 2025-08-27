@@ -50,6 +50,32 @@ denis:
   email: "denis.dubruel@univ-cotedazur.fr"
   upinfo: true
 
+caromel:
+  name: "D. Caromel"
+  prenom: "Denis"
+  nom: "Caromel"
+  grade: "PR"
+  email: "denis.caromel@univ-cotedazur.fr"
+  upinfo : true
+
+
+junior:
+  name: "J. Dongo"
+  prenom : "Junior"
+  nom: "Dongo"
+  grade: "MCF"
+  email: "junior.dongo@univ-cotedazur.fr"
+  upinfo : true
+
+hajer:
+  name: "H. Zekri"
+  prenom: "Hajer"
+  nom: "Zekri"
+  grade: "MCF"
+  email: "hajer.zekri@univ-cotedazur.fr"
+  upinfo : true
+
+
 anais:
   name: "A. Ollagnier"
   prenom: "Anaïs"
