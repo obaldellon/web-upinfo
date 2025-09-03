@@ -4,7 +4,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Concepts d'intelligence artificielle"
+title: "Parcours IA: Concepts d'intelligence artificielle"
 cours-id: "L2-concepts-IA"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
