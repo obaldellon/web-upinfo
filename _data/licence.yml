@@ -40,7 +40,7 @@ S3:
       options:
         - cours-id: "l2-R"
         - title: "Mathématiques : Structures algébriques I et II"
-          syllabus: "SPUM303"
+          syllabus: "SPUM301"
         - title: "Parcours IA: Introduction à l’intelligence artificielle"
           syllabus: "SPUSA301"
     - title: UE Compétences transversales
