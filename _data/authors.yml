@@ -39,22 +39,24 @@ olivier:
   upinfo: true
 
 
-issa:
-  name: "I. M. Diop"
-  prenom: "Issa-Moussa"
-  nom: "Diop"
-  grade : "ATER"
-  email: "Issa-Moussa.DIOP@univ-cotedazur.fr"
-  upinfo: true
+
 
 denis:
   name: "D. Dubruel"
   prenom: "Denis"
   nom: "Dubruel"
-  grade: "PRCE (à partir de septembre 2024)"
+  grade: "PRCE"
+  uri: "https://upinfo.univ-cotedazur.fr/~ddubruel/"
   email: "denis.dubruel@univ-cotedazur.fr"
   upinfo: true
 
+anais:
+  name: "A. Ollagnier"
+  prenom: "Anaïs"
+  nom : "Ollagnier"
+  grade: "MCF"
+  email: "ollagnier@i3s.unice.fr"
+  upinfo: true
 
 brunob:
   name: "B. Beauquier"
@@ -196,17 +198,10 @@ isabelle:
   name: "I. Mirbel"
   prenom: "Isabelle"
   nom: "Mirbel"
-  grade: "MCF"
+  grade: "PR"
   email: "isabelle.mirbel@univ-cotedazur.fr"
   upinfo: true
 
-gabriel:
-  name: "G. Mopolo"
-  prenom: "Gabriel"
-  nom: "Mopolo"
-  grade: "Contractuel"
-  email: "gabriel.mopolo@gmail.com"
-  upinfo: true
 
 
 nicolas:
@@ -400,13 +395,6 @@ galli:
   email: "gregory.galli@univ-cotedazur.fr"
   upinfo: true
 
-amaya:
-  name: "A. Nogales Gómez"
-  prenom: "Amaya"
-  nom: "Nogales Gómez"
-  grade: "MCF (contractuelle)"
-  email: "amaya.nogales-gomez@univ-cotedazur.fr"
-  upinfo: true
 
 
 # laurent:

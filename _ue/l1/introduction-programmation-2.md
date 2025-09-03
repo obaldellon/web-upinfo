@@ -16,7 +16,7 @@ tags:
 ects: 6
 schedule: "18h CM et 30h TP"
 website: "https://lms.univ-cotedazur.fr"
-author: christopher
+author: denis
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.

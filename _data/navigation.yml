@@ -66,34 +66,28 @@
 
 
 - title: "Master"
-  url: "/programme/master/"
+  url: "/master/"
   side: left
   dropdown:
   - title: "Presentation"
-    url: "/programme/master/"
+    url: "/master/"
+  - title: "M1 Informatique et AI"
+    url: "/master/m1/"
+  - title: "M1 Syllabus"
+    url: "/master/liste"
+  #- title: "M2 Informatique Fondamentale"
+  #  url: "/master/m2/"
   - title: "Alternance"
-    url: "/programme/alternance/"
-  #- title: "Semestre 1"
-  #  url: "/programme/semestre1/"
-  #- title: "Semestre 2"
-  #  url: "/programme/semestre2/"
-  #- title: "Semestre 3"
-  #  url: "/programme/semestre3/"
-  #- title: "Stage"
-  #  url: "/programme/stage/"
-  - title: "Syllabus"
-    url: "/programme/liste/"
-  - title: "M1 news"
-    url: "/edt/m1/"
-  #- title: "M2"
-  # url: "/edt/m2/"
+    url: "/master/alternance/"
 
 
 - title: "Étudiants"
   url: "#"
   side: left
   dropdown:
-  - title: "EDT L1"
+  - title: "EDT L1 : semestre 1"
+    url: "/portail/etudiants/s1/"
+  - title: "EDT L1 : semestre 2"
     url: "/portail/etudiants/s2/"
   - title: "Campus"
     url: "/campus/"
@@ -128,14 +122,18 @@
 
 
 
-- title: "RENTRÉE 2023/24"
+- title: "RENTRÉE 2025/26"
   url: "#"
   side: left
   dropdown:
+    - title: "EDT L1 (portail SITE) : semestre 1"
+      url: "/portail/etudiants/s1/"
+    - title: "EDT L1 (portail SITE) : semestre 2"
+      url: "/portail/etudiants/s2/"
     - title: "Licence informatique"
-      url: "/divers/rentree-licence-2023-2024/"
+      url: "/divers/rentree-licence-2025-2026/"
     - title : "Master informatique"
-      url: "/divers/rentree-master-2023-2024/"
+      url: "/divers/rentree-master-2025-2026/"
 
 
 #

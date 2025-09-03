@@ -27,7 +27,7 @@ header:
 
 {% include numbered-headings main=3 %}
 
-N'hésitez pas à consulter aussi les listes des années précédentes accessibles en bas de la [page principale du TER]({% post_url /s2/2018-09-07-travail-etude-recherche %})
+N'hésitez pas à consulter aussi les listes des années précédentes accessibles en bas de la [page principale du TER]
 
 
 ### Programmation des contraintes soft dans un solver PPC

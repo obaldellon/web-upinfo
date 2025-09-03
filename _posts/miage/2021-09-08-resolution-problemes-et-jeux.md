@@ -41,9 +41,9 @@ Les initiales de l'intervenant sont indiquées pour chaque séance de cours.
 
 Il est extrait des cours suivants du Master Informatique.
 
- - [Résolution de problèmes (MP)]({% post_url s1/2018-09-07-resolution-problemes %})
- - [Méthodes avancées PPC/PL (AM)]({% post_url /s2/2018-09-07-methodes-avancees %})
- - [AI game programming (JCR)]({% post_url s1/2018-09-07-AI-game-programming %})
+ - [Résolution de problèmes (MP)](..m1/s1/problem-solving)
+ - [Méthodes avancées PPC/PL (AM)](..m1/s2/methodes-avancees)
+ - [AI game programming (JCR)](../m1/s1/AI-game-programming)
 
 Certaines évaluations et le carnet de notes seront sur [moodle](https://lms.univ-cotedazur.fr/course/view.php?id=1428) (disponible en auto-inscription).
 ### Modalités de contrôle des connaissances ###

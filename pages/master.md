@@ -6,7 +6,7 @@ subheadline: "Presentation"
 logo: "logo-m.png"
 header:
    image_fullwidth: "header-programme.png"
-permalink: "/programme/master/"
+permalink: "/master/"
 ---
 
 ### Presentation
@@ -15,10 +15,8 @@ All information concerning the master program are <a href="https://univ-cotedazu
 Here you can find the last news on the first year (schedule, syllabus of the courses, ...).
 
 ### Latest news on M1
-Read the [information of the first day, schedule of courses, last things to do before starting your year](../../edt/m1/).
+Read the [information of the first day, schedule of courses, last things to do before starting your year](../master/m1/).
 
 
 ### Syllabus of the courses
-All courses are described [here](../../programme/liste/). 
-
-
+All courses are described [here](../master/liste/).

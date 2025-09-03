@@ -11,6 +11,7 @@ categories:
   - S1
 tags:
   - OPT
+  - FR
 ects: 3
 schedule: "24h"
 website: "https://lms.univ-cotedazur.fr"

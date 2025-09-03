@@ -60,11 +60,11 @@ This is a lecture-lab course in which topics are presented by the instructor, pr
 
 ### Grading ###
 
-The [moodle course](https://lms.univ-cotedazur.fr/2022/course/view.php?id=1670) is used for group selection, drop boxes, and the grading book.
+The [moodle course](https://lms.univ-cotedazur.fr/2024/course/view.php?id=8540) is used for group selection, drop boxes, and the grading book.
 You could self register by clicking on the link if you are not already registered.
 
 Coding Battle (10%)
-: A grade is assigned depending on your ranking at the [Coding Battle](https://le-shaker.com/lacodingbattle/). Pair work is allowed.
+: A grade is assigned depending on your ranking at the [Coding Battle](https://le-matchup.com/). Pair work is allowed.
 
 Coding Battle Oral (40%)
 : Each student presents a solution to one of the problems given at the [Coding Battle](https://le-shaker.com/lacodingbattle/). Pair work is allowed for problem solving, but the oral is into individual.

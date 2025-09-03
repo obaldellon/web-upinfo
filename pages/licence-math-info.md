@@ -15,8 +15,6 @@ permalink: "/licence/math-info/"
 
 
 
-{% include alert info="<b>Cette maquette est pour 2024/2025 et contient quelques erreurs à corriger .</b>" %}
-
 
 La licence Mathématique-Informatique est une filière sélective avec une formation renforcée dans les sciences mathématiques et informatiques. La formation est sur trois ans et délivre un diplôme de licence informatique et un de licence mathématiques.
 
@@ -35,7 +33,6 @@ Responsables : {% respo mi-info %} (info) et {% respo mi-math %} (math)
 
 ## Parcours
 
-{% include alert info="<b>Pour les semestre 4, 5, 6 j’ai conservé les cours de l’ancienne maquette de math. Il faudra voir s’il y a des changements.</b>" %}
 
 {% include cours-parcours entry="Smi1" %}
 

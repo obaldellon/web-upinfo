@@ -55,19 +55,17 @@ pages/ancien-licence-admission.md %}).
 
 ## Conditions d'inscription et de validation ##
 
-
 ### Admission en L3 informatique ###
 
-Pour les étudiants ayant effectué la Licence 2 informatique de l'Université Côte d'Azur l'année précédant leur candidature en L3, les règles d'admission en L3 sont celles expliquées sur la page de la L2.
+L'admission en L3 informatique est décidée par différents jurys d'admission.
+Pour les étudiants ayant effectué leur L2 à Nice, le jury d'admission se base sur les règles expliquées sur la page de la L2.
 
-Pour les étudiants extérieurs, c'est-à-dire venant d'une autre formation de l'Université Côte d'Azur ou d'une autre université en France, les candidatures se font, à l'exclusion de tout autre moyen, par la plateforme e-candidat (attention à la date limite).
-
-Pour les étudiants etrangers, les candidatures se font par la plateforme "Etudes en France" (attention à la date limite).
+Pour les étudiants extérieurs, le jury d'admission se prononce sur chaque candidature recue sur e-candidat ou campus France, et peut réorienter des candidatures en L2.
 
 Pour toute question sur les candidatures L3, contacter le responsable d'année L3.
 
-
 ### Validation d'UE et obtention du diplôme ###
+{: #validation}
 
 #### Obtention des UE ####
 

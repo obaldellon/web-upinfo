@@ -32,9 +32,10 @@ scolarité à l’adresse :</b>
 [http://glpi-form-sco.univ-cotedazur.fr/](http://glpi-form-sco.univ-cotedazur.fr/)
 " %}
 
-- [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
+{%comment%} - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr){%endcomment%}
 - {% respo secrétaire %} : assistante administrative et pédagogique
-- {% respo licence licence-info.responsable@univ-cotedazur.fr %} : responsable licence.
+- {% respo licence-a licence-info.responsable@univ-cotedazur.fr %} et
+{% respo licence-b licence-info.responsable@univ-cotedazur.fr %}: responsables licence.
 - {% respo L1 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L1.
 - {% respo L2 licence-info.responsable@univ-cotedazur.fr %} : coordinatrice L2.
 - {% respo L3 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L3.
@@ -60,7 +61,6 @@ scolarité à l’adresse :</b>
 - {% prof winter %} : Responsable de l'alternance
 - {% prof leo %} : Responsable pédagogique M1
 - {% prof syska %} : Responsable pédagogique M2 MBDS
-- {% prof gabriel %} : Responsable pédagogique e-MBDS
 - {% prof nathalie %} : Responsable pédagogique M2 SIRIS
 - {% prof blandel  %} : Responsable pédagogique M2 INTENSE
 - {% prof michel %} : Responsable pédagogique M2 IA2

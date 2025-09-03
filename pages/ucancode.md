@@ -48,7 +48,7 @@ Par ailleurs, les modalités sont flexibles : travail individuel ou en groupe ; 
 Ces activités sont intégrées dans plusieurs cours de Licence et de Master que ce soit pour les travaux pratiques ou les contrôles.
 
 Nous ne donnerons pas ici une liste exhaustive des cours concernés, mais présenterons rapidement le plus emblématique du cycle Master.
-Le cours [Programming Challenge]({% post_url s1/2018-09-07-programming-challenge %}) proposé en Master 1 Informatique est entièrement dédié à ces activités.
+Le cours [Programming Challenge](..m1/s1/programming-challenge) proposé en Master 1 Informatique est entièrement dédié à ces activités.
 Le cours commence par un [tutoriel]({% post_url ucancode/2019-07-22-tutoriel %}) que l'on peut suivre en autonomie.
 Puis, il continue avec des séries d'exercices accompagnés de supports de cours.
 Ses modalités d'évaluation reposent sur la participation à un concours de programmation.

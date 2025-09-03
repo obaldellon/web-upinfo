@@ -10,7 +10,6 @@ permalink: "/licence/"
 ---
 
 
-{% include alert info="<b>Cette page concerne l’année 2024/2025.  Pour l’année 2023/2024 le lien se trouve sur [cette page](/ancien-licence/)</b>" %}
 
 ## Présentation ##
 
@@ -30,7 +29,7 @@ Cette formation généraliste permet une poursuite d'étude naturelle vers
 - le [master international EIT Digital Data Science](https://polytech.univ-cotedazur.fr/formations/masters)
 
 La licence informatique ouvre aussi naturellement sur un emploi dans
-les nombreuses sociétés azuréenes.
+les nombreuses sociétés azuréennes.
 
 D'autres débouchés sont bien évidemment possibles et fréquents, dans d'autres masters, écoles d'ingénieurs, université étrangères, etc, en vue d'une spécialisation dans des domaines comme:
 
@@ -44,8 +43,6 @@ D'autres débouchés sont bien évidemment possibles et fréquents, dans d'autre
 
 L’objectif de la licence informatique est de préparer au mieux les étudiants à ces diverses attentes.
 
-Une présentation des métiers de l’informatique et de la mention informatique a été faite lors de la période enjeux (01/09/2022).
-Les transparents correspondants sont disponibles [ici]({% include link-asset asset="metiers-info-2022.pdf" %}).
 
 
 ### Compétences ###
