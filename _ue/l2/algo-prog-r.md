@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Algo & Prog avec R"
+title: "Introduction R"
 cours-id: "l2-R"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une initiation à l'algorithmique et à la programmation dans le langage R pour portail Sciences et Technologies."

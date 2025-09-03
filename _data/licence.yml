@@ -39,9 +39,9 @@ S3:
     - title: L'une des UE non disciplinaires suivantes
       options:
         - cours-id: "l2-R"
-        - title: "Mathématiques : Élement de probabilités & Structures algébriques"
+        - title: "Mathématiques : Structures algébriques I et II"
           syllabus: "SPUM303"
-        - title: "Introduction à l’intelligence artificielle"
+        - title: "Parcours IA: Introduction à l’intelligence artificielle"
           syllabus: "SPUSA301"
     - title: UE Compétences transversales
       uet: true
@@ -54,8 +54,8 @@ S4:
     - cours-id: "L2-sys-2"
     - title: L'une des UE suivantes
       options:
-        - cours-id: "L2-concepts-IA"
         - cours-id: "L2-techno-web"
+        - cours-id: "L2-concepts-IA"
     - title: UE Compétences transversales
       uet: true
 
