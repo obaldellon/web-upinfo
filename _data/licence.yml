@@ -6,8 +6,12 @@ S1:
       syllabus: "SPUM100"
     - title: "Mathématiques : Introduction l’algèbre linéaire"
       syllabus: "SPUM101"
-    - title: "Electronique  : Électronique numérique - Bases"
-      syllabus: "SPUE100"
+    - title: L'une des UE non disciplinaire suivantes
+      options:
+        - title: "Electronique  : Électronique numérique - Bases"
+          syllabus: "SPUE100"
+        - title: "Physique  : Mouvement et interaction"
+          syllabus: "SPUP100"
     - title: UE Compétences transversales
       uet: true
 
