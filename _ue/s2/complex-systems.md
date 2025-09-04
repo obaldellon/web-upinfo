@@ -16,7 +16,7 @@ Le cours couvrira en particulier les aspects suivants:
 - réseaux dynamiques,
 - phénomènes de diffusion."
 categories:
-  - S1
+  - S2
 tags:
   - OPT
   - EN

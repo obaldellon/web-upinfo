@@ -29,6 +29,11 @@ header:
   caption_url: https://unsplash.com/
 ---
 
+
+This course will not open in 2025/26
+
+----------------------------------
+
 We introduce the new paradigm of quantum programming and computing through a series of lectures paired with programming labs with the help of a framework which is a `Python` library. Though current quantum computers are not yet powerful, there is a real effort to design frameworks to use them. Our aim is to provide a hands on to build an intuition to use quantum primitives for problem solving with the help of quantum computers.
 
 ## Lectures
