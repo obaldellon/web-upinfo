@@ -34,7 +34,12 @@ header:
 
 ###  Description ###
 
-Ce cours est la suite de {% ue L1-IP-1 %}
+Ce cours est la suite de {% ue L1-IP-1 %}.
 
+Il permet à la fin du module de :
 
-{% include alert info="<b>Cette page est à compléter</b>" %}
+- Décomposer un algorithme en procédures simples.
+- Connaitre et maîtriser les types de variables.
+- Savoir écrire un algorithme à partir d'un énoncé.
+
+Ce module est utile pour les étudiants souhaitant effectuer des visualisations de données (lecture de fichier tableur de grandes dimensions par exemple).
