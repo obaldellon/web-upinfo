@@ -481,6 +481,16 @@ blandel:
   nom: "Blandel"
   grade: "???"
   email: "Annie.BLANDEL@univ-cotedazur.fr"
+  upinfo: false
+
+galli:
+  name: "G. Galli"
+  prenom: "Gregory"
+  nom: "Galli"
+  grade: "???"
+  email: "Gregory.GALLI@univ-cotedazur.fr"
+  upinfo: false
+
 
 
 # you can add more authors here

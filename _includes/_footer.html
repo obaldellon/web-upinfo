@@ -13,7 +13,7 @@
 
 
           <!--À propos -->
-          <div class="small-6 medium-3  large-3 columns ">
+          <div class="small-6 medium-6  large-3 columns ">
             <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
 
             <p class="shadow-black">
@@ -23,22 +23,10 @@
           </div><!-- /.large-6.columns -->
 
 
-          <!-- <div class="small-6 large-3 columns grand-only"> -->
-          <!--   <h5 class="shadow-black">{{ site.data.language.info_website }}</h5> -->
-          <!--   <p class="shadow-black"> -->
-          <!--     {{ site.description }} -->
-          <!--     <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.data.language.more }}</a> -->
-          <!--   </p> -->
-          <!-- </div><\!-- /.large-6.columns -\-> -->
-          <!--À propos -->
-
-
-
-
           <!-- service -->
           <!-- small-2 medium-2 large-2  -->
 
-          <div class="small-6 medium-3 large-2 large-offset-1  columns">
+          <div class="small-6 medium-6 large-2 large-offset-1  columns">
             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
@@ -62,19 +50,19 @@
 
 
           <!--logo UCA -->
-          <div class="large-6 medium-6 small-15 columns logo-footer" >
+          <div class="large-6 medium-15 small-15 columns logo-footer" >
 
-          <div class="medium-6 large-6 small-6 columns logo-footer" class="grand-onlyd">
-           <a  href="https://ds4h.univ-cotedazur.fr" >
-           <img class="grand-onlyd" src="{{site.baseurl}}/assets/img/foot-ds4h.png" alt="DS4H">
-           </a>
-          </div>
 
-          <div class="medium-6 large-6 small-6  columns logo-footer" class="grand-onlyd">
-           <a  href="https://univ-cotedazur.fr" >
-           <img class="grand-onlyd" src="{{ site.baseurl }}/assets/img/foot-uca.png" alt="UCA">
-           </a>
-          </div>
+
+
+            <div style="position: relative;">
+              <img src="{{site.baseurl}}/assets/img/logo_ds4h_blanc.png" style="width: 100%; height: auto;">
+              <a alt="UniCA" href="https://univ-cotedazur.fr">
+                <div style="position: absolute; left: 0%; top: 10%; width: 40%; height: 80%; background-color: rgba(0, 0, 0, 0);"></div></a>
+              <a alt="DS4H" href="https://ds4h.univ-cotedazur.fr">
+                <div style="position: absolute; left: 42%; top: 10%; width: 60%; height: 80%; background-color: rgba(0, 0, 0, 0);"></div></a>
+            </div>
+
 
         </div>
          <!--FIN logo UCA -->

@@ -83,7 +83,7 @@ S6:
     - cours-id: "L3-compil"
     - title: L'une des UE suivantes (choix d'option 1)
       options:
-        - cours-id: "L3-PI"
+        - cours-id: "L3-AA"
         - cours-id: "L3-GC"
     - title: L'une des UE suivantes (choix d'option 2)
       options:
