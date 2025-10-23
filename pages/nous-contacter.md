@@ -33,6 +33,7 @@ scolarité à l’adresse :</b>
 " %}
 
 {%comment%} - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr){%endcomment%}
+- [http://glpi-form-sco.univ-cotedazur.fr/](http://glpi-form-sco.univ-cotedazur.fr/) : scolarité du campus Valrose
 - {% respo secrétaire %} : assistante administrative et pédagogique
 - {% respo licence-a licence-info.responsable@univ-cotedazur.fr %} et
 {% respo licence-b licence-info.responsable@univ-cotedazur.fr %}: responsables licence.
@@ -44,16 +45,14 @@ scolarité à l’adresse :</b>
 
 ### Master Informatique  ###
 
-- [ds4h-pedagogie@univ-cotedazur.fr](mailto:ds4h-pedagogie@univ-cotedazur.fr) : scolarité de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
-- {% respo secrétaire-ds4h %} : assistante administrative et pédagogique de l'[EUR DS4H](http://univ-cotedazur.fr/en/eur/ds4h/).
-- [master-info@i3s.unice.fr](mailto:master-info@i3s.unice.fr)
+- [sophiatech.scolarite@univ-cotedazur.fr](mailto:sophiatech.scolarite@univ-cotedazur.fr) : scolarité du campus SophiaTech
 - {% respo master master-info@i3s.unice.fr %} : responsable Master.
 - {% respo M1 master-info@i3s.unice.fr %} : coordinatrice M1.
 - {% respo M2 master-info@i3s.unice.fr %} : coordinateur M2.
 
 
 ### MIAGE ###
-
+- [sophiatech.scolarite@univ-cotedazur.fr](mailto:sophiatech.scolarite@univ-cotedazur.fr) : scolarité du campus SophiaTech
 - {% prof tounsi %} et {% prof leo %} : Référents L1/L2 MIASHS parcours MIAGE
 - {% prof tounsi %} : Responsable pédagogique en L3 MIASHS parcours MIAGE
 - {% prof tounsi %} : Responsable de l'alternance en L3 MIASHS parcours MIAGE
@@ -63,4 +62,4 @@ scolarité à l’adresse :</b>
 - {% prof syska %} : Responsable pédagogique M2 MBDS
 - {% prof nathalie %} : Responsable pédagogique M2 SIRIS
 - {% prof galli  %} : Responsable pédagogique M2 NUMRES
-- {% prof michel %} : Responsable pédagogique M2 IA2
+- {% prof winter %} : Responsable pédagogique M2 IA2

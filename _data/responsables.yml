@@ -70,9 +70,3 @@ secrétaire:
   prénom: "Laetitia"
   nom: "Infantino"
   email: "laetitia.infantino@univ-cotedazur.fr"
-
-# Responsable ds4h
-secrétaire-ds4h:
-  prénom: "Virginie"
-  nom: "Valot"
-  email: "virginie.valot@univ-cotedazur.fr"
