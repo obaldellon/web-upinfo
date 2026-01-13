@@ -103,6 +103,8 @@ Le tableau ci-dessous récapitule l'affluence aux différents concours de progra
 
 | Concours      | Date          | #étus |
 |---------------|---------------|-------|
+| Coding Battle | Octobre 2025  | 51    |
+| Coding Battle | Octobre 2024  | 35    |
 | Coding Battle | Octobre 2023  | 55    |
 | Coding Battle | Octobre 2022  | 35    |
 | Coding Battle | Octobre 2021  | 35    |
