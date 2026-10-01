@@ -13,7 +13,8 @@ end
 
 
 
-gem "jekyll-scholar", "= 6.8.1"
+# jekyll-scholar 6.x (bibtex-ruby 5) ne fonctionne pas avec Ruby >= 3
+gem "jekyll-scholar", RUBY_VERSION >= "3" ? "~> 7.1" : "= 6.8.1"
 
 gem "webrick", "~> 1.7"
 
