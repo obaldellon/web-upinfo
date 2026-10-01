@@ -3,19 +3,20 @@ layout: syllabus
 #
 # Content
 #
-title: "Cryptographie et calcul symbolique"
+title: "Codes, cryptographie et calcul symbolique"
 cours-id: "L3-crypto"
 logo: "logo_blanc-l.png"
 teaser: "Découverte et mise en oeuvre des principes de bases de la cryptographie moderne alliée à celle du calcul formel"
 categories:
   - L3
 tags:
-  - S5
+  - S6
   - OPT
 ects: 6
 schedule: "18h cours + 12h TD + 24h TP"
+website: "https://upinfo.univ-cotedazur.fr/~julia/Crypto/"
 # website: "#"
-author: bruno
+author: sandrine
 #
 # Styling
 #

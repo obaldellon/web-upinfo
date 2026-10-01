@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Algorithmique 1"
-subtitle: "Complexité et méthodes générales"
+subtitle: "Analyse et conception d’algorithmes"
 cours-id: "L2-algo-1"
 logo: "logo_blanc-l.png"
 teaser: "Le but du cours est d'introduire l’étudiant à l’algorithmique,
@@ -16,7 +16,7 @@ tags:
 ects: 6
 schedule: "24h CM, 36h TD"
 # website: "#"
-author: sandrine
+author: hajer, sandrine
 #
 # Styling
 #
@@ -38,7 +38,7 @@ en mettant l'accent sur les stratégies de conception d'un algorithme efficace.
 ###  Cours ###
 <ol type="1">
   <li>Complexité des algorithmes: temps et espace</li>
-  <li>Complexité des problèmes: classes de complexité,NP-complétude</li>
+  <li>Complexité des problèmes: classes de complexité</li>
   <li>Resumé des algorithmes de tri et des structures de données</li>
   <li>Revue  des stratégies fondamentales de l’algorithmique :
   <ol type="a">

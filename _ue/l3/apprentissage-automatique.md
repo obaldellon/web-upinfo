@@ -3,14 +3,14 @@ layout: syllabus
 #
 # Content
 #
-title: "Apprentissage automatique"
+title: "Deep Learning"
 cours-id: "L3-AA"
 logo: "logo_blanc-l.png"
-teaser: "TODO"
+teaser: "Une introduction au principe fondamentaux du Deep Learning (apprentissage profond) et aux principales architectures des réseaux de neurones"
 categories:
   - L3
 tags:
-  - S6
+  - S5
   - OPT
 ects: 6
 schedule: "24h cours + 6h TD + 24h TP"
@@ -32,4 +32,31 @@ header:
 
 ###  Description ###
 
-TODO
+- Comprendre les principes fondamentaux du *Deep Learning*
+- Découvrir les principales architectures de réseaux de neurones
+- Mettre en pratique les concepts avec Python et TensorFlow/Keras
+- Explorer les applications modernes de l'IA :
+    - Vision par ordinateur
+    - Traitement automatique du langage (NLP)
+    - IA générative
+
+
+### Compétences (ce que vous saurez faire à la fin du cours) ###
+- Construire et entraîner un réseau de neurones
+- Choisir une architecture adaptée à un problème
+- Utiliser TensorFlow/Keras pour développer des modèles
+- Comprendre les bases des technologies actuelles (Transformers, LLMs, IA
+générative)
+
+
+### Prérequis ###
+
+- Bases de programmation Python
+- Notions d'apprentissage automatique
+- Bases en algèbre linéaire et probabilités
+
+### Évaluation
+- Participation et assiduité (Bonus)
+- Deux QCM (40%)
+- TP (10%)
+- Contrôle écrit final (50%)

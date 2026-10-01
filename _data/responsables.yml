@@ -24,16 +24,16 @@ L2:
   id: pascal
 
 L3:
-  id: christophe
+  id: sid
 
 licence-a:
   id: franck
 
 licence-b:
-  id : christophe
+  id : sid
 
 mi-info:
-  id: sandrine
+  id: denis
 
 # mi-math1:
 #   prénom: "Christophe"

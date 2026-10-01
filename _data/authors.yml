@@ -68,11 +68,11 @@ junior:
   upinfo : true
 
 hajer:
-  name: "H. Zekri"
+  name: "H. Akid"
   prenom: "Hajer"
-  nom: "Zekri"
+  nom: "Akid"
   grade: "MCF"
-  email: "hajer.zekri@univ-cotedazur.fr"
+  email: "hajer.akid@univ-cotedazur.fr"
   upinfo : true
 
 

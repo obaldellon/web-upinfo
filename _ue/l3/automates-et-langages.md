@@ -14,7 +14,7 @@ tags:
   - S5
 ects: 6
 schedule: "18h cours + 24 TD + 12h TP"
-website: "http://deptinfo.unice.fr/%7ejulia/AL/"
+website: "https://upinfo.univ-cotedazur.fr/~julia/AL/"
 author: sandrine
 #
 # Styling

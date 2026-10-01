@@ -45,7 +45,7 @@ S3:
         - cours-id: "l2-R"
         - title: "Mathématiques : Structures algébriques I et II"
           syllabus: "SPUM301"
-        - title: "Parcours IA: Introduction à l’intelligence artificielle"
+        - title: "Introduction à l’intelligence artificielle (UE coloration IA)"
           syllabus: "SPUSA301"
     - title: UE Compétences transversales
       uet: true
@@ -72,7 +72,7 @@ S5:
     - title: L'une des UE suivantes
       options:
         - cours-id: "L3-archi"
-        - cours-id: "L3-crypto"
+        - cours-id: "L3-AA"
     - title: UE Compétences transversales
       uet: true
 
@@ -83,7 +83,7 @@ S6:
     - cours-id: "L3-compil"
     - title: L'une des UE suivantes (choix d'option 1)
       options:
-        - cours-id: "L3-AA"
+        - cours-id: "L3-crypto"
         - cours-id: "L3-GC"
     - title: L'une des UE suivantes (choix d'option 2)
       options:
@@ -92,14 +92,15 @@ S6:
     - title: UE Compétences transversales
       uet: true
 
-
+      
+# DL MI
 
 
 Smi1:
   title: "Semestre 1"
   courses:
     - cours-id: "L1-BI-1"
-    - cours-id: "L2-BD"
+    - cours-id: "l2-R"
       annee: L2
       remarque: "(UE de L2)"
     - title: "Mathématiques : Introduction à l’Analyse"
@@ -134,9 +135,8 @@ Smi3:
   courses:
     - cours-id: "L2-PF"
     - cours-id: "L2-OFI"
-    - cours-id: "L3-POO"
-      annee: L3
-      remarque: "(UE de L3)"
+    - cours-id: "L2-BD"
+      remarque: "(remplacé par <a href=\"/l2/algo-prog-r/\">Intro. R</a> pour l’année 2026/2027)"
     - title: "Mathématiques : Complément d’algèbre et calculus III"
       syllabus: "SPUM300"
     - title: "Mathématiques : Structure algébrique I et II"
@@ -172,7 +172,7 @@ Smi5:
     - title: L'une des UE suivantes
       options:
         - cours-id: "L3-archi"
-        - cours-id: "L3-crypto"
+        - cours-id: "L3-AA"
     - title: "Équations différentielles"
       syllabus: "SLUM500"
     - title: "Théorie de le mesure et intégration"
@@ -189,7 +189,7 @@ Smi6:
     - cours-id: "L3-reseaux"
     - title: L'une des UE suivantes
       options:
-        - cours-id: "L3-PI"
+        - cours-id: "L3-crypto"
         - cours-id: "L3-GC"
     - title: "Théorie des probabilités"
       syllabus: "SLUM600"

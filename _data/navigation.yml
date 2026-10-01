@@ -36,22 +36,6 @@
   - title: "Vue d’ensemble"
     url: "/licence/parcours/"
 
-# - title: "Licence (2024)"
-#   url: "/licence/"
-#   side: left
-#   dropdown:
-#   - title: "Présentation"
-#     url: "/licence/"
-#   - title: "Candidater"
-#     url: "/licence/candidater/"
-#   - title: "1ère année"
-#     url: "/licence/l1/"
-#   - title: "2ème année"
-#     url: "/licence/l2/"
-#   - title: "3ème année"
-#     url: "/licence/l3/"
-#   - title: "Vue d’ensemble"
-#     url: "/licence/parcours/"
 
 
 
@@ -95,8 +79,6 @@
     url: "/etus/bourses/"
   - title: "Stages"
     url: "/etus/stages/"
-#  - title: "Doubles diplômes"
-#    url: "/etus/doubles-diplomes/"
   - title: "UCAnCODE"
     url: "/etus/ucancode/"
   - title: "Séances de tutorats"
@@ -122,18 +104,18 @@
 
 
 
-- title: "RENTRÉE 2025/26"
+- title: "RENTRÉE 2026/27"
   url: "#"
   side: left
   dropdown:
-    - title: "EDT L1 (portail SITE) : semestre 1"
-      url: "/portail/etudiants/s1/"
-#    - title: "EDT L1 (portail SITE) : semestre 2"
-#      url: "/portail/etudiants/s2/"
-    - title: "Licence informatique"
-      url: "/divers/rentree-licence-2025-2026/"
-    - title : "Master informatique"
-      url: "/divers/rentree-master-2025-2026/"
+   - title: "EDT L1 (portail SITE) : semestre 1"
+     url: "/portail/etudiants/s1/"
+   # - title: "EDT L1 (portail SITE) : semestre 2"
+   #   url: "/portail/etudiants/s2/"
+   - title: "Licence informatique"
+     url: "/divers/rentree-licence-2026-2027/"
+   - title : "Master informatique"
+     url: "/divers/rentree-master-2025-2026/"
 
 
 #
