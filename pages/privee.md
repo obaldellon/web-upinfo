@@ -94,7 +94,7 @@ Pour se retrouver dans ce beau bordel :)
 ### Jours de présence de Laetita Infantino au département
 
 - Lundi : présente
-- Mardi : présente
-- Mercredi : télétravail
+- Mardi : télétravail
+- Mercredi : présente
 - Jeudi : présente
 - Vendredi : absente
