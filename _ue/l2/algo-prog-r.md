@@ -11,8 +11,9 @@ categories:
   - L2
 tags:
   - S3
+syllabus: "https://syllabus.univ-cotedazur.fr/fr/course-info/7749f5d7-179d-4fd5-a28b-03d113d67d9c/view/light"
 ects: 6
-schedule: "50h"
+schedule: "24h CM, 30h TP"
 website: "http://www.i3s.unice.fr/~malapert/R/"
 author: arnaud
 #
@@ -28,5 +29,7 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
+
+**Parcours** : parcours général (UE au choix, avec *Structures algébriques I et II*).
 
 Toutes les informations sont sur le [site web du cours](http://www.i3s.unice.fr/~malapert/R/).

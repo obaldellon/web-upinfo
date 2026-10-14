@@ -1,0 +1,32 @@
+{% comment %}
+Affiche un emploi du temps ADE à partir de son flux iCal (anonymous_cal.jsp).
+Usage : {% include edt-ade.html ics="https://edtweb.univ-cotedazur.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=..." %}
+{% endcomment %}
+<div id="edt-ade" style="margin: 1em 0;"></div>
+<p><a href="{{ include.ics }}">Télécharger / s’abonner au calendrier (iCal)</a> : à ajouter dans votre agenda (Google Agenda, Outlook, téléphone…) pour l’avoir toujours à jour.</p>
+
+<script src="https://cdn.jsdelivr.net/npm/ical.js@1.5.0/build/ical.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.15/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.15/locales/fr.global.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var el = document.getElementById('edt-ade');
+  var calendar = new FullCalendar.Calendar(el, {
+    locale: 'fr',
+    initialView: 'listWeek',
+    headerToolbar: { left: 'prev,next today', center: 'title', right: 'listWeek,timeGridWeek,timeGridDay' },
+    weekends: false,
+    allDaySlot: false,
+    slotMinTime: '08:00:00',
+    slotMaxTime: '20:00:00',
+    height: 'auto',
+    events: { url: '{{ include.ics }}', format: 'ics' },
+    eventDidMount: function (info) {
+      var p = info.event.extendedProps;
+      info.el.title = [info.event.title, p.location, p.description].filter(Boolean).join('\n');
+    }
+  });
+  calendar.render();
+});
+</script>

@@ -13,6 +13,8 @@ categories:
   - L2
 tags:
   - S4
+syllabus: "SPUF401"
+en-savoir-plus: true
 ects: 6
 schedule: "24h CM, 36h TD"
 # website: "#"
@@ -30,6 +32,9 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
+
+**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF401 : syllabus SPUF401 %}.
+
 
 ###  Description ###
 Le but du cours est d'introduire l’étudiant à l’algorithmique,

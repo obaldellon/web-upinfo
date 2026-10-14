@@ -12,6 +12,7 @@ categories:
   - L2
 tags:
   - S4
+syllabus: "SPUF402"
 ects: 6
 schedule: "18h CM, 24h TD, 18h TP"
 # website: "#"
@@ -30,9 +31,12 @@ header:
   caption_url: https://unsplash.com/
 ---
 
+**Parcours** : parcours général. Fiche officielle : {% syllabus SPUF402 : syllabus SPUF402 %}.
+
+
 ### Pré-requis conseillés
 
-Système 1, programmation impérative
+Système 1, programmation impérative : connaître et utiliser les commandes Unix/Linux, savoir programmer des scripts shell.
 
 ###  Contenu ###
 
@@ -52,3 +56,14 @@ Dans ce cour, nous étudions les mécanismes internes d'un système d'exploitati
 10 Ordonnancement des processus et des threads
 
 Les travaux dirigés sous formes d'exercices corrigés seront proposés, ainsi que des travaux pratiques sur des machines Linux.
+
+Un projet système noté, à réaliser seul ou en groupe, complète l’enseignement ; son sujet change chaque année.
+
+### Objectifs ###
+
+À la fin de ce cours, l’étudiant doit être capable de :
+
+- identifier les composants d’un système d’exploitation et expliquer leurs interactions ;
+- programmer des logiciels interactifs (exploitation des signaux) ;
+- programmer un logiciel bas niveau qui exploite les fonctions système (processus, entrées/sorties, communications, synchronisation…) ;
+- diagnostiquer des pannes informatiques liées au système d’exploitation.

@@ -11,8 +11,10 @@ categories:
   - L2
 tags:
   - S3
+syllabus: "SPUF300"
+en-savoir-plus: true
 ects: 6
-schedule: "18h cours + 18h TD + 18h TP"
+schedule: "24h CM, 6h TD, 18h TP"
 website: "https://www.i3s.unice.fr/~elozes/enseignement/PF/"
 author: cinzia
 #
@@ -29,9 +31,20 @@ header:
   caption_url: https://unsplash.com/
 ---
 
+**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF300 : syllabus SPUF300 %}.
+
+
 ### Public ###
 
-Ce cours est destiné aux L2 math-info et aux L3 info.
+Ce cours est destiné aux étudiants de L2 informatique (parcours général et parcours I.A.) et de L2 math-info.
+
+### Objectifs ###
+
+À la fin de ce cours, l’étudiant doit être capable de :
+
+- comprendre le paradigme de programmation fonctionnelle ;
+- écrire des fonctions récursives ;
+- utiliser les types de base, les types polymorphes et les types inductifs (listes, arbres…).
 
 ###  Contenu ###
 
