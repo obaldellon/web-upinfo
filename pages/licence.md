@@ -25,6 +25,7 @@ incontournables dans les principaux domaines professionalisants (bases de donné
 Cette formation généraliste permet une poursuite d'étude naturelle vers
 
 - le [master informatique]({%link pages/master.md %})  de Nice-Sophia Antipolis
+- la [L3 S.T. – Parcours I.A.](https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-licence/licence-intelligence-artificielle), en particulier après le [parcours I.A. de L2]({% link pages/l2.md %}#parcours)
 - la [MIAGE](https://univ-cotedazur.fr/miage), admission possible en MIAGE à la fin du L2 ou à la fin du L3
 - le [master international EIT Digital Data Science](https://polytech.univ-cotedazur.fr/formations/masters)
 
@@ -75,6 +76,8 @@ changements de parcours entre les disciplines scientifiques
 À chaque semestre, l’étudiant se spécialise dans l’informatique
 jusqu’à ne suivre que des UE d’info à partir du second semestre de L2.
 
+En L2, deux parcours sont proposés : le parcours général et le parcours I.A. (voir la [page de la L2]({% link pages/l2.md %}#parcours)).
+
 Le programme de la licence informatique est détaillé ci-dessous.
 
 {% include cours-parcours entry="S1" %}
@@ -84,6 +87,10 @@ Le programme de la licence informatique est détaillé ci-dessous.
 {% include cours-parcours entry="S3" %}
 
 {% include cours-parcours entry="S4" %}
+
+{% include cours-parcours entry="S3-IA" %}
+
+{% include cours-parcours entry="S4-IA" %}
 
 {% include cours-parcours entry="S5" %}
 

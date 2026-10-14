@@ -34,8 +34,10 @@ S2:
     - title: UE Compétences transversales
       uet: true
 
+# L2 : deux parcours, général (S3, S4) et I.A. (S3-IA, S4-IA)
+
 S3:
-  title: Semestre 3
+  title: "Semestre 3 – Parcours général"
   courses:
     - cours-id: "L2-PF"
     - cours-id: "L2-OFI"
@@ -45,13 +47,11 @@ S3:
         - cours-id: "l2-R"
         - title: "Mathématiques : Structures algébriques I et II"
           syllabus: "SPUM301"
-        - title: "Introduction à l’intelligence artificielle (UE coloration IA)"
-          syllabus: "SPUSA301"
     - title: UE Compétences transversales
       uet: true
 
 S4:
-  title: Semestre 4
+  title: "Semestre 4 – Parcours général"
   courses:
     - cours-id: "L2-C"
     - cours-id: "L2-algo-1"
@@ -60,6 +60,27 @@ S4:
       options:
         - cours-id: "L2-techno-web"
         - cours-id: "L2-concepts-IA"
+    - title: UE Compétences transversales
+      uet: true
+
+S3-IA:
+  title: "Semestre 3 – Parcours I.A."
+  courses:
+    - cours-id: "L2-PF"
+    - cours-id: "L2-OFI"
+    - cours-id: "L2-BD"
+    - cours-id: "L2-intro-IA"
+    - title: UE Compétences transversales
+      uet: true
+
+S4-IA:
+  title: "Semestre 4 – Parcours I.A."
+  courses:
+    - cours-id: "L2-C"
+    - cours-id: "L2-algo-1"
+    - title: "Mathématiques : Probabilités et statistiques"
+      syllabus: "SPUM402"
+    - cours-id: "L2-concepts-IA"
     - title: UE Compétences transversales
       uet: true
 

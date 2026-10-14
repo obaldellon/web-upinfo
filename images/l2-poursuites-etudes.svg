@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="titre">
+  <title id="titre">Poursuites d’études après la L2 Informatique</title>
+  <defs>
+    <marker id="fleche-bleue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 L3,5 Z" fill="#5AAFD6"/>
+    </marker>
+    <marker id="fleche-rose" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 L3,5 Z" fill="#D06096"/>
+    </marker>
+  </defs>
+
+  <rect width="760" height="480" fill="#F0F0F0"/>
+
+  <!-- L3 -->
+  <rect x="70" y="50" width="280" height="90" rx="12" fill="#92C8E2" stroke="#4A9FD4" stroke-width="2"/>
+  <text x="210" y="105" text-anchor="middle" font-size="28" fill="#111">L3 Informatique</text>
+
+  <rect x="410" y="50" width="280" height="90" rx="12" fill="#DF9FC2" stroke="#C0306E" stroke-width="2"/>
+  <text x="550" y="88" text-anchor="middle" font-size="28" fill="#111">L3 S.T.</text>
+  <text x="550" y="124" text-anchor="middle" font-size="28" fill="#111">Parcours I.A.</text>
+
+  <!-- L2 -->
+  <rect x="40" y="220" width="680" height="140" rx="12" fill="none" stroke="#4A9FD4" stroke-width="1.5"/>
+  <rect x="70" y="235" width="280" height="70" rx="12" fill="#92C8E2" stroke="#4A9FD4" stroke-width="2"/>
+  <text x="210" y="280" text-anchor="middle" font-size="28" fill="#111">Parcours général</text>
+  <rect x="410" y="235" width="280" height="70" rx="12" fill="#DF9FC2" stroke="#C0306E" stroke-width="2"/>
+  <text x="550" y="280" text-anchor="middle" font-size="28" fill="#111">Parcours I.A.</text>
+  <text x="380" y="345" text-anchor="middle" font-size="26" fill="#333">L2 Informatique</text>
+
+  <!-- L1 -->
+  <rect x="40" y="400" width="680" height="60" rx="12" fill="#92C8E2" stroke="#4A9FD4" stroke-width="2"/>
+  <text x="380" y="440" text-anchor="middle" font-size="28" fill="#111">L1 Informatique</text>
+
+  <!-- Flèches L1 -> L2 -->
+  <line x1="330" y1="398" x2="218" y2="312" stroke="#5AAFD6" stroke-width="9" marker-end="url(#fleche-bleue)"/>
+  <line x1="430" y1="398" x2="542" y2="312" stroke="#5AAFD6" stroke-width="9" marker-end="url(#fleche-bleue)"/>
+
+  <!-- Flèches L2 -> L3 -->
+  <line x1="210" y1="233" x2="210" y2="148" stroke="#5AAFD6" stroke-width="9" marker-end="url(#fleche-bleue)"/>
+  <line x1="290" y1="233" x2="462" y2="148" stroke="#5AAFD6" stroke-width="9" marker-end="url(#fleche-bleue)"/>
+  <line x1="550" y1="233" x2="550" y2="148" stroke="#D06096" stroke-width="9" marker-end="url(#fleche-rose)"/>
+</svg>

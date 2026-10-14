@@ -24,6 +24,10 @@ permalink: "/licence/parcours/"
 
 {% include cours-parcours entry="S4" %}
 
+{% include cours-parcours entry="S3-IA" %}
+
+{% include cours-parcours entry="S4-IA" %}
+
 {% include cours-parcours entry="S5" %}
 
 {% include cours-parcours entry="S6" %}

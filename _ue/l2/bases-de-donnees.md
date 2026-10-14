@@ -11,8 +11,9 @@ categories:
   - L2
 tags:
   - S3
+syllabus: "SPUF302"
 ects: 6
-schedule: "54h"
+schedule: "18h CM, 28h TD, 14h TP"
 # website: "#"
 author: elisabetta
 #
@@ -29,8 +30,20 @@ header:
   caption_url: https://unsplash.com/
 ---
 
+**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF302 : syllabus SPUF302 %}.
 
-###  Description ###
+
+
+### Objectifs ###
+
+À la fin de ce cours, l’étudiant doit être capable de :
+
+- concevoir un modèle entité-association ;
+- concevoir le schéma d’une base de données relationnelle ;
+- normaliser une base de données et l’interroger en algèbre relationnelle et en SQL ;
+- maîtriser le SGBDR MySQL avec phpMyAdmin.
+
+###  Contenu ###
 
 
 - Mise en évidence de l’intérêt des bases de données à travers une comparaison avec la programmation objet ou plus généralement procédurale
