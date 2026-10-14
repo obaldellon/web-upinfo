@@ -11,8 +11,10 @@ categories:
   - L2
 tags:
   - S4
+syllabus: "SPUF400"
+en-savoir-plus: true
 ects: 6
-schedule: "48h"
+schedule: "24h CM, 30h TP"
 # website: "#"
 
 author: olivier
@@ -29,6 +31,24 @@ header:
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
+
+**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF400 : syllabus SPUF400 %}.
+
+### Contenu ###
+
+- Présentation du langage C (norme ANSI), syntaxe et structures de contrôle
+- Types (entiers, flottants, booléens), `struct`, `enum`, `union`
+- Gestion de la mémoire et pointeurs
+- Tableaux et chaînes de caractères
+- Structures de données avancées (listes, arbres…)
+- Interface avec Unix
+- Modularité et compilation
+- Projet
+
+### Prérequis ###
+
+Les bases de la ligne de commande et de la programmation impérative (boucles, conditionnelles, variables et affectation).
+
 
 <!--{% include alert info="Info : Épreuve de rattrapage.
     L'épreuve de rattrapage (2ème chance) est prévue le 16 juin de 13h à 15h.

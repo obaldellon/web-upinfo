@@ -3,17 +3,18 @@ layout: syllabus
 #
 # Content
 #
-title: "Technologies du web"
+title: "Développement d’applications Web"
 cours-id: "L2-techno-web"
 logo: "logo_blanc-l.png"
-teaser: "Ce cours présente le fonctionnement du web, ainsi que la production de pages web statiques et la programmation de pages web dynamiques, tant du côté client que serveur. "
+teaser: "Ce cours présente le fonctionnement du web et apprend à développer des applications web dynamiques et interactives, côté client (JavaScript) comme côté serveur (PHP)."
 categories:
   - L2
 tags:
   - S4
   - OPT
+syllabus: "SPUF404"
 ects: 6
-schedule: "24h CM, 30h TP"
+schedule: "18h CM, 8h TD, 20h TP"
 website: "https://www-sop.inria.fr/members/Elena.Cabrio/TechnoWeb.html"
 author: pascal
 #
@@ -29,29 +30,33 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
+**Parcours** : parcours général (UE au choix, avec *Concepts d’intelligence artificielle*). Fiche officielle : {% syllabus SPUF404 : syllabus SPUF404 %}.
 
 ###  Description ###
-Ce cours présente le fonctionnement du web, ainsi que la production de pages web statiques et la programmation de pages web dynamiques, tant du côté client que serveur.
 
+Ce cours présente le fonctionnement du web (architecture client/serveur,
+protocole HTTP…), la production de pages web statiques (HTML, CSS) et le
+développement d’applications web dynamiques, tant du côté client
+(JavaScript) que du côté serveur (PHP).
 
-###  Calendrier ###
+Les TP visent à approfondir les notions vues en cours et à les mettre en œuvre sur de courts projets.
 
-Le cours comprend:
+### Objectifs ###
 
-- 12 séances de cours (2h)
-- 10 séances de TP (3h)
+À la fin de ce cours, l’étudiant doit être capable de :
 
-###  Cours ###
-Les objectifs de ce cours sont de fournir les éléments techniques nécessaires à l'élaboration de pages Web, de sites internet dynamiques et interactifs. Au meme temps, l'enjeu majeur est de réussir à faire connaître et comprendre les nouveaux outils et modèles de conception et de développement d'applications et de systèmes d'information basés sur le web.
+- créer une application web dynamique et interactive ;
+- comprendre et organiser une architecture client-serveur dans le contexte du web.
 
-En particulier, ce cours présente le fonctionnement du web (architecture client/serveur, protocole HTTP, DNS...), ainsi que la production de pages web statiques (HTML, CSS) et la programmation de pages web dynamiques, tant du côté client (JavaScript) que serveur (PHP).
+###  Contenu ###
 
-Les TPs du cours visent à approfondir les notions vues en cours et à les mettre en oeuvre sur de courts projets réalisables en 2 heures.
+1. Rappels d’HTML
+2. Rappels et compléments de CSS
+3. Développement d’applications côté client (JavaScript)
+4. Développement d’applications côté serveur (PHP)
+5. Communication client-serveur
+6. Introduction aux frameworks de développement web
 
+### Prérequis ###
 
-
-###  Modalités de contrôle des connaissances ###
-- 1/2 note de TPs
-- 1/2 note d'examen
-
-###  Ressources ###
+Aucun.

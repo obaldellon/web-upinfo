@@ -26,15 +26,25 @@
 {% endif %}
 {% assign names = names | append:conjonction | append:dernier-auteur | append:"</b>"%}
 
-{% if cours.subtitle %}
-#### <a href="{{ cours.url  }}">{{ cours.title }} : {{ cours.subtitle }}</a> ####
+{% capture lien-fiche %}{{ site.baseurl }}{{ cours.url }}{% endcapture %}
+{% assign debut-syllabus = cours.syllabus | slice: 0, 4 %}
+{% if debut-syllabus == "http" %}
+  {% assign lien-titre = cours.syllabus %}
+{% elsif cours.syllabus %}
+  {% capture lien-titre %}https://syllabus.univ-cotedazur.fr/fr/course/router-light/{{ cours.syllabus }}{% endcapture %}
 {% else %}
-#### <a href="{{ cours.url  }}"> {{ cours.title }}</a> ####
+  {% assign lien-titre = lien-fiche %}
+{% endif %}
+
+{% if cours.subtitle %}
+#### <a href="{{ lien-titre }}">{{ cours.title }} : {{ cours.subtitle }}</a> ####
+{% else %}
+#### <a href="{{ lien-titre }}"> {{ cours.title }}</a> ####
 {% endif %}
 
 {{ responsable }} : {{ names }}
 <br/>
-{{cours.teaser }} <a href="{{ cours.url  }}"> En savoir plus</a>
+{{cours.teaser }}{% if cours.en-savoir-plus or cours.syllabus == nil %} <a href="{{ lien-fiche }}"> En savoir plus</a>{% endif %}
 
 
 {%comment%}

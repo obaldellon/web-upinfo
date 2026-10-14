@@ -8,14 +8,15 @@ title: "Concepts d'intelligence artificielle"
 cours-id: "L2-concepts-IA"
 # Pour la version du logo pour la licence ajouter '-l' au nom :
 logo: "logo_blanc-l.png"
-teaser: "Ce cours est destiné aux étudiants qui souhaitent se spécialiser en intelligence artificielle. "
+teaser: "Ce cours introduit quelques concepts de base de l’intelligence artificielle, comme la logique et les graphes d’états, et montre comment résoudre des problèmes « à un joueur »."
 categories:
  - L2
 tags:
  - S4
  - OPT
+syllabus: "SPUF403"
 ects: 6
-schedule: "24h CM, 18h TD, 18h TP"
+schedule: "18h CM, 24h TP"
 author: jcregin
 #
 # Styling
@@ -30,23 +31,36 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
+**Parcours** : obligatoire dans le parcours I.A. ; au choix dans le parcours général (avec *Développement d’applications Web*). Fiche officielle : {% syllabus SPUF403 : syllabus SPUF403 %}.
 
-{% include alert alert="Alert:
-    Ce syllabus n'est pas à jour." %}
+### Description ###
 
-### Description
+Ce cours introduit quelques concepts de base de l’intelligence
+artificielle, comme la logique et les graphes d’états. Il montre comment
+des problèmes dits « à un joueur » peuvent être résolus. C’est un cours
+d’informatique : on montrera que l’IA est en fait une partie de l’informatique.
 
+### Objectifs ###
 
-#### Partie 1 : Intelligence collective
- - Objectif : modéliser et simuler les capacités d’une collectivité à résoudre des problèmes.
- - Concept : [systèmes complexes](https://fr.wikipedia.org/wiki/Système_complexe#Bibliographie), [approche orientée agent](https://en.wikipedia.org/wiki/Agent-based_model).
- - Outil : [NetLogo](https://ccl.northwestern.edu/netlogo/) ; langage de Programmation Orientée Agent qui permet de simuler des phénomènes collectifs complexes.
+À la fin de ce cours, l’étudiant doit être capable de :
 
-#### Partie 2 :  Intelligence individuelle
-- Objectif : modéliser et simuler les capacités de raisonnement humain sur un domaine d’expertise donné.
-- Concept : programmation logique, systèmes experts.
-- Outil : [Prolog](https://www.swi-prolog.org) ; langage de Programmation Déclarative basé sur la logique des prédicats restreinte aux clauses de Horn qui permet de représenter et manipuler des structures récursives et possède des potentialités de méta-programmation (voir la [bibliographie](https://fr.wikipedia.org/wiki/Prolog#Bibliographie)).
+- nommer et distinguer quelques principes de base de l’intelligence artificielle, comme la modélisation ;
+- illustrer les différentes étapes de résolution sur des problèmes concrets et en comprendre la difficulté.
 
+### Contenu ###
 
-### Organisation
-Chaque cours est accompagné d’une séance de travaux dirigés sur machine.
+#### Présentation de l’intelligence artificielle ####
+
+#### Les concepts de base de la logique ####
+Logique des propositions, logique des prédicats et 0-résolution. On
+s’intéressera essentiellement à la formulation en logique d’énoncés en
+langage naturel, en mettant en évidence leurs ambiguïtés.
+
+#### Graphes d’états ####
+- Définition d’états (ou positions) et de transitions (ou mouvements, coups joués).
+- Modélisation de puzzles classiques, comme les problèmes de traversée (le loup, la chèvre et la salade) ou le problème du film « Die Hard ».
+- Résolution de ces problèmes avec un solveur de contraintes : définition de contraintes de table pour représenter les transitions.
+
+### Prérequis ###
+
+Connaître un langage de programmation et être capable d’écrire un programme simple.
