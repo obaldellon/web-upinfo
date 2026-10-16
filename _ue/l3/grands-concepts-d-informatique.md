@@ -15,6 +15,7 @@ ects: 6
 schedule: "24h cours + 36h TD"
 # website: "#"
 author: christophe
+syllabus: "SLUF603"
 #
 # Styling
 #

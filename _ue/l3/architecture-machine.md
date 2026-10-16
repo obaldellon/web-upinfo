@@ -16,6 +16,7 @@ ects: 6
 schedule: "20h cours + 20h TD + 20h TP"
 # website: "#"
 author: sid
+syllabus: "SLUF503"
 #
 # Styling
 #

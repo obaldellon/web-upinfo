@@ -16,6 +16,7 @@ ects: 6
 schedule: "18h cours + 24 TD + 12h TP"
 website: "https://upinfo.univ-cotedazur.fr/~julia/AL/"
 author: sandrine
+syllabus: "SLUF502"
 #
 # Styling
 #

@@ -31,7 +31,7 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
-**Parcours** : obligatoire dans le parcours I.A. ; au choix dans le parcours général (avec *Développement d’applications Web*). Fiche officielle : {% syllabus SPUF403 : syllabus SPUF403 %}.
+**Parcours** : obligatoire dans le parcours I.A. ; au choix dans le parcours général (avec *Développement d’applications Web*).
 
 ### Description ###
 

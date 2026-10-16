@@ -12,10 +12,9 @@ categories:
 tags:
   - S4
 syllabus: "SPUF400"
-en-savoir-plus: true
 ects: 6
 schedule: "24h CM, 30h TP"
-# website: "#"
+website: "https://www.olivier.baldellon.eu/c"
 
 author: olivier
 #
@@ -31,8 +30,7 @@ header:
 #    caption: This is a caption for the header image with link
 #  caption_url: https://unsplash.com/
 ---
-
-**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF400 : syllabus SPUF400 %}.
+**Parcours** : tronc commun (parcours général et parcours I.A.).
 
 ### Contenu ###
 
@@ -50,23 +48,6 @@ header:
 Les bases de la ligne de commande et de la programmation impérative (boucles, conditionnelles, variables et affectation).
 
 
-<!--{% include alert info="Info : Épreuve de rattrapage.
-    L'épreuve de rattrapage (2ème chance) est prévue le 16 juin de 13h à 15h.
-    Les consignes de cette épreuve seront données sur moodle dans l'onglet [Épreuve de rattrapage](https://lms.univ-cotedazur.fr/mod/assign/view.php?id=109382).
-    Il vous est fortement conseiller de suivre le [tutoriel](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=1), et de faire les exercices de l'onglet [C](https://lms.univ-cotedazur.fr/course/view.php?id=14552&section=3) du cours [UCANCODE](https://lms.univ-cotedazur.fr/course/view.php?id=14552)."
-%}-->
-
-
-### Intervenants ###
-
-
-- [Olivier Baldellon](mailto:olivier.baldellon@univ-cotedazur.fr) (responsable de Programmation C)
-
-- [Marie Pelleau](mailto:marie.pelleau@univ-cotedazur.fr) (chargée de TP)
-- [Arnaud Malapert](mailto:arnaud.malapert@univ-cotedazur.fr) (chargé de TP)
-- [Steve Malalel](mailto:steve.malalel@etu.univ-cotedazur.fr) (chargé de TP)
-- [Franck Guingne](mailto.franck.guingne@univ-cotedazur.fr) (chargé de TP)
-
 ### Supports de cours ###
 
 Les supports de cours pour Programmation C sont [ici](http://upinfo.univ-cotedazur.fr/~obaldellon/c).
@@ -76,4 +57,3 @@ Les supports de cours pour Programmation C sont [ici](http://upinfo.univ-cotedaz
 
 - B.W. Kernighan, D.M. Ritchie, The C Programming Language, Prentice Hall
 - B.W. Kernighan, D.M. Ritchie, Le langage C - C ANSI Kernighan, Masson - Prentice Hall, Traduit par J.-F. Groff et E. Mottier
-- S.P. Harbison, G.L. Jr. Steele, Langage C - Manuel de référence, Masson, Traduit en français par J.C. Franchitti

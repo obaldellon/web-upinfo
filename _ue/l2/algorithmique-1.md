@@ -6,6 +6,7 @@ layout: syllabus
 title: "Algorithmique 1"
 subtitle: "Analyse et conception d’algorithmes"
 cours-id: "L2-algo-1"
+syllabus: "SPUF401"
 logo: "logo_blanc-l.png"
 teaser: "Le but du cours est d'introduire l’étudiant à l’algorithmique,
 en mettant l'accent sur les stratégies de conception d'un algorithme efficace."
@@ -13,7 +14,6 @@ categories:
   - L2
 tags:
   - S4
-syllabus: "SPUF401"
 en-savoir-plus: true
 ects: 6
 schedule: "24h CM, 36h TD"
@@ -33,7 +33,7 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF401 : syllabus SPUF401 %}.
+**Parcours** : tronc commun (parcours général et parcours I.A.).
 
 
 ###  Description ###

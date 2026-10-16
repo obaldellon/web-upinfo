@@ -30,7 +30,7 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF301 : syllabus SPUF301 %}.
+**Parcours** : tronc commun (parcours général et parcours I.A.).
 
 
 ###  Description ###

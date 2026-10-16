@@ -5,6 +5,7 @@ layout: syllabus
 #
 title: "Introduction à la programmation 2"
 cours-id: "L1-IP-2"
+syllabus: "SPUS201"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours a pour objectif d’approfondir les connaissances en programmation vues au premier semestre"
 # Une seule catégorie

@@ -11,7 +11,7 @@ categories:
   - L2
 tags:
   - S3
-syllabus: "https://syllabus.univ-cotedazur.fr/fr/course-info/7749f5d7-179d-4fd5-a28b-03d113d67d9c/view/light"
+syllabus: "SPUA300"
 ects: 6
 schedule: "24h CM, 30h TP"
 website: "http://www.i3s.unice.fr/~malapert/R/"

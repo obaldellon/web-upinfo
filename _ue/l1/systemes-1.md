@@ -6,6 +6,7 @@ layout: syllabus
 title: "Systèmes 1"
 subtitle: "Utilisation d'Unix et programmation shell"
 cours-id: "L1-sys-1"
+syllabus: "SPUF201"
 logo: "logo_blanc-l.png"
 teaser: "L'objectif de ce cours est d'acquérir une certaine autonomie sous un environnement GNU/Linux et en programmation de scripts shell"
 categories:

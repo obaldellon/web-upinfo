@@ -16,6 +16,7 @@ ects: 6
 schedule: "18h CM, 28h TD, 14h TP"
 # website: "#"
 author: elisabetta
+parcours: général, I.A.
 #
 # Styling
 #
@@ -30,7 +31,7 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-**Parcours** : tronc commun (parcours général et parcours I.A.). Fiche officielle : {% syllabus SPUF302 : syllabus SPUF302 %}.
+**Parcours** : tronc commun (parcours général et parcours I.A.).
 
 
 

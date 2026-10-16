@@ -15,8 +15,8 @@ tags:
 ects: 6
 schedule: "18h cours + 12h TD + 24h TP"
 website: "https://upinfo.univ-cotedazur.fr/~julia/Crypto/"
-# website: "#"
 author: sandrine
+syllabus: "SLUF504"
 #
 # Styling
 #

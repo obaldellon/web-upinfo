@@ -30,7 +30,7 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
-**Parcours** : parcours général (UE au choix, avec *Concepts d’intelligence artificielle*). Fiche officielle : {% syllabus SPUF404 : syllabus SPUF404 %}.
+**Parcours** : parcours général (UE au choix, avec *Concepts d’intelligence artificielle*).
 
 ###  Description ###
 

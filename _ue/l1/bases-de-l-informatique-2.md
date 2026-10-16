@@ -6,6 +6,7 @@ layout: syllabus
 title: "Bases de l'informatique 2"
 subtitle: "Modèles formels et logique"
 cours-id: "L1-BI-2"
+syllabus: "SPUF200"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à la science informatique via certaines grandes thématiques comme la logique, les types récursifs ou les automates. Ces concepts seront illustrés dans des TP en Python."
 categories:

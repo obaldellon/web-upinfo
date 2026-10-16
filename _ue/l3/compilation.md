@@ -15,6 +15,7 @@ ects: 6
 schedule: "18h cours + 36h TD + 6h TP"
 # website: "#"
 author: sid
+syllabus: "SLUF600"
 #
 # Styling
 #

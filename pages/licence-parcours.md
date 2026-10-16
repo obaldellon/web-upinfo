@@ -9,24 +9,22 @@ header:
 permalink: "/licence/parcours/"
 ---
 
-{% comment %}
+Le parcours ci-dessous correspond au programme d’un étudiant validant
+sa licence informatique après un parcours classique. À noter qu’en deuxième année, un autre parcours est possible pour continuer en [L3 S.T. – Parcours IA](https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-licence/licence-intelligence-artificielle). Vous trouverez plus d’information sur la page de la [L2]({% link pages/l2.md %}).
 
-{% endcomment %}
-
-
-## Parcours conseillé ##
+## Première année ##
 
 {% include cours-parcours entry="S1" %}
 
 {% include cours-parcours entry="S2" %}
 
+## Deuxième année ##
+
 {% include cours-parcours entry="S3" %}
 
 {% include cours-parcours entry="S4" %}
 
-{% include cours-parcours entry="S3-IA" %}
-
-{% include cours-parcours entry="S4-IA" %}
+## Troisième année ##
 
 {% include cours-parcours entry="S5" %}
 

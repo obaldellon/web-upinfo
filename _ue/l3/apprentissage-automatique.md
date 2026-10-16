@@ -16,6 +16,7 @@ ects: 6
 schedule: "24h cours + 6h TD + 24h TP"
 # website: "#"
 author: anais
+syllabus: "SLUF607" # à remplacer l’année prochaine par SLUF505 ?
 #
 # Styling
 #

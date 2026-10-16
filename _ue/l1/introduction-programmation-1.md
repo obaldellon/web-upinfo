@@ -5,8 +5,9 @@ layout: syllabus
 #
 title: "Introduction à la programmation 1"
 cours-id: "L1-IP-1"
+syllabus: "SPUS100"
 logo: "logo_blanc-l.png"
-teaser: "Cours de découverte de la science informatique à travers de thématiques concrètes issues du web."
+teaser: "Cours d’introduction à la programmation via le langage Python"
 # Une seule catégorie
 # Pour un syllabus, le semestre du cours : S1, S2, S3, S4.
 categories:
@@ -15,8 +16,7 @@ tags:
   - S1
 ects: 6
 schedule: "18h CM, 18h TD et 18h TP"
-website: "https://lms.univ-cotedazur.fr"
-author: julien
+author: denis
 #
 # Styling
 # Ces images doivent être dans le répertoire 'images'.
@@ -47,34 +47,23 @@ Le cours se déroule sur 9 semaines et comprend :
 
 ###  Contenu du cours ###
 
-L'objectif de ce cours est de donner un aperçu de ce à quoi peut ressembler la science informatique,
-tant d'un point de vue pratique que théorique.
+L'objectif de ce cours est de permettre aux étudiants de pratiquer la science informatique aux travers d'exemples simples, et ainsi les familiariser avec la notion de langage, programme et algorithme. Ces notions sont aujourd'hui primordiales dans la pratique de toutes les sciences.
 
 Quelques thématiques et objectifs du cours :
-- couleurs et traitement d'images (basique)
-- premiers pas en langage HTML et CSS
-- notions de matériel informatique
-- introduction aux graphes
-- remise à niveau pour code élémentaire (for, if)
-- cryptographie et sécurité (élémentaires)
 
-Les notions vues en cours sont travaillées en TD et mises en pratique en TP sur ordinateur.
+- introduction générale sur le traitement de l'information,
+- structure de données et premier pas en Python
+- notion d'algorithme et leur réalisation en Python
 
-### Remarque ###
+Les notions vues en cours seront utilisées et approfondies en TD et mises en œuvre en TP sur machine.
 
-Ce cours est destiné à l'ouverture à la science informatique. Le cours SPUF10 (Bases de l'informatique) est davantage
-recommandé pour les étudiants se sachant destinés à une licence informatique. Il est impossible de choisir simultanément ce cours
-et Bases de l'informatique (SPUF10), le choix est exclusif.
+### Objectifs ###
 
 
-###  Modalités de contrôle des connaissances ###
+A la fin de ce cours, je devrais être capable de...
 
-- un contrôle continu (CC)
-- évaluation des TP (TP)
-- un contrôle continu terminal (CCT)
-- la note finale est max(0,4 CC + 0,2 TP + 0,4 CCT, CCT)
-
-
-###  Ressources ###
-
-- le cours SPUS100 sur [Moodle](https://lms.univ-cotedazur.fr)
+- Définir et manipuler des variables
+- Utilisation de fonctions
+- Implémenter un algorithme simple en Python afin de permettre son exécution sur un ordinateur
+- Définir un algorithme simple pour traiter l'information
+- Utiliser Python pour différents traitement de données.

@@ -31,7 +31,7 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-**Parcours** : parcours général. Fiche officielle : {% syllabus SPUF402 : syllabus SPUF402 %}.
+**Parcours** : parcours général.
 
 
 ### Pré-requis conseillés

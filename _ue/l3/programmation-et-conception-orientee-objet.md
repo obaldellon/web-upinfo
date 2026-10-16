@@ -15,6 +15,7 @@ ects: 6
 schedule: "18h CM + 18h TD + 18h TP"
 # website: "#"
 author:  christopher
+syllabus: "SLUF500"
 #
 # Styling
 #
@@ -55,6 +56,6 @@ Le cours se base sur Java 8 et sur UML.
 
 - Page de téléchargement du JRE et du JDK : http://www.oracle.com/technetwork/java/javase/downloads/index.html
 - Java Standard Edition 8 API Specification : http://docs.oracle.com/javase/8/docs/api/
-- Des tutoriels pour Java : http://docs.oracle.com/javase/tutorial/ et https://www.w3schools.com/ 
+- Des tutoriels pour Java : http://docs.oracle.com/javase/tutorial/ et https://www.w3schools.com/
 - Programmer avec Java – Collection O'Reilly
 - Apprendre la POO avec le langage Java – Editions ENI

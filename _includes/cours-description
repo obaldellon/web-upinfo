@@ -26,26 +26,17 @@
 {% endif %}
 {% assign names = names | append:conjonction | append:dernier-auteur | append:"</b>"%}
 
-{% capture lien-fiche %}{{ site.baseurl }}{{ cours.url }}{% endcapture %}
-{% assign debut-syllabus = cours.syllabus | slice: 0, 4 %}
-{% if debut-syllabus == "http" %}
-  {% assign lien-titre = cours.syllabus %}
-{% elsif cours.syllabus %}
-  {% capture lien-titre %}https://syllabus.univ-cotedazur.fr/fr/course/router-light/{{ cours.syllabus }}{% endcapture %}
-{% else %}
-  {% assign lien-titre = lien-fiche %}
-{% endif %}
 
 {% if cours.subtitle %}
-#### <a href="{{ lien-titre }}">{{ cours.title }} : {{ cours.subtitle }}</a> ####
+#### <a href="{{ cours.url  }}">{{ cours.title }} : {{ cours.subtitle }}</a> ####
 {% else %}
-#### <a href="{{ lien-titre }}"> {{ cours.title }}</a> ####
+#### <a href="{{ cours.url  }}"> {{ cours.title }}</a> ####
 {% endif %}
 
+{% if cours.syllabus %}{% syllabus {{cours.syllabus}} : Syllabus officiel %} <br/> {% endif %}
 {{ responsable }} : {{ names }}
 <br/>
-{{cours.teaser }}{% if cours.en-savoir-plus or cours.syllabus == nil %} <a href="{{ lien-fiche }}"> En savoir plus</a>{% endif %}
-
+{{cours.teaser }}
 
 {%comment%}
 #{% assign names = cours.author | split: ", "| map: "name"| array_to_sentence_string: 'kaj' %}

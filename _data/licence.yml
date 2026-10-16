@@ -37,7 +37,7 @@ S2:
 # L2 : deux parcours, général (S3, S4) et I.A. (S3-IA, S4-IA)
 
 S3:
-  title: "Semestre 3 – Parcours général"
+  title: "Semestre 3"
   courses:
     - cours-id: "L2-PF"
     - cours-id: "L2-OFI"
@@ -51,6 +51,34 @@ S3:
       uet: true
 
 S4:
+  title: "Semestre 4"
+  courses:
+    - cours-id: "L2-C"
+    - cours-id: "L2-algo-1"
+    - cours-id: "L2-sys-2"
+    - title: L'une des UE suivantes
+      options:
+        - cours-id: "L2-techno-web"
+        - cours-id: "L2-concepts-IA"
+    - title: UE Compétences transversales
+      uet: true
+
+
+S3-info:
+  title: "Semestre 3 – Parcours général"
+  courses:
+    - cours-id: "L2-PF"
+    - cours-id: "L2-OFI"
+    - cours-id: "L2-BD"
+    - title: L'une des UE non disciplinaires suivantes
+      options:
+        - cours-id: "l2-R"
+        - title: "Mathématiques : Structures algébriques I et II"
+          syllabus: "SPUM301"
+    - title: UE Compétences transversales
+      uet: true
+
+S4-info:
   title: "Semestre 4 – Parcours général"
   courses:
     - cours-id: "L2-C"
@@ -62,6 +90,7 @@ S4:
         - cours-id: "L2-concepts-IA"
     - title: UE Compétences transversales
       uet: true
+
 
 S3-IA:
   title: "Semestre 3 – Parcours I.A."

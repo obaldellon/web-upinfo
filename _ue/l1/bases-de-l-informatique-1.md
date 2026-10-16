@@ -6,6 +6,7 @@ layout: syllabus
 title: "Bases de l’informatique 1"
 subtitle: "Programmation et algorithmique"
 cours-id: "L1-BI-1"
+syllabus: "SPUF100"
 logo: "logo_blanc-l.png"
 teaser: "Ce cours est une introduction à l’informatique via le langage Python. L’objectif est de découvrir les bases de la programmation impérative (variables, boucles et embranchements) ainsi que de préparer la suite des études en informatique."
 categories:
@@ -44,7 +45,7 @@ Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal)
 - 9 séances de TP
 - un partiel
 
-Le cours commence en général fin janvier, dans les premières semaines du second semestre.
+Le cours commence mi-septembre.
 
 ###  Cours ###
 

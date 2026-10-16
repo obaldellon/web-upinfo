@@ -15,6 +15,7 @@ ects: 6
 schedule: "54h"
 # website: "#"
 author: ramon, gilles
+syllabus: "SLUF606"
 #
 # Styling
 #

@@ -34,7 +34,7 @@ olivier:
   nom: "Baldellon"
   grade: "PRAG"
   siterole: "webmaster, developer, copywriter, designer" # À quoi ça sert ?
-  uri: "https://upinfo.univ-cotedazur.fr/~obaldellon/"
+  uri: "https://www.olivier.baldellon.eu/" # "https://upinfo.univ-cotedazur.fr/~obaldellon/"
   email: "olivier.baldellon@univ-cotedazur.fr"
   upinfo: true
 

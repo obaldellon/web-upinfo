@@ -31,7 +31,7 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
-**Parcours** : parcours I.A. Fiche officielle : {% syllabus SPUSA301 : syllabus SPUSA301 %}.
+**Parcours** : parcours I.A. 
 
 ### Description ###
 

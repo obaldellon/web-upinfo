@@ -14,9 +14,9 @@ tags:
   - OPT
 ects: 6
 schedule: "20h cours + 10h TD + 30h TP"
-website: "https://lms.univ-cotedazur.fr/course/view.php?id=10966"
 # website: "#"
 author: enrico
+syllabus: "SLUF604"
 #
 # Styling
 #
@@ -39,9 +39,3 @@ header:
 - Initiation aux techniques de validation.
 - Eléments de méthodologie scientifique.
 - Initiation aux techniques de communication scientifique.
-
-### Intervenants ###
-
-- [Amaya Nogales Gómez](mailto:amaya.nogales-gomez@univ-cotedazur.fr)
-
-- [Santiago Marro](mailto:santiago.marro@inria.fr) (chargé de TD et de TP)

@@ -7,7 +7,7 @@ title: "Algorithmique 2"
 subtitle: "Graphes, arbres et programmation linéaire"
 cours-id: "L3-algo-2"
 logo: "logo_blanc-l.png"
-teaser: "Courte description"
+teaser: "Ce cours vise à développer votre pensée algorithmique en l'appliquant à différents types d'objets tels que les graphes, les objets géométriques ainsi que les séquences de lettres et de nombres."
 categories:
   - L3
 tags:
@@ -16,6 +16,7 @@ ects: 6
 schedule: "24h CM + 36h TD"
 # website: "#"
 author: christophe
+syllabus: "SLUF501"
 #
 # Styling
 #

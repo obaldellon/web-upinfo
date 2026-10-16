@@ -20,6 +20,7 @@ schedule: "24h CM + 36h TP"
 # Styling
 #
 author: junior
+syllabus: "SLUF605"
 image:
   thumb: "header-syllabus-unsplash-thumb.jpg"
   homepage: "header-syllabus-unsplash.jpg"

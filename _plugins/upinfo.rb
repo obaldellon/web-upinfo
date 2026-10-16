@@ -201,21 +201,10 @@ module Upinfo
         raise "L’UE #{@nom} n’existe pas"
       end
 
-      # Lien vers le syllabus officiel si son code est donné, sinon vers la page de l’UE
-      # (code ECUE ou adresse complète du syllabus)
-      syllabus = cours["syllabus"].to_s
-      if syllabus.start_with?("http")
-        lien = syllabus
-      elsif syllabus != ""
-        lien = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/#{syllabus}"
-      else
-        lien = "#{context['site']['baseurl']}#{cours.url}"
-      end
-
       if cours["subtitle"] != nil
-        "<a href=\"#{lien}\">#{cours["title"]}</a> : #{cours["subtitle"]}"
+        "<a href=\"#{cours.url}\">#{cours["title"]}</a> : #{cours["subtitle"]}"
       else
-        "<a href=\"#{lien}\">#{cours["title"]}</a>"
+        "<a href=\"#{cours.url}\">#{cours["title"]}</a>"
       end
     end
   end
@@ -247,11 +236,11 @@ module Upinfo
     end
   end
 
-  ##########################
-  #                        #
+  ###########################
+  #                         #
   # Usage : {% uel SPUF1 %} #
-  #                        #
-  ##########################
+  #                         #
+  ###########################
   class Uel < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
@@ -273,27 +262,13 @@ module Upinfo
         raise "L’UE #{@nom} n’existe pas (classe Uel) "
       end
 
-      # Lien vers le syllabus officiel si son code est donné, sinon vers la page de l’UE
-      # (code ECUE ou adresse complète du syllabus)
-      syllabus = cours["syllabus"].to_s
-      if syllabus.start_with?("http")
-        lien = syllabus
-      elsif syllabus != ""
-        lien = "https://syllabus.univ-cotedazur.fr/fr/course/router-light/#{syllabus}"
-      else
-        lien = "#{context['site']['baseurl']}#{cours.url}"
-      end
-
       if cours["subtitle"] != nil
-        "<a href=\"#{lien}\">#{cours["title"]}</a> : #{cours["subtitle"]}"
+        "<a href=\"#{cours.url}\">#{cours["title"]}</a> : #{cours["subtitle"]}"
       else
-        "<a href=\"#{lien}\">#{cours["title"]}</a>"
+        "<a href=\"#{cours.url}\">#{cours["title"]}</a>"
       end
     end
   end
-
-
-
 
 end
 
