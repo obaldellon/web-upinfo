@@ -38,14 +38,12 @@ du langage Python.
 
 ###  Calendrier ###
 
-Le cours se déroule sur 10 semaines (sans compter la semaine d'examen terminal), et comprend:
+Le cours se déroule sur 11 semaines (sans compter la semaine d'examen terminal), et comprend:
 
-- 9 séances de cours
+- 10 séances de cours
 - 9 séances de TD
 - 9 séances de TP
 - un partiel
-
-Le cours commence mi-septembre.
 
 ###  Cours ###
 
